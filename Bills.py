@@ -3,6 +3,9 @@ import xml.etree.ElementTree as ET
 import csv
 from pathlib import Path
 
+# URL stub to be used for senate roll call vote conversions to .xml links
+SEN_URL_STUB = 'https://www.senate.gov/legislative/LIS/roll_call_votes/vote'
+
 # Change directory based on data files location. As long as files are at or below this
 # level and have the proper file name (fdsys_billstatus.xml), they will be parsed.
 baseDir = 'D:\\Users\\daveh\\OneDrive\\Documents\\UF\\CIS4914\\Congressional Bill Data\\'
@@ -158,6 +161,14 @@ for file in fileLocs:
                     voteChamber = vote.find('chamber').text
                     voteSession = vote.find('sessionNumber').text
                     voteUrl = vote.find('url').text
+                    # convert Senate vote API links to .xml links
+                    if not voteUrl.endswith('.xml'):
+                        modUrl = voteUrl.replace('&', ';').replace('=', ';')
+                        modList = modUrl.split(';')
+                        rollTerm = modList[-5]
+                        rollSession = modList[-3]
+                        rollCall = modList[-1]
+                        voteUrl = SEN_URL_STUB + rollTerm + rollSession + '/vote_' + rollTerm + "_" + rollSession + "_" + rollCall + ".xml"
                     voteRow = [billId, voteChamber, voteTerm, voteSession, voteAction, voteRollNumber, voteUrl]
                     votesWriter.writerow(voteRow)
             elif (len(recordedVotes.findall('recordedVote'))) == 1:
@@ -168,6 +179,14 @@ for file in fileLocs:
                 voteChamber = vote.find('chamber').text
                 voteSession = vote.find('sessionNumber').text
                 voteUrl = vote.find('url').text
+                # convert Senate vote API links to .xml links
+                if not voteUrl.endswith('.xml'):
+                    modUrl = voteUrl.replace('&', ';').replace('=', ';')
+                    modList = modUrl.split(';')
+                    rollTerm = modList[-5]
+                    rollSession = modList[-3]
+                    rollCall = modList[-1]
+                    voteUrl = SEN_URL_STUB + rollTerm + rollSession + '/vote_' + rollTerm + "_" + rollSession + "_" + rollCall + ".xml"
                 voteRow = [billId, voteChamber, voteTerm, voteSession, voteAction, voteRollNumber, voteUrl]
                 votesWriter.writerow(voteRow)
         votesCSV.close()

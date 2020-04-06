@@ -1,23 +1,23 @@
 bill_id,chamber,term,session,action,roll_number,url
-HJRES106-113,Senate,113,2,PASSED SENATE,11,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00011
-HJRES124-113,Senate,113,2,PASSED SENATE,270,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00270
-HJRES124-113,Senate,113,2,CLOTURE MOTION,269,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00269
+HJRES106-113,Senate,113,2,PASSED SENATE,11,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00011.xml
+HJRES124-113,Senate,113,2,PASSED SENATE,270,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00270.xml
+HJRES124-113,Senate,113,2,CLOTURE MOTION,269,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00269.xml
 HJRES124-113,House,113,2,Passage of a Measure,509,http://clerk.house.gov/evs/2014/roll509.xml
 HJRES124-113,House,113,2,Motion to Commit/Recommit With Instructions Results,508,http://clerk.house.gov/evs/2014/roll508.xml
-HJRES59-113,Senate,113,1,SENATE AGREED (FREE TEXT),281,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00281
-HJRES59-113,Senate,113,1,MOTION TO TABLE REJECTED,280,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00280
-HJRES59-113,Senate,113,1,CLOTURE MOTION,279,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00279
+HJRES59-113,Senate,113,1,SENATE AGREED (FREE TEXT),281,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00281.xml
+HJRES59-113,Senate,113,1,MOTION TO TABLE REJECTED,280,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00280.xml
+HJRES59-113,Senate,113,1,CLOTURE MOTION,279,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00279.xml
 HJRES59-113,House,113,1,Vote on House Agreeing to the Senate Action,640,http://clerk.house.gov/evs/2013/roll640.xml
-HJRES59-113,Senate,113,1,FREE TEXT,212,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00212
-HJRES59-113,Senate,113,1,MOTION TO TABLE AGREED TO,211,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00211
+HJRES59-113,Senate,113,1,FREE TEXT,212,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00212.xml
+HJRES59-113,Senate,113,1,MOTION TO TABLE AGREED TO,211,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00211.xml
 HJRES59-113,House,113,1,Vote on House Agreeing to the Senate Action,504,http://clerk.house.gov/evs/2013/roll504.xml
-HJRES59-113,Senate,113,1,MOTION TO TABLE AGREED TO,210,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00210
+HJRES59-113,Senate,113,1,MOTION TO TABLE AGREED TO,210,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00210.xml
 HJRES59-113,House,113,1,Free Text Senate Motion Results,498,http://clerk.house.gov/evs/2013/roll498.xml
 HJRES59-113,House,113,1,Vote on House Agreeing to the Senate Action,497,http://clerk.house.gov/evs/2013/roll497.xml
-HJRES59-113,Senate,113,1,PASSED SENATE,209,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00209
-HJRES59-113,Senate,113,1,MOTION TO WAIVE (MEASURE),207,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00207
-HJRES59-113,Senate,113,1,CLOTURE MOTION,206,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00206
-HJRES59-113,Senate,113,1,CLOTURE MOTION,205,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00205
+HJRES59-113,Senate,113,1,PASSED SENATE,209,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00209.xml
+HJRES59-113,Senate,113,1,MOTION TO WAIVE (MEASURE),207,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00207.xml
+HJRES59-113,Senate,113,1,CLOTURE MOTION,206,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00206.xml
+HJRES59-113,Senate,113,1,CLOTURE MOTION,205,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00205.xml
 HJRES59-113,House,113,1,Passage of a Measure,478,http://clerk.house.gov/evs/2013/roll478.xml
 HJRES59-113,House,113,1,Motion to Commit/Recommit With Instructions Results,477,http://clerk.house.gov/evs/2013/roll477.xml
 HJRES70-113,House,113,1,Passage of a Measure,513,http://clerk.house.gov/evs/2013/roll513.xml
@@ -90,7 +90,7 @@ HR1422-113,House,113,2,Motion to Commit/Recommit With Instructions Results,524,h
 HR1459-113,House,113,2,Passage of a Measure,147,http://clerk.house.gov/evs/2014/roll147.xml
 HR1459-113,House,113,2,Motion to Commit/Recommit With Instructions Results,146,http://clerk.house.gov/evs/2014/roll146.xml
 HR1513-113,House,113,2,Final Passage Under Suspension of the Rules Results,12,http://clerk.house.gov/evs/2014/roll012.xml
-HR152-113,Senate,113,1,PASSED SENATE,4,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00004
+HR152-113,Senate,113,1,PASSED SENATE,4,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00004.xml
 HR152-113,House,113,1,Passage of a Measure,23,http://clerk.house.gov/evs/2013/roll023.xml
 HR1526-113,House,113,1,Passage of a Measure,483,http://clerk.house.gov/evs/2013/roll483.xml
 HR1526-113,House,113,1,Motion to Commit/Recommit With Instructions Results,482,http://clerk.house.gov/evs/2013/roll482.xml
@@ -121,7 +121,7 @@ HR1897-113,House,113,1,Final Passage Under Suspension of the Rules Results,435,h
 HR1900-113,House,113,1,Passage of a Measure,611,http://clerk.house.gov/evs/2013/roll611.xml
 HR1900-113,House,113,1,Motion to Commit/Recommit With Instructions Results,610,http://clerk.house.gov/evs/2013/roll610.xml
 HR1911-113,House,113,1,Vote on House Agreeing to the Senate Action,426,http://clerk.house.gov/evs/2013/roll426.xml
-HR1911-113,Senate,113,1,PASSED SENATE,185,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00185
+HR1911-113,Senate,113,1,PASSED SENATE,185,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00185.xml
 HR1911-113,House,113,1,Passage of a Measure,183,http://clerk.house.gov/evs/2013/roll183.xml
 HR1911-113,House,113,1,Motion to Commit/Recommit With Instructions Results,182,http://clerk.house.gov/evs/2013/roll182.xml
 HR1944-113,House,113,2,Final Passage Under Suspension of the Rules Results,67,http://clerk.house.gov/evs/2014/roll067.xml
@@ -185,8 +185,8 @@ HR2609-113,House,113,1,Motion to Commit/Recommit With Instructions Results,344,h
 HR2611-113,House,113,1,Final Passage Under Suspension of the Rules Results,356,http://clerk.house.gov/evs/2013/roll356.xml
 HR2641-113,House,113,2,Passage of a Measure,113,http://clerk.house.gov/evs/2014/roll113.xml
 HR2641-113,House,113,2,Motion to Commit/Recommit With Instructions Results,112,http://clerk.house.gov/evs/2014/roll112.xml
-HR2642-113,Senate,113,2,CONFERENCE REPORT AGREED TO,21,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00021
-HR2642-113,Senate,113,2,CLOTURE MOTION,20,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00020
+HR2642-113,Senate,113,2,CONFERENCE REPORT AGREED TO,21,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00021.xml
+HR2642-113,Senate,113,2,CLOTURE MOTION,20,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00020.xml
 HR2642-113,House,113,2,Placeholder Text for H42510,31,http://clerk.house.gov/evs/2014/roll031.xml
 HR2642-113,House,113,1,Vote on House Agreeing to the Senate Action,546,http://clerk.house.gov/evs/2013/roll546.xml
 HR2642-113,House,113,1,Passage of a Measure,353,http://clerk.house.gov/evs/2013/roll353.xml
@@ -209,8 +209,8 @@ HR2728-113,House,113,1,Motion to Commit/Recommit With Instructions Results,603,h
 HR273-113,House,113,1,Passage of a Measure,44,http://clerk.house.gov/evs/2013/roll044.xml
 HR2747-113,House,113,1,Final Passage Under Suspension of the Rules Results,451,http://clerk.house.gov/evs/2013/roll451.xml
 HR2775-113,House,113,1,Vote on House Agreeing to the Senate Action,550,http://clerk.house.gov/evs/2013/roll550.xml
-HR2775-113,Senate,113,1,PASSED SENATE,219,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00219
-HR2775-113,Senate,113,1,CLOTURE MOTION,218,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00218
+HR2775-113,Senate,113,1,PASSED SENATE,219,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00219.xml
+HR2775-113,Senate,113,1,CLOTURE MOTION,218,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00218.xml
 HR2775-113,House,113,1,Passage of a Measure,458,http://clerk.house.gov/evs/2013/roll458.xml
 HR2804-113,House,113,2,Passage of a Measure,78,http://clerk.house.gov/evs/2014/roll078.xml
 HR2804-113,House,113,2,Motion to Commit/Recommit With Instructions Results,77,http://clerk.house.gov/evs/2014/roll077.xml
@@ -233,7 +233,7 @@ HR301-113,House,113,1,Final Passage Under Suspension of the Rules Results,465,ht
 HR3060-113,House,113,2,Final Passage Under Suspension of the Rules Results,136,http://clerk.house.gov/evs/2014/roll136.xml
 HR307-113,House,113,1,Vote on House Agreeing to the Senate Action,56,http://clerk.house.gov/evs/2013/roll056.xml
 HR307-113,House,113,1,Final Passage Under Suspension of the Rules Results,24,http://clerk.house.gov/evs/2013/roll024.xml
-HR3080-113,Senate,113,2,CONFERENCE REPORT AGREED TO,163,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00163
+HR3080-113,Senate,113,2,CONFERENCE REPORT AGREED TO,163,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00163.xml
 HR3080-113,House,113,2,Placeholder Text for H42510,220,http://clerk.house.gov/evs/2014/roll220.xml
 HR3080-113,House,113,1,Preemptive Motion Results,582,http://clerk.house.gov/evs/2013/roll582.xml
 HR3080-113,House,113,1,Passage of a Measure,560,http://clerk.house.gov/evs/2013/roll560.xml
@@ -251,36 +251,36 @@ HR3189-113,House,113,2,Motion to Commit/Recommit With Instructions Results,131,h
 HR3193-113,House,113,2,Passage of a Measure,85,http://clerk.house.gov/evs/2014/roll085.xml
 HR3193-113,House,113,2,Motion to Commit/Recommit With Instructions Results,84,http://clerk.house.gov/evs/2014/roll084.xml
 HR3202-113,House,113,2,Final Passage Under Suspension of the Rules Results,456,http://clerk.house.gov/evs/2014/roll456.xml
-HR3204-113,Senate,113,1,CLOTURE MOTION,234,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00234
+HR3204-113,Senate,113,1,CLOTURE MOTION,234,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00234.xml
 HR3205-113,House,113,1,Final Passage Under Suspension of the Rules Results,552,http://clerk.house.gov/evs/2013/roll552.xml
 HR3210-113,House,113,1,Passage of a Measure,499,http://clerk.house.gov/evs/2013/roll499.xml
 HR3212-113,House,113,1,Final Passage Under Suspension of the Rules Results,635,http://clerk.house.gov/evs/2013/roll635.xml
 HR3223-113,House,113,1,Passage of a Measure,525,http://clerk.house.gov/evs/2013/roll525.xml
-HR3230-113,Senate,113,2,CONFERENCE REPORT AGREED TO,254,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00254
-HR3230-113,Senate,113,2,MOTION TO WAIVE (MEASURE),253,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00253
+HR3230-113,Senate,113,2,CONFERENCE REPORT AGREED TO,254,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00254.xml
+HR3230-113,Senate,113,2,MOTION TO WAIVE (MEASURE),253,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00253.xml
 HR3230-113,House,113,2,Placeholder Text for H42510,467,http://clerk.house.gov/evs/2014/roll467.xml
 HR3230-113,House,113,2,Vote on House Agreeing to the Senate Action,453,http://clerk.house.gov/evs/2014/roll453.xml
 HR3230-113,House,113,2,Vote on House Agreeing to the Senate Action,450,http://clerk.house.gov/evs/2014/roll450.xml
 HR3230-113,House,113,2,Vote on House Agreeing to the Senate Action,436,http://clerk.house.gov/evs/2014/roll436.xml
 HR3230-113,House,113,2,Vote on House Agreeing to the Senate Action,430,http://clerk.house.gov/evs/2014/roll430.xml
 HR3230-113,House,113,2,Vote on House Agreeing to the Senate Action,316,http://clerk.house.gov/evs/2014/roll316.xml
-HR3230-113,Senate,113,2,PASSED SENATE,187,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00187
-HR3230-113,Senate,113,2,MOTION TO WAIVE (MEASURE),186,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00186
+HR3230-113,Senate,113,2,PASSED SENATE,187,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00187.xml
+HR3230-113,Senate,113,2,MOTION TO WAIVE (MEASURE),186,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00186.xml
 HR3230-113,House,113,1,Passage of a Measure,516,http://clerk.house.gov/evs/2013/roll516.xml
 HR3230-113,House,113,1,Free Form Motions Results,515,http://clerk.house.gov/evs/2013/roll515.xml
 HR324-113,House,113,1,Final Passage Under Suspension of the Rules Results,165,http://clerk.house.gov/evs/2013/roll165.xml
 HR3240-113,House,113,2,Final Passage Under Suspension of the Rules Results,538,http://clerk.house.gov/evs/2014/roll538.xml
-HR325-113,Senate,113,1,PASSED SENATE,11,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00011
-HR325-113,Senate,113,1,MOTION TO RECOMMIT,10,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00010
+HR325-113,Senate,113,1,PASSED SENATE,11,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00011.xml
+HR325-113,Senate,113,1,MOTION TO RECOMMIT,10,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00010.xml
 HR325-113,House,113,1,Passage of a Measure,30,http://clerk.house.gov/evs/2013/roll030.xml
 HR325-113,House,113,1,Motion to Commit/Recommit With Instructions Results,29,http://clerk.house.gov/evs/2013/roll029.xml
 HR3273-113,House,113,1,Passage of a Measure,534,http://clerk.house.gov/evs/2013/roll534.xml
 HR3273-113,House,113,1,Free Form Motions Results,533,http://clerk.house.gov/evs/2013/roll533.xml
 HR3301-113,House,113,2,Passage of a Measure,354,http://clerk.house.gov/evs/2014/roll354.xml
 HR3301-113,House,113,2,Motion to Commit/Recommit With Instructions Results,353,http://clerk.house.gov/evs/2014/roll353.xml
-HR3304-113,Senate,113,1,SENATE AGREED (FREE TEXT),284,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00284
-HR3304-113,Senate,113,1,MOTION TO TABLE REJECTED,283,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00283
-HR3304-113,Senate,113,1,CLOTURE MOTION,282,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00282
+HR3304-113,Senate,113,1,SENATE AGREED (FREE TEXT),284,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00284.xml
+HR3304-113,Senate,113,1,MOTION TO TABLE REJECTED,283,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00283.xml
+HR3304-113,Senate,113,1,CLOTURE MOTION,282,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00282.xml
 HR3309-113,House,113,1,Passage of a Measure,629,http://clerk.house.gov/evs/2013/roll629.xml
 HR3350-113,House,113,1,Passage of a Measure,587,http://clerk.house.gov/evs/2013/roll587.xml
 HR3350-113,House,113,1,Motion to Commit/Recommit With Instructions Results,586,http://clerk.house.gov/evs/2013/roll586.xml
@@ -288,7 +288,7 @@ HR3350-113,House,113,1,Placeholder Text for H36810,585,http://clerk.house.gov/ev
 HR3361-113,House,113,2,Passage of a Measure,230,http://clerk.house.gov/evs/2014/roll230.xml
 HR3362-113,House,113,2,Passage of a Measure,23,http://clerk.house.gov/evs/2014/roll023.xml
 HR3362-113,House,113,2,Motion to Commit/Recommit With Instructions Results,22,http://clerk.house.gov/evs/2014/roll022.xml
-HR3370-113,Senate,113,2,PASSED SENATE,78,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00078
+HR3370-113,Senate,113,2,PASSED SENATE,78,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00078.xml
 HR3370-113,House,113,2,Final Passage Under Suspension of the Rules Results,91,http://clerk.house.gov/evs/2014/roll091.xml
 HR3375-113,House,113,2,Final Passage Under Suspension of the Rules Results,313,http://clerk.house.gov/evs/2014/roll313.xml
 HR338-113,House,113,1,Final Passage Under Suspension of the Rules Results,58,http://clerk.house.gov/evs/2013/roll058.xml
@@ -296,15 +296,15 @@ HR3393-113,House,113,2,Passage of a Measure,449,http://clerk.house.gov/evs/2014/
 HR3393-113,House,113,2,Motion to Commit/Recommit With Instructions Results,448,http://clerk.house.gov/evs/2014/roll448.xml
 HR3438-113,House,113,2,Final Passage Under Suspension of the Rules Results,533,http://clerk.house.gov/evs/2014/roll533.xml
 HR3448-113,House,113,2,Final Passage Under Suspension of the Rules Results,62,http://clerk.house.gov/evs/2014/roll062.xml
-HR3474-113,Senate,113,2,CLOTURE MOTION,143,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00143
+HR3474-113,Senate,113,2,CLOTURE MOTION,143,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00143.xml
 HR3474-113,House,113,2,Final Passage Under Suspension of the Rules Results,115,http://clerk.house.gov/evs/2014/roll115.xml
 HR3521-113,House,113,1,Final Passage Under Suspension of the Rules Results,630,http://clerk.house.gov/evs/2013/roll630.xml
 HR3522-113,House,113,2,Passage of a Measure,495,http://clerk.house.gov/evs/2014/roll495.xml
 HR3522-113,House,113,2,Motion to Commit/Recommit With Instructions Results,494,http://clerk.house.gov/evs/2014/roll494.xml
 HR3527-113,House,113,2,Final Passage Under Suspension of the Rules Results,3,http://clerk.house.gov/evs/2014/roll003.xml
 HR3530-113,House,113,2,Final Passage Under Suspension of the Rules Results,221,http://clerk.house.gov/evs/2014/roll221.xml
-HR3547-113,Senate,113,2,SENATE CONCURRED (FREE TEXT),13,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00013
-HR3547-113,Senate,113,2,CLOTURE MOTION,12,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00012
+HR3547-113,Senate,113,2,SENATE CONCURRED (FREE TEXT),13,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00013.xml
+HR3547-113,Senate,113,2,CLOTURE MOTION,12,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00012.xml
 HR3547-113,House,113,2,Vote on House Agreeing to the Senate Action,21,http://clerk.house.gov/evs/2014/roll021.xml
 HR3547-113,House,113,1,Final Passage Under Suspension of the Rules Results,612,http://clerk.house.gov/evs/2013/roll612.xml
 HR357-113,House,113,2,Final Passage Under Suspension of the Rules Results,33,http://clerk.house.gov/evs/2014/roll033.xml
@@ -327,15 +327,15 @@ HR3964-113,House,113,2,Passage of a Measure,50,http://clerk.house.gov/evs/2014/r
 HR3964-113,House,113,2,Motion to Commit/Recommit With Instructions Results,49,http://clerk.house.gov/evs/2014/roll049.xml
 HR3973-113,House,113,2,Passage of a Measure,129,http://clerk.house.gov/evs/2014/roll129.xml
 HR3973-113,House,113,2,Motion to Commit/Recommit With Instructions Results,128,http://clerk.house.gov/evs/2014/roll128.xml
-HR3979-113,Senate,113,2,SENATE AGREED (FREE TEXT),325,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00325
-HR3979-113,Senate,113,2,RULING OF THE CHAIR,324,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00324
-HR3979-113,Senate,113,2,MOTION TO RECOMMIT,323,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00323
-HR3979-113,Senate,113,2,CLOTURE MOTION,322,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00322
+HR3979-113,Senate,113,2,SENATE AGREED (FREE TEXT),325,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00325.xml
+HR3979-113,Senate,113,2,RULING OF THE CHAIR,324,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00324.xml
+HR3979-113,Senate,113,2,MOTION TO RECOMMIT,323,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00323.xml
+HR3979-113,Senate,113,2,CLOTURE MOTION,322,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00322.xml
 HR3979-113,House,113,2,Vote on House Agreeing to the Senate Action,551,http://clerk.house.gov/evs/2014/roll551.xml
-HR3979-113,Senate,113,2,PASSED SENATE,101,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00101
-HR3979-113,Senate,113,2,CLOTURE MOTION,100,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00100
-HR3979-113,Senate,113,2,MOTION TO TABLE AGREED TO,98,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00098
-HR3979-113,Senate,113,2,CLOTURE MOTION,90,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00090
+HR3979-113,Senate,113,2,PASSED SENATE,101,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00101.xml
+HR3979-113,Senate,113,2,CLOTURE MOTION,100,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00100.xml
+HR3979-113,Senate,113,2,MOTION TO TABLE AGREED TO,98,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00098.xml
+HR3979-113,Senate,113,2,CLOTURE MOTION,90,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00090.xml
 HR3979-113,House,113,2,Final Passage Under Suspension of the Rules Results,116,http://clerk.house.gov/evs/2014/roll116.xml
 HR4-113,House,113,2,Passage of a Measure,513,http://clerk.house.gov/evs/2014/roll513.xml
 HR4-113,House,113,2,Motion to Commit/Recommit With Instructions Results,512,http://clerk.house.gov/evs/2014/roll512.xml
@@ -361,8 +361,8 @@ HR4278-113,House,113,2,Final Passage Under Suspension of the Rules Results,148,h
 HR4283-113,House,113,2,Final Passage Under Suspension of the Rules Results,483,http://clerk.house.gov/evs/2014/roll483.xml
 HR4289-113,House,113,2,Final Passage Under Suspension of the Rules Results,370,http://clerk.house.gov/evs/2014/roll370.xml
 HR4292-113,House,113,2,Final Passage Under Suspension of the Rules Results,194,http://clerk.house.gov/evs/2014/roll194.xml
-HR4302-113,Senate,113,2,PASSED SENATE,93,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00093
-HR4302-113,Senate,113,2,MOTION TO WAIVE (MEASURE),92,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00092
+HR4302-113,Senate,113,2,PASSED SENATE,93,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00093.xml
+HR4302-113,Senate,113,2,MOTION TO WAIVE (MEASURE),92,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00092.xml
 HR4315-113,House,113,2,Passage of a Measure,463,http://clerk.house.gov/evs/2014/roll463.xml
 HR4315-113,House,113,2,Motion to Commit/Recommit With Instructions Results,462,http://clerk.house.gov/evs/2014/roll462.xml
 HR4411-113,House,113,2,Final Passage Under Suspension of the Rules Results,434,http://clerk.house.gov/evs/2014/roll434.xml
@@ -387,7 +387,7 @@ HR4487-113,House,113,2,Passage of a Measure,193,http://clerk.house.gov/evs/2014/
 HR4487-113,House,113,2,Motion to Commit/Recommit With Instructions Results,192,http://clerk.house.gov/evs/2014/roll192.xml
 HR45-113,House,113,1,Passage of a Measure,154,http://clerk.house.gov/evs/2013/roll154.xml
 HR45-113,House,113,1,Motion to Commit/Recommit With Instructions Results,153,http://clerk.house.gov/evs/2013/roll153.xml
-HR4660-113,Senate,113,2,CLOTURE MOTION,200,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00200
+HR4660-113,Senate,113,2,CLOTURE MOTION,200,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00200.xml
 HR4660-113,House,113,2,Passage of a Measure,269,http://clerk.house.gov/evs/2014/roll269.xml
 HR4660-113,House,113,2,Motion to Commit/Recommit With Instructions Results,268,http://clerk.house.gov/evs/2014/roll268.xml
 HR4681-113,House,113,2,Vote on House Agreeing to the Senate Action,558,http://clerk.house.gov/evs/2014/roll558.xml
@@ -419,9 +419,9 @@ HR5-113,House,113,1,Motion to Commit/Recommit With Instructions Results,373,http
 HR5016-113,House,113,2,Passage of a Measure,427,http://clerk.house.gov/evs/2014/roll427.xml
 HR5016-113,House,113,2,Motion to Commit/Recommit With Instructions Results,426,http://clerk.house.gov/evs/2014/roll426.xml
 HR5019-113,House,113,2,Final Passage Under Suspension of the Rules Results,482,http://clerk.house.gov/evs/2014/roll482.xml
-HR5021-113,Senate,113,2,SENATE RECEDED (FREE TEXT),255,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00255
+HR5021-113,Senate,113,2,SENATE RECEDED (FREE TEXT),255,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00255.xml
 HR5021-113,House,113,2,Vote on House Agreeing to the Senate Action,473,http://clerk.house.gov/evs/2014/roll473.xml
-HR5021-113,Senate,113,2,PASSED SENATE,248,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00248
+HR5021-113,Senate,113,2,PASSED SENATE,248,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00248.xml
 HR5021-113,House,113,2,Passage of a Measure,414,http://clerk.house.gov/evs/2014/roll414.xml
 HR5021-113,House,113,2,Motion to Commit/Recommit With Instructions Results,413,http://clerk.house.gov/evs/2014/roll413.xml
 HR5029-113,House,113,2,Final Passage Under Suspension of the Rules Results,406,http://clerk.house.gov/evs/2014/roll406.xml
@@ -437,7 +437,7 @@ HR5111-113,House,113,2,Final Passage Under Suspension of the Rules Results,447,h
 HR5161-113,House,113,2,Final Passage Under Suspension of the Rules Results,496,http://clerk.house.gov/evs/2014/roll496.xml
 HR5162-113,House,113,2,Final Passage Under Suspension of the Rules Results,520,http://clerk.house.gov/evs/2014/roll520.xml
 HR5230-113,House,113,2,Passage of a Measure,478,http://clerk.house.gov/evs/2014/roll478.xml
-HR527-113,Senate,113,1,PASSED SENATE,203,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00203
+HR527-113,Senate,113,1,PASSED SENATE,203,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00203.xml
 HR527-113,House,113,1,Passage of a Measure,128,http://clerk.house.gov/evs/2013/roll128.xml
 HR527-113,House,113,1,Motion to Commit/Recommit With Instructions Results,127,http://clerk.house.gov/evs/2013/roll127.xml
 HR5272-113,House,113,2,Passage of a Measure,479,http://clerk.house.gov/evs/2014/roll479.xml
@@ -452,7 +452,7 @@ HR5739-113,House,113,2,Final Passage Under Suspension of the Rules Results,537,h
 HR5759-113,House,113,2,Passage of a Measure,550,http://clerk.house.gov/evs/2014/roll550.xml
 HR5759-113,House,113,2,Motion to Commit/Recommit With Instructions Results,549,http://clerk.house.gov/evs/2014/roll549.xml
 HR5769-113,House,113,2,Final Passage Under Suspension of the Rules Results,541,http://clerk.house.gov/evs/2014/roll541.xml
-HR5771-113,Senate,113,2,PASSED SENATE,364,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00364
+HR5771-113,Senate,113,2,PASSED SENATE,364,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00364.xml
 HR5771-113,House,113,2,Passage of a Measure,544,http://clerk.house.gov/evs/2014/roll544.xml
 HR5771-113,House,113,2,Motion to Commit/Recommit With Instructions Results,543,http://clerk.house.gov/evs/2014/roll543.xml
 HR5781-113,House,113,2,Passage of a Measure,553,http://clerk.house.gov/evs/2014/roll553.xml
@@ -483,14 +483,14 @@ HR761-113,House,113,1,Motion to Commit/Recommit With Instructions Results,470,ht
 HR767-113,House,113,1,Final Passage Under Suspension of the Rules Results,147,http://clerk.house.gov/evs/2013/roll147.xml
 HR801-113,House,113,2,Final Passage Under Suspension of the Rules Results,15,http://clerk.house.gov/evs/2014/roll015.xml
 HR803-113,House,113,2,Vote on House Agreeing to the Senate Action,378,http://clerk.house.gov/evs/2014/roll378.xml
-HR803-113,Senate,113,2,PASSED SENATE,214,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00214
+HR803-113,Senate,113,2,PASSED SENATE,214,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00214.xml
 HR803-113,House,113,1,Passage of a Measure,75,http://clerk.house.gov/evs/2013/roll075.xml
 HR803-113,House,113,1,Motion to Commit/Recommit With Instructions Results,74,http://clerk.house.gov/evs/2013/roll074.xml
 HR807-113,House,113,1,Passage of a Measure,142,http://clerk.house.gov/evs/2013/roll142.xml
 HR807-113,House,113,1,Motion to Commit/Recommit With Instructions Results,141,http://clerk.house.gov/evs/2013/roll141.xml
-HR83-113,Senate,113,2,SENATE AGREED (FREE TEXT),354,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00354
-HR83-113,Senate,113,2,FREE TEXT,353,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00353
-HR83-113,Senate,113,2,CLOTURE MOTION,352,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00352
+HR83-113,Senate,113,2,SENATE AGREED (FREE TEXT),354,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00354.xml
+HR83-113,Senate,113,2,FREE TEXT,353,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00353.xml
+HR83-113,Senate,113,2,CLOTURE MOTION,352,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00352.xml
 HR83-113,House,113,2,Vote on House Agreeing to the Senate Action,563,http://clerk.house.gov/evs/2014/roll563.xml
 HR850-113,House,113,1,Final Passage Under Suspension of the Rules Results,427,http://clerk.house.gov/evs/2013/roll427.xml
 HR862-113,House,113,1,Final Passage Under Suspension of the Rules Results,247,http://clerk.house.gov/evs/2013/roll247.xml
@@ -502,8 +502,8 @@ HR890-113,House,113,1,Motion to Commit/Recommit With Instructions Results,67,htt
 HR899-113,House,113,2,Passage of a Measure,90,http://clerk.house.gov/evs/2014/roll090.xml
 HR899-113,House,113,2,Motion to Commit/Recommit With Instructions Results,89,http://clerk.house.gov/evs/2014/roll089.xml
 HR933-113,House,113,1,Vote on House Agreeing to the Senate Action,89,http://clerk.house.gov/evs/2013/roll089.xml
-HR933-113,Senate,113,1,PASSED SENATE,44,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00044
-HR933-113,Senate,113,1,CLOTURE MOTION,43,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00043
+HR933-113,Senate,113,1,PASSED SENATE,44,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00044.xml
+HR933-113,Senate,113,1,CLOTURE MOTION,43,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00043.xml
 HR933-113,House,113,1,Passage of a Measure,62,http://clerk.house.gov/evs/2013/roll062.xml
 HR933-113,House,113,1,Motion to Commit/Recommit With Instructions Results,61,http://clerk.house.gov/evs/2013/roll061.xml
 HR935-113,House,113,2,Passage of a Measure,470,http://clerk.house.gov/evs/2014/roll470.xml
@@ -516,104 +516,104 @@ HR982-113,House,113,1,Motion to Commit/Recommit With Instructions Results,578,ht
 HR992-113,House,113,1,Passage of a Measure,569,http://clerk.house.gov/evs/2013/roll569.xml
 HR992-113,House,113,1,Motion to Commit/Recommit With Instructions Results,568,http://clerk.house.gov/evs/2013/roll568.xml
 S1000-113,House,113,2,Final Passage Under Suspension of the Rules Results,555,http://clerk.house.gov/evs/2014/roll555.xml
-S1003-113,Senate,113,1,CLOTURE MOTION,142,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00142
+S1003-113,Senate,113,1,CLOTURE MOTION,142,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00142.xml
 S1044-113,House,113,2,Final Passage Under Suspension of the Rules Results,339,http://clerk.house.gov/evs/2014/roll339.xml
-S1086-113,Senate,113,2,SENATE AGREED (FREE TEXT),276,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00276
-S1086-113,Senate,113,2,CLOTURE MOTION,275,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00275
-S1086-113,Senate,113,2,PASSED SENATE,77,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00077
-S1197-113,Senate,113,1,CLOTURE MOTION,245,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00245
-S1197-113,Senate,113,1,CLOTURE MOTION,236,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00236
-S1238-113,Senate,113,1,CLOTURE MOTION,171,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00171
-S1243-113,Senate,113,1,CLOTURE MOTION,199,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00199
-S1243-113,Senate,113,1,MOTION TO RECOMMIT,187,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00187
-S1243-113,Senate,113,1,CLOTURE MOTION,181,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00181
+S1086-113,Senate,113,2,SENATE AGREED (FREE TEXT),276,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00276.xml
+S1086-113,Senate,113,2,CLOTURE MOTION,275,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00275.xml
+S1086-113,Senate,113,2,PASSED SENATE,77,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00077.xml
+S1197-113,Senate,113,1,CLOTURE MOTION,245,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00245.xml
+S1197-113,Senate,113,1,CLOTURE MOTION,236,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00236.xml
+S1238-113,Senate,113,1,CLOTURE MOTION,171,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00171.xml
+S1243-113,Senate,113,1,CLOTURE MOTION,199,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00199.xml
+S1243-113,Senate,113,1,MOTION TO RECOMMIT,187,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00187.xml
+S1243-113,Senate,113,1,CLOTURE MOTION,181,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00181.xml
 S130-113,House,113,1,Final Passage Under Suspension of the Rules Results,452,http://clerk.house.gov/evs/2013/roll452.xml
 S1348-113,House,113,1,Final Passage Under Suspension of the Rules Results,503,http://clerk.house.gov/evs/2013/roll503.xml
 S1471-113,House,113,1,Final Passage Under Suspension of the Rules Results,634,http://clerk.house.gov/evs/2013/roll634.xml
-S1569-113,Senate,113,1,CLOTURE MOTION,216,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00216
-S16-113,Senate,113,1,CLOTURE MOTION,26,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00026
+S1569-113,Senate,113,1,CLOTURE MOTION,216,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00216.xml
+S16-113,Senate,113,1,CLOTURE MOTION,26,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00026.xml
 S1603-113,House,113,2,Final Passage Under Suspension of the Rules Results,503,http://clerk.house.gov/evs/2014/roll503.xml
-S1752-113,Senate,113,2,CLOTURE MOTION,59,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00059
-S1845-113,Senate,113,2,CLOTURE MOTION,24,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00024
-S1845-113,Senate,113,2,CLOTURE MOTION,10,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00010
-S1845-113,Senate,113,2,MOTION TO TABLE REJECTED,8,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00008
-S1845-113,Senate,113,2,MOTION TO TABLE REJECTED,3,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00003
-S1845-113,Senate,113,2,CLOTURE MOTION,2,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00002
-S1917-113,Senate,113,2,PASSED SENATE,62,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00062
-S1917-113,Senate,113,2,CLOTURE MOTION,60,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00060
-S1926-113,Senate,113,2,PASSED SENATE,19,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00019
-S1926-113,Senate,113,2,MOTION TO WAIVE (MEASURE),15,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00015
-S1926-113,Senate,113,2,CLOTURE MOTION,14,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00014
-S1963-113,Senate,113,2,CLOTURE MOTION,26,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00026
-S1982-113,Senate,113,2,MOTION TO WAIVE (MEASURE),46,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00046
-S1982-113,Senate,113,2,MOTION TO TABLE REJECTED,45,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00045
-S1982-113,Senate,113,2,CLOTURE MOTION,44,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00044
+S1752-113,Senate,113,2,CLOTURE MOTION,59,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00059.xml
+S1845-113,Senate,113,2,CLOTURE MOTION,24,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00024.xml
+S1845-113,Senate,113,2,CLOTURE MOTION,10,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00010.xml
+S1845-113,Senate,113,2,MOTION TO TABLE REJECTED,8,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00008.xml
+S1845-113,Senate,113,2,MOTION TO TABLE REJECTED,3,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00003.xml
+S1845-113,Senate,113,2,CLOTURE MOTION,2,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00002.xml
+S1917-113,Senate,113,2,PASSED SENATE,62,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00062.xml
+S1917-113,Senate,113,2,CLOTURE MOTION,60,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00060.xml
+S1926-113,Senate,113,2,PASSED SENATE,19,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00019.xml
+S1926-113,Senate,113,2,MOTION TO WAIVE (MEASURE),15,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00015.xml
+S1926-113,Senate,113,2,CLOTURE MOTION,14,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00014.xml
+S1963-113,Senate,113,2,CLOTURE MOTION,26,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00026.xml
+S1982-113,Senate,113,2,MOTION TO WAIVE (MEASURE),46,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00046.xml
+S1982-113,Senate,113,2,MOTION TO TABLE REJECTED,45,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00045.xml
+S1982-113,Senate,113,2,CLOTURE MOTION,44,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00044.xml
 S2040-113,House,113,2,Final Passage Under Suspension of the Rules Results,534,http://clerk.house.gov/evs/2014/roll534.xml
-S2124-113,Senate,113,2,CLOTURE MOTION,79,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00079
+S2124-113,Senate,113,2,CLOTURE MOTION,79,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00079.xml
 S2154-113,House,113,2,Final Passage Under Suspension of the Rules Results,500,http://clerk.house.gov/evs/2014/roll500.xml
 S2183-113,House,113,2,Final Passage Under Suspension of the Rules Results,150,http://clerk.house.gov/evs/2014/roll150.xml
-S2199-113,Senate,113,2,CLOTURE MOTION,262,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00262
-S2199-113,Senate,113,2,CLOTURE MOTION,260,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00260
-S2199-113,Senate,113,2,CLOTURE MOTION,103,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00103
-S2223-113,Senate,113,2,CLOTURE MOTION,117,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00117
+S2199-113,Senate,113,2,CLOTURE MOTION,262,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00262.xml
+S2199-113,Senate,113,2,CLOTURE MOTION,260,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00260.xml
+S2199-113,Senate,113,2,CLOTURE MOTION,103,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00103.xml
+S2223-113,Senate,113,2,CLOTURE MOTION,117,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00117.xml
 S2244-113,House,113,2,Passage of a Measure,557,http://clerk.house.gov/evs/2014/roll557.xml
-S2244-113,Senate,113,2,PASSED SENATE,231,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00231
-S2262-113,Senate,113,2,CLOTURE MOTION,142,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00142
-S2262-113,Senate,113,2,CLOTURE MOTION,131,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00131
-S2280-113,Senate,113,2,FAILED PASSAGE,280,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00280
+S2244-113,Senate,113,2,PASSED SENATE,231,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00231.xml
+S2262-113,Senate,113,2,CLOTURE MOTION,142,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00142.xml
+S2262-113,Senate,113,2,CLOTURE MOTION,131,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00131.xml
+S2280-113,Senate,113,2,FAILED PASSAGE,280,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00280.xml
 S230-113,House,113,2,Final Passage Under Suspension of the Rules Results,13,http://clerk.house.gov/evs/2014/roll013.xml
-S2363-113,Senate,113,2,CLOTURE MOTION,220,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00220
-S2363-113,Senate,113,2,CLOTURE MOTION,218,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00218
-S2432-113,Senate,113,2,CLOTURE MOTION,185,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00185
-S2450-113,Senate,113,2,PASSED COMPANION MEASURE IN SENATE,187,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00187
-S25-113,Senate,113,2,SENATE AGREED (FREE TEXT),35,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00035
+S2363-113,Senate,113,2,CLOTURE MOTION,220,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00220.xml
+S2363-113,Senate,113,2,CLOTURE MOTION,218,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00218.xml
+S2432-113,Senate,113,2,CLOTURE MOTION,185,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00185.xml
+S2450-113,Senate,113,2,PASSED COMPANION MEASURE IN SENATE,187,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00187.xml
+S25-113,Senate,113,2,SENATE AGREED (FREE TEXT),35,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00035.xml
 S25-113,House,113,2,Final Passage Under Suspension of the Rules Results,60,http://clerk.house.gov/evs/2014/roll060.xml
 S256-113,House,113,1,Final Passage Under Suspension of the Rules Results,454,http://clerk.house.gov/evs/2013/roll454.xml
-S2569-113,Senate,113,2,CLOTURE MOTION,249,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00249
-S2569-113,Senate,113,2,CLOTURE MOTION,240,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00240
-S2578-113,Senate,113,2,CLOTURE MOTION,228,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00228
-S2648-113,Senate,113,2,MOTION TO WAIVE (MEASURE),252,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00252
-S2648-113,Senate,113,2,CLOTURE MOTION,250,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00250
-S2685-113,Senate,113,2,CLOTURE MOTION,282,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00282
+S2569-113,Senate,113,2,CLOTURE MOTION,249,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00249.xml
+S2569-113,Senate,113,2,CLOTURE MOTION,240,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00240.xml
+S2578-113,Senate,113,2,CLOTURE MOTION,228,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00228.xml
+S2648-113,Senate,113,2,MOTION TO WAIVE (MEASURE),252,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00252.xml
+S2648-113,Senate,113,2,CLOTURE MOTION,250,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00250.xml
+S2685-113,Senate,113,2,CLOTURE MOTION,282,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00282.xml
 S304-113,House,113,1,Final Passage Under Suspension of the Rules Results,453,http://clerk.house.gov/evs/2013/roll453.xml
-S388-113,Senate,113,1,CLOTURE MOTION,27,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00027
+S388-113,Senate,113,1,CLOTURE MOTION,27,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00027.xml
 S459-113,House,113,1,Final Passage Under Suspension of the Rules Results,455,http://clerk.house.gov/evs/2013/roll455.xml
 S47-113,House,113,1,Passage of a Measure,55,http://clerk.house.gov/evs/2013/roll055.xml
-S47-113,Senate,113,1,PASSED SENATE,19,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00019
-S47-113,Senate,113,1,MOTION TO CONSIDER,12,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00012
+S47-113,Senate,113,1,PASSED SENATE,19,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00019.xml
+S47-113,Senate,113,1,MOTION TO CONSIDER,12,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00012.xml
 S476-113,House,113,2,Final Passage Under Suspension of the Rules Results,506,http://clerk.house.gov/evs/2014/roll506.xml
-S540-113,Senate,113,2,SENATE AGREED (FREE TEXT),34,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00034
-S540-113,Senate,113,2,CLOTURE MOTION,33,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00033
+S540-113,Senate,113,2,SENATE AGREED (FREE TEXT),34,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00034.xml
+S540-113,Senate,113,2,CLOTURE MOTION,33,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00033.xml
 S540-113,House,113,2,Passage of a Measure,61,http://clerk.house.gov/evs/2014/roll061.xml
-S601-113,Senate,113,1,PASSED SENATE,124,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00124
+S601-113,Senate,113,1,PASSED SENATE,124,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00124.xml
 S622-113,House,113,1,Final Passage Under Suspension of the Rules Results,185,http://clerk.house.gov/evs/2013/roll185.xml
-S649-113,Senate,113,1,CLOTURE MOTION,95,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00095
-S743-113,Senate,113,1,PASSED SENATE,113,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00113
-S743-113,Senate,113,1,CLOTURE MOTION,111,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00111
-S743-113,Senate,113,1,MOTION TO CONSIDER,110,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00110
-S743-113,Senate,113,1,CLOTURE MOTION,107,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00107
-S744-113,Senate,113,1,PASSED SENATE,168,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00168
-S744-113,Senate,113,1,CLOTURE MOTION,167,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00167
-S744-113,Senate,113,1,AMENDMENT AGREED TO,166,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00166
-S744-113,Senate,113,1,CLOTURE MOTION,164,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00164
-S744-113,Senate,113,1,MOTION TO WAIVE (AMENDMENT),162,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00162
-S744-113,Senate,113,1,MOTION TO CONSIDER,147,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00147
-S744-113,Senate,113,1,CLOTURE MOTION,146,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00146
+S649-113,Senate,113,1,CLOTURE MOTION,95,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00095.xml
+S743-113,Senate,113,1,PASSED SENATE,113,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00113.xml
+S743-113,Senate,113,1,CLOTURE MOTION,111,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00111.xml
+S743-113,Senate,113,1,MOTION TO CONSIDER,110,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00110.xml
+S743-113,Senate,113,1,CLOTURE MOTION,107,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00107.xml
+S744-113,Senate,113,1,PASSED SENATE,168,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00168.xml
+S744-113,Senate,113,1,CLOTURE MOTION,167,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00167.xml
+S744-113,Senate,113,1,AMENDMENT AGREED TO,166,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00166.xml
+S744-113,Senate,113,1,CLOTURE MOTION,164,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00164.xml
+S744-113,Senate,113,1,MOTION TO WAIVE (AMENDMENT),162,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00162.xml
+S744-113,Senate,113,1,MOTION TO CONSIDER,147,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00147.xml
+S744-113,Senate,113,1,CLOTURE MOTION,146,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00146.xml
 S793-113,House,113,1,Final Passage Under Suspension of the Rules Results,462,http://clerk.house.gov/evs/2013/roll462.xml
-S815-113,Senate,113,1,PASSED SENATE,232,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00232
-S815-113,Senate,113,1,CLOTURE MOTION,231,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00231
-S815-113,Senate,113,1,CLOTURE MOTION,229,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00229
-S953-113,Senate,113,1,CLOTURE MOTION,143,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00143
-S954-113,Senate,113,1,PASSED SENATE,145,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00145
-S954-113,Senate,113,1,CLOTURE MOTION,141,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00141
-SJRES19-113,Senate,113,2,CLOTURE MOTION,261,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00261
-SJRES19-113,Senate,113,2,CLOTURE MOTION,259,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=2&vote=00259
-SJRES26-113,Senate,113,1,MOTION TO CONSIDER,220,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=113&session=1&vote=00220
+S815-113,Senate,113,1,PASSED SENATE,232,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00232.xml
+S815-113,Senate,113,1,CLOTURE MOTION,231,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00231.xml
+S815-113,Senate,113,1,CLOTURE MOTION,229,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00229.xml
+S953-113,Senate,113,1,CLOTURE MOTION,143,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00143.xml
+S954-113,Senate,113,1,PASSED SENATE,145,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00145.xml
+S954-113,Senate,113,1,CLOTURE MOTION,141,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00141.xml
+SJRES19-113,Senate,113,2,CLOTURE MOTION,261,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00261.xml
+SJRES19-113,Senate,113,2,CLOTURE MOTION,259,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00259.xml
+SJRES26-113,Senate,113,1,MOTION TO CONSIDER,220,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1131/vote_113_1_00220.xml
 HJRES35-114,House,114,1,Passage of a Measure,104,http://clerk.house.gov/evs/2015/roll104.xml
 HJRES43-114,House,114,1,Passage of a Measure,194,http://clerk.house.gov/evs/2015/roll194.xml
 HJRES88-114,House,114,2,Placeholder Text for H43410,338,http://clerk.house.gov/evs/2016/roll338.xml
 HJRES88-114,House,114,2,Placeholder Text for H8A000,337,http://clerk.house.gov/evs/2016/roll337.xml
-HJRES88-114,Senate,114,2,PASSED SENATE,84,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00084
+HJRES88-114,Senate,114,2,PASSED SENATE,84,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00084.xml
 HJRES88-114,House,114,2,Passage of a Measure,176,http://clerk.house.gov/evs/2016/roll176.xml
 HR10-114,House,114,1,Passage of a Measure,559,http://clerk.house.gov/evs/2015/roll559.xml
 HR10-114,House,114,1,Motion to Commit/Recommit With Instructions Results,558,http://clerk.house.gov/evs/2015/roll558.xml
@@ -629,7 +629,7 @@ HR1155-114,House,114,2,Passage of a Measure,20,http://clerk.house.gov/evs/2016/r
 HR1155-114,House,114,2,Motion to Commit/Recommit With Instructions Results,19,http://clerk.house.gov/evs/2016/roll019.xml
 HR1190-114,House,114,1,Passage of a Measure,376,http://clerk.house.gov/evs/2015/roll376.xml
 HR1191-114,House,114,1,Vote on House Agreeing to the Senate Action,226,http://clerk.house.gov/evs/2015/roll226.xml
-HR1191-114,Senate,114,1,PASSED SENATE,174,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00174
+HR1191-114,Senate,114,1,PASSED SENATE,174,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00174.xml
 HR1191-114,House,114,1,Final Passage Under Suspension of the Rules Results,118,http://clerk.house.gov/evs/2015/roll118.xml
 HR1195-114,House,114,1,Passage of a Measure,167,http://clerk.house.gov/evs/2015/roll167.xml
 HR1195-114,House,114,1,Motion to Commit/Recommit With Instructions Results,166,http://clerk.house.gov/evs/2015/roll166.xml
@@ -643,21 +643,21 @@ HR1259-114,House,114,1,Final Passage Under Suspension of the Rules Results,145,h
 HR1265-114,House,114,1,Final Passage Under Suspension of the Rules Results,146,http://clerk.house.gov/evs/2015/roll146.xml
 HR1270-114,House,114,2,Passage of a Measure,351,http://clerk.house.gov/evs/2016/roll351.xml
 HR1295-114,House,114,1,Vote on House Agreeing to the Senate Action,388,http://clerk.house.gov/evs/2015/roll388.xml
-HR1295-114,Senate,114,1,CLOTURE MOTION,220,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00220
+HR1295-114,Senate,114,1,CLOTURE MOTION,220,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00220.xml
 HR1295-114,House,114,1,Vote on House Agreeing to the Senate Action,345,http://clerk.house.gov/evs/2015/roll345.xml
-HR1295-114,Senate,114,1,PASSED SENATE,178,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00178
+HR1295-114,Senate,114,1,PASSED SENATE,178,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00178.xml
 HR1300-114,House,114,1,Final Passage Under Suspension of the Rules Results,485,http://clerk.house.gov/evs/2015/roll485.xml
 HR1313-114,House,114,1,Final Passage Under Suspension of the Rules Results,241,http://clerk.house.gov/evs/2015/roll241.xml
-HR1314-114,Senate,114,1,SENATE AGREED (FREE TEXT),294,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00294
-HR1314-114,Senate,114,1,MOTION TO WAIVE (MEASURE),293,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00293
-HR1314-114,Senate,114,1,CLOTURE MOTION,292,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00292
+HR1314-114,Senate,114,1,SENATE AGREED (FREE TEXT),294,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00294.xml
+HR1314-114,Senate,114,1,MOTION TO WAIVE (MEASURE),293,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00293.xml
+HR1314-114,Senate,114,1,CLOTURE MOTION,292,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00292.xml
 HR1314-114,House,114,1,Vote on House Agreeing to the Senate Action,579,http://clerk.house.gov/evs/2015/roll579.xml
 HR1314-114,House,114,1,Preemptive Motion Results,362,http://clerk.house.gov/evs/2015/roll362.xml
 HR1314-114,House,114,1,Preemptive Motion Results,361,http://clerk.house.gov/evs/2015/roll361.xml
-HR1314-114,Senate,114,1,PASSED SENATE,193,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00193
-HR1314-114,Senate,114,1,CLOTURE MOTION,192,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00192
-HR1314-114,Senate,114,1,CLOTURE MOTION,180,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00180
-HR1314-114,Senate,114,1,CLOTURE MOTION,176,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00176
+HR1314-114,Senate,114,1,PASSED SENATE,193,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00193.xml
+HR1314-114,Senate,114,1,CLOTURE MOTION,192,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00192.xml
+HR1314-114,Senate,114,1,CLOTURE MOTION,180,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00180.xml
+HR1314-114,Senate,114,1,CLOTURE MOTION,176,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00176.xml
 HR1324-114,House,114,1,Final Passage Under Suspension of the Rules Results,175,http://clerk.house.gov/evs/2015/roll175.xml
 HR1335-114,House,114,1,Passage of a Measure,267,http://clerk.house.gov/evs/2015/roll267.xml
 HR1335-114,House,114,1,Motion to Commit/Recommit With Instructions Results,266,http://clerk.house.gov/evs/2015/roll266.xml
@@ -692,16 +692,16 @@ HR1732-114,House,114,1,Passage of a Measure,219,http://clerk.house.gov/evs/2015/
 HR1732-114,House,114,1,Motion to Commit/Recommit With Instructions Results,218,http://clerk.house.gov/evs/2015/roll218.xml
 HR1734-114,House,114,1,Passage of a Measure,458,http://clerk.house.gov/evs/2015/roll458.xml
 HR1734-114,House,114,1,Motion to Commit/Recommit With Instructions Results,457,http://clerk.house.gov/evs/2015/roll457.xml
-HR1735-114,Senate,114,1,CONFERENCE REPORT AGREED TO,277,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00277
-HR1735-114,Senate,114,1,MOTION TO WAIVE (MEASURE),276,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00276
-HR1735-114,Senate,114,1,CLOTURE MOTION,275,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00275
+HR1735-114,Senate,114,1,CONFERENCE REPORT AGREED TO,277,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00277.xml
+HR1735-114,Senate,114,1,MOTION TO WAIVE (MEASURE),276,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00276.xml
+HR1735-114,Senate,114,1,CLOTURE MOTION,275,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00275.xml
 HR1735-114,House,114,1,Placeholder Text for H42510,532,http://clerk.house.gov/evs/2015/roll532.xml
 HR1735-114,House,114,1,Placeholder Text for H42411,531,http://clerk.house.gov/evs/2015/roll531.xml
-HR1735-114,Senate,114,1,MOTION TO INSTRUCT,230,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00230
-HR1735-114,Senate,114,1,CLOTURE MOTION,229,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00229
+HR1735-114,Senate,114,1,MOTION TO INSTRUCT,230,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00230.xml
+HR1735-114,Senate,114,1,CLOTURE MOTION,229,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00229.xml
 HR1735-114,House,114,1,Vote on House Agreeing to the Senate Action,390,http://clerk.house.gov/evs/2015/roll390.xml
-HR1735-114,Senate,114,1,PASSED SENATE,215,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00215
-HR1735-114,Senate,114,1,CLOTURE MOTION,214,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00214
+HR1735-114,Senate,114,1,PASSED SENATE,215,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00215.xml
+HR1735-114,Senate,114,1,CLOTURE MOTION,214,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00214.xml
 HR1735-114,House,114,1,Passage of a Measure,239,http://clerk.house.gov/evs/2015/roll239.xml
 HR1735-114,House,114,1,Motion to Commit/Recommit With Instructions Results,238,http://clerk.house.gov/evs/2015/roll238.xml
 HR1737-114,House,114,1,Passage of a Measure,637,http://clerk.house.gov/evs/2015/roll637.xml
@@ -719,59 +719,59 @@ HR1937-114,House,114,1,Motion to Commit/Recommit With Instructions Results,564,h
 HR1949-114,House,114,1,Final Passage Under Suspension of the Rules Results,496,http://clerk.house.gov/evs/2015/roll496.xml
 HR1994-114,House,114,1,Passage of a Measure,489,http://clerk.house.gov/evs/2015/roll489.xml
 HR1994-114,House,114,1,Motion to Commit/Recommit With Instructions Results,488,http://clerk.house.gov/evs/2015/roll488.xml
-HR2-114,Senate,114,1,PASSED SENATE,144,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00144
-HR2-114,Senate,114,1,MOTION TO WAIVE (MEASURE),143,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00143
+HR2-114,Senate,114,1,PASSED SENATE,144,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00144.xml
+HR2-114,Senate,114,1,MOTION TO WAIVE (MEASURE),143,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00143.xml
 HR2-114,House,114,1,Passage of a Measure,144,http://clerk.house.gov/evs/2015/roll144.xml
 HR2017-114,House,114,2,Passage of a Measure,81,http://clerk.house.gov/evs/2016/roll081.xml
-HR2028-114,Senate,114,2,SENATE AGREED (FREE TEXT),161,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00161
-HR2028-114,Senate,114,2,CLOTURE MOTION,160,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00160
+HR2028-114,Senate,114,2,SENATE AGREED (FREE TEXT),161,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00161.xml
+HR2028-114,Senate,114,2,CLOTURE MOTION,160,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00160.xml
 HR2028-114,House,114,2,Vote on House Agreeing to the Senate Action,620,http://clerk.house.gov/evs/2016/roll620.xml
-HR2028-114,Senate,114,2,PASSED SENATE,71,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00071
-HR2028-114,Senate,114,1,CLOTURE MOTION,278,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00278
+HR2028-114,Senate,114,2,PASSED SENATE,71,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00071.xml
+HR2028-114,Senate,114,1,CLOTURE MOTION,278,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00278.xml
 HR2028-114,House,114,1,Passage of a Measure,215,http://clerk.house.gov/evs/2015/roll215.xml
 HR2028-114,House,114,1,Motion to Commit/Recommit With Instructions Results,214,http://clerk.house.gov/evs/2015/roll214.xml
-HR2029-114,Senate,114,1,SENATE AGREED (FREE TEXT),339,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00339
-HR2029-114,Senate,114,1,MOTION TO WAIVE (MEASURE),338,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00338
-HR2029-114,Senate,114,1,MOTION TO TABLE REJECTED,337,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00337
-HR2029-114,Senate,114,1,CLOTURE MOTION,336,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00336
+HR2029-114,Senate,114,1,SENATE AGREED (FREE TEXT),339,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00339.xml
+HR2029-114,Senate,114,1,MOTION TO WAIVE (MEASURE),338,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00338.xml
+HR2029-114,Senate,114,1,MOTION TO TABLE REJECTED,337,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00337.xml
+HR2029-114,Senate,114,1,CLOTURE MOTION,336,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00336.xml
 HR2029-114,House,114,1,Vote on House Agreeing to the Senate Action,705,http://clerk.house.gov/evs/2015/roll705.xml
 HR2029-114,House,114,1,Vote on House Agreeing to the Senate Action,703,http://clerk.house.gov/evs/2015/roll703.xml
-HR2029-114,Senate,114,1,PASSED SENATE,302,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00302
-HR2029-114,Senate,114,1,MOTION TO CONSIDER,299,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00299
-HR2029-114,Senate,114,1,CLOTURE MOTION,273,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00273
+HR2029-114,Senate,114,1,PASSED SENATE,302,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00302.xml
+HR2029-114,Senate,114,1,MOTION TO CONSIDER,299,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00299.xml
+HR2029-114,Senate,114,1,CLOTURE MOTION,273,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00273.xml
 HR2029-114,House,114,1,Passage of a Measure,193,http://clerk.house.gov/evs/2015/roll193.xml
 HR2029-114,House,114,1,Motion to Commit/Recommit With Instructions Results,192,http://clerk.house.gov/evs/2015/roll192.xml
 HR2029-114,House,114,1,Placeholder Text for H32351,178,http://clerk.house.gov/evs/2015/roll178.xml
-HR203-114,Senate,114,1,PASSED SENATE,50,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00050
+HR203-114,Senate,114,1,PASSED SENATE,50,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00050.xml
 HR203-114,House,114,1,Final Passage Under Suspension of the Rules Results,17,http://clerk.house.gov/evs/2015/roll017.xml
 HR2042-114,House,114,1,Passage of a Measure,384,http://clerk.house.gov/evs/2015/roll384.xml
-HR2048-114,Senate,114,1,PASSED SENATE,201,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00201
-HR2048-114,Senate,114,1,CLOTURE MOTION,197,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00197
-HR2048-114,Senate,114,1,CLOTURE MOTION,196,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00196
-HR2048-114,Senate,114,1,CLOTURE MOTION,194,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00194
+HR2048-114,Senate,114,1,PASSED SENATE,201,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00201.xml
+HR2048-114,Senate,114,1,CLOTURE MOTION,197,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00197.xml
+HR2048-114,Senate,114,1,CLOTURE MOTION,196,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00196.xml
+HR2048-114,Senate,114,1,CLOTURE MOTION,194,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00194.xml
 HR2048-114,House,114,1,Passage of a Measure,224,http://clerk.house.gov/evs/2015/roll224.xml
 HR2081-114,House,114,2,Final Passage Under Suspension of the Rules Results,116,http://clerk.house.gov/evs/2016/roll116.xml
 HR212-114,House,114,1,Final Passage Under Suspension of the Rules Results,84,http://clerk.house.gov/evs/2015/roll084.xml
 HR2130-114,House,114,1,Passage of a Measure,686,http://clerk.house.gov/evs/2015/roll686.xml
 HR2130-114,House,114,1,Placeholder Text for H36810,685,http://clerk.house.gov/evs/2015/roll685.xml
-HR2146-114,Senate,114,1,SENATE AGREED (FREE TEXT),219,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00219
-HR2146-114,Senate,114,1,CLOTURE MOTION,218,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00218
+HR2146-114,Senate,114,1,SENATE AGREED (FREE TEXT),219,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00219.xml
+HR2146-114,Senate,114,1,CLOTURE MOTION,218,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00218.xml
 HR2146-114,House,114,1,Vote on House Agreeing to the Senate Action,374,http://clerk.house.gov/evs/2015/roll374.xml
 HR2146-114,House,114,1,Final Passage Under Suspension of the Rules Results,220,http://clerk.house.gov/evs/2015/roll220.xml
 HR216-114,House,114,1,Final Passage Under Suspension of the Rules Results,134,http://clerk.house.gov/evs/2015/roll134.xml
 HR2187-114,House,114,2,Final Passage Under Suspension of the Rules Results,46,http://clerk.house.gov/evs/2016/roll046.xml
-HR22-114,Senate,114,1,FREE TEXT,331,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00331
-HR22-114,Senate,114,1,FREE TEXT,330,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00330
+HR22-114,Senate,114,1,FREE TEXT,331,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00331.xml
+HR22-114,Senate,114,1,FREE TEXT,330,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00330.xml
 HR22-114,House,114,1,Placeholder Text for H42510,673,http://clerk.house.gov/evs/2015/roll673.xml
-HR22-114,Senate,114,1,MOTION TO INSTRUCT,304,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00304
-HR22-114,Senate,114,1,CLOTURE MOTION,303,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00303
+HR22-114,Senate,114,1,MOTION TO INSTRUCT,304,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00304.xml
+HR22-114,Senate,114,1,CLOTURE MOTION,303,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00303.xml
 HR22-114,House,114,1,Vote on House Agreeing to the Senate Action,624,http://clerk.house.gov/evs/2015/roll624.xml
 HR22-114,House,114,1,Free Form Motions Results,623,http://clerk.house.gov/evs/2015/roll623.xml
-HR22-114,Senate,114,1,PASSED SENATE,260,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00260
-HR22-114,Senate,114,1,CLOTURE MOTION,259,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00259
-HR22-114,Senate,114,1,MOTION TO CONSIDER,252,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00252
-HR22-114,Senate,114,1,CLOTURE MOTION,251,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00251
-HR22-114,Senate,114,1,CLOTURE MOTION,250,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00250
+HR22-114,Senate,114,1,PASSED SENATE,260,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00260.xml
+HR22-114,Senate,114,1,CLOTURE MOTION,259,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00259.xml
+HR22-114,Senate,114,1,MOTION TO CONSIDER,252,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00252.xml
+HR22-114,Senate,114,1,CLOTURE MOTION,251,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00251.xml
+HR22-114,Senate,114,1,CLOTURE MOTION,250,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00250.xml
 HR22-114,House,114,1,Final Passage Under Suspension of the Rules Results,7,http://clerk.house.gov/evs/2015/roll007.xml
 HR2200-114,House,114,1,Final Passage Under Suspension of the Rules Results,389,http://clerk.house.gov/evs/2015/roll389.xml
 HR2250-114,House,114,1,Passage of a Measure,247,http://clerk.house.gov/evs/2015/roll247.xml
@@ -791,18 +791,18 @@ HR2357-114,House,114,2,Motion to Commit/Recommit With Instructions Results,492,h
 HR2393-114,House,114,1,Passage of a Measure,333,http://clerk.house.gov/evs/2015/roll333.xml
 HR240-114,House,114,1,Vote on House Agreeing to the Senate Action,109,http://clerk.house.gov/evs/2015/roll109.xml
 HR240-114,House,114,1,Motion To Table Results,108,http://clerk.house.gov/evs/2015/roll108.xml
-HR240-114,Senate,114,1,FREE TEXT,65,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00065
-HR240-114,Senate,114,1,CLOTURE MOTION,64,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00064
+HR240-114,Senate,114,1,FREE TEXT,65,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00065.xml
+HR240-114,Senate,114,1,CLOTURE MOTION,64,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00064.xml
 HR240-114,House,114,1,Vote on House Agreeing to the Senate Action,105,http://clerk.house.gov/evs/2015/roll105.xml
 HR240-114,House,114,1,Vote on House Agreeing to the Senate Action,102,http://clerk.house.gov/evs/2015/roll102.xml
-HR240-114,Senate,114,1,PASSED SENATE,62,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00062
-HR240-114,Senate,114,1,CLOTURE MOTION,59,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00059
-HR240-114,Senate,114,1,CLOTURE MOTION,58,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00058
-HR240-114,Senate,114,1,MOTION TO RECONSIDER,57,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00057
-HR240-114,Senate,114,1,CLOTURE MOTION,57,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00057
-HR240-114,Senate,114,1,CLOTURE MOTION,53,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00053
-HR240-114,Senate,114,1,CLOTURE MOTION,52,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00052
-HR240-114,Senate,114,1,CLOTURE MOTION,51,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00051
+HR240-114,Senate,114,1,PASSED SENATE,62,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00062.xml
+HR240-114,Senate,114,1,CLOTURE MOTION,59,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00059.xml
+HR240-114,Senate,114,1,CLOTURE MOTION,58,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00058.xml
+HR240-114,Senate,114,1,MOTION TO RECONSIDER,57,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00057.xml
+HR240-114,Senate,114,1,CLOTURE MOTION,57,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00057.xml
+HR240-114,Senate,114,1,CLOTURE MOTION,53,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00053.xml
+HR240-114,Senate,114,1,CLOTURE MOTION,52,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00052.xml
+HR240-114,Senate,114,1,CLOTURE MOTION,51,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00051.xml
 HR240-114,House,114,1,Passage of a Measure,35,http://clerk.house.gov/evs/2015/roll035.xml
 HR240-114,House,114,1,Motion to Commit/Recommit With Instructions Results,34,http://clerk.house.gov/evs/2015/roll034.xml
 HR2406-114,House,114,2,Passage of a Measure,101,http://clerk.house.gov/evs/2016/roll101.xml
@@ -813,33 +813,33 @@ HR251-114,House,114,1,Final Passage Under Suspension of the Rules Results,435,ht
 HR2559-114,House,114,1,Final Passage Under Suspension of the Rules Results,365,http://clerk.house.gov/evs/2015/roll365.xml
 HR2576-114,House,114,2,Vote on House Agreeing to the Senate Action,238,http://clerk.house.gov/evs/2016/roll238.xml
 HR2576-114,House,114,1,Final Passage Under Suspension of the Rules Results,378,http://clerk.house.gov/evs/2015/roll378.xml
-HR2577-114,Senate,114,2,CLOTURE MOTION,135,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00135
-HR2577-114,Senate,114,2,CLOTURE MOTION,134,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00134
-HR2577-114,Senate,114,2,CLOTURE MOTION,112,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00112
+HR2577-114,Senate,114,2,CLOTURE MOTION,135,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00135.xml
+HR2577-114,Senate,114,2,CLOTURE MOTION,134,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00134.xml
+HR2577-114,Senate,114,2,CLOTURE MOTION,112,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00112.xml
 HR2577-114,House,114,2,Placeholder Text for H42510,342,http://clerk.house.gov/evs/2016/roll342.xml
-HR2577-114,Senate,114,2,MOTION TO INSTRUCT,94,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00094
-HR2577-114,Senate,114,2,MOTION TO INSTRUCT,93,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00093
-HR2577-114,Senate,114,2,CLOTURE MOTION,92,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00092
-HR2577-114,Senate,114,2,PASSED SENATE,82,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00082
+HR2577-114,Senate,114,2,MOTION TO INSTRUCT,94,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00094.xml
+HR2577-114,Senate,114,2,MOTION TO INSTRUCT,93,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00093.xml
+HR2577-114,Senate,114,2,CLOTURE MOTION,92,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00092.xml
+HR2577-114,Senate,114,2,PASSED SENATE,82,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00082.xml
 HR2577-114,House,114,1,Passage of a Measure,329,http://clerk.house.gov/evs/2015/roll329.xml
 HR2577-114,House,114,1,Motion to Commit/Recommit With Instructions Results,328,http://clerk.house.gov/evs/2015/roll328.xml
-HR2578-114,Senate,114,2,MOTION TO TABLE REJECTED,109,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00109
-HR2578-114,Senate,114,2,MOTION TO TABLE AGREED TO,107,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00107
-HR2578-114,Senate,114,2,CLOTURE MOTION,104,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00104
-HR2578-114,Senate,114,2,CLOTURE MOTION,99,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00099
+HR2578-114,Senate,114,2,MOTION TO TABLE REJECTED,109,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00109.xml
+HR2578-114,Senate,114,2,MOTION TO TABLE AGREED TO,107,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00107.xml
+HR2578-114,Senate,114,2,CLOTURE MOTION,104,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00104.xml
+HR2578-114,Senate,114,2,CLOTURE MOTION,99,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00099.xml
 HR2578-114,House,114,1,Passage of a Measure,297,http://clerk.house.gov/evs/2015/roll297.xml
 HR2578-114,House,114,1,Motion to Commit/Recommit With Instructions Results,296,http://clerk.house.gov/evs/2015/roll296.xml
 HR2596-114,House,114,1,Passage of a Measure,369,http://clerk.house.gov/evs/2015/roll369.xml
 HR2596-114,House,114,1,Motion to Commit/Recommit With Instructions Results,368,http://clerk.house.gov/evs/2015/roll368.xml
-HR26-114,Senate,114,1,PASSED SENATE,2,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00002
+HR26-114,Senate,114,1,PASSED SENATE,2,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00002.xml
 HR26-114,House,114,1,Final Passage Under Suspension of the Rules Results,8,http://clerk.house.gov/evs/2015/roll008.xml
 HR2646-114,House,114,2,Final Passage Under Suspension of the Rules Results,355,http://clerk.house.gov/evs/2016/roll355.xml
 HR2647-114,House,114,1,Passage of a Measure,428,http://clerk.house.gov/evs/2015/roll428.xml
 HR2666-114,House,114,2,Passage of a Measure,152,http://clerk.house.gov/evs/2016/roll152.xml
 HR2669-114,House,114,2,Final Passage Under Suspension of the Rules Results,576,http://clerk.house.gov/evs/2016/roll576.xml
-HR2685-114,Senate,114,1,CLOTURE MOTION,298,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00298
-HR2685-114,Senate,114,1,CLOTURE MOTION,269,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00269
-HR2685-114,Senate,114,1,CLOTURE MOTION,216,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00216
+HR2685-114,Senate,114,1,CLOTURE MOTION,298,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00298.xml
+HR2685-114,Senate,114,1,CLOTURE MOTION,269,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00269.xml
+HR2685-114,Senate,114,1,CLOTURE MOTION,216,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00216.xml
 HR2685-114,House,114,1,Passage of a Measure,358,http://clerk.house.gov/evs/2015/roll358.xml
 HR2685-114,House,114,1,Motion to Commit/Recommit With Instructions Results,357,http://clerk.house.gov/evs/2015/roll357.xml
 HR2722-114,House,114,1,Final Passage Under Suspension of the Rules Results,442,http://clerk.house.gov/evs/2015/roll442.xml
@@ -874,7 +874,7 @@ HR3192-114,House,114,1,Passage of a Measure,540,http://clerk.house.gov/evs/2015/
 HR3192-114,House,114,1,Motion to Commit/Recommit With Instructions Results,539,http://clerk.house.gov/evs/2015/roll539.xml
 HR322-114,House,114,1,Final Passage Under Suspension of the Rules Results,507,http://clerk.house.gov/evs/2015/roll507.xml
 HR3231-114,House,114,2,Final Passage Under Suspension of the Rules Results,35,http://clerk.house.gov/evs/2016/roll035.xml
-HR3236-114,Senate,114,1,"PASSED OR AGREED TO IN SENATE, DAY OF",261,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00261
+HR3236-114,Senate,114,1,"PASSED OR AGREED TO IN SENATE, DAY OF",261,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00261.xml
 HR3236-114,House,114,1,Passage of a Measure,486,http://clerk.house.gov/evs/2015/roll486.xml
 HR3293-114,House,114,2,Passage of a Measure,70,http://clerk.house.gov/evs/2016/roll070.xml
 HR3293-114,House,114,2,Motion to Commit/Recommit With Instructions Results,69,http://clerk.house.gov/evs/2016/roll069.xml
@@ -883,8 +883,8 @@ HR33-114,House,114,1,Final Passage Under Suspension of the Rules Results,18,http
 HR3340-114,House,114,2,Passage of a Measure,146,http://clerk.house.gov/evs/2016/roll146.xml
 HR3340-114,House,114,2,Placeholder Text for H36810,145,http://clerk.house.gov/evs/2016/roll145.xml
 HR3350-114,House,114,1,Final Passage Under Suspension of the Rules Results,551,http://clerk.house.gov/evs/2015/roll551.xml
-HR34-114,Senate,114,2,SENATE AGREED (FREE TEXT),157,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00157
-HR34-114,Senate,114,2,CLOTURE MOTION,156,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00156
+HR34-114,Senate,114,2,SENATE AGREED (FREE TEXT),157,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00157.xml
+HR34-114,Senate,114,2,CLOTURE MOTION,156,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00156.xml
 HR34-114,House,114,2,Vote on House Agreeing to the Senate Action,592,http://clerk.house.gov/evs/2016/roll592.xml
 HR3438-114,House,114,2,Passage of a Measure,535,http://clerk.house.gov/evs/2016/roll535.xml
 HR3438-114,House,114,2,Motion to Commit/Recommit With Instructions Results,534,http://clerk.house.gov/evs/2016/roll534.xml
@@ -905,7 +905,7 @@ HR351-114,House,114,1,Motion to Commit/Recommit With Instructions Results,49,htt
 HR3537-114,House,114,2,Final Passage Under Suspension of the Rules Results,557,http://clerk.house.gov/evs/2016/roll557.xml
 HR3578-114,House,114,1,Final Passage Under Suspension of the Rules Results,687,http://clerk.house.gov/evs/2015/roll687.xml
 HR3590-114,House,114,2,Passage of a Measure,502,http://clerk.house.gov/evs/2016/roll502.xml
-HR36-114,Senate,114,1,CLOTURE MOTION,268,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00268
+HR36-114,Senate,114,1,CLOTURE MOTION,268,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00268.xml
 HR36-114,House,114,1,Passage of a Measure,223,http://clerk.house.gov/evs/2015/roll223.xml
 HR36-114,House,114,1,Motion to Commit/Recommit With Instructions Results,222,http://clerk.house.gov/evs/2015/roll222.xml
 HR360-114,House,114,1,Final Passage Under Suspension of the Rules Results,130,http://clerk.house.gov/evs/2015/roll130.xml
@@ -925,7 +925,7 @@ HR3735-114,House,114,2,Final Passage Under Suspension of the Rules Results,104,h
 HR3750-114,House,114,1,Final Passage Under Suspension of the Rules Results,699,http://clerk.house.gov/evs/2015/roll699.xml
 HR3762-114,House,114,2,Placeholder Text for H43410,53,http://clerk.house.gov/evs/2016/roll053.xml
 HR3762-114,House,114,2,Vote on House Agreeing to the Senate Action,6,http://clerk.house.gov/evs/2016/roll006.xml
-HR3762-114,Senate,114,1,PASSED SENATE,329,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00329
+HR3762-114,Senate,114,1,PASSED SENATE,329,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00329.xml
 HR3762-114,House,114,1,Passage of a Measure,568,http://clerk.house.gov/evs/2015/roll568.xml
 HR3791-114,House,114,2,Passage of a Measure,149,http://clerk.house.gov/evs/2016/roll149.xml
 HR3791-114,House,114,2,Placeholder Text for H36810,148,http://clerk.house.gov/evs/2016/roll148.xml
@@ -936,7 +936,7 @@ HR3842-114,House,114,1,Final Passage Under Suspension of the Rules Results,680,h
 HR3881-114,House,114,2,Final Passage Under Suspension of the Rules Results,480,http://clerk.house.gov/evs/2016/roll480.xml
 HR3957-114,House,114,2,Final Passage Under Suspension of the Rules Results,528,http://clerk.house.gov/evs/2016/roll528.xml
 HR3998-114,House,114,2,Final Passage Under Suspension of the Rules Results,230,http://clerk.house.gov/evs/2016/roll230.xml
-HR4038-114,Senate,114,2,CLOTURE MOTION,4,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00004
+HR4038-114,Senate,114,2,CLOTURE MOTION,4,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00004.xml
 HR4038-114,House,114,1,Passage of a Measure,643,http://clerk.house.gov/evs/2015/roll643.xml
 HR4038-114,House,114,1,Motion to Commit/Recommit With Instructions Results,642,http://clerk.house.gov/evs/2015/roll642.xml
 HR4096-114,House,114,2,Final Passage Under Suspension of the Rules Results,165,http://clerk.house.gov/evs/2016/roll165.xml
@@ -960,7 +960,7 @@ HR4419-114,House,114,2,Final Passage Under Suspension of the Rules Results,551,h
 HR4434-114,House,114,2,Final Passage Under Suspension of the Rules Results,126,http://clerk.house.gov/evs/2016/roll126.xml
 HR4470-114,House,114,2,Final Passage Under Suspension of the Rules Results,67,http://clerk.house.gov/evs/2016/roll067.xml
 HR4498-114,House,114,2,Passage of a Measure,171,http://clerk.house.gov/evs/2016/roll171.xml
-HR4511-114,Senate,114,2,PASSED SENATE,152,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00152
+HR4511-114,Senate,114,2,PASSED SENATE,152,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00152.xml
 HR4557-114,House,114,2,Passage of a Measure,109,http://clerk.house.gov/evs/2016/roll109.xml
 HR4570-114,House,114,2,Final Passage Under Suspension of the Rules Results,153,http://clerk.house.gov/evs/2016/roll153.xml
 HR4586-114,House,114,2,Final Passage Under Suspension of the Rules Results,189,http://clerk.house.gov/evs/2016/roll189.xml
@@ -1029,19 +1029,19 @@ HR527-114,House,114,1,Motion to Commit/Recommit With Instructions Results,67,htt
 HR5278-114,House,114,2,Passage of a Measure,288,http://clerk.house.gov/evs/2016/roll288.xml
 HR529-114,House,114,1,Passage of a Measure,90,http://clerk.house.gov/evs/2015/roll090.xml
 HR529-114,House,114,1,Motion to Commit/Recommit With Instructions Results,89,http://clerk.house.gov/evs/2015/roll089.xml
-HR5293-114,Senate,114,2,CLOTURE MOTION,136,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00136
-HR5293-114,Senate,114,2,CLOTURE MOTION,133,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00133
-HR5293-114,Senate,114,2,CLOTURE MOTION,124,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00124
+HR5293-114,Senate,114,2,CLOTURE MOTION,136,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00136.xml
+HR5293-114,Senate,114,2,CLOTURE MOTION,133,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00133.xml
+HR5293-114,Senate,114,2,CLOTURE MOTION,124,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00124.xml
 HR5293-114,House,114,2,Passage of a Measure,332,http://clerk.house.gov/evs/2016/roll332.xml
 HR5303-114,House,114,2,Passage of a Measure,572,http://clerk.house.gov/evs/2016/roll572.xml
 HR5303-114,House,114,2,Motion to Commit/Recommit With Instructions Results,571,http://clerk.house.gov/evs/2016/roll571.xml
 HR5312-114,House,114,2,Final Passage Under Suspension of the Rules Results,298,http://clerk.house.gov/evs/2016/roll298.xml
 HR5320-114,House,114,2,Final Passage Under Suspension of the Rules Results,545,http://clerk.house.gov/evs/2016/roll545.xml
 HR5325-114,House,114,2,Vote on House Agreeing to the Senate Action,573,http://clerk.house.gov/evs/2016/roll573.xml
-HR5325-114,Senate,114,2,PASSED SENATE,151,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00151
-HR5325-114,Senate,114,2,CLOTURE MOTION,150,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00150
-HR5325-114,Senate,114,2,CLOTURE MOTION,147,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00147
-HR5325-114,Senate,114,2,CLOTURE MOTION,144,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00144
+HR5325-114,Senate,114,2,PASSED SENATE,151,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00151.xml
+HR5325-114,Senate,114,2,CLOTURE MOTION,150,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00150.xml
+HR5325-114,Senate,114,2,CLOTURE MOTION,147,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00147.xml
+HR5325-114,Senate,114,2,CLOTURE MOTION,144,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00144.xml
 HR5325-114,House,114,2,Passage of a Measure,294,http://clerk.house.gov/evs/2016/roll294.xml
 HR5325-114,House,114,2,Motion to Commit/Recommit With Instructions Results,293,http://clerk.house.gov/evs/2016/roll293.xml
 HR5351-114,House,114,2,Passage of a Measure,520,http://clerk.house.gov/evs/2016/roll520.xml
@@ -1091,7 +1091,7 @@ HR5977-114,House,114,2,Final Passage Under Suspension of the Rules Results,539,h
 HR598-114,House,114,2,Final Passage Under Suspension of the Rules Results,34,http://clerk.house.gov/evs/2016/roll034.xml
 HR5982-114,House,114,2,Passage of a Measure,585,http://clerk.house.gov/evs/2016/roll585.xml
 HR5982-114,House,114,2,Motion to Commit/Recommit With Instructions Results,584,http://clerk.house.gov/evs/2016/roll584.xml
-HR5985-114,Senate,114,2,PASSED SENATE,143,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00143
+HR5985-114,Senate,114,2,PASSED SENATE,143,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00143.xml
 HR6-114,House,114,1,Passage of a Measure,433,http://clerk.house.gov/evs/2015/roll433.xml
 HR6007-114,House,114,2,Final Passage Under Suspension of the Rules Results,538,http://clerk.house.gov/evs/2016/roll538.xml
 HR6014-114,House,114,2,Final Passage Under Suspension of the Rules Results,540,http://clerk.house.gov/evs/2016/roll540.xml
@@ -1102,12 +1102,12 @@ HR615-114,House,114,1,Final Passage Under Suspension of the Rules Results,52,htt
 HR622-114,House,114,1,Passage of a Measure,159,http://clerk.house.gov/evs/2015/roll159.xml
 HR622-114,House,114,1,Motion to Commit/Recommit With Instructions Results,158,http://clerk.house.gov/evs/2015/roll158.xml
 HR623-114,House,114,1,Final Passage Under Suspension of the Rules Results,53,http://clerk.house.gov/evs/2015/roll053.xml
-HR6297-114,Senate,114,2,PASSED SENATE,155,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00155
+HR6297-114,Senate,114,2,PASSED SENATE,155,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00155.xml
 HR6297-114,House,114,2,Final Passage Under Suspension of the Rules Results,577,http://clerk.house.gov/evs/2016/roll577.xml
-HR636-114,Senate,114,2,SENATE AGREED (FREE TEXT),127,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00127
-HR636-114,Senate,114,2,PASSED SENATE,47,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00047
-HR636-114,Senate,114,2,CLOTURE MOTION,46,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00046
-HR636-114,Senate,114,2,CLOTURE MOTION,40,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00040
+HR636-114,Senate,114,2,SENATE AGREED (FREE TEXT),127,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00127.xml
+HR636-114,Senate,114,2,PASSED SENATE,47,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00047.xml
+HR636-114,Senate,114,2,CLOTURE MOTION,46,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00046.xml
+HR636-114,Senate,114,2,CLOTURE MOTION,40,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00040.xml
 HR636-114,House,114,1,Passage of a Measure,82,http://clerk.house.gov/evs/2015/roll082.xml
 HR636-114,House,114,1,Motion to Commit/Recommit With Instructions Results,81,http://clerk.house.gov/evs/2015/roll081.xml
 HR6392-114,House,114,2,Passage of a Measure,599,http://clerk.house.gov/evs/2016/roll599.xml
@@ -1116,14 +1116,14 @@ HR6393-114,House,114,2,Final Passage Under Suspension of the Rules Results,593,h
 HR6394-114,House,114,2,Final Passage Under Suspension of the Rules Results,604,http://clerk.house.gov/evs/2016/roll604.xml
 HR6416-114,House,114,2,Final Passage Under Suspension of the Rules Results,606,http://clerk.house.gov/evs/2016/roll606.xml
 HR6427-114,House,114,2,Final Passage Under Suspension of the Rules Results,602,http://clerk.house.gov/evs/2016/roll602.xml
-HR644-114,Senate,114,2,CONFERENCE REPORT AGREED TO,22,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00022
-HR644-114,Senate,114,2,CLOTURE MOTION,21,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00021
+HR644-114,Senate,114,2,CONFERENCE REPORT AGREED TO,22,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00022.xml
+HR644-114,Senate,114,2,CLOTURE MOTION,21,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00021.xml
 HR644-114,House,114,1,Placeholder Text for H42510,693,http://clerk.house.gov/evs/2015/roll693.xml
 HR644-114,House,114,1,Placeholder Text for H42411,692,http://clerk.house.gov/evs/2015/roll692.xml
 HR644-114,House,114,1,Vote on House Agreeing to the Senate Action,655,http://clerk.house.gov/evs/2015/roll655.xml
 HR644-114,House,114,1,Vote on House Agreeing to the Senate Action,652,http://clerk.house.gov/evs/2015/roll652.xml
 HR644-114,House,114,1,Vote on House Agreeing to the Senate Action,363,http://clerk.house.gov/evs/2015/roll363.xml
-HR644-114,Senate,114,1,PASSED SENATE,179,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00179
+HR644-114,Senate,114,1,PASSED SENATE,179,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00179.xml
 HR644-114,House,114,1,Passage of a Measure,80,http://clerk.house.gov/evs/2015/roll080.xml
 HR644-114,House,114,1,Motion to Commit/Recommit With Instructions Results,79,http://clerk.house.gov/evs/2015/roll079.xml
 HR647-114,House,114,1,Final Passage Under Suspension of the Rules Results,113,http://clerk.house.gov/evs/2015/roll113.xml
@@ -1143,15 +1143,15 @@ HR702-114,House,114,1,Motion to Commit/Recommit With Instructions Results,548,ht
 HR712-114,House,114,2,Passage of a Measure,12,http://clerk.house.gov/evs/2016/roll012.xml
 HR712-114,House,114,2,Motion to Commit/Recommit With Instructions Results,11,http://clerk.house.gov/evs/2016/roll011.xml
 HR719-114,House,114,1,Vote on House Agreeing to the Senate Action,528,http://clerk.house.gov/evs/2015/roll528.xml
-HR719-114,Senate,114,1,SENATE CONCURRED (FREE TEXT),272,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00272
-HR719-114,Senate,114,1,CLOTURE MOTION,271,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00271
+HR719-114,Senate,114,1,SENATE CONCURRED (FREE TEXT),272,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00272.xml
+HR719-114,Senate,114,1,CLOTURE MOTION,271,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00271.xml
 HR719-114,House,114,1,Final Passage Under Suspension of the Rules Results,69,http://clerk.house.gov/evs/2015/roll069.xml
 HR720-114,House,114,1,Final Passage Under Suspension of the Rules Results,70,http://clerk.house.gov/evs/2015/roll070.xml
 HR734-114,House,114,1,Final Passage Under Suspension of the Rules Results,85,http://clerk.house.gov/evs/2015/roll085.xml
 HR749-114,House,114,1,Passage of a Measure,112,http://clerk.house.gov/evs/2015/roll112.xml
 HR749-114,House,114,1,Motion to Commit/Recommit With Instructions Results,111,http://clerk.house.gov/evs/2015/roll111.xml
 HR757-114,House,114,2,Vote on House Agreeing to the Senate Action,82,http://clerk.house.gov/evs/2016/roll082.xml
-HR757-114,Senate,114,2,PASSED SENATE,20,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00020
+HR757-114,Senate,114,2,PASSED SENATE,20,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00020.xml
 HR757-114,House,114,2,Final Passage Under Suspension of the Rules Results,43,http://clerk.house.gov/evs/2016/roll043.xml
 HR758-114,House,114,1,Passage of a Measure,501,http://clerk.house.gov/evs/2015/roll501.xml
 HR758-114,House,114,1,Motion to Commit/Recommit With Instructions Results,500,http://clerk.house.gov/evs/2015/roll500.xml
@@ -1170,183 +1170,183 @@ HR91-114,House,114,1,Vote on House Agreeing to the Senate Action,391,http://cler
 HR91-114,House,114,1,Final Passage Under Suspension of the Rules Results,240,http://clerk.house.gov/evs/2015/roll240.xml
 HR954-114,House,114,2,Passage of a Measure,563,http://clerk.house.gov/evs/2016/roll563.xml
 HR985-114,House,114,2,Final Passage Under Suspension of the Rules Results,575,http://clerk.house.gov/evs/2016/roll575.xml
-S1-114,Senate,114,1,FAILED OF PASSAGE OVER VETO,68,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00068
+S1-114,Senate,114,1,FAILED OF PASSAGE OVER VETO,68,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00068.xml
 S1-114,House,114,1,Passage of a Measure,75,http://clerk.house.gov/evs/2015/roll075.xml
 S1-114,House,114,1,Motion to Commit/Recommit With Instructions Results,74,http://clerk.house.gov/evs/2015/roll074.xml
-S1-114,Senate,114,1,PASSED SENATE,49,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00049
-S1-114,Senate,114,1,CLOTURE MOTION,45,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00045
-S1-114,Senate,114,1,CLOTURE MOTION,30,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00030
-S1-114,Senate,114,1,CLOTURE MOTION,3,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00003
+S1-114,Senate,114,1,PASSED SENATE,49,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00049.xml
+S1-114,Senate,114,1,CLOTURE MOTION,45,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00045.xml
+S1-114,Senate,114,1,CLOTURE MOTION,30,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00030.xml
+S1-114,Senate,114,1,CLOTURE MOTION,3,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00003.xml
 S1090-114,House,114,1,Final Passage Under Suspension of the Rules Results,697,http://clerk.house.gov/evs/2015/roll697.xml
-S1140-114,Senate,114,1,CLOTURE MOTION,295,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00295
+S1140-114,Senate,114,1,CLOTURE MOTION,295,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00295.xml
 S1170-114,House,114,1,Final Passage Under Suspension of the Rules Results,648,http://clerk.house.gov/evs/2015/roll648.xml
-S1177-114,Senate,114,1,CONFERENCE REPORT AGREED TO,334,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00334
-S1177-114,Senate,114,1,CLOTURE MOTION,333,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00333
+S1177-114,Senate,114,1,CONFERENCE REPORT AGREED TO,334,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00334.xml
+S1177-114,Senate,114,1,CLOTURE MOTION,333,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00333.xml
 S1177-114,House,114,1,Placeholder Text for H42510,665,http://clerk.house.gov/evs/2015/roll665.xml
-S1177-114,Senate,114,1,CLOTURE MOTION,308,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00308
-S1177-114,Senate,114,1,PASSED SENATE,249,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00249
-S1177-114,Senate,114,1,CLOTURE MOTION,248,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00248
+S1177-114,Senate,114,1,CLOTURE MOTION,308,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00308.xml
+S1177-114,Senate,114,1,PASSED SENATE,249,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00249.xml
+S1177-114,Senate,114,1,CLOTURE MOTION,248,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00248.xml
 S1252-114,House,114,2,Final Passage Under Suspension of the Rules Results,354,http://clerk.house.gov/evs/2016/roll354.xml
-S1356-114,Senate,114,1,SENATE AGREED (FREE TEXT),301,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00301
+S1356-114,Senate,114,1,SENATE AGREED (FREE TEXT),301,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00301.xml
 S1356-114,House,114,1,Final Passage Under Suspension of the Rules Results,618,http://clerk.house.gov/evs/2015/roll618.xml
-S1357-114,Senate,114,1,CLOTURE MOTION,195,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00195
+S1357-114,Senate,114,1,CLOTURE MOTION,195,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00195.xml
 S1359-114,House,114,1,Final Passage Under Suspension of the Rules Results,490,http://clerk.house.gov/evs/2015/roll490.xml
 S1482-114,House,114,1,Final Passage Under Suspension of the Rules Results,467,http://clerk.house.gov/evs/2015/roll467.xml
 S1550-114,House,114,2,Final Passage Under Suspension of the Rules Results,550,http://clerk.house.gov/evs/2016/roll550.xml
 S1635-114,House,114,2,Final Passage Under Suspension of the Rules Results,603,http://clerk.house.gov/evs/2016/roll603.xml
 S178-114,House,114,1,Final Passage Under Suspension of the Rules Results,244,http://clerk.house.gov/evs/2015/roll244.xml
-S178-114,Senate,114,1,PASSED SENATE,163,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00163
-S178-114,Senate,114,1,CLOTURE MOTION,76,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00076
-S178-114,Senate,114,1,CLOTURE MOTION,75,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00075
-S178-114,Senate,114,1,CLOTURE MOTION,74,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00074
-S178-114,Senate,114,1,CLOTURE MOTION,73,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00073
-S178-114,Senate,114,1,CLOTURE MOTION,72,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00072
+S178-114,Senate,114,1,PASSED SENATE,163,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00163.xml
+S178-114,Senate,114,1,CLOTURE MOTION,76,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00076.xml
+S178-114,Senate,114,1,CLOTURE MOTION,75,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00075.xml
+S178-114,Senate,114,1,CLOTURE MOTION,74,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00074.xml
+S178-114,Senate,114,1,CLOTURE MOTION,73,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00073.xml
+S178-114,Senate,114,1,CLOTURE MOTION,72,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00072.xml
 S1826-114,House,114,2,Final Passage Under Suspension of the Rules Results,108,http://clerk.house.gov/evs/2016/roll108.xml
-S1881-114,Senate,114,1,CLOTURE MOTION,262,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00262
+S1881-114,Senate,114,1,CLOTURE MOTION,262,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00262.xml
 S1890-114,House,114,2,Final Passage Under Suspension of the Rules Results,172,http://clerk.house.gov/evs/2016/roll172.xml
-S1890-114,Senate,114,2,PASSED SENATE,39,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00039
-S2012-114,Senate,114,2,CLOTURE MOTION,125,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00125
+S1890-114,Senate,114,2,PASSED SENATE,39,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00039.xml
+S2012-114,Senate,114,2,CLOTURE MOTION,125,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00125.xml
 S2012-114,House,114,2,Vote on House Agreeing to the Senate Action,264,http://clerk.house.gov/evs/2016/roll264.xml
 S2012-114,House,114,2,Passage of a Measure,250,http://clerk.house.gov/evs/2016/roll250.xml
 S2012-114,House,114,2,Motion to Commit/Recommit With Instructions Results,249,http://clerk.house.gov/evs/2016/roll249.xml
-S2012-114,Senate,114,2,PASSED SENATE,54,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00054
-S2012-114,Senate,114,2,CLOTURE MOTION,17,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00017
+S2012-114,Senate,114,2,PASSED SENATE,54,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00054.xml
+S2012-114,Senate,114,2,CLOTURE MOTION,17,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00017.xml
 S2040-114,House,114,2,Placeholder Text for H43410,564,http://clerk.house.gov/evs/2016/roll564.xml
-S2040-114,Senate,114,2,PASSED OVER VETO,148,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00148
+S2040-114,Senate,114,2,PASSED OVER VETO,148,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00148.xml
 S2082-114,House,114,1,Final Passage Under Suspension of the Rules Results,526,http://clerk.house.gov/evs/2015/roll526.xml
-S2146-114,Senate,114,1,CLOTURE MOTION,280,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00280
-S2193-114,Senate,114,2,CLOTURE MOTION,120,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00120
-S2232-114,Senate,114,2,CLOTURE MOTION,2,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00002
-S2328-114,Senate,114,2,SENATE AGREED (FREE TEXT),116,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00116
-S2328-114,Senate,114,2,MOTION TO WAIVE (MEASURE),115,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00115
-S2328-114,Senate,114,2,MOTION TO TABLE REJECTED,114,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00114
-S2328-114,Senate,114,2,CLOTURE MOTION,113,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00113
+S2146-114,Senate,114,1,CLOTURE MOTION,280,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00280.xml
+S2193-114,Senate,114,2,CLOTURE MOTION,120,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00120.xml
+S2232-114,Senate,114,2,CLOTURE MOTION,2,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00002.xml
+S2328-114,Senate,114,2,SENATE AGREED (FREE TEXT),116,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00116.xml
+S2328-114,Senate,114,2,MOTION TO WAIVE (MEASURE),115,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00115.xml
+S2328-114,Senate,114,2,MOTION TO TABLE REJECTED,114,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00114.xml
+S2328-114,Senate,114,2,CLOTURE MOTION,113,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00113.xml
 S2426-114,House,114,2,Final Passage Under Suspension of the Rules Results,111,http://clerk.house.gov/evs/2016/roll111.xml
-S2613-114,Senate,114,2,PASSED SENATE,83,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00083
-S2848-114,Senate,114,2,PASSED SENATE,141,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00141
-S2848-114,Senate,114,2,CLOTURE MOTION,140,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00140
-S2873-114,Senate,114,2,PASSED SENATE,154,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00154
-S2943-114,Senate,114,2,CONFERENCE REPORT AGREED TO,159,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00159
-S2943-114,Senate,114,2,CLOTURE MOTION,158,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00158
+S2613-114,Senate,114,2,PASSED SENATE,83,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00083.xml
+S2848-114,Senate,114,2,PASSED SENATE,141,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00141.xml
+S2848-114,Senate,114,2,CLOTURE MOTION,140,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00140.xml
+S2873-114,Senate,114,2,PASSED SENATE,154,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00154.xml
+S2943-114,Senate,114,2,CONFERENCE REPORT AGREED TO,159,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00159.xml
+S2943-114,Senate,114,2,CLOTURE MOTION,158,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00158.xml
 S2943-114,House,114,2,Placeholder Text for H42510,600,http://clerk.house.gov/evs/2016/roll600.xml
-S2943-114,Senate,114,2,MOTION TO INSTRUCT,132,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00132
-S2943-114,Senate,114,2,MOTION TO INSTRUCT,131,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00131
-S2943-114,Senate,114,2,CLOTURE MOTION,130,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00130
-S2943-114,Senate,114,2,PASSED SENATE,98,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00098
-S2943-114,Senate,114,2,CLOTURE MOTION,97,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00097
-S2943-114,Senate,114,2,CLOTURE MOTION,87,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00087
-S295-114,Senate,114,1,PASSED SENATE,55,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00055
+S2943-114,Senate,114,2,MOTION TO INSTRUCT,132,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00132.xml
+S2943-114,Senate,114,2,MOTION TO INSTRUCT,131,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00131.xml
+S2943-114,Senate,114,2,CLOTURE MOTION,130,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00130.xml
+S2943-114,Senate,114,2,PASSED SENATE,98,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00098.xml
+S2943-114,Senate,114,2,CLOTURE MOTION,97,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00097.xml
+S2943-114,Senate,114,2,CLOTURE MOTION,87,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00087.xml
+S295-114,Senate,114,1,PASSED SENATE,55,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00055.xml
 S2971-114,House,114,2,Final Passage Under Suspension of the Rules Results,615,http://clerk.house.gov/evs/2016/roll615.xml
 S3028-114,House,114,2,Final Passage Under Suspension of the Rules Results,612,http://clerk.house.gov/evs/2016/roll612.xml
 S304-114,House,114,2,Passage of a Measure,443,http://clerk.house.gov/evs/2016/roll443.xml
 S304-114,House,114,2,Motion to Commit/Recommit With Instructions Results,442,http://clerk.house.gov/evs/2016/roll442.xml
-S3100-114,Senate,114,2,CLOTURE MOTION,119,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00119
-S3110-114,Senate,114,2,CLOTURE MOTION,153,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00153
+S3100-114,Senate,114,2,CLOTURE MOTION,119,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00119.xml
+S3110-114,Senate,114,2,CLOTURE MOTION,153,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00153.xml
 S3283-114,House,114,2,Final Passage Under Suspension of the Rules Results,567,http://clerk.house.gov/evs/2016/roll567.xml
-S524-114,Senate,114,2,CONFERENCE REPORT AGREED TO,129,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00129
-S524-114,Senate,114,2,CLOTURE MOTION,126,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00126
+S524-114,Senate,114,2,CONFERENCE REPORT AGREED TO,129,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00129.xml
+S524-114,Senate,114,2,CLOTURE MOTION,126,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00126.xml
 S524-114,House,114,2,Placeholder Text for H42510,399,http://clerk.house.gov/evs/2016/roll399.xml
-S524-114,Senate,114,2,MOTION TO INSTRUCT,102,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00102
-S524-114,Senate,114,2,MOTION TO INSTRUCT,101,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00101
-S524-114,Senate,114,2,CLOTURE MOTION,100,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00100
+S524-114,Senate,114,2,MOTION TO INSTRUCT,102,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00102.xml
+S524-114,Senate,114,2,MOTION TO INSTRUCT,101,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00101.xml
+S524-114,Senate,114,2,CLOTURE MOTION,100,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00100.xml
 S524-114,House,114,2,Vote on House Agreeing to the Senate Action,198,http://clerk.house.gov/evs/2016/roll198.xml
 S524-114,House,114,2,Passage of a Measure,193,http://clerk.house.gov/evs/2016/roll193.xml
-S524-114,Senate,114,2,PASSED SENATE,34,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00034
-S524-114,Senate,114,2,CLOTURE MOTION,33,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00033
-S524-114,Senate,114,2,CLOTURE MOTION,27,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00027
-S534-114,Senate,114,1,CLOTURE MOTION,63,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00063
-S612-114,Senate,114,2,SENATE AGREED (FREE TEXT),163,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00163
-S612-114,Senate,114,2,CLOTURE MOTION,162,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00162
+S524-114,Senate,114,2,PASSED SENATE,34,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00034.xml
+S524-114,Senate,114,2,CLOTURE MOTION,33,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00033.xml
+S524-114,Senate,114,2,CLOTURE MOTION,27,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00027.xml
+S534-114,Senate,114,1,CLOTURE MOTION,63,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00063.xml
+S612-114,Senate,114,2,SENATE AGREED (FREE TEXT),163,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00163.xml
+S612-114,Senate,114,2,CLOTURE MOTION,162,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00162.xml
 S612-114,House,114,2,Passage of a Measure,622,http://clerk.house.gov/evs/2016/roll622.xml
 S612-114,House,114,2,Motion to Commit/Recommit With Instructions Results,621,http://clerk.house.gov/evs/2016/roll621.xml
 S719-114,House,114,2,Final Passage Under Suspension of the Rules Results,154,http://clerk.house.gov/evs/2016/roll154.xml
-S754-114,Senate,114,1,PASSED SENATE,291,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00291
+S754-114,Senate,114,1,PASSED SENATE,291,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00291.xml
 S764-114,House,114,2,Vote on House Agreeing to the Senate Action,466,http://clerk.house.gov/evs/2016/roll466.xml
-S764-114,Senate,114,2,SENATE CONCURRED (FREE TEXT),123,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00123
-S764-114,Senate,114,2,CLOTURE MOTION,121,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00121
-S764-114,Senate,114,2,FREE TEXT,117,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00117
-S764-114,Senate,114,2,CLOTURE MOTION,37,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00037
-SJRES22-114,Senate,114,2,CLOTURE MOTION,5,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00005
+S764-114,Senate,114,2,SENATE CONCURRED (FREE TEXT),123,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00123.xml
+S764-114,Senate,114,2,CLOTURE MOTION,121,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00121.xml
+S764-114,Senate,114,2,FREE TEXT,117,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00117.xml
+S764-114,Senate,114,2,CLOTURE MOTION,37,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00037.xml
+SJRES22-114,Senate,114,2,CLOTURE MOTION,5,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00005.xml
 SJRES22-114,House,114,2,Passage of a Measure,45,http://clerk.house.gov/evs/2016/roll045.xml
-SJRES22-114,Senate,114,1,PASSED SENATE,297,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00297
-SJRES22-114,Senate,114,1,MOTION TO CONSIDER,296,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00296
+SJRES22-114,Senate,114,1,PASSED SENATE,297,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00297.xml
+SJRES22-114,Senate,114,1,MOTION TO CONSIDER,296,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00296.xml
 SJRES23-114,House,114,1,Passage of a Measure,651,http://clerk.house.gov/evs/2015/roll651.xml
-SJRES23-114,Senate,114,1,PASSED SENATE,307,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00307
+SJRES23-114,Senate,114,1,PASSED SENATE,307,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00307.xml
 SJRES24-114,House,114,1,Passage of a Measure,650,http://clerk.house.gov/evs/2015/roll650.xml
-SJRES24-114,Senate,114,1,PASSED SENATE,306,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00306
-SJRES28-114,Senate,114,2,PASSED SENATE,86,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00086
-SJRES28-114,Senate,114,2,MOTION TO CONSIDER,85,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00085
-SJRES31-114,Senate,114,2,MOTION TO TABLE AGREED TO,35,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00035
-SJRES39-114,Senate,114,2,MOTION TO TABLE AGREED TO,145,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=2&vote=00145
-SJRES8-114,Senate,114,1,MOTION TO TABLE AGREED TO,172,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00172
+SJRES24-114,Senate,114,1,PASSED SENATE,306,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00306.xml
+SJRES28-114,Senate,114,2,PASSED SENATE,86,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00086.xml
+SJRES28-114,Senate,114,2,MOTION TO CONSIDER,85,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00085.xml
+SJRES31-114,Senate,114,2,MOTION TO TABLE AGREED TO,35,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00035.xml
+SJRES39-114,Senate,114,2,MOTION TO TABLE AGREED TO,145,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1142/vote_114_2_00145.xml
+SJRES8-114,Senate,114,1,MOTION TO TABLE AGREED TO,172,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00172.xml
 SJRES8-114,House,114,1,Passage of a Measure,128,http://clerk.house.gov/evs/2015/roll128.xml
-SJRES8-114,Senate,114,1,PASSED SENATE,67,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00067
-SJRES8-114,Senate,114,1,MOTION TO CONSIDER,66,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=114&session=1&vote=00066
-HJRES111-115,Senate,115,1,PASSED SENATE,249,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00249
+SJRES8-114,Senate,114,1,PASSED SENATE,67,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00067.xml
+SJRES8-114,Senate,114,1,MOTION TO CONSIDER,66,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00066.xml
+HJRES111-115,Senate,115,1,PASSED SENATE,249,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00249.xml
 HJRES111-115,House,115,1,Passage of a Measure,412,http://clerk.house.gov/evs/2017/roll412.xml
-HJRES123-115,Senate,115,1,"PASSED OR AGREED TO IN SENATE, DAY OF",311,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00311
+HJRES123-115,Senate,115,1,"PASSED OR AGREED TO IN SENATE, DAY OF",311,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00311.xml
 HJRES123-115,House,115,1,Passage of a Measure,670,http://clerk.house.gov/evs/2017/roll670.xml
 HJRES2-115,House,115,2,Final Passage Under Suspension of the Rules Results,138,http://clerk.house.gov/evs/2018/roll138.xml
-HJRES36-115,Senate,115,1,MOTION TO CONSIDER,125,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00125
+HJRES36-115,Senate,115,1,MOTION TO CONSIDER,125,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00125.xml
 HJRES36-115,House,115,1,Passage of a Measure,78,http://clerk.house.gov/evs/2017/roll078.xml
-HJRES37-115,Senate,115,1,PASSED SENATE,81,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00081
-HJRES37-115,Senate,115,1,MOTION TO CONSIDER,80,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00080
+HJRES37-115,Senate,115,1,PASSED SENATE,81,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00081.xml
+HJRES37-115,Senate,115,1,MOTION TO CONSIDER,80,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00080.xml
 HJRES37-115,House,115,1,Passage of a Measure,76,http://clerk.house.gov/evs/2017/roll076.xml
-HJRES38-115,Senate,115,1,PASSED SENATE,43,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00043
-HJRES38-115,Senate,115,1,MOTION TO CONSIDER,42,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00042
+HJRES38-115,Senate,115,1,PASSED SENATE,43,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00043.xml
+HJRES38-115,Senate,115,1,MOTION TO CONSIDER,42,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00042.xml
 HJRES38-115,House,115,1,Passage of a Measure,73,http://clerk.house.gov/evs/2017/roll073.xml
-HJRES40-115,Senate,115,1,PASSED SENATE,66,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00066
+HJRES40-115,Senate,115,1,PASSED SENATE,66,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00066.xml
 HJRES40-115,House,115,1,Passage of a Measure,77,http://clerk.house.gov/evs/2017/roll077.xml
-HJRES41-115,Senate,115,1,PASSED SENATE,51,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00051
-HJRES41-115,Senate,115,1,MOTION TO CONSIDER,50,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00050
+HJRES41-115,Senate,115,1,PASSED SENATE,51,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00051.xml
+HJRES41-115,Senate,115,1,MOTION TO CONSIDER,50,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00050.xml
 HJRES41-115,House,115,1,Passage of a Measure,72,http://clerk.house.gov/evs/2017/roll072.xml
-HJRES42-115,Senate,115,1,PASSED SENATE,87,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00087
+HJRES42-115,Senate,115,1,PASSED SENATE,87,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00087.xml
 HJRES42-115,House,115,1,Passage of a Measure,97,http://clerk.house.gov/evs/2017/roll097.xml
-HJRES43-115,Senate,115,1,PASSED SENATE,101,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00101
-HJRES43-115,Senate,115,1,MOTION TO CONSIDER,100,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00100
+HJRES43-115,Senate,115,1,PASSED SENATE,101,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00101.xml
+HJRES43-115,Senate,115,1,MOTION TO CONSIDER,100,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00100.xml
 HJRES43-115,House,115,1,Passage of a Measure,99,http://clerk.house.gov/evs/2017/roll099.xml
-HJRES44-115,Senate,115,1,PASSED SENATE,82,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00082
+HJRES44-115,Senate,115,1,PASSED SENATE,82,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00082.xml
 HJRES44-115,House,115,1,Passage of a Measure,83,http://clerk.house.gov/evs/2017/roll083.xml
-HJRES57-115,Senate,115,1,PASSED SENATE,84,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00084
+HJRES57-115,Senate,115,1,PASSED SENATE,84,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00084.xml
 HJRES57-115,House,115,1,Passage of a Measure,84,http://clerk.house.gov/evs/2017/roll084.xml
-HJRES58-115,Senate,115,1,PASSED SENATE,83,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00083
+HJRES58-115,Senate,115,1,PASSED SENATE,83,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00083.xml
 HJRES58-115,House,115,1,Passage of a Measure,85,http://clerk.house.gov/evs/2017/roll085.xml
-HJRES66-115,Senate,115,1,PASSED SENATE,120,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00120
-HJRES66-115,Senate,115,1,MOTION TO CONSIDER,119,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00119
+HJRES66-115,Senate,115,1,PASSED SENATE,120,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00120.xml
+HJRES66-115,Senate,115,1,MOTION TO CONSIDER,119,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00119.xml
 HJRES66-115,House,115,1,Passage of a Measure,96,http://clerk.house.gov/evs/2017/roll096.xml
-HJRES67-115,Senate,115,1,PASSED SENATE,99,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00099
+HJRES67-115,Senate,115,1,PASSED SENATE,99,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00099.xml
 HJRES67-115,House,115,1,Passage of a Measure,95,http://clerk.house.gov/evs/2017/roll095.xml
-HJRES69-115,Senate,115,1,PASSED SENATE,92,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00092
+HJRES69-115,Senate,115,1,PASSED SENATE,92,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00092.xml
 HJRES69-115,House,115,1,Passage of a Measure,98,http://clerk.house.gov/evs/2017/roll098.xml
 HJRES76-115,House,115,1,Final Passage Under Suspension of the Rules Results,381,http://clerk.house.gov/evs/2017/roll381.xml
-HJRES83-115,Senate,115,1,PASSED SENATE,93,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00093
+HJRES83-115,Senate,115,1,PASSED SENATE,93,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00093.xml
 HJRES83-115,House,115,1,Passage of a Measure,121,http://clerk.house.gov/evs/2017/roll121.xml
 HJRES92-115,House,115,1,Final Passage Under Suspension of the Rules Results,380,http://clerk.house.gov/evs/2017/roll380.xml
 HJRES99-115,House,115,1,Passage of a Measure,236,http://clerk.house.gov/evs/2017/roll236.xml
 HR1-115,House,115,1,Vote on House Agreeing to the Senate Action,699,http://clerk.house.gov/evs/2017/roll699.xml
-HR1-115,Senate,115,1,FREE TEXT,323,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00323
-HR1-115,Senate,115,1,MOTION TO WAIVE (AMENDMENT),322,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00322
-HR1-115,Senate,115,1,MOTION TO CONSIDER,321,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00321
+HR1-115,Senate,115,1,FREE TEXT,323,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00323.xml
+HR1-115,Senate,115,1,MOTION TO WAIVE (AMENDMENT),322,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00322.xml
+HR1-115,Senate,115,1,MOTION TO CONSIDER,321,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00321.xml
 HR1-115,House,115,1,Placeholder Text for H42510,692,http://clerk.house.gov/evs/2017/roll692.xml
 HR1-115,House,115,1,Placeholder Text for H42411,691,http://clerk.house.gov/evs/2017/roll691.xml
-HR1-115,Senate,115,1,MOTION TO INSTRUCT,309,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00309
-HR1-115,Senate,115,1,MOTION TO INSTRUCT,308,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00308
-HR1-115,Senate,115,1,MOTION TO INSTRUCT,307,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00307
-HR1-115,Senate,115,1,FREE TEXT,306,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00306
+HR1-115,Senate,115,1,MOTION TO INSTRUCT,309,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00309.xml
+HR1-115,Senate,115,1,MOTION TO INSTRUCT,308,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00308.xml
+HR1-115,Senate,115,1,MOTION TO INSTRUCT,307,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00307.xml
+HR1-115,Senate,115,1,FREE TEXT,306,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00306.xml
 HR1-115,House,115,1,Vote on House Agreeing to the Senate Action,654,http://clerk.house.gov/evs/2017/roll654.xml
 HR1-115,House,115,1,Vote on House Agreeing to the Senate Action,653,http://clerk.house.gov/evs/2017/roll653.xml
-HR1-115,Senate,115,1,PASSED SENATE,303,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00303
-HR1-115,Senate,115,1,MOTION TO RECOMMIT,300,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00300
-HR1-115,Senate,115,1,MOTION TO RECOMMIT,297,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00297
-HR1-115,Senate,115,1,MOTION TO RECOMMIT,292,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00292
-HR1-115,Senate,115,1,MOTION TO RECOMMIT,291,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00291
-HR1-115,Senate,115,1,MOTION TO RECOMMIT,290,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00290
-HR1-115,Senate,115,1,MOTION TO RECOMMIT,289,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00289
-HR1-115,Senate,115,1,MOTION TO RECOMMIT,288,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00288
-HR1-115,Senate,115,1,MOTION TO RECOMMIT,287,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00287
-HR1-115,Senate,115,1,MOTION TO RECOMMIT,286,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00286
-HR1-115,Senate,115,1,MOTION TO RECOMMIT,285,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00285
-HR1-115,Senate,115,1,MOTION TO CONSIDER,284,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00284
+HR1-115,Senate,115,1,PASSED SENATE,303,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00303.xml
+HR1-115,Senate,115,1,MOTION TO RECOMMIT,300,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00300.xml
+HR1-115,Senate,115,1,MOTION TO RECOMMIT,297,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00297.xml
+HR1-115,Senate,115,1,MOTION TO RECOMMIT,292,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00292.xml
+HR1-115,Senate,115,1,MOTION TO RECOMMIT,291,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00291.xml
+HR1-115,Senate,115,1,MOTION TO RECOMMIT,290,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00290.xml
+HR1-115,Senate,115,1,MOTION TO RECOMMIT,289,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00289.xml
+HR1-115,Senate,115,1,MOTION TO RECOMMIT,288,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00288.xml
+HR1-115,Senate,115,1,MOTION TO RECOMMIT,287,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00287.xml
+HR1-115,Senate,115,1,MOTION TO RECOMMIT,286,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00286.xml
+HR1-115,Senate,115,1,MOTION TO RECOMMIT,285,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00285.xml
+HR1-115,Senate,115,1,MOTION TO CONSIDER,284,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00284.xml
 HR1-115,House,115,1,Passage of a Measure,637,http://clerk.house.gov/evs/2017/roll637.xml
 HR10-115,House,115,1,Passage of a Measure,299,http://clerk.house.gov/evs/2017/roll299.xml
 HR1004-115,House,115,1,Passage of a Measure,126,http://clerk.house.gov/evs/2017/roll126.xml
@@ -1392,8 +1392,8 @@ HR1353-115,House,115,1,Final Passage Under Suspension of the Rules Results,178,h
 HR1362-115,House,115,1,Final Passage Under Suspension of the Rules Results,127,http://clerk.house.gov/evs/2017/roll127.xml
 HR1365-115,House,115,1,Final Passage Under Suspension of the Rules Results,193,http://clerk.house.gov/evs/2017/roll193.xml
 HR1367-115,House,115,1,Passage of a Measure,171,http://clerk.house.gov/evs/2017/roll171.xml
-HR1370-115,Senate,115,1,SENATE AGREED (FREE TEXT),325,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00325
-HR1370-115,Senate,115,1,MOTION TO WAIVE (MEASURE),324,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00324
+HR1370-115,Senate,115,1,SENATE AGREED (FREE TEXT),325,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00325.xml
+HR1370-115,Senate,115,1,MOTION TO WAIVE (MEASURE),324,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00324.xml
 HR1370-115,House,115,1,Vote on House Agreeing to the Senate Action,708,http://clerk.house.gov/evs/2017/roll708.xml
 HR1397-115,House,115,1,Final Passage Under Suspension of the Rules Results,345,http://clerk.house.gov/evs/2017/roll345.xml
 HR1430-115,House,115,1,Passage of a Measure,206,http://clerk.house.gov/evs/2017/roll206.xml
@@ -1406,14 +1406,14 @@ HR1492-115,House,115,1,Final Passage Under Suspension of the Rules Results,349,h
 HR1500-115,House,115,1,Final Passage Under Suspension of the Rules Results,338,http://clerk.house.gov/evs/2017/roll338.xml
 HR1547-115,House,115,1,Final Passage Under Suspension of the Rules Results,544,http://clerk.house.gov/evs/2017/roll544.xml
 HR1616-115,House,115,1,Final Passage Under Suspension of the Rules Results,258,http://clerk.house.gov/evs/2017/roll258.xml
-HR1625-115,Senate,115,2,SENATE AGREED (FREE TEXT),63,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00063
-HR1625-115,Senate,115,2,CLOTURE MOTION,62,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00062
+HR1625-115,Senate,115,2,SENATE AGREED (FREE TEXT),63,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00063.xml
+HR1625-115,Senate,115,2,CLOTURE MOTION,62,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00062.xml
 HR1625-115,House,115,2,Vote on House Agreeing to the Senate Action,127,http://clerk.house.gov/evs/2018/roll127.xml
-HR1628-115,Senate,115,1,MOTION TO RECOMMIT,178,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00178
-HR1628-115,Senate,115,1,MOTION TO RECOMMIT,176,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00176
-HR1628-115,Senate,115,1,MOTION TO RECOMMIT,171,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00171
-HR1628-115,Senate,115,1,MOTION TO RECOMMIT,170,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00170
-HR1628-115,Senate,115,1,MOTION TO CONSIDER,167,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00167
+HR1628-115,Senate,115,1,MOTION TO RECOMMIT,178,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00178.xml
+HR1628-115,Senate,115,1,MOTION TO RECOMMIT,176,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00176.xml
+HR1628-115,Senate,115,1,MOTION TO RECOMMIT,171,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00171.xml
+HR1628-115,Senate,115,1,MOTION TO RECOMMIT,170,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00170.xml
+HR1628-115,Senate,115,1,MOTION TO CONSIDER,167,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00167.xml
 HR1628-115,House,115,1,Passage of a Measure,256,http://clerk.house.gov/evs/2017/roll256.xml
 HR1635-115,House,115,2,Passage of a Measure,385,http://clerk.house.gov/evs/2018/roll385.xml
 HR1635-115,House,115,2,Motion to Commit/Recommit With Instructions Results,384,http://clerk.house.gov/evs/2018/roll384.xml
@@ -1436,32 +1436,32 @@ HR184-115,House,115,2,Passage of a Measure,372,http://clerk.house.gov/evs/2018/r
 HR1842-115,House,115,1,Final Passage Under Suspension of the Rules Results,270,http://clerk.house.gov/evs/2017/roll270.xml
 HR1858-115,House,115,1,Final Passage Under Suspension of the Rules Results,558,http://clerk.house.gov/evs/2017/roll558.xml
 HR1862-115,House,115,1,Final Passage Under Suspension of the Rules Results,269,http://clerk.house.gov/evs/2017/roll269.xml
-HR1865-115,Senate,115,2,PASSED SENATE,60,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00060
-HR1865-115,Senate,115,2,CLOTURE MOTION,57,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00057
+HR1865-115,Senate,115,2,PASSED SENATE,60,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00060.xml
+HR1865-115,Senate,115,2,CLOTURE MOTION,57,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00057.xml
 HR1865-115,House,115,2,Passage of a Measure,91,http://clerk.house.gov/evs/2018/roll091.xml
 HR1873-115,House,115,1,Passage of a Measure,315,http://clerk.house.gov/evs/2017/roll315.xml
 HR1892-115,House,115,2,Vote on House Agreeing to the Senate Action,69,http://clerk.house.gov/evs/2018/roll069.xml
-HR1892-115,Senate,115,2,SENATE CONCURRED (FREE TEXT),31,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00031
-HR1892-115,Senate,115,2,CLOTURE MOTION,30,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00030
+HR1892-115,Senate,115,2,SENATE CONCURRED (FREE TEXT),31,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00031.xml
+HR1892-115,Senate,115,2,CLOTURE MOTION,30,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00030.xml
 HR1892-115,House,115,2,Vote on House Agreeing to the Senate Action,60,http://clerk.house.gov/evs/2018/roll060.xml
 HR1892-115,House,115,1,Final Passage Under Suspension of the Rules Results,266,http://clerk.house.gov/evs/2017/roll266.xml
 HR1911-115,House,115,2,Final Passage Under Suspension of the Rules Results,398,http://clerk.house.gov/evs/2018/roll398.xml
 HR1917-115,House,115,2,Passage of a Measure,99,http://clerk.house.gov/evs/2018/roll099.xml
 HR1917-115,House,115,2,Motion to Commit/Recommit With Instructions Results,98,http://clerk.house.gov/evs/2018/roll098.xml
 HR195-115,House,115,2,Vote on House Agreeing to the Senate Action,44,http://clerk.house.gov/evs/2018/roll044.xml
-HR195-115,Senate,115,2,SENATE CONCURRED (FREE TEXT),17,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00017
-HR195-115,Senate,115,2,CLOTURE MOTION,16,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00016
-HR195-115,Senate,115,2,MOTION TO RECOMMIT,15,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00015
-HR195-115,Senate,115,2,CLOTURE MOTION,14,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00014
-HR195-115,Senate,115,2,MOTION TO CONSIDER,13,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00013
+HR195-115,Senate,115,2,SENATE CONCURRED (FREE TEXT),17,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00017.xml
+HR195-115,Senate,115,2,CLOTURE MOTION,16,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00016.xml
+HR195-115,Senate,115,2,MOTION TO RECOMMIT,15,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00015.xml
+HR195-115,Senate,115,2,CLOTURE MOTION,14,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00014.xml
+HR195-115,Senate,115,2,MOTION TO CONSIDER,13,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00013.xml
 HR195-115,House,115,2,Vote on House Agreeing to the Senate Action,33,http://clerk.house.gov/evs/2018/roll033.xml
 HR1973-115,House,115,1,Passage of a Measure,285,http://clerk.house.gov/evs/2017/roll285.xml
 HR1997-115,House,115,2,Final Passage Under Suspension of the Rules Results,62,http://clerk.house.gov/evs/2018/roll062.xml
 HR2-115,House,115,2,Placeholder Text for H42510,434,http://clerk.house.gov/evs/2018/roll434.xml
-HR2-115,Senate,115,2,CONFERENCE REPORT AGREED TO,259,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00259
+HR2-115,Senate,115,2,CONFERENCE REPORT AGREED TO,259,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00259.xml
 HR2-115,House,115,2,Vote on House Agreeing to the Senate Action,336,http://clerk.house.gov/evs/2018/roll336.xml
-HR2-115,Senate,115,2,PASSED SENATE,143,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00143
-HR2-115,Senate,115,2,CLOTURE MOTION,140,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00140
+HR2-115,Senate,115,2,PASSED SENATE,143,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00143.xml
+HR2-115,Senate,115,2,CLOTURE MOTION,140,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00140.xml
 HR2-115,House,115,2,Passage of a Measure,284,http://clerk.house.gov/evs/2018/roll284.xml
 HR2-115,House,115,2,Passage of a Measure,205,http://clerk.house.gov/evs/2018/roll205.xml
 HR2-115,House,115,2,Motion to Commit/Recommit With Instructions Results,204,http://clerk.house.gov/evs/2018/roll204.xml
@@ -1483,9 +1483,9 @@ HR2210-115,House,115,1,Final Passage Under Suspension of the Rules Results,379,h
 HR2213-115,House,115,1,Passage of a Measure,294,http://clerk.house.gov/evs/2017/roll294.xml
 HR2219-115,House,115,2,Final Passage Under Suspension of the Rules Results,130,http://clerk.house.gov/evs/2018/roll130.xml
 HR2258-115,House,115,1,Final Passage Under Suspension of the Rules Results,324,http://clerk.house.gov/evs/2017/roll324.xml
-HR2266-115,Senate,115,1,SENATE AGREED (FREE TEXT),248,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00248
-HR2266-115,Senate,115,1,MOTION TO WAIVE (MEASURE),247,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00247
-HR2266-115,Senate,115,1,CLOTURE MOTION,246,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00246
+HR2266-115,Senate,115,1,SENATE AGREED (FREE TEXT),248,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00248.xml
+HR2266-115,Senate,115,1,MOTION TO WAIVE (MEASURE),247,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00247.xml
+HR2266-115,Senate,115,1,CLOTURE MOTION,246,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00246.xml
 HR2288-115,House,115,1,Final Passage Under Suspension of the Rules Results,273,http://clerk.house.gov/evs/2017/roll273.xml
 HR2292-115,House,115,1,Final Passage Under Suspension of the Rules Results,300,http://clerk.house.gov/evs/2017/roll300.xml
 HR23-115,House,115,1,Passage of a Measure,352,http://clerk.house.gov/evs/2017/roll352.xml
@@ -1497,16 +1497,16 @@ HR238-115,House,115,1,Motion to Commit/Recommit With Instructions Results,53,htt
 HR2396-115,House,115,1,Passage of a Measure,682,http://clerk.house.gov/evs/2017/roll682.xml
 HR2396-115,House,115,1,Motion to Commit/Recommit With Instructions Results,681,http://clerk.house.gov/evs/2017/roll681.xml
 HR2422-115,House,115,2,Final Passage Under Suspension of the Rules Results,82,http://clerk.house.gov/evs/2018/roll082.xml
-HR2430-115,Senate,115,1,PASSED SENATE,187,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00187
-HR2430-115,Senate,115,1,CLOTURE MOTION,185,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00185
-HR244-115,Senate,115,1,SENATE AGREED (FREE TEXT),121,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00121
+HR2430-115,Senate,115,1,PASSED SENATE,187,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00187.xml
+HR2430-115,Senate,115,1,CLOTURE MOTION,185,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00185.xml
+HR244-115,Senate,115,1,SENATE AGREED (FREE TEXT),121,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00121.xml
 HR244-115,House,115,1,Vote on House Agreeing to the Senate Action,249,http://clerk.house.gov/evs/2017/roll249.xml
 HR244-115,House,115,1,Final Passage Under Suspension of the Rules Results,86,http://clerk.house.gov/evs/2017/roll086.xml
 HR2457-115,House,115,1,Final Passage Under Suspension of the Rules Results,301,http://clerk.house.gov/evs/2017/roll301.xml
 HR2464-115,House,115,1,Final Passage Under Suspension of the Rules Results,559,http://clerk.house.gov/evs/2017/roll559.xml
 HR2521-115,House,115,1,Final Passage Under Suspension of the Rules Results,591,http://clerk.house.gov/evs/2017/roll591.xml
 HR2547-115,House,115,1,Final Passage Under Suspension of the Rules Results,323,http://clerk.house.gov/evs/2017/roll323.xml
-HR2579-115,Senate,115,2,CLOTURE MOTION,32,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00032
+HR2579-115,Senate,115,2,CLOTURE MOTION,32,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00032.xml
 HR2579-115,House,115,1,Passage of a Measure,308,http://clerk.house.gov/evs/2017/roll308.xml
 HR2581-115,House,115,1,Passage of a Measure,306,http://clerk.house.gov/evs/2017/roll306.xml
 HR2581-115,House,115,1,Motion to Commit/Recommit With Instructions Results,305,http://clerk.house.gov/evs/2017/roll305.xml
@@ -1524,9 +1524,9 @@ HR2792-115,House,115,1,Passage of a Measure,543,http://clerk.house.gov/evs/2017/
 HR2810-115,House,115,1,Placeholder Text for H42510,631,http://clerk.house.gov/evs/2017/roll631.xml
 HR2810-115,House,115,1,Vote on House Agreeing to the Senate Action,565,http://clerk.house.gov/evs/2017/roll565.xml
 HR2810-115,House,115,1,Vote on House Agreeing to the Senate Action,564,http://clerk.house.gov/evs/2017/roll564.xml
-HR2810-115,Senate,115,1,PASSED SENATE,199,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00199
-HR2810-115,Senate,115,1,CLOTURE MOTION,198,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00198
-HR2810-115,Senate,115,1,CLOTURE MOTION,193,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00193
+HR2810-115,Senate,115,1,PASSED SENATE,199,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00199.xml
+HR2810-115,Senate,115,1,CLOTURE MOTION,198,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00198.xml
+HR2810-115,Senate,115,1,CLOTURE MOTION,193,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00193.xml
 HR2810-115,House,115,1,Passage of a Measure,378,http://clerk.house.gov/evs/2017/roll378.xml
 HR2810-115,House,115,1,Motion to Commit/Recommit With Instructions Results,377,http://clerk.house.gov/evs/2017/roll377.xml
 HR2824-115,House,115,1,Passage of a Measure,537,http://clerk.house.gov/evs/2017/roll537.xml
@@ -1550,7 +1550,7 @@ HR2954-115,House,115,2,Passage of a Measure,32,http://clerk.house.gov/evs/2018/r
 HR2954-115,House,115,2,Motion to Commit/Recommit With Instructions Results,31,http://clerk.house.gov/evs/2018/roll031.xml
 HR299-115,House,115,2,Final Passage Under Suspension of the Rules Results,289,http://clerk.house.gov/evs/2018/roll289.xml
 HR2991-115,House,115,2,Final Passage Under Suspension of the Rules Results,232,http://clerk.house.gov/evs/2018/roll232.xml
-HR3-115,Senate,115,2,MOTION TO DISCHARGE,134,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00134
+HR3-115,Senate,115,2,MOTION TO DISCHARGE,134,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00134.xml
 HR3-115,House,115,2,Passage of a Measure,243,http://clerk.house.gov/evs/2018/roll243.xml
 HR3003-115,House,115,1,Passage of a Measure,342,http://clerk.house.gov/evs/2017/roll342.xml
 HR3003-115,House,115,1,Motion to Commit/Recommit With Instructions Results,341,http://clerk.house.gov/evs/2017/roll341.xml
@@ -1558,8 +1558,8 @@ HR3004-115,House,115,1,Passage of a Measure,344,http://clerk.house.gov/evs/2017/
 HR3004-115,House,115,1,Motion to Commit/Recommit With Instructions Results,343,http://clerk.house.gov/evs/2017/roll343.xml
 HR3008-115,House,115,2,Final Passage Under Suspension of the Rules Results,427,http://clerk.house.gov/evs/2018/roll427.xml
 HR3017-115,House,115,1,Passage of a Measure,649,http://clerk.house.gov/evs/2017/roll649.xml
-HR302-115,Senate,115,2,SENATE AGREED (FREE TEXT),220,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00220
-HR302-115,Senate,115,2,CLOTURE MOTION,219,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00219
+HR302-115,Senate,115,2,SENATE AGREED (FREE TEXT),220,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00220.xml
+HR302-115,Senate,115,2,CLOTURE MOTION,219,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00219.xml
 HR3030-115,House,115,2,Final Passage Under Suspension of the Rules Results,334,http://clerk.house.gov/evs/2018/roll334.xml
 HR304-115,House,115,1,Final Passage Under Suspension of the Rules Results,25,http://clerk.house.gov/evs/2017/roll025.xml
 HR3043-115,House,115,1,Passage of a Measure,620,http://clerk.house.gov/evs/2017/roll620.xml
@@ -1588,7 +1588,7 @@ HR3317-115,House,115,1,Final Passage Under Suspension of the Rules Results,656,h
 HR3326-115,House,115,2,Passage of a Measure,24,http://clerk.house.gov/evs/2018/roll024.xml
 HR3354-115,House,115,1,Passage of a Measure,528,http://clerk.house.gov/evs/2017/roll528.xml
 HR3354-115,House,115,1,Motion to Commit/Recommit With Instructions Results,527,http://clerk.house.gov/evs/2017/roll527.xml
-HR3364-115,Senate,115,1,PASSED SENATE,175,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00175
+HR3364-115,Senate,115,1,PASSED SENATE,175,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00175.xml
 HR3364-115,House,115,1,Final Passage Under Suspension of the Rules Results,413,http://clerk.house.gov/evs/2017/roll413.xml
 HR337-115,House,115,1,Final Passage Under Suspension of the Rules Results,80,http://clerk.house.gov/evs/2017/roll080.xml
 HR3441-115,House,115,1,Passage of a Measure,614,http://clerk.house.gov/evs/2017/roll614.xml
@@ -1717,17 +1717,17 @@ HR5444-115,House,115,2,Passage of a Measure,146,http://clerk.house.gov/evs/2018/
 HR5445-115,House,115,2,Passage of a Measure,145,http://clerk.house.gov/evs/2018/roll145.xml
 HR5447-115,House,115,2,Final Passage Under Suspension of the Rules Results,154,http://clerk.house.gov/evs/2018/roll154.xml
 HR5509-115,House,115,2,Vote on House Agreeing to the Senate Action,459,http://clerk.house.gov/evs/2018/roll459.xml
-HR5515-115,Senate,115,2,CONFERENCE REPORT AGREED TO,181,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00181
+HR5515-115,Senate,115,2,CONFERENCE REPORT AGREED TO,181,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00181.xml
 HR5515-115,House,115,2,Placeholder Text for H42510,379,http://clerk.house.gov/evs/2018/roll379.xml
-HR5515-115,Senate,115,2,MOTION TO INSTRUCT,149,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00149
-HR5515-115,Senate,115,2,MOTION TO INSTRUCT,148,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00148
-HR5515-115,Senate,115,2,FREE TEXT,147,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00147
+HR5515-115,Senate,115,2,MOTION TO INSTRUCT,149,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00149.xml
+HR5515-115,Senate,115,2,MOTION TO INSTRUCT,148,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00148.xml
+HR5515-115,Senate,115,2,FREE TEXT,147,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00147.xml
 HR5515-115,House,115,2,Vote on House Agreeing to the Senate Action,301,http://clerk.house.gov/evs/2018/roll301.xml
 HR5515-115,House,115,2,Vote on House Agreeing to the Senate Action,300,http://clerk.house.gov/evs/2018/roll300.xml
-HR5515-115,Senate,115,2,PASSED SENATE,128,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00128
-HR5515-115,Senate,115,2,CLOTURE MOTION,126,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00126
-HR5515-115,Senate,115,2,MOTION TO CONSIDER,120,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00120
-HR5515-115,Senate,115,2,CLOTURE MOTION,119,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00119
+HR5515-115,Senate,115,2,PASSED SENATE,128,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00128.xml
+HR5515-115,Senate,115,2,CLOTURE MOTION,126,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00126.xml
+HR5515-115,Senate,115,2,MOTION TO CONSIDER,120,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00120.xml
+HR5515-115,Senate,115,2,CLOTURE MOTION,119,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00119.xml
 HR5515-115,House,115,2,Passage of a Measure,230,http://clerk.house.gov/evs/2018/roll230.xml
 HR5515-115,House,115,2,Placeholder Text for H36810,229,http://clerk.house.gov/evs/2018/roll229.xml
 HR5645-115,House,115,2,Passage of a Measure,177,http://clerk.house.gov/evs/2018/roll177.xml
@@ -1751,23 +1751,23 @@ HR5864-115,House,115,2,Final Passage Under Suspension of the Rules Results,374,h
 HR5890-115,House,115,2,Final Passage Under Suspension of the Rules Results,263,http://clerk.house.gov/evs/2018/roll263.xml
 HR5891-115,House,115,2,Final Passage Under Suspension of the Rules Results,264,http://clerk.house.gov/evs/2018/roll264.xml
 HR5895-115,House,115,2,Placeholder Text for H42510,399,http://clerk.house.gov/evs/2018/roll399.xml
-HR5895-115,Senate,115,2,CONFERENCE REPORT AGREED TO,207,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00207
-HR5895-115,Senate,115,2,MOTION TO INSTRUCT,151,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00151
-HR5895-115,Senate,115,2,MOTION TO INSTRUCT,150,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00150
-HR5895-115,Senate,115,2,PASSED SENATE,139,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00139
-HR5895-115,Senate,115,2,CLOTURE MOTION,129,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00129
+HR5895-115,Senate,115,2,CONFERENCE REPORT AGREED TO,207,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00207.xml
+HR5895-115,Senate,115,2,MOTION TO INSTRUCT,151,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00151.xml
+HR5895-115,Senate,115,2,MOTION TO INSTRUCT,150,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00150.xml
+HR5895-115,Senate,115,2,PASSED SENATE,139,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00139.xml
+HR5895-115,Senate,115,2,CLOTURE MOTION,129,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00129.xml
 HR5895-115,House,115,2,Passage of a Measure,257,http://clerk.house.gov/evs/2018/roll257.xml
 HR5895-115,House,115,2,Motion to Commit/Recommit With Instructions Results,256,http://clerk.house.gov/evs/2018/roll256.xml
 HR5923-115,House,115,2,Final Passage Under Suspension of the Rules Results,394,http://clerk.house.gov/evs/2018/roll394.xml
-HR6-115,Senate,115,2,SENATE AGREED (FREE TEXT),221,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00221
-HR6-115,Senate,115,2,PASSED SENATE,210,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00210
+HR6-115,Senate,115,2,SENATE AGREED (FREE TEXT),221,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00221.xml
+HR6-115,Senate,115,2,PASSED SENATE,210,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00210.xml
 HR6-115,House,115,2,Passage of a Measure,288,http://clerk.house.gov/evs/2018/roll288.xml
 HR6-115,House,115,2,Motion to Commit/Recommit With Instructions Results,287,http://clerk.house.gov/evs/2018/roll287.xml
 HR601-115,House,115,1,Vote on House Agreeing to the Senate Action,480,http://clerk.house.gov/evs/2017/roll480.xml
-HR601-115,Senate,115,1,SENATE CONCURRED (FREE TEXT),192,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00192
-HR601-115,Senate,115,1,CLOTURE MOTION,191,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00191
-HR601-115,Senate,115,1,MOTION TO RECOMMIT,190,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00190
-HR601-115,Senate,115,1,MOTION TO RECOMMIT,189,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00189
+HR601-115,Senate,115,1,SENATE CONCURRED (FREE TEXT),192,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00192.xml
+HR601-115,Senate,115,1,CLOTURE MOTION,191,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00191.xml
+HR601-115,Senate,115,1,MOTION TO RECOMMIT,190,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00190.xml
+HR601-115,Senate,115,1,MOTION TO RECOMMIT,189,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00189.xml
 HR6064-115,House,115,2,Final Passage Under Suspension of the Rules Results,416,http://clerk.house.gov/evs/2018/roll416.xml
 HR6082-115,House,115,2,Passage of a Measure,278,http://clerk.house.gov/evs/2018/roll278.xml
 HR6082-115,House,115,2,Motion to Commit/Recommit With Instructions Results,277,http://clerk.house.gov/evs/2018/roll277.xml
@@ -1775,15 +1775,15 @@ HR613-115,House,115,2,Final Passage Under Suspension of the Rules Results,181,ht
 HR6136-115,House,115,2,Passage of a Measure,297,http://clerk.house.gov/evs/2018/roll297.xml
 HR6136-115,House,115,2,Motion to Commit/Recommit With Instructions Results,296,http://clerk.house.gov/evs/2018/roll296.xml
 HR6147-115,House,115,2,Vote on House Agreeing to the Senate Action,388,http://clerk.house.gov/evs/2018/roll388.xml
-HR6147-115,Senate,115,2,PASSED SENATE,180,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00180
-HR6147-115,Senate,115,2,CLOTURE MOTION,175,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00175
+HR6147-115,Senate,115,2,PASSED SENATE,180,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00180.xml
+HR6147-115,Senate,115,2,CLOTURE MOTION,175,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00175.xml
 HR6147-115,House,115,2,Passage of a Measure,365,http://clerk.house.gov/evs/2018/roll365.xml
 HR6147-115,House,115,2,Motion to Commit/Recommit With Instructions Results,364,http://clerk.house.gov/evs/2018/roll364.xml
 HR6157-115,House,115,2,Placeholder Text for H42510,405,http://clerk.house.gov/evs/2018/roll405.xml
-HR6157-115,Senate,115,2,CONFERENCE REPORT AGREED TO,212,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00212
-HR6157-115,Senate,115,2,CLOTURE MOTION,211,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00211
+HR6157-115,Senate,115,2,CONFERENCE REPORT AGREED TO,212,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00212.xml
+HR6157-115,Senate,115,2,CLOTURE MOTION,211,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00211.xml
 HR6157-115,House,115,2,Vote on House Agreeing to the Senate Action,380,http://clerk.house.gov/evs/2018/roll380.xml
-HR6157-115,Senate,115,2,PASSED SENATE,193,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00193
+HR6157-115,Senate,115,2,PASSED SENATE,193,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00193.xml
 HR6157-115,House,115,2,Passage of a Measure,313,http://clerk.house.gov/evs/2018/roll313.xml
 HR6157-115,House,115,2,Motion to Commit/Recommit With Instructions Results,312,http://clerk.house.gov/evs/2018/roll312.xml
 HR6199-115,House,115,2,Passage of a Measure,377,http://clerk.house.gov/evs/2018/roll377.xml
@@ -1813,16 +1813,16 @@ HR6760-115,House,115,2,Motion to Commit/Recommit With Instructions Results,413,h
 HR6784-115,House,115,2,Passage of a Measure,420,http://clerk.house.gov/evs/2018/roll420.xml
 HR689-115,House,115,1,Final Passage Under Suspension of the Rules Results,79,http://clerk.house.gov/evs/2017/roll079.xml
 HR6901-115,House,115,2,Final Passage Under Suspension of the Rules Results,425,http://clerk.house.gov/evs/2018/roll425.xml
-HR695-115,Senate,115,2,MOTION TO CONSIDER,274,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00274
+HR695-115,Senate,115,2,MOTION TO CONSIDER,274,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00274.xml
 HR695-115,House,115,2,Vote on House Agreeing to the Senate Action,472,http://clerk.house.gov/evs/2018/roll472.xml
-HR695-115,Senate,115,2,CLOTURE MOTION,29,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00029
+HR695-115,Senate,115,2,CLOTURE MOTION,29,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00029.xml
 HR695-115,House,115,2,Vote on House Agreeing to the Senate Action,49,http://clerk.house.gov/evs/2018/roll049.xml
 HR699-115,House,115,1,Final Passage Under Suspension of the Rules Results,100,http://clerk.house.gov/evs/2017/roll100.xml
 HR7-115,House,115,1,Passage of a Measure,65,http://clerk.house.gov/evs/2017/roll065.xml
 HR7-115,House,115,1,Motion to Commit/Recommit With Instructions Results,64,http://clerk.house.gov/evs/2017/roll064.xml
 HR7093-115,House,115,2,Final Passage Under Suspension of the Rules Results,451,http://clerk.house.gov/evs/2018/roll451.xml
 HR7187-115,House,115,2,Final Passage Under Suspension of the Rules Results,424,http://clerk.house.gov/evs/2018/roll424.xml
-HR72-115,Senate,115,1,PASSED SENATE,28,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00028
+HR72-115,Senate,115,1,PASSED SENATE,28,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00028.xml
 HR720-115,House,115,1,Passage of a Measure,158,http://clerk.house.gov/evs/2017/roll158.xml
 HR720-115,House,115,1,Motion to Commit/Recommit With Instructions Results,157,http://clerk.house.gov/evs/2017/roll157.xml
 HR7217-115,House,115,2,Final Passage Under Suspension of the Rules Results,428,http://clerk.house.gov/evs/2018/roll428.xml
@@ -1867,19 +1867,19 @@ S114-115,House,115,1,Passage of a Measure,438,http://clerk.house.gov/evs/2017/ro
 S114-115,House,115,1,Final Passage Under Suspension of the Rules Results,408,http://clerk.house.gov/evs/2017/roll408.xml
 S1158-115,House,115,2,Final Passage Under Suspension of the Rules Results,489,http://clerk.house.gov/evs/2018/roll489.xml
 S117-115,House,115,2,Final Passage Under Suspension of the Rules Results,19,http://clerk.house.gov/evs/2018/roll019.xml
-S1182-115,Senate,115,2,SENATE AGREED (FREE TEXT),173,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00173
+S1182-115,Senate,115,2,SENATE AGREED (FREE TEXT),173,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00173.xml
 S1182-115,House,115,2,Final Passage Under Suspension of the Rules Results,373,http://clerk.house.gov/evs/2018/roll373.xml
 S1266-115,House,115,1,Final Passage Under Suspension of the Rules Results,661,http://clerk.house.gov/evs/2017/roll661.xml
-S139-115,Senate,115,2,SENATE AGREED (FREE TEXT),12,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00012
-S139-115,Senate,115,2,CLOTURE MOTION,11,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00011
-S139-115,Senate,115,2,MOTION TO CONSIDER,10,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00010
+S139-115,Senate,115,2,SENATE AGREED (FREE TEXT),12,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00012.xml
+S139-115,Senate,115,2,CLOTURE MOTION,11,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00011.xml
+S139-115,Senate,115,2,MOTION TO CONSIDER,10,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00010.xml
 S139-115,House,115,2,Passage of a Measure,16,http://clerk.house.gov/evs/2018/roll016.xml
 S139-115,House,115,2,Motion to Commit/Recommit With Instructions Results,15,http://clerk.house.gov/evs/2018/roll015.xml
 S1393-115,House,115,1,Final Passage Under Suspension of the Rules Results,706,http://clerk.house.gov/evs/2017/roll706.xml
-S140-115,Senate,115,2,SENATE CONCURRED (FREE TEXT),241,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00241
-S140-115,Senate,115,2,CLOTURE MOTION,240,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00240
-S140-115,Senate,115,2,CLOTURE MOTION,77,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00077
-S140-115,Senate,115,2,CLOTURE MOTION,74,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00074
+S140-115,Senate,115,2,SENATE CONCURRED (FREE TEXT),241,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00241.xml
+S140-115,Senate,115,2,CLOTURE MOTION,240,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00240.xml
+S140-115,Senate,115,2,CLOTURE MOTION,77,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00077.xml
+S140-115,Senate,115,2,CLOTURE MOTION,74,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00074.xml
 S140-115,House,115,2,Passage of a Measure,11,http://clerk.house.gov/evs/2018/roll011.xml
 S1520-115,House,115,2,Final Passage Under Suspension of the Rules Results,444,http://clerk.house.gov/evs/2018/roll444.xml
 S1532-115,House,115,1,Final Passage Under Suspension of the Rules Results,710,http://clerk.house.gov/evs/2017/roll710.xml
@@ -1892,26 +1892,26 @@ S204-115,House,115,2,Passage of a Measure,214,http://clerk.house.gov/evs/2018/ro
 S204-115,House,115,2,Motion to Commit/Recommit With Instructions Results,213,http://clerk.house.gov/evs/2018/roll213.xml
 S2076-115,House,115,2,Final Passage Under Suspension of the Rules Results,438,http://clerk.house.gov/evs/2018/roll438.xml
 S2155-115,House,115,2,Passage of a Measure,216,http://clerk.house.gov/evs/2018/roll216.xml
-S2155-115,Senate,115,2,PASSED SENATE,54,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00054
-S2155-115,Senate,115,2,MOTION TO WAIVE (MEASURE),53,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00053
-S2155-115,Senate,115,2,CLOTURE MOTION,52,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00052
-S2155-115,Senate,115,2,CLOTURE MOTION,48,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00048
+S2155-115,Senate,115,2,PASSED SENATE,54,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00054.xml
+S2155-115,Senate,115,2,MOTION TO WAIVE (MEASURE),53,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00053.xml
+S2155-115,Senate,115,2,CLOTURE MOTION,52,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00052.xml
+S2155-115,Senate,115,2,CLOTURE MOTION,48,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00048.xml
 S2200-115,House,115,2,Final Passage Under Suspension of the Rules Results,461,http://clerk.house.gov/evs/2018/roll461.xml
 S2276-115,House,115,2,Final Passage Under Suspension of the Rules Results,480,http://clerk.house.gov/evs/2018/roll480.xml
 S2278-115,House,115,2,Final Passage Under Suspension of the Rules Results,439,http://clerk.house.gov/evs/2018/roll439.xml
-S2311-115,Senate,115,2,CLOTURE MOTION,25,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00025
+S2311-115,Senate,115,2,CLOTURE MOTION,25,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00025.xml
 S2322-115,House,115,2,Final Passage Under Suspension of the Rules Results,463,http://clerk.house.gov/evs/2018/roll463.xml
-S2372-115,Senate,115,2,SENATE AGREED (FREE TEXT),106,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00106
-S2372-115,Senate,115,2,CLOTURE MOTION,104,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00104
+S2372-115,Senate,115,2,SENATE AGREED (FREE TEXT),106,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00106.xml
+S2372-115,Senate,115,2,CLOTURE MOTION,104,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00104.xml
 S2372-115,House,115,2,Passage of a Measure,189,http://clerk.house.gov/evs/2018/roll189.xml
-S2554-115,Senate,115,2,PASSED SENATE,209,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00209
+S2554-115,Senate,115,2,PASSED SENATE,209,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00209.xml
 S2652-115,House,115,2,Final Passage Under Suspension of the Rules Results,457,http://clerk.house.gov/evs/2018/roll457.xml
 S2679-115,House,115,2,Final Passage Under Suspension of the Rules Results,454,http://clerk.house.gov/evs/2018/roll454.xml
 S2765-115,House,115,2,Final Passage Under Suspension of the Rules Results,458,http://clerk.house.gov/evs/2018/roll458.xml
 S2896-115,House,115,2,Final Passage Under Suspension of the Rules Results,452,http://clerk.house.gov/evs/2018/roll452.xml
 S2961-115,House,115,2,Final Passage Under Suspension of the Rules Results,453,http://clerk.house.gov/evs/2018/roll453.xml
-S3021-115,Senate,115,2,SENATE AGREED (FREE TEXT),225,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00225
-S3021-115,Senate,115,2,CLOTURE MOTION,224,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00224
+S3021-115,Senate,115,2,SENATE AGREED (FREE TEXT),225,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00225.xml
+S3021-115,Senate,115,2,CLOTURE MOTION,224,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00224.xml
 S3029-115,House,115,2,Final Passage Under Suspension of the Rules Results,429,http://clerk.house.gov/evs/2018/roll429.xml
 S3031-115,House,115,2,Final Passage Under Suspension of the Rules Results,481,http://clerk.house.gov/evs/2018/roll481.xml
 S3191-115,House,115,2,Final Passage Under Suspension of the Rules Results,482,http://clerk.house.gov/evs/2018/roll482.xml
@@ -1933,29 +1933,29 @@ S534-115,House,115,2,Final Passage Under Suspension of the Rules Results,45,http
 S585-115,House,115,1,Passage of a Measure,568,http://clerk.house.gov/evs/2017/roll568.xml
 S585-115,House,115,1,Motion to Commit/Recommit With Instructions Results,567,http://clerk.house.gov/evs/2017/roll567.xml
 S7-115,House,115,2,Final Passage Under Suspension of the Rules Results,460,http://clerk.house.gov/evs/2018/roll460.xml
-S722-115,Senate,115,1,PASSED SENATE,147,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00147
-S722-115,Senate,115,1,CLOTURE MOTION,140,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00140
+S722-115,Senate,115,1,PASSED SENATE,147,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00147.xml
+S722-115,Senate,115,1,CLOTURE MOTION,140,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00140.xml
 S756-115,House,115,2,Vote on House Agreeing to the Senate Action,448,http://clerk.house.gov/evs/2018/roll448.xml
-S756-115,Senate,115,2,SENATE CONCURRED (FREE TEXT),271,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00271
-S756-115,Senate,115,2,CLOTURE MOTION,267,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00267
+S756-115,Senate,115,2,SENATE CONCURRED (FREE TEXT),271,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00271.xml
+S756-115,Senate,115,2,CLOTURE MOTION,267,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00267.xml
 S782-115,House,115,1,Final Passage Under Suspension of the Rules Results,550,http://clerk.house.gov/evs/2017/roll550.xml
 S825-115,House,115,2,Final Passage Under Suspension of the Rules Results,430,http://clerk.house.gov/evs/2018/roll430.xml
 S84-115,House,115,1,Passage of a Measure,59,http://clerk.house.gov/evs/2017/roll059.xml
-S84-115,Senate,115,1,PASSED SENATE,27,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00027
-S89-115,Senate,115,1,PASSED SENATE,102,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00102
+S84-115,Senate,115,1,PASSED SENATE,27,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00027.xml
+S89-115,Senate,115,1,PASSED SENATE,102,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00102.xml
 SJRES34-115,House,115,1,Passage of a Measure,202,http://clerk.house.gov/evs/2017/roll202.xml
-SJRES34-115,Senate,115,1,PASSED SENATE,94,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00094
-SJRES42-115,Senate,115,1,MOTION TO DISCHARGE,143,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=1&vote=00143
-SJRES52-115,Senate,115,2,PASSED SENATE,97,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00097
-SJRES52-115,Senate,115,2,MOTION TO CONSIDER,96,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00096
-SJRES54-115,Senate,115,2,PASSED SENATE,266,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00266
-SJRES54-115,Senate,115,2,FREE TEXT,262,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00262
-SJRES54-115,Senate,115,2,MOTION TO CONSIDER,261,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00261
-SJRES54-115,Senate,115,2,COMMITTEE DISCHARGED,250,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00250
-SJRES54-115,Senate,115,2,MOTION TO TABLE AGREED TO,58,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00058
+SJRES34-115,Senate,115,1,PASSED SENATE,94,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00094.xml
+SJRES42-115,Senate,115,1,MOTION TO DISCHARGE,143,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00143.xml
+SJRES52-115,Senate,115,2,PASSED SENATE,97,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00097.xml
+SJRES52-115,Senate,115,2,MOTION TO CONSIDER,96,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00096.xml
+SJRES54-115,Senate,115,2,PASSED SENATE,266,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00266.xml
+SJRES54-115,Senate,115,2,FREE TEXT,262,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00262.xml
+SJRES54-115,Senate,115,2,MOTION TO CONSIDER,261,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00261.xml
+SJRES54-115,Senate,115,2,COMMITTEE DISCHARGED,250,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00250.xml
+SJRES54-115,Senate,115,2,MOTION TO TABLE AGREED TO,58,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00058.xml
 SJRES57-115,House,115,2,Passage of a Measure,171,http://clerk.house.gov/evs/2018/roll171.xml
-SJRES57-115,Senate,115,2,PASSED SENATE,76,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00076
-SJRES57-115,Senate,115,2,MOTION TO CONSIDER,75,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00075
-SJRES63-115,Senate,115,2,FAILED PASSAGE,226,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00226
-SJRES64-115,Senate,115,2,PASSED SENATE,260,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00260
-SJRES65-115,Senate,115,2,MOTION TO DISCHARGE,243,http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&congress=115&session=2&vote=00243
+SJRES57-115,Senate,115,2,PASSED SENATE,76,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00076.xml
+SJRES57-115,Senate,115,2,MOTION TO CONSIDER,75,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00075.xml
+SJRES63-115,Senate,115,2,FAILED PASSAGE,226,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00226.xml
+SJRES64-115,Senate,115,2,PASSED SENATE,260,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00260.xml
+SJRES65-115,Senate,115,2,MOTION TO DISCHARGE,243,https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00243.xml
