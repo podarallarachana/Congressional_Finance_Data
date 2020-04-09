@@ -1,3 +1,4 @@
+# Bills.py - creates relevant tables in the form of .csv files for Congressional bill data
 import os
 import xml.etree.ElementTree as ET
 import csv
