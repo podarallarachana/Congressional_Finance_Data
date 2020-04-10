@@ -1,0 +1,3507 @@
+{
+    "A000055": {
+        "crp_Id": "N00003028",
+        "first_name": "Robert",
+        "last_name": "Aderholt"
+    },
+    "A000210": {
+        "crp_Id": "N00000826",
+        "first_name": "Robert",
+        "last_name": "Andrews"
+    },
+    "A000360": {
+        "crp_Id": "N00009888",
+        "first_name": "Lamar",
+        "last_name": "Alexander"
+    },
+    "A000361": {
+        "crp_Id": "N00025464",
+        "first_name": "Rodney",
+        "last_name": "Alexander"
+    },
+    "A000367": {
+        "crp_Id": "N00031938",
+        "first_name": "Justin",
+        "last_name": "Amash"
+    },
+    "A000368": {
+        "crp_Id": "N00030980",
+        "first_name": "Kelly",
+        "last_name": "Ayotte"
+    },
+    "A000369": {
+        "crp_Id": "N00031177",
+        "first_name": "Mark",
+        "last_name": "Amodei"
+    },
+    "A000370": {
+        "crp_Id": "N00035451",
+        "first_name": "Alma",
+        "last_name": "Adams"
+    },
+    "A000371": {
+        "crp_Id": "N00033997",
+        "first_name": "Pete",
+        "last_name": "Aguilar"
+    },
+    "A000372": {
+        "crp_Id": "N00033720",
+        "first_name": "Rick",
+        "last_name": "Allen"
+    },
+    "A000373": {
+        "crp_Id": "N00005293",
+        "first_name": "Brad",
+        "last_name": "Ashford"
+    },
+    "A000374": {
+        "crp_Id": "N00036633",
+        "first_name": "Ralph",
+        "last_name": "Abraham"
+    },
+    "A000375": {
+        "crp_Id": "N00038285",
+        "first_name": "Jodey",
+        "last_name": "Arrington"
+    },
+    "B000013": {
+        "crp_Id": "N00008091",
+        "first_name": "Spencer",
+        "last_name": "Bachus"
+    },
+    "B000213": {
+        "crp_Id": "N00005656",
+        "first_name": "Joe",
+        "last_name": "Barton"
+    },
+    "B000243": {
+        "crp_Id": "N00004643",
+        "first_name": "Max",
+        "last_name": "Baucus"
+    },
+    "B000287": {
+        "crp_Id": "N00009774",
+        "first_name": "Xavier",
+        "last_name": "Becerra"
+    },
+    "B000490": {
+        "crp_Id": "N00002674",
+        "first_name": "Sanford",
+        "last_name": "Bishop"
+    },
+    "B000574": {
+        "crp_Id": "N00007727",
+        "first_name": "Earl",
+        "last_name": "Blumenauer"
+    },
+    "B000575": {
+        "crp_Id": "N00005195",
+        "first_name": "Roy",
+        "last_name": "Blunt"
+    },
+    "B000589": {
+        "crp_Id": "N00003675",
+        "first_name": "John",
+        "last_name": "Boehner"
+    },
+    "B000711": {
+        "crp_Id": "N00006692",
+        "first_name": "Barbara",
+        "last_name": "Boxer"
+    },
+    "B000755": {
+        "crp_Id": "N00005883",
+        "first_name": "Kevin",
+        "last_name": "Brady"
+    },
+    "B000911": {
+        "crp_Id": "N00002713",
+        "first_name": "Corrine",
+        "last_name": "Brown"
+    },
+    "B000944": {
+        "crp_Id": "N00003535",
+        "first_name": "Sherrod",
+        "last_name": "Brown"
+    },
+    "B001135": {
+        "crp_Id": "N00002221",
+        "first_name": "Richard",
+        "last_name": "Burr"
+    },
+    "B001227": {
+        "crp_Id": "N00001619",
+        "first_name": "Robert",
+        "last_name": "Brady"
+    },
+    "B001230": {
+        "crp_Id": "N00004367",
+        "first_name": "Tammy",
+        "last_name": "Baldwin"
+    },
+    "B001236": {
+        "crp_Id": "N00013873",
+        "first_name": "John",
+        "last_name": "Boozman"
+    },
+    "B001242": {
+        "crp_Id": "N00025413",
+        "first_name": "Timothy",
+        "last_name": "Bishop"
+    },
+    "B001243": {
+        "crp_Id": "N00003105",
+        "first_name": "Marsha",
+        "last_name": "Blackburn"
+    },
+    "B001244": {
+        "crp_Id": "N00025330",
+        "first_name": "Jo",
+        "last_name": "Bonner"
+    },
+    "B001245": {
+        "crp_Id": "N00024866",
+        "first_name": "Madeleine",
+        "last_name": "Bordallo"
+    },
+    "B001248": {
+        "crp_Id": "N00025219",
+        "first_name": "Michael",
+        "last_name": "Burgess"
+    },
+    "B001250": {
+        "crp_Id": "N00025292",
+        "first_name": "Rob",
+        "last_name": "Bishop"
+    },
+    "B001251": {
+        "crp_Id": "N00027035",
+        "first_name": "G.",
+        "last_name": "Butterfield"
+    },
+    "B001252": {
+        "crp_Id": "N00026080",
+        "first_name": "John",
+        "last_name": "Barrow"
+    },
+    "B001255": {
+        "crp_Id": "N00026595",
+        "first_name": "Charles",
+        "last_name": "Boustany"
+    },
+    "B001256": {
+        "crp_Id": "N00027493",
+        "first_name": "Michele",
+        "last_name": "Bachmann"
+    },
+    "B001257": {
+        "crp_Id": "N00027462",
+        "first_name": "Gus",
+        "last_name": "Bilirakis"
+    },
+    "B001259": {
+        "crp_Id": "N00027464",
+        "first_name": "Bruce",
+        "last_name": "Braley"
+    },
+    "B001260": {
+        "crp_Id": "N00027626",
+        "first_name": "Vern",
+        "last_name": "Buchanan"
+    },
+    "B001261": {
+        "crp_Id": "N00006236",
+        "first_name": "John",
+        "last_name": "Barrasso"
+    },
+    "B001262": {
+        "crp_Id": "N00028986",
+        "first_name": "Paul",
+        "last_name": "Broun"
+    },
+    "B001265": {
+        "crp_Id": "N00029901",
+        "first_name": "Mark",
+        "last_name": "Begich"
+    },
+    "B001267": {
+        "crp_Id": "N00030608",
+        "first_name": "Michael",
+        "last_name": "Bennet"
+    },
+    "B001269": {
+        "crp_Id": "N00025495",
+        "first_name": "Lou",
+        "last_name": "Barletta"
+    },
+    "B001270": {
+        "crp_Id": "N00031877",
+        "first_name": "Karen",
+        "last_name": "Bass"
+    },
+    "B001271": {
+        "crp_Id": "N00031934",
+        "first_name": "Dan",
+        "last_name": "Benishek"
+    },
+    "B001273": {
+        "crp_Id": "N00031539",
+        "first_name": "Diane",
+        "last_name": "Black"
+    },
+    "B001274": {
+        "crp_Id": "N00030910",
+        "first_name": "Mo",
+        "last_name": "Brooks"
+    },
+    "B001275": {
+        "crp_Id": "N00031227",
+        "first_name": "Larry",
+        "last_name": "Bucshon"
+    },
+    "B001277": {
+        "crp_Id": "N00031685",
+        "first_name": "Richard",
+        "last_name": "Blumenthal"
+    },
+    "B001278": {
+        "crp_Id": "N00033474",
+        "first_name": "Suzanne",
+        "last_name": "Bonamici"
+    },
+    "B001279": {
+        "crp_Id": "N00033981",
+        "first_name": "Ron",
+        "last_name": "Barber"
+    },
+    "B001280": {
+        "crp_Id": "N00033625",
+        "first_name": "Kerry",
+        "last_name": "Bentivolio"
+    },
+    "B001281": {
+        "crp_Id": "N00033904",
+        "first_name": "Joyce",
+        "last_name": "Beatty"
+    },
+    "B001282": {
+        "crp_Id": "N00031233",
+        "first_name": "Andy",
+        "last_name": "Barr"
+    },
+    "B001283": {
+        "crp_Id": "N00033532",
+        "first_name": "Jim",
+        "last_name": "Bridenstine"
+    },
+    "B001284": {
+        "crp_Id": "N00033495",
+        "first_name": "Susan",
+        "last_name": "Brooks"
+    },
+    "B001285": {
+        "crp_Id": "N00034254",
+        "first_name": "Julia",
+        "last_name": "Brownley"
+    },
+    "B001286": {
+        "crp_Id": "N00033390",
+        "first_name": "Cheri",
+        "last_name": "Bustos"
+    },
+    "B001287": {
+        "crp_Id": "N00030717",
+        "first_name": "Ami",
+        "last_name": "Bera"
+    },
+    "B001288": {
+        "crp_Id": "N00035267",
+        "first_name": "Cory",
+        "last_name": "Booker"
+    },
+    "B001289": {
+        "crp_Id": "N00035380",
+        "first_name": "Bradley",
+        "last_name": "Byrne"
+    },
+    "B001290": {
+        "crp_Id": "N00036013",
+        "first_name": "David",
+        "last_name": "Brat"
+    },
+    "B001291": {
+        "crp_Id": "N00005736",
+        "first_name": "Brian",
+        "last_name": "Babin"
+    },
+    "B001292": {
+        "crp_Id": "N00036018",
+        "first_name": "Donald",
+        "last_name": "Beyer"
+    },
+    "B001293": {
+        "crp_Id": "N00036449",
+        "first_name": "Mike",
+        "last_name": "Bishop"
+    },
+    "B001294": {
+        "crp_Id": "N00033744",
+        "first_name": "Rod",
+        "last_name": "Blum"
+    },
+    "B001295": {
+        "crp_Id": "N00035420",
+        "first_name": "Mike",
+        "last_name": "Bost"
+    },
+    "B001296": {
+        "crp_Id": "N00035307",
+        "first_name": "Brendan",
+        "last_name": "Boyle"
+    },
+    "B001297": {
+        "crp_Id": "N00030829",
+        "first_name": "Ken",
+        "last_name": "Buck"
+    },
+    "B001298": {
+        "crp_Id": "N00037049",
+        "first_name": "Don",
+        "last_name": "Bacon"
+    },
+    "B001299": {
+        "crp_Id": "N00037185",
+        "first_name": "Jim",
+        "last_name": "Banks"
+    },
+    "B001300": {
+        "crp_Id": "N00037019",
+        "first_name": "Nanette",
+        "last_name": "Barragá"
+    },
+    "B001301": {
+        "crp_Id": "N00039533",
+        "first_name": "Jack",
+        "last_name": "Bergman"
+    },
+    "B001302": {
+        "crp_Id": "N00039293",
+        "first_name": "Andy",
+        "last_name": "Biggs"
+    },
+    "B001303": {
+        "crp_Id": "N00038414",
+        "first_name": "Lisa",
+        "last_name": "Blunt Rochester"
+    },
+    "B001304": {
+        "crp_Id": "N00036999",
+        "first_name": "Anthony",
+        "last_name": "Brown"
+    },
+    "B001305": {
+        "crp_Id": "N00039551",
+        "first_name": "Ted",
+        "last_name": "Budd"
+    },
+    "B001306": {
+        "crp_Id": "N00042194",
+        "first_name": "Troy",
+        "last_name": "Balderson"
+    },
+    "C000059": {
+        "crp_Id": "N00007099",
+        "first_name": "Ken",
+        "last_name": "Calvert"
+    },
+    "C000071": {
+        "crp_Id": "N00008086",
+        "first_name": "Dave",
+        "last_name": "Camp"
+    },
+    "C000127": {
+        "crp_Id": "N00007836",
+        "first_name": "Maria",
+        "last_name": "Cantwell"
+    },
+    "C000141": {
+        "crp_Id": "N00001955",
+        "first_name": "Benjamin",
+        "last_name": "Cardin"
+    },
+    "C000174": {
+        "crp_Id": "N00012508",
+        "first_name": "Thomas",
+        "last_name": "Carper"
+    },
+    "C000266": {
+        "crp_Id": "N00003689",
+        "first_name": "Steven",
+        "last_name": "Chabot"
+    },
+    "C000286": {
+        "crp_Id": "N00002685",
+        "first_name": "Saxby",
+        "last_name": "Chambliss"
+    },
+    "C000380": {
+        "crp_Id": "N00000133",
+        "first_name": "Donna",
+        "last_name": "Christensen"
+    },
+    "C000537": {
+        "crp_Id": "N00002408",
+        "first_name": "James",
+        "last_name": "Clyburn"
+    },
+    "C000542": {
+        "crp_Id": "N00003845",
+        "first_name": "Daniel",
+        "last_name": "Coats"
+    },
+    "C000556": {
+        "crp_Id": "N00002247",
+        "first_name": "Howard",
+        "last_name": "Coble"
+    },
+    "C000560": {
+        "crp_Id": "N00005601",
+        "first_name": "Tom",
+        "last_name": "Coburn"
+    },
+    "C000567": {
+        "crp_Id": "N00003328",
+        "first_name": "Thad",
+        "last_name": "Cochran"
+    },
+    "C000714": {
+        "crp_Id": "N00004029",
+        "first_name": "John",
+        "last_name": "Conyers"
+    },
+    "C000754": {
+        "crp_Id": "N00003132",
+        "first_name": "Jim",
+        "last_name": "Cooper"
+    },
+    "C000880": {
+        "crp_Id": "N00006267",
+        "first_name": "Michael",
+        "last_name": "Crapo"
+    },
+    "C000984": {
+        "crp_Id": "N00001971",
+        "first_name": "Elijah",
+        "last_name": "Cummings"
+    },
+    "C001035": {
+        "crp_Id": "N00000491",
+        "first_name": "Susan",
+        "last_name": "Collins"
+    },
+    "C001036": {
+        "crp_Id": "N00007232",
+        "first_name": "Lois",
+        "last_name": "Capps"
+    },
+    "C001037": {
+        "crp_Id": "N00000267",
+        "first_name": "Michael",
+        "last_name": "Capuano"
+    },
+    "C001038": {
+        "crp_Id": "N00001127",
+        "first_name": "Joseph",
+        "last_name": "Crowley"
+    },
+    "C001045": {
+        "crp_Id": "N00012739",
+        "first_name": "Ander",
+        "last_name": "Crenshaw"
+    },
+    "C001046": {
+        "crp_Id": "N00013131",
+        "first_name": "Eric",
+        "last_name": "Cantor"
+    },
+    "C001047": {
+        "crp_Id": "N00009771",
+        "first_name": "Shelley",
+        "last_name": "Capito"
+    },
+    "C001048": {
+        "crp_Id": "N00009738",
+        "first_name": "John",
+        "last_name": "Culberson"
+    },
+    "C001049": {
+        "crp_Id": "N00012460",
+        "first_name": "William",
+        "last_name": "Clay"
+    },
+    "C001051": {
+        "crp_Id": "N00025095",
+        "first_name": "John",
+        "last_name": "Carter"
+    },
+    "C001053": {
+        "crp_Id": "N00025726",
+        "first_name": "Tom",
+        "last_name": "Cole"
+    },
+    "C001056": {
+        "crp_Id": "N00024852",
+        "first_name": "John",
+        "last_name": "Cornyn"
+    },
+    "C001059": {
+        "crp_Id": "N00026341",
+        "first_name": "Jim",
+        "last_name": "Costa"
+    },
+    "C001061": {
+        "crp_Id": "N00026790",
+        "first_name": "Emanuel",
+        "last_name": "Cleaver"
+    },
+    "C001062": {
+        "crp_Id": "N00026041",
+        "first_name": "K.",
+        "last_name": "Conaway"
+    },
+    "C001063": {
+        "crp_Id": "N00024978",
+        "first_name": "Henry",
+        "last_name": "Cuellar"
+    },
+    "C001064": {
+        "crp_Id": "N00027565",
+        "first_name": "John",
+        "last_name": "Campbell"
+    },
+    "C001066": {
+        "crp_Id": "N00027514",
+        "first_name": "Kathy",
+        "last_name": "Castor"
+    },
+    "C001067": {
+        "crp_Id": "N00026961",
+        "first_name": "Yvette",
+        "last_name": "Clarke"
+    },
+    "C001068": {
+        "crp_Id": "N00003225",
+        "first_name": "Steve",
+        "last_name": "Cohen"
+    },
+    "C001069": {
+        "crp_Id": "N00024842",
+        "first_name": "Joe",
+        "last_name": "Courtney"
+    },
+    "C001070": {
+        "crp_Id": "N00027503",
+        "first_name": "Bob",
+        "last_name": "Casey"
+    },
+    "C001071": {
+        "crp_Id": "N00027441",
+        "first_name": "Bob",
+        "last_name": "Corker"
+    },
+    "C001072": {
+        "crp_Id": "N00029513",
+        "first_name": "André",
+        "last_name": "Carson"
+    },
+    "C001075": {
+        "crp_Id": "N00030245",
+        "first_name": "Bill",
+        "last_name": "Cassidy"
+    },
+    "C001076": {
+        "crp_Id": "N00028958",
+        "first_name": "Jason",
+        "last_name": "Chaffetz"
+    },
+    "C001077": {
+        "crp_Id": "N00024753",
+        "first_name": "Mike",
+        "last_name": "Coffman"
+    },
+    "C001078": {
+        "crp_Id": "N00029891",
+        "first_name": "Gerald",
+        "last_name": "Connolly"
+    },
+    "C001080": {
+        "crp_Id": "N00030600",
+        "first_name": "Judy",
+        "last_name": "Chu"
+    },
+    "C001083": {
+        "crp_Id": "N00030736",
+        "first_name": "John",
+        "last_name": "Carney"
+    },
+    "C001084": {
+        "crp_Id": "N00032019",
+        "first_name": "David",
+        "last_name": "Cicilline"
+    },
+    "C001087": {
+        "crp_Id": "N00030770",
+        "first_name": "Rick",
+        "last_name": "Crawford"
+    },
+    "C001088": {
+        "crp_Id": "N00031820",
+        "first_name": "Christopher",
+        "last_name": "Coons"
+    },
+    "C001090": {
+        "crp_Id": "N00034128",
+        "first_name": "Matt",
+        "last_name": "Cartwright"
+    },
+    "C001091": {
+        "crp_Id": "N00033316",
+        "first_name": "Joaquín",
+        "last_name": "Castro"
+    },
+    "C001092": {
+        "crp_Id": "N00001285",
+        "first_name": "Chris",
+        "last_name": "Collins"
+    },
+    "C001093": {
+        "crp_Id": "N00033518",
+        "first_name": "Doug",
+        "last_name": "Collins"
+    },
+    "C001094": {
+        "crp_Id": "N00034224",
+        "first_name": "Paul",
+        "last_name": "Cook"
+    },
+    "C001095": {
+        "crp_Id": "N00033363",
+        "first_name": "Tom",
+        "last_name": "Cotton"
+    },
+    "C001096": {
+        "crp_Id": "N00004614",
+        "first_name": "Kevin",
+        "last_name": "Cramer"
+    },
+    "C001097": {
+        "crp_Id": "N00033373",
+        "first_name": "Tony",
+        "last_name": "Cárdenas"
+    },
+    "C001098": {
+        "crp_Id": "N00033085",
+        "first_name": "Ted",
+        "last_name": "Cruz"
+    },
+    "C001099": {
+        "crp_Id": "N99999896",
+        "first_name": "William",
+        "last_name": "Cowan"
+    },
+    "C001100": {
+        "crp_Id": "N99999999",
+        "first_name": "Jeffrey",
+        "last_name": "Chiesa"
+    },
+    "C001101": {
+        "crp_Id": "N00035278",
+        "first_name": "Katherine",
+        "last_name": "Clark"
+    },
+    "C001102": {
+        "crp_Id": "N00035854",
+        "first_name": "Curt",
+        "last_name": "Clawson"
+    },
+    "C001103": {
+        "crp_Id": "N00035346",
+        "first_name": "Buddy",
+        "last_name": "Carter"
+    },
+    "C001105": {
+        "crp_Id": "N00036023",
+        "first_name": "Barbara",
+        "last_name": "Comstock"
+    },
+    "C001106": {
+        "crp_Id": "N00031064",
+        "first_name": "Ryan",
+        "last_name": "Costello"
+    },
+    "C001107": {
+        "crp_Id": "N00035403",
+        "first_name": "Carlos",
+        "last_name": "Curbelo"
+    },
+    "C001108": {
+        "crp_Id": "N00038260",
+        "first_name": "James",
+        "last_name": "Comer"
+    },
+    "C001109": {
+        "crp_Id": "N00035504",
+        "first_name": "Liz",
+        "last_name": "Cheney"
+    },
+    "C001110": {
+        "crp_Id": "N00037260",
+        "first_name": "J.",
+        "last_name": "Correa"
+    },
+    "C001111": {
+        "crp_Id": "N00002942",
+        "first_name": "Charlie",
+        "last_name": "Crist"
+    },
+    "C001112": {
+        "crp_Id": "N00037015",
+        "first_name": "Salud",
+        "last_name": "Carbajal"
+    },
+    "C001113": {
+        "crp_Id": "N00037161",
+        "first_name": "Catherine",
+        "last_name": "Cortez Masto"
+    },
+    "C001114": {
+        "crp_Id": "N00041221",
+        "first_name": "John",
+        "last_name": "Curtis"
+    },
+    "C001115": {
+        "crp_Id": "N00041882",
+        "first_name": "Michael",
+        "last_name": "Cloud"
+    },
+    "D000096": {
+        "crp_Id": "N00004884",
+        "first_name": "Danny",
+        "last_name": "Davis"
+    },
+    "D000191": {
+        "crp_Id": "N00007781",
+        "first_name": "Peter",
+        "last_name": "DeFazio"
+    },
+    "D000197": {
+        "crp_Id": "N00006134",
+        "first_name": "Diana",
+        "last_name": "DeGette"
+    },
+    "D000216": {
+        "crp_Id": "N00000615",
+        "first_name": "Rosa",
+        "last_name": "DeLauro"
+    },
+    "D000355": {
+        "crp_Id": "N00001783",
+        "first_name": "John",
+        "last_name": "Dingell"
+    },
+    "D000399": {
+        "crp_Id": "N00006023",
+        "first_name": "Lloyd",
+        "last_name": "Doggett"
+    },
+    "D000482": {
+        "crp_Id": "N00001373",
+        "first_name": "Mike",
+        "last_name": "Doyle"
+    },
+    "D000533": {
+        "crp_Id": "N00003209",
+        "first_name": "John",
+        "last_name": "Duncan"
+    },
+    "D000563": {
+        "crp_Id": "N00004981",
+        "first_name": "Richard",
+        "last_name": "Durbin"
+    },
+    "D000598": {
+        "crp_Id": "N00009604",
+        "first_name": "Susan",
+        "last_name": "Davis"
+    },
+    "D000600": {
+        "crp_Id": "N00025337",
+        "first_name": "Mario",
+        "last_name": "Diaz-Balart"
+    },
+    "D000604": {
+        "crp_Id": "N00026171",
+        "first_name": "Charlie",
+        "last_name": "Dent"
+    },
+    "D000607": {
+        "crp_Id": "N00026586",
+        "first_name": "Joe",
+        "last_name": "Donnelly"
+    },
+    "D000610": {
+        "crp_Id": "N00031317",
+        "first_name": "Ted",
+        "last_name": "Deutch"
+    },
+    "D000612": {
+        "crp_Id": "N00031593",
+        "first_name": "Jeffrey",
+        "last_name": "Denham"
+    },
+    "D000613": {
+        "crp_Id": "N00031103",
+        "first_name": "Robert",
+        "last_name": "Dold"
+    },
+    "D000614": {
+        "crp_Id": "N00030967",
+        "first_name": "Sean",
+        "last_name": "Duffy"
+    },
+    "D000615": {
+        "crp_Id": "N00030752",
+        "first_name": "Jeffrey",
+        "last_name": "Duncan"
+    },
+    "D000616": {
+        "crp_Id": "N00030957",
+        "first_name": "Scott",
+        "last_name": "DesJarlais"
+    },
+    "D000617": {
+        "crp_Id": "N00030693",
+        "first_name": "Suzan",
+        "last_name": "DelBene"
+    },
+    "D000618": {
+        "crp_Id": "N00033054",
+        "first_name": "Steve",
+        "last_name": "Daines"
+    },
+    "D000619": {
+        "crp_Id": "N00034784",
+        "first_name": "Rodney",
+        "last_name": "Davis"
+    },
+    "D000620": {
+        "crp_Id": "N00033897",
+        "first_name": "John",
+        "last_name": "Delaney"
+    },
+    "D000621": {
+        "crp_Id": "N00034746",
+        "first_name": "Ron",
+        "last_name": "DeSantis"
+    },
+    "D000622": {
+        "crp_Id": "N00027860",
+        "first_name": "Tammy",
+        "last_name": "Duckworth"
+    },
+    "D000623": {
+        "crp_Id": "N00030709",
+        "first_name": "Mark",
+        "last_name": "DeSaulnier"
+    },
+    "D000624": {
+        "crp_Id": "N00036149",
+        "first_name": "Debbie",
+        "last_name": "Dingell"
+    },
+    "D000625": {
+        "crp_Id": "N00036928",
+        "first_name": "Daniel",
+        "last_name": "Donovan"
+    },
+    "D000626": {
+        "crp_Id": "N00038767",
+        "first_name": "Warren",
+        "last_name": "Davidson"
+    },
+    "D000627": {
+        "crp_Id": "N00033449",
+        "first_name": "Val",
+        "last_name": "Demings"
+    },
+    "D000628": {
+        "crp_Id": "N00037442",
+        "first_name": "Neal",
+        "last_name": "Dunn"
+    },
+    "E000172": {
+        "crp_Id": "N00005090",
+        "first_name": "Jo Ann",
+        "last_name": "Emerson"
+    },
+    "E000179": {
+        "crp_Id": "N00001003",
+        "first_name": "Eliot",
+        "last_name": "Engel"
+    },
+    "E000215": {
+        "crp_Id": "N00007335",
+        "first_name": "Anna",
+        "last_name": "Eshoo"
+    },
+    "E000285": {
+        "crp_Id": "N00006249",
+        "first_name": "Michael",
+        "last_name": "Enzi"
+    },
+    "E000288": {
+        "crp_Id": "N00028257",
+        "first_name": "Keith",
+        "last_name": "Ellison"
+    },
+    "E000290": {
+        "crp_Id": "N00028249",
+        "first_name": "Donna",
+        "last_name": "Edwards"
+    },
+    "E000291": {
+        "crp_Id": "N00031513",
+        "first_name": "Renee",
+        "last_name": "Ellmers"
+    },
+    "E000292": {
+        "crp_Id": "N00034884",
+        "first_name": "Bill",
+        "last_name": "Enyart"
+    },
+    "E000293": {
+        "crp_Id": "N00033217",
+        "first_name": "Elizabeth",
+        "last_name": "Esty"
+    },
+    "E000294": {
+        "crp_Id": "N00035440",
+        "first_name": "Tom",
+        "last_name": "Emmer"
+    },
+    "E000295": {
+        "crp_Id": "N00035483",
+        "first_name": "Joni",
+        "last_name": "Ernst"
+    },
+    "E000296": {
+        "crp_Id": "N00038450",
+        "first_name": "Dwight",
+        "last_name": "Evans"
+    },
+    "E000297": {
+        "crp_Id": "N00034549",
+        "first_name": "Adriano",
+        "last_name": "Espaillat"
+    },
+    "E000298": {
+        "crp_Id": "N00040712",
+        "first_name": "Ron",
+        "last_name": "Estes"
+    },
+    "F000010": {
+        "crp_Id": "N00007632",
+        "first_name": "Eni",
+        "last_name": "Faleomavaega"
+    },
+    "F000030": {
+        "crp_Id": "N00007312",
+        "first_name": "Sam",
+        "last_name": "Farr"
+    },
+    "F000043": {
+        "crp_Id": "N00001746",
+        "first_name": "Chaka",
+        "last_name": "Fattah"
+    },
+    "F000062": {
+        "crp_Id": "N00007364",
+        "first_name": "Dianne",
+        "last_name": "Feinstein"
+    },
+    "F000372": {
+        "crp_Id": "N00000684",
+        "first_name": "Rodney",
+        "last_name": "Frelinghuysen"
+    },
+    "F000444": {
+        "crp_Id": "N00009573",
+        "first_name": "Jeff",
+        "last_name": "Flake"
+    },
+    "F000445": {
+        "crp_Id": "N00013799",
+        "first_name": "J.",
+        "last_name": "Forbes"
+    },
+    "F000448": {
+        "crp_Id": "N00006423",
+        "first_name": "Trent",
+        "last_name": "Franks"
+    },
+    "F000449": {
+        "crp_Id": "N00026631",
+        "first_name": "Jeff",
+        "last_name": "Fortenberry"
+    },
+    "F000450": {
+        "crp_Id": "N00026166",
+        "first_name": "Virginia",
+        "last_name": "Foxx"
+    },
+    "F000451": {
+        "crp_Id": "N00027229",
+        "first_name": "Michael",
+        "last_name": "Fitzpatrick"
+    },
+    "F000454": {
+        "crp_Id": "N00029139",
+        "first_name": "Bill",
+        "last_name": "Foster"
+    },
+    "F000455": {
+        "crp_Id": "N00030490",
+        "first_name": "Marcia",
+        "last_name": "Fudge"
+    },
+    "F000456": {
+        "crp_Id": "N00029679",
+        "first_name": "John",
+        "last_name": "Fleming"
+    },
+    "F000457": {
+        "crp_Id": "N00029016",
+        "first_name": "Al",
+        "last_name": "Franken"
+    },
+    "F000458": {
+        "crp_Id": "N00031141",
+        "first_name": "Stephen",
+        "last_name": "Fincher"
+    },
+    "F000459": {
+        "crp_Id": "N00030815",
+        "first_name": "Chuck",
+        "last_name": "Fleischmann"
+    },
+    "F000460": {
+        "crp_Id": "N00031672",
+        "first_name": "Blake",
+        "last_name": "Farenthold"
+    },
+    "F000461": {
+        "crp_Id": "N00031545",
+        "first_name": "Bill",
+        "last_name": "Flores"
+    },
+    "F000462": {
+        "crp_Id": "N00002893",
+        "first_name": "Lois",
+        "last_name": "Frankel"
+    },
+    "F000463": {
+        "crp_Id": "N00033443",
+        "first_name": "Deb",
+        "last_name": "Fischer"
+    },
+    "F000464": {
+        "crp_Id": "N00037288",
+        "first_name": "John",
+        "last_name": "Faso"
+    },
+    "F000465": {
+        "crp_Id": "N00039090",
+        "first_name": "A.",
+        "last_name": "Ferguson"
+    },
+    "F000466": {
+        "crp_Id": "N00038779",
+        "first_name": "Brian",
+        "last_name": "Fitzpatrick"
+    },
+    "G000289": {
+        "crp_Id": "N00009154",
+        "first_name": "Robert",
+        "last_name": "Goodlatte"
+    },
+    "G000359": {
+        "crp_Id": "N00009975",
+        "first_name": "Lindsey",
+        "last_name": "Graham"
+    },
+    "G000377": {
+        "crp_Id": "N00008799",
+        "first_name": "Kay",
+        "last_name": "Granger"
+    },
+    "G000386": {
+        "crp_Id": "N00001758",
+        "first_name": "Charles",
+        "last_name": "Grassley"
+    },
+    "G000410": {
+        "crp_Id": "N00005870",
+        "first_name": "Gene",
+        "last_name": "Green"
+    },
+    "G000535": {
+        "crp_Id": "N00004874",
+        "first_name": "Luis",
+        "last_name": "Gutiérrez"
+    },
+    "G000546": {
+        "crp_Id": "N00013323",
+        "first_name": "Sam",
+        "last_name": "Graves"
+    },
+    "G000548": {
+        "crp_Id": "N00000743",
+        "first_name": "Scott",
+        "last_name": "Garrett"
+    },
+    "G000549": {
+        "crp_Id": "N00025025",
+        "first_name": "Jim",
+        "last_name": "Gerlach"
+    },
+    "G000550": {
+        "crp_Id": "N00024760",
+        "first_name": "Phil",
+        "last_name": "Gingrey"
+    },
+    "G000551": {
+        "crp_Id": "N00025284",
+        "first_name": "Raúl",
+        "last_name": "Grijalva"
+    },
+    "G000552": {
+        "crp_Id": "N00026148",
+        "first_name": "Louie",
+        "last_name": "Gohmert"
+    },
+    "G000553": {
+        "crp_Id": "N00026686",
+        "first_name": "Al",
+        "last_name": "Green"
+    },
+    "G000555": {
+        "crp_Id": "N00027658",
+        "first_name": "Kirsten",
+        "last_name": "Gillibrand"
+    },
+    "G000556": {
+        "crp_Id": "N00028418",
+        "first_name": "Alan",
+        "last_name": "Grayson"
+    },
+    "G000558": {
+        "crp_Id": "N00029675",
+        "first_name": "Brett",
+        "last_name": "Guthrie"
+    },
+    "G000559": {
+        "crp_Id": "N00030856",
+        "first_name": "John",
+        "last_name": "Garamendi"
+    },
+    "G000560": {
+        "crp_Id": "N00030788",
+        "first_name": "Tom",
+        "last_name": "Graves"
+    },
+    "G000562": {
+        "crp_Id": "N00030780",
+        "first_name": "Cory",
+        "last_name": "Gardner"
+    },
+    "G000563": {
+        "crp_Id": "N00031128",
+        "first_name": "Bob",
+        "last_name": "Gibbs"
+    },
+    "G000564": {
+        "crp_Id": "N00031998",
+        "first_name": "Chris",
+        "last_name": "Gibson"
+    },
+    "G000565": {
+        "crp_Id": "N00030771",
+        "first_name": "Paul",
+        "last_name": "Gosar"
+    },
+    "G000566": {
+        "crp_Id": "N00030880",
+        "first_name": "Trey",
+        "last_name": "Gowdy"
+    },
+    "G000567": {
+        "crp_Id": "N00031297",
+        "first_name": "Tim",
+        "last_name": "Griffin"
+    },
+    "G000568": {
+        "crp_Id": "N00032029",
+        "first_name": "Morgan",
+        "last_name": "Griffith"
+    },
+    "G000569": {
+        "crp_Id": "N00031401",
+        "first_name": "Mike",
+        "last_name": "Grimm"
+    },
+    "G000570": {
+        "crp_Id": "N00030801",
+        "first_name": "Frank",
+        "last_name": "Guinta"
+    },
+    "G000571": {
+        "crp_Id": "N00033281",
+        "first_name": "Tulsi",
+        "last_name": "Gabbard"
+    },
+    "G000572": {
+        "crp_Id": "N00033541",
+        "first_name": "Pete",
+        "last_name": "Gallego"
+    },
+    "G000573": {
+        "crp_Id": "N00029908",
+        "first_name": "Joe",
+        "last_name": "Garcia"
+    },
+    "G000574": {
+        "crp_Id": "N00036097",
+        "first_name": "Ruben",
+        "last_name": "Gallego"
+    },
+    "G000575": {
+        "crp_Id": "N00035688",
+        "first_name": "Gwen",
+        "last_name": "Graham"
+    },
+    "G000576": {
+        "crp_Id": "N00036409",
+        "first_name": "Glenn",
+        "last_name": "Grothman"
+    },
+    "G000577": {
+        "crp_Id": "N00036135",
+        "first_name": "Garret",
+        "last_name": "Graves"
+    },
+    "G000578": {
+        "crp_Id": "N00039503",
+        "first_name": "Matt",
+        "last_name": "Gaetz"
+    },
+    "G000579": {
+        "crp_Id": "N00039330",
+        "first_name": "Mike",
+        "last_name": "Gallagher"
+    },
+    "G000580": {
+        "crp_Id": "N00038847",
+        "first_name": "Thomas",
+        "last_name": "Garrett"
+    },
+    "G000581": {
+        "crp_Id": "N00038809",
+        "first_name": "Vicente",
+        "last_name": "Gonzalez"
+    },
+    "G000582": {
+        "crp_Id": "N00037615",
+        "first_name": "Jenniffer",
+        "last_name": "González-Colón"
+    },
+    "G000583": {
+        "crp_Id": "N00036944",
+        "first_name": "Josh",
+        "last_name": "Gottheimer"
+    },
+    "G000584": {
+        "crp_Id": "N00040733",
+        "first_name": "Greg",
+        "last_name": "Gianforte"
+    },
+    "G000585": {
+        "crp_Id": "N00040597",
+        "first_name": "Jimmy",
+        "last_name": "Gomez"
+    },
+    "H000067": {
+        "crp_Id": "N00005645",
+        "first_name": "Ralph",
+        "last_name": "Hall"
+    },
+    "H000206": {
+        "crp_Id": "N00004207",
+        "first_name": "Tom",
+        "last_name": "Harkin"
+    },
+    "H000324": {
+        "crp_Id": "N00002884",
+        "first_name": "Alcee",
+        "last_name": "Hastings"
+    },
+    "H000329": {
+        "crp_Id": "N00009157",
+        "first_name": "Doc",
+        "last_name": "Hastings"
+    },
+    "H000338": {
+        "crp_Id": "N00009869",
+        "first_name": "Orrin",
+        "last_name": "Hatch"
+    },
+    "H000636": {
+        "crp_Id": "N00006008",
+        "first_name": "Rubén",
+        "last_name": "Hinojosa"
+    },
+    "H000874": {
+        "crp_Id": "N00001821",
+        "first_name": "Steny",
+        "last_name": "Hoyer"
+    },
+    "H001032": {
+        "crp_Id": "N00000860",
+        "first_name": "Rush",
+        "last_name": "Holt"
+    },
+    "H001034": {
+        "crp_Id": "N00012611",
+        "first_name": "Michael",
+        "last_name": "Honda"
+    },
+    "H001036": {
+        "crp_Id": "N00024922",
+        "first_name": "Jeb",
+        "last_name": "Hensarling"
+    },
+    "H001038": {
+        "crp_Id": "N00027060",
+        "first_name": "Brian",
+        "last_name": "Higgins"
+    },
+    "H001041": {
+        "crp_Id": "N00027522",
+        "first_name": "Dean",
+        "last_name": "Heller"
+    },
+    "H001042": {
+        "crp_Id": "N00028139",
+        "first_name": "Mazie",
+        "last_name": "Hirono"
+    },
+    "H001045": {
+        "crp_Id": "N00029632",
+        "first_name": "Gregg",
+        "last_name": "Harper"
+    },
+    "H001046": {
+        "crp_Id": "N00029835",
+        "first_name": "Martin",
+        "last_name": "Heinrich"
+    },
+    "H001047": {
+        "crp_Id": "N00029070",
+        "first_name": "Jim",
+        "last_name": "Himes"
+    },
+    "H001048": {
+        "crp_Id": "N00029258",
+        "first_name": "Duncan",
+        "last_name": "Hunter"
+    },
+    "H001049": {
+        "crp_Id": "N00029617",
+        "first_name": "Kay",
+        "last_name": "Hagan"
+    },
+    "H001050": {
+        "crp_Id": "N00025881",
+        "first_name": "Colleen",
+        "last_name": "Hanabusa"
+    },
+    "H001051": {
+        "crp_Id": "N00030197",
+        "first_name": "Richard",
+        "last_name": "Hanna"
+    },
+    "H001052": {
+        "crp_Id": "N00029147",
+        "first_name": "Andy",
+        "last_name": "Harris"
+    },
+    "H001053": {
+        "crp_Id": "N00031005",
+        "first_name": "Vicky",
+        "last_name": "Hartzler"
+    },
+    "H001055": {
+        "crp_Id": "N00031244",
+        "first_name": "Joe",
+        "last_name": "Heck"
+    },
+    "H001056": {
+        "crp_Id": "N00031559",
+        "first_name": "Jaime",
+        "last_name": "Herrera Beutler"
+    },
+    "H001057": {
+        "crp_Id": "N00027649",
+        "first_name": "Tim",
+        "last_name": "Huelskamp"
+    },
+    "H001058": {
+        "crp_Id": "N00030673",
+        "first_name": "Bill",
+        "last_name": "Huizenga"
+    },
+    "H001059": {
+        "crp_Id": "N00031104",
+        "first_name": "Randy",
+        "last_name": "Hultgren"
+    },
+    "H001060": {
+        "crp_Id": "N00031265",
+        "first_name": "Robert",
+        "last_name": "Hurt"
+    },
+    "H001061": {
+        "crp_Id": "N00031688",
+        "first_name": "John",
+        "last_name": "Hoeven"
+    },
+    "H001063": {
+        "crp_Id": "N00006806",
+        "first_name": "Janice",
+        "last_name": "Hahn"
+    },
+    "H001064": {
+        "crp_Id": "N00031557",
+        "first_name": "Denny",
+        "last_name": "Heck"
+    },
+    "H001065": {
+        "crp_Id": "N00033399",
+        "first_name": "George",
+        "last_name": "Holding"
+    },
+    "H001066": {
+        "crp_Id": "N00033638",
+        "first_name": "Steven",
+        "last_name": "Horsford"
+    },
+    "H001067": {
+        "crp_Id": "N00033630",
+        "first_name": "Richard",
+        "last_name": "Hudson"
+    },
+    "H001068": {
+        "crp_Id": "N00033030",
+        "first_name": "Jared",
+        "last_name": "Huffman"
+    },
+    "H001069": {
+        "crp_Id": "N00033782",
+        "first_name": "Heidi",
+        "last_name": "Heitkamp"
+    },
+    "H001070": {
+        "crp_Id": "N00035628",
+        "first_name": "Cresent",
+        "last_name": "Hardy"
+    },
+    "H001071": {
+        "crp_Id": "N00032243",
+        "first_name": "Jody",
+        "last_name": "Hice"
+    },
+    "H001072": {
+        "crp_Id": "N00035792",
+        "first_name": "French",
+        "last_name": "Hill"
+    },
+    "H001073": {
+        "crp_Id": "N00031417",
+        "first_name": "Will",
+        "last_name": "Hurd"
+    },
+    "H001074": {
+        "crp_Id": "N00038429",
+        "first_name": "Trey",
+        "last_name": "Hollingsworth"
+    },
+    "H001075": {
+        "crp_Id": "N00036915",
+        "first_name": "Kamala",
+        "last_name": "Harris"
+    },
+    "H001076": {
+        "crp_Id": "N00038397",
+        "first_name": "Margaret",
+        "last_name": "Hassan"
+    },
+    "H001077": {
+        "crp_Id": "N00039953",
+        "first_name": "Clay",
+        "last_name": "Higgins"
+    },
+    "H001078": {
+        "crp_Id": "N00035477",
+        "first_name": "Karen",
+        "last_name": "Handel"
+    },
+    "H001079": {
+        "crp_Id": "N00043298",
+        "first_name": "Cindy",
+        "last_name": "Hyde-Smith"
+    },
+    "H001082": {
+        "crp_Id": "N00040829",
+        "first_name": "Kevin",
+        "last_name": "Hern"
+    },
+    "I000024": {
+        "crp_Id": "N00005582",
+        "first_name": "James",
+        "last_name": "Inhofe"
+    },
+    "I000055": {
+        "crp_Id": "N00002593",
+        "first_name": "Johnny",
+        "last_name": "Isakson"
+    },
+    "I000056": {
+        "crp_Id": "N00007017",
+        "first_name": "Darrell",
+        "last_name": "Issa"
+    },
+    "I000057": {
+        "crp_Id": "N00013345",
+        "first_name": "Steve",
+        "last_name": "Israel"
+    },
+    "J000032": {
+        "crp_Id": "N00005818",
+        "first_name": "Sheila",
+        "last_name": "Jackson Lee"
+    },
+    "J000126": {
+        "crp_Id": "N00008122",
+        "first_name": "Eddie",
+        "last_name": "Johnson"
+    },
+    "J000174": {
+        "crp_Id": "N00008028",
+        "first_name": "Sam",
+        "last_name": "Johnson"
+    },
+    "J000177": {
+        "crp_Id": "N00010084",
+        "first_name": "Tim",
+        "last_name": "Johnson"
+    },
+    "J000255": {
+        "crp_Id": "N00002299",
+        "first_name": "Walter",
+        "last_name": "Jones"
+    },
+    "J000288": {
+        "crp_Id": "N00027848",
+        "first_name": "Hank",
+        "last_name": "Johnson"
+    },
+    "J000289": {
+        "crp_Id": "N00027894",
+        "first_name": "Jim",
+        "last_name": "Jordan"
+    },
+    "J000290": {
+        "crp_Id": "N00029077",
+        "first_name": "Lynn",
+        "last_name": "Jenkins"
+    },
+    "J000291": {
+        "crp_Id": "N00029444",
+        "first_name": "Mike",
+        "last_name": "Johanns"
+    },
+    "J000292": {
+        "crp_Id": "N00032088",
+        "first_name": "Bill",
+        "last_name": "Johnson"
+    },
+    "J000293": {
+        "crp_Id": "N00032546",
+        "first_name": "Ron",
+        "last_name": "Johnson"
+    },
+    "J000294": {
+        "crp_Id": "N00033640",
+        "first_name": "Hakeem",
+        "last_name": "Jeffries"
+    },
+    "J000295": {
+        "crp_Id": "N00035007",
+        "first_name": "Dave",
+        "last_name": "Joyce"
+    },
+    "J000296": {
+        "crp_Id": "N00035717",
+        "first_name": "David",
+        "last_name": "Jolly"
+    },
+    "J000297": {
+        "crp_Id": "N00035531",
+        "first_name": "Evan",
+        "last_name": "Jenkins"
+    },
+    "J000298": {
+        "crp_Id": "N00038858",
+        "first_name": "Pramila",
+        "last_name": "Jayapal"
+    },
+    "J000299": {
+        "crp_Id": "N00039106",
+        "first_name": "Mike",
+        "last_name": "Johnson"
+    },
+    "J000300": {
+        "crp_Id": "N00024817",
+        "first_name": "Doug",
+        "last_name": "Jones"
+    },
+    "J000303": {
+        "crp_Id": "N00042648",
+        "first_name": "Brenda",
+        "last_name": "Jones"
+    },
+    "K000009": {
+        "crp_Id": "N00003522",
+        "first_name": "Marcy",
+        "last_name": "Kaptur"
+    },
+    "K000148": {
+        "crp_Id": "N00000245",
+        "first_name": "John",
+        "last_name": "Kerry"
+    },
+    "K000188": {
+        "crp_Id": "N00004403",
+        "first_name": "Ron",
+        "last_name": "Kind"
+    },
+    "K000210": {
+        "crp_Id": "N00001193",
+        "first_name": "Peter",
+        "last_name": "King"
+    },
+    "K000220": {
+        "crp_Id": "N00002656",
+        "first_name": "Jack",
+        "last_name": "Kingston"
+    },
+    "K000352": {
+        "crp_Id": "N00006406",
+        "first_name": "Jon",
+        "last_name": "Kyl"
+    },
+    "K000360": {
+        "crp_Id": "N00012539",
+        "first_name": "Mark",
+        "last_name": "Kirk"
+    },
+    "K000362": {
+        "crp_Id": "N00025237",
+        "first_name": "Steve",
+        "last_name": "King"
+    },
+    "K000363": {
+        "crp_Id": "N00004436",
+        "first_name": "John",
+        "last_name": "Kline"
+    },
+    "K000367": {
+        "crp_Id": "N00027500",
+        "first_name": "Amy",
+        "last_name": "Klobuchar"
+    },
+    "K000368": {
+        "crp_Id": "N00029260",
+        "first_name": "Ann",
+        "last_name": "Kirkpatrick"
+    },
+    "K000375": {
+        "crp_Id": "N00031933",
+        "first_name": "Bill",
+        "last_name": "Keating"
+    },
+    "K000376": {
+        "crp_Id": "N00031647",
+        "first_name": "Mike",
+        "last_name": "Kelly"
+    },
+    "K000378": {
+        "crp_Id": "N00030667",
+        "first_name": "Adam",
+        "last_name": "Kinzinger"
+    },
+    "K000379": {
+        "crp_Id": "N00034044",
+        "first_name": "Joseph",
+        "last_name": "Kennedy"
+    },
+    "K000380": {
+        "crp_Id": "N00033395",
+        "first_name": "Dan",
+        "last_name": "Kildee"
+    },
+    "K000381": {
+        "crp_Id": "N00034453",
+        "first_name": "Derek",
+        "last_name": "Kilmer"
+    },
+    "K000382": {
+        "crp_Id": "N00030875",
+        "first_name": "Ann",
+        "last_name": "Kuster"
+    },
+    "K000383": {
+        "crp_Id": "N00034580",
+        "first_name": "Angus",
+        "last_name": "King"
+    },
+    "K000384": {
+        "crp_Id": "N00033177",
+        "first_name": "Tim",
+        "last_name": "Kaine"
+    },
+    "K000385": {
+        "crp_Id": "N00035215",
+        "first_name": "Robin",
+        "last_name": "Kelly"
+    },
+    "K000386": {
+        "crp_Id": "N00035934",
+        "first_name": "John",
+        "last_name": "Katko"
+    },
+    "K000387": {
+        "crp_Id": "N00035820",
+        "first_name": "Steve",
+        "last_name": "Knight"
+    },
+    "K000388": {
+        "crp_Id": "N00037003",
+        "first_name": "Trent",
+        "last_name": "Kelly"
+    },
+    "K000389": {
+        "crp_Id": "N00026427",
+        "first_name": "Ro",
+        "last_name": "Khanna"
+    },
+    "K000390": {
+        "crp_Id": "N00033530",
+        "first_name": "Ruben",
+        "last_name": "Kihuen"
+    },
+    "K000391": {
+        "crp_Id": "N00033240",
+        "first_name": "Raja",
+        "last_name": "Krishnamoorthi"
+    },
+    "K000392": {
+        "crp_Id": "N00025445",
+        "first_name": "David",
+        "last_name": "Kustoff"
+    },
+    "K000393": {
+        "crp_Id": "N00026823",
+        "first_name": "John",
+        "last_name": "Kennedy"
+    },
+    "L000111": {
+        "crp_Id": "N00004227",
+        "first_name": "Tom",
+        "last_name": "Latham"
+    },
+    "L000123": {
+        "crp_Id": "N00000659",
+        "first_name": "Frank",
+        "last_name": "Lautenberg"
+    },
+    "L000174": {
+        "crp_Id": "N00009918",
+        "first_name": "Patrick",
+        "last_name": "Leahy"
+    },
+    "L000261": {
+        "crp_Id": "N00001691",
+        "first_name": "Carl",
+        "last_name": "Levin"
+    },
+    "L000263": {
+        "crp_Id": "N00003950",
+        "first_name": "Sander",
+        "last_name": "Levin"
+    },
+    "L000287": {
+        "crp_Id": "N00002577",
+        "first_name": "John",
+        "last_name": "Lewis"
+    },
+    "L000397": {
+        "crp_Id": "N00007479",
+        "first_name": "Zoe",
+        "last_name": "Lofgren"
+    },
+    "L000480": {
+        "crp_Id": "N00001024",
+        "first_name": "Nita",
+        "last_name": "Lowey"
+    },
+    "L000491": {
+        "crp_Id": "N00005559",
+        "first_name": "Frank",
+        "last_name": "Lucas"
+    },
+    "L000550": {
+        "crp_Id": "N00005395",
+        "first_name": "Mary",
+        "last_name": "Landrieu"
+    },
+    "L000551": {
+        "crp_Id": "N00008046",
+        "first_name": "Barbara",
+        "last_name": "Lee"
+    },
+    "L000554": {
+        "crp_Id": "N00000851",
+        "first_name": "Frank",
+        "last_name": "LoBiondo"
+    },
+    "L000557": {
+        "crp_Id": "N00000575",
+        "first_name": "John",
+        "last_name": "Larson"
+    },
+    "L000559": {
+        "crp_Id": "N00009724",
+        "first_name": "Jim",
+        "last_name": "Langevin"
+    },
+    "L000560": {
+        "crp_Id": "N00009759",
+        "first_name": "Rick",
+        "last_name": "Larsen"
+    },
+    "L000562": {
+        "crp_Id": "N00013855",
+        "first_name": "Stephen",
+        "last_name": "Lynch"
+    },
+    "L000563": {
+        "crp_Id": "N00027239",
+        "first_name": "Daniel",
+        "last_name": "Lipinski"
+    },
+    "L000564": {
+        "crp_Id": "N00028133",
+        "first_name": "Doug",
+        "last_name": "Lamborn"
+    },
+    "L000565": {
+        "crp_Id": "N00027741",
+        "first_name": "Dave",
+        "last_name": "Loebsack"
+    },
+    "L000566": {
+        "crp_Id": "N00012233",
+        "first_name": "Robert",
+        "last_name": "Latta"
+    },
+    "L000567": {
+        "crp_Id": "N00000898",
+        "first_name": "Leonard",
+        "last_name": "Lance"
+    },
+    "L000569": {
+        "crp_Id": "N00030026",
+        "first_name": "Blaine",
+        "last_name": "Luetkemeyer"
+    },
+    "L000570": {
+        "crp_Id": "N00029562",
+        "first_name": "Ben",
+        "last_name": "Lujá"
+    },
+    "L000571": {
+        "crp_Id": "N00029788",
+        "first_name": "Cynthia",
+        "last_name": "Lummis"
+    },
+    "L000573": {
+        "crp_Id": "N00031377",
+        "first_name": "Raúl",
+        "last_name": "Labrador"
+    },
+    "L000575": {
+        "crp_Id": "N00031129",
+        "first_name": "James",
+        "last_name": "Lankford"
+    },
+    "L000576": {
+        "crp_Id": "N00030676",
+        "first_name": "Billy",
+        "last_name": "Long"
+    },
+    "L000577": {
+        "crp_Id": "N00031696",
+        "first_name": "Mike",
+        "last_name": "Lee"
+    },
+    "L000578": {
+        "crp_Id": "N00033987",
+        "first_name": "Doug",
+        "last_name": "LaMalfa"
+    },
+    "L000579": {
+        "crp_Id": "N00033274",
+        "first_name": "Alan",
+        "last_name": "Lowenthal"
+    },
+    "L000580": {
+        "crp_Id": "N00029400",
+        "first_name": "Michelle",
+        "last_name": "Lujan Grisham"
+    },
+    "L000581": {
+        "crp_Id": "N00034068",
+        "first_name": "Brenda",
+        "last_name": "Lawrence"
+    },
+    "L000582": {
+        "crp_Id": "N00035825",
+        "first_name": "Ted",
+        "last_name": "Lieu"
+    },
+    "L000583": {
+        "crp_Id": "N00035347",
+        "first_name": "Barry",
+        "last_name": "Loudermilk"
+    },
+    "L000584": {
+        "crp_Id": "N00033842",
+        "first_name": "Mia",
+        "last_name": "Love"
+    },
+    "L000585": {
+        "crp_Id": "N00037031",
+        "first_name": "Darin",
+        "last_name": "LaHood"
+    },
+    "L000586": {
+        "crp_Id": "N00030642",
+        "first_name": "Al",
+        "last_name": "Lawson"
+    },
+    "L000587": {
+        "crp_Id": "N00038400",
+        "first_name": "Jason",
+        "last_name": "Lewis"
+    },
+    "L000588": {
+        "crp_Id": "N00041870",
+        "first_name": "Conor",
+        "last_name": "Lamb"
+    },
+    "L000589": {
+        "crp_Id": "N00042056",
+        "first_name": "Debbie",
+        "last_name": "Lesko"
+    },
+    "M000087": {
+        "crp_Id": "N00000078",
+        "first_name": "Carolyn",
+        "last_name": "Maloney"
+    },
+    "M000133": {
+        "crp_Id": "N00000270",
+        "first_name": "Edward",
+        "last_name": "Markey"
+    },
+    "M000303": {
+        "crp_Id": "N00006424",
+        "first_name": "John",
+        "last_name": "McCain"
+    },
+    "M000309": {
+        "crp_Id": "N00001148",
+        "first_name": "Carolyn",
+        "last_name": "McCarthy"
+    },
+    "M000312": {
+        "crp_Id": "N00000179",
+        "first_name": "Jim",
+        "last_name": "McGovern"
+    },
+    "M000355": {
+        "crp_Id": "N00003389",
+        "first_name": "Mitch",
+        "last_name": "McConnell"
+    },
+    "M000404": {
+        "crp_Id": "N00009829",
+        "first_name": "Jim",
+        "last_name": "McDermott"
+    },
+    "M000485": {
+        "crp_Id": "N00002356",
+        "first_name": "Mike",
+        "last_name": "McIntyre"
+    },
+    "M000508": {
+        "crp_Id": "N00006882",
+        "first_name": "Howard",
+        "last_name": "McKeon"
+    },
+    "M000639": {
+        "crp_Id": "N00000699",
+        "first_name": "Robert",
+        "last_name": "Menendez"
+    },
+    "M000689": {
+        "crp_Id": "N00002793",
+        "first_name": "John",
+        "last_name": "Mica"
+    },
+    "M000702": {
+        "crp_Id": "N00001945",
+        "first_name": "Barbara",
+        "last_name": "Mikulski"
+    },
+    "M000725": {
+        "crp_Id": "N00007390",
+        "first_name": "George",
+        "last_name": "Miller"
+    },
+    "M000933": {
+        "crp_Id": "N00002083",
+        "first_name": "James",
+        "last_name": "Moran"
+    },
+    "M000934": {
+        "crp_Id": "N00005282",
+        "first_name": "Jerry",
+        "last_name": "Moran"
+    },
+    "M001111": {
+        "crp_Id": "N00007876",
+        "first_name": "Patty",
+        "last_name": "Murray"
+    },
+    "M001137": {
+        "crp_Id": "N00001171",
+        "first_name": "Gregory",
+        "last_name": "Meeks"
+    },
+    "M001139": {
+        "crp_Id": "N00006954",
+        "first_name": "Gary",
+        "last_name": "Miller"
+    },
+    "M001142": {
+        "crp_Id": "N00009753",
+        "first_name": "Jim",
+        "last_name": "Matheson"
+    },
+    "M001143": {
+        "crp_Id": "N00012942",
+        "first_name": "Betty",
+        "last_name": "McCollum"
+    },
+    "M001144": {
+        "crp_Id": "N00013846",
+        "first_name": "Jeff",
+        "last_name": "Miller"
+    },
+    "M001149": {
+        "crp_Id": "N00024770",
+        "first_name": "Michael",
+        "last_name": "Michaud"
+    },
+    "M001150": {
+        "crp_Id": "N00009795",
+        "first_name": "Candice",
+        "last_name": "Miller"
+    },
+    "M001151": {
+        "crp_Id": "N00024992",
+        "first_name": "Tim",
+        "last_name": "Murphy"
+    },
+    "M001153": {
+        "crp_Id": "N00026050",
+        "first_name": "Lisa",
+        "last_name": "Murkowski"
+    },
+    "M001156": {
+        "crp_Id": "N00026627",
+        "first_name": "Patrick",
+        "last_name": "McHenry"
+    },
+    "M001157": {
+        "crp_Id": "N00026460",
+        "first_name": "Michael",
+        "last_name": "McCaul"
+    },
+    "M001158": {
+        "crp_Id": "N00026710",
+        "first_name": "Kenny",
+        "last_name": "Marchant"
+    },
+    "M001159": {
+        "crp_Id": "N00026314",
+        "first_name": "Cathy",
+        "last_name": "McMorris Rodgers"
+    },
+    "M001160": {
+        "crp_Id": "N00026914",
+        "first_name": "Gwen",
+        "last_name": "Moore"
+    },
+    "M001163": {
+        "crp_Id": "N00027459",
+        "first_name": "Doris",
+        "last_name": "Matsui"
+    },
+    "M001165": {
+        "crp_Id": "N00028152",
+        "first_name": "Kevin",
+        "last_name": "McCarthy"
+    },
+    "M001166": {
+        "crp_Id": "N00026926",
+        "first_name": "Jerry",
+        "last_name": "McNerney"
+    },
+    "M001169": {
+        "crp_Id": "N00027566",
+        "first_name": "Christopher",
+        "last_name": "Murphy"
+    },
+    "M001170": {
+        "crp_Id": "N00027694",
+        "first_name": "Claire",
+        "last_name": "McCaskill"
+    },
+    "M001171": {
+        "crp_Id": "N00027891",
+        "first_name": "Dan",
+        "last_name": "Maffei"
+    },
+    "M001176": {
+        "crp_Id": "N00029303",
+        "first_name": "Jeff",
+        "last_name": "Merkley"
+    },
+    "M001177": {
+        "crp_Id": "N00006863",
+        "first_name": "Tom",
+        "last_name": "McClintock"
+    },
+    "M001179": {
+        "crp_Id": "N00031777",
+        "first_name": "Tom",
+        "last_name": "Marino"
+    },
+    "M001180": {
+        "crp_Id": "N00031681",
+        "first_name": "David",
+        "last_name": "McKinley"
+    },
+    "M001181": {
+        "crp_Id": "N00031134",
+        "first_name": "Pat",
+        "last_name": "Meehan"
+    },
+    "M001182": {
+        "crp_Id": "N00031412",
+        "first_name": "Mick",
+        "last_name": "Mulvaney"
+    },
+    "M001183": {
+        "crp_Id": "N00032838",
+        "first_name": "Joe",
+        "last_name": "Manchin"
+    },
+    "M001184": {
+        "crp_Id": "N00034041",
+        "first_name": "Thomas",
+        "last_name": "Massie"
+    },
+    "M001185": {
+        "crp_Id": "N00034277",
+        "first_name": "Sean",
+        "last_name": "Maloney"
+    },
+    "M001187": {
+        "crp_Id": "N00033631",
+        "first_name": "Mark",
+        "last_name": "Meadows"
+    },
+    "M001188": {
+        "crp_Id": "N00034547",
+        "first_name": "Grace",
+        "last_name": "Meng"
+    },
+    "M001189": {
+        "crp_Id": "N00012546",
+        "first_name": "Luke",
+        "last_name": "Messer"
+    },
+    "M001190": {
+        "crp_Id": "N00033410",
+        "first_name": "Markwayne",
+        "last_name": "Mullin"
+    },
+    "M001191": {
+        "crp_Id": "N00033091",
+        "first_name": "Patrick",
+        "last_name": "Murphy"
+    },
+    "M001192": {
+        "crp_Id": "N00035593",
+        "first_name": "Vance",
+        "last_name": "McAllister"
+    },
+    "M001193": {
+        "crp_Id": "N00036155",
+        "first_name": "Tom",
+        "last_name": "MacArthur"
+    },
+    "M001194": {
+        "crp_Id": "N00036275",
+        "first_name": "John",
+        "last_name": "Moolenaar"
+    },
+    "M001195": {
+        "crp_Id": "N00033814",
+        "first_name": "Alex",
+        "last_name": "Mooney"
+    },
+    "M001196": {
+        "crp_Id": "N00035431",
+        "first_name": "Seth",
+        "last_name": "Moulton"
+    },
+    "M001197": {
+        "crp_Id": "N00033982",
+        "first_name": "Martha",
+        "last_name": "McSally"
+    },
+    "M001198": {
+        "crp_Id": "N00037034",
+        "first_name": "Roger",
+        "last_name": "Marshall"
+    },
+    "M001199": {
+        "crp_Id": "N00037269",
+        "first_name": "Brian",
+        "last_name": "Mast"
+    },
+    "M001200": {
+        "crp_Id": "N00039327",
+        "first_name": "A.",
+        "last_name": "McEachin"
+    },
+    "M001201": {
+        "crp_Id": "N00036274",
+        "first_name": "Paul",
+        "last_name": "Mitchell"
+    },
+    "M001202": {
+        "crp_Id": "N00040133",
+        "first_name": "Stephanie",
+        "last_name": "Murphy"
+    },
+    "M001206": {
+        "crp_Id": "N00043207",
+        "first_name": "Joe",
+        "last_name": "Morelle"
+    },
+    "N000002": {
+        "crp_Id": "N00000939",
+        "first_name": "Jerrold",
+        "last_name": "Nadler"
+    },
+    "N000015": {
+        "crp_Id": "N00000153",
+        "first_name": "Richard",
+        "last_name": "Neal"
+    },
+    "N000032": {
+        "crp_Id": "N00009926",
+        "first_name": "Bill",
+        "last_name": "Nelson"
+    },
+    "N000127": {
+        "crp_Id": "N00021207",
+        "first_name": "Rick",
+        "last_name": "Nolan"
+    },
+    "N000147": {
+        "crp_Id": "N00001692",
+        "first_name": "Eleanor",
+        "last_name": "Norton"
+    },
+    "N000179": {
+        "crp_Id": "N00006789",
+        "first_name": "Grace",
+        "last_name": "Napolitano"
+    },
+    "N000181": {
+        "crp_Id": "N00007248",
+        "first_name": "Devin",
+        "last_name": "Nunes"
+    },
+    "N000182": {
+        "crp_Id": "N00026043",
+        "first_name": "Randy",
+        "last_name": "Neugebauer"
+    },
+    "N000184": {
+        "crp_Id": "N00032022",
+        "first_name": "Kristi",
+        "last_name": "Noem"
+    },
+    "N000185": {
+        "crp_Id": "N00032441",
+        "first_name": "Richard",
+        "last_name": "Nugent"
+    },
+    "N000186": {
+        "crp_Id": "N00031006",
+        "first_name": "Alan",
+        "last_name": "Nunnelee"
+    },
+    "N000187": {
+        "crp_Id": "N00033509",
+        "first_name": "Gloria",
+        "last_name": "Negrete McLeod"
+    },
+    "N000188": {
+        "crp_Id": "N00036154",
+        "first_name": "Donald",
+        "last_name": "Norcross"
+    },
+    "N000189": {
+        "crp_Id": "N00036403",
+        "first_name": "Dan",
+        "last_name": "Newhouse"
+    },
+    "N000190": {
+        "crp_Id": "N00027783",
+        "first_name": "Ralph",
+        "last_name": "Norman"
+    },
+    "O000168": {
+        "crp_Id": "N00029285",
+        "first_name": "Pete",
+        "last_name": "Olson"
+    },
+    "O000169": {
+        "crp_Id": "N00031011",
+        "first_name": "Bill",
+        "last_name": "Owens"
+    },
+    "O000170": {
+        "crp_Id": "N00033540",
+        "first_name": "Beto",
+        "last_name": "O'Rourke"
+    },
+    "O000171": {
+        "crp_Id": "N00037515",
+        "first_name": "Tom",
+        "last_name": "O'Halleran"
+    },
+    "P000034": {
+        "crp_Id": "N00000781",
+        "first_name": "Frank",
+        "last_name": "Pallone"
+    },
+    "P000096": {
+        "crp_Id": "N00000751",
+        "first_name": "Bill",
+        "last_name": "Pascrell"
+    },
+    "P000099": {
+        "crp_Id": "N00006397",
+        "first_name": "Ed",
+        "last_name": "Pastor"
+    },
+    "P000197": {
+        "crp_Id": "N00007360",
+        "first_name": "Nancy",
+        "last_name": "Pelosi"
+    },
+    "P000258": {
+        "crp_Id": "N00004558",
+        "first_name": "Collin",
+        "last_name": "Peterson"
+    },
+    "P000265": {
+        "crp_Id": "N00004426",
+        "first_name": "Tom",
+        "last_name": "Petri"
+    },
+    "P000373": {
+        "crp_Id": "N00001633",
+        "first_name": "Joe",
+        "last_name": "Pitts"
+    },
+    "P000449": {
+        "crp_Id": "N00003682",
+        "first_name": "Rob",
+        "last_name": "Portman"
+    },
+    "P000523": {
+        "crp_Id": "N00002260",
+        "first_name": "David",
+        "last_name": "Price"
+    },
+    "P000588": {
+        "crp_Id": "N00012672",
+        "first_name": "Steve",
+        "last_name": "Pearce"
+    },
+    "P000590": {
+        "crp_Id": "N00013823",
+        "first_name": "Mark",
+        "last_name": "Pryor"
+    },
+    "P000591": {
+        "crp_Id": "N00026160",
+        "first_name": "Tom",
+        "last_name": "Price"
+    },
+    "P000592": {
+        "crp_Id": "N00026457",
+        "first_name": "Ted",
+        "last_name": "Poe"
+    },
+    "P000593": {
+        "crp_Id": "N00027510",
+        "first_name": "Ed",
+        "last_name": "Perlmutter"
+    },
+    "P000594": {
+        "crp_Id": "N00029391",
+        "first_name": "Erik",
+        "last_name": "Paulsen"
+    },
+    "P000595": {
+        "crp_Id": "N00029277",
+        "first_name": "Gary",
+        "last_name": "Peters"
+    },
+    "P000596": {
+        "crp_Id": "N00029168",
+        "first_name": "Pedro",
+        "last_name": "Pierluisi"
+    },
+    "P000597": {
+        "crp_Id": "N00013817",
+        "first_name": "Chellie",
+        "last_name": "Pingree"
+    },
+    "P000598": {
+        "crp_Id": "N00029127",
+        "first_name": "Jared",
+        "last_name": "Polis"
+    },
+    "P000599": {
+        "crp_Id": "N00029662",
+        "first_name": "Bill",
+        "last_name": "Posey"
+    },
+    "P000601": {
+        "crp_Id": "N00031958",
+        "first_name": "Steven",
+        "last_name": "Palazzo"
+    },
+    "P000602": {
+        "crp_Id": "N00030744",
+        "first_name": "Mike",
+        "last_name": "Pompeo"
+    },
+    "P000603": {
+        "crp_Id": "N00030836",
+        "first_name": "Rand",
+        "last_name": "Paul"
+    },
+    "P000604": {
+        "crp_Id": "N00034639",
+        "first_name": "Donald",
+        "last_name": "Payne"
+    },
+    "P000605": {
+        "crp_Id": "N00034120",
+        "first_name": "Scott",
+        "last_name": "Perry"
+    },
+    "P000606": {
+        "crp_Id": "N00034416",
+        "first_name": "Robert",
+        "last_name": "Pittenger"
+    },
+    "P000607": {
+        "crp_Id": "N00033549",
+        "first_name": "Mark",
+        "last_name": "Pocan"
+    },
+    "P000608": {
+        "crp_Id": "N00033591",
+        "first_name": "Scott",
+        "last_name": "Peters"
+    },
+    "P000609": {
+        "crp_Id": "N00035691",
+        "first_name": "Gary",
+        "last_name": "Palmer"
+    },
+    "P000610": {
+        "crp_Id": "N00035000",
+        "first_name": "Stacey",
+        "last_name": "Plaskett"
+    },
+    "P000611": {
+        "crp_Id": "N00034584",
+        "first_name": "Bruce",
+        "last_name": "Poliquin"
+    },
+    "P000612": {
+        "crp_Id": "N00035516",
+        "first_name": "David",
+        "last_name": "Perdue"
+    },
+    "P000613": {
+        "crp_Id": "N00038601",
+        "first_name": "Jimmy",
+        "last_name": "Panetta"
+    },
+    "Q000023": {
+        "crp_Id": "N00030581",
+        "first_name": "Mike",
+        "last_name": "Quigley"
+    },
+    "R000011": {
+        "crp_Id": "N00002198",
+        "first_name": "Nick",
+        "last_name": "Rahall"
+    },
+    "R000053": {
+        "crp_Id": "N00000964",
+        "first_name": "Charles",
+        "last_name": "Rangel"
+    },
+    "R000122": {
+        "crp_Id": "N00000362",
+        "first_name": "Jack",
+        "last_name": "Reed"
+    },
+    "R000146": {
+        "crp_Id": "N00009922",
+        "first_name": "Harry",
+        "last_name": "Reid"
+    },
+    "R000307": {
+        "crp_Id": "N00005285",
+        "first_name": "Pat",
+        "last_name": "Roberts"
+    },
+    "R000361": {
+        "crp_Id": "N00001685",
+        "first_name": "John",
+        "last_name": "Rockefeller"
+    },
+    "R000395": {
+        "crp_Id": "N00003473",
+        "first_name": "Harold",
+        "last_name": "Rogers"
+    },
+    "R000409": {
+        "crp_Id": "N00007151",
+        "first_name": "Dana",
+        "last_name": "Rohrabacher"
+    },
+    "R000435": {
+        "crp_Id": "N00002858",
+        "first_name": "Ileana",
+        "last_name": "Ros-Lehtinen"
+    },
+    "R000486": {
+        "crp_Id": "N00006671",
+        "first_name": "Lucille",
+        "last_name": "Roybal-Allard"
+    },
+    "R000487": {
+        "crp_Id": "N00008264",
+        "first_name": "Edward",
+        "last_name": "Royce"
+    },
+    "R000515": {
+        "crp_Id": "N00004887",
+        "first_name": "Bobby",
+        "last_name": "Rush"
+    },
+    "R000570": {
+        "crp_Id": "N00004357",
+        "first_name": "Paul",
+        "last_name": "Ryan"
+    },
+    "R000572": {
+        "crp_Id": "N00009668",
+        "first_name": "Mike",
+        "last_name": "Rogers"
+    },
+    "R000575": {
+        "crp_Id": "N00024759",
+        "first_name": "Mike",
+        "last_name": "Rogers"
+    },
+    "R000576": {
+        "crp_Id": "N00025482",
+        "first_name": "C.A. Dutch",
+        "last_name": "Ruppersberger"
+    },
+    "R000577": {
+        "crp_Id": "N00025280",
+        "first_name": "Tim",
+        "last_name": "Ryan"
+    },
+    "R000578": {
+        "crp_Id": "N00026885",
+        "first_name": "Dave",
+        "last_name": "Reichert"
+    },
+    "R000580": {
+        "crp_Id": "N00004719",
+        "first_name": "Peter",
+        "last_name": "Roskam"
+    },
+    "R000582": {
+        "crp_Id": "N00028463",
+        "first_name": "Phil",
+        "last_name": "Roe"
+    },
+    "R000583": {
+        "crp_Id": "N00029018",
+        "first_name": "Tom",
+        "last_name": "Rooney"
+    },
+    "R000584": {
+        "crp_Id": "N00029441",
+        "first_name": "Jim",
+        "last_name": "Risch"
+    },
+    "R000585": {
+        "crp_Id": "N00030949",
+        "first_name": "Tom",
+        "last_name": "Reed"
+    },
+    "R000586": {
+        "crp_Id": "N00031127",
+        "first_name": "Jim",
+        "last_name": "Renacci"
+    },
+    "R000587": {
+        "crp_Id": "N00030968",
+        "first_name": "Reid",
+        "last_name": "Ribble"
+    },
+    "R000588": {
+        "crp_Id": "N00030184",
+        "first_name": "Cedric",
+        "last_name": "Richmond"
+    },
+    "R000589": {
+        "crp_Id": "N00030962",
+        "first_name": "Scott",
+        "last_name": "Rigell"
+    },
+    "R000591": {
+        "crp_Id": "N00030768",
+        "first_name": "Martha",
+        "last_name": "Roby"
+    },
+    "R000592": {
+        "crp_Id": "N00031741",
+        "first_name": "Todd",
+        "last_name": "Rokita"
+    },
+    "R000593": {
+        "crp_Id": "N00030645",
+        "first_name": "Dennis",
+        "last_name": "Ross"
+    },
+    "R000594": {
+        "crp_Id": "N00031988",
+        "first_name": "Jon",
+        "last_name": "Runyan"
+    },
+    "R000595": {
+        "crp_Id": "N00030612",
+        "first_name": "Marco",
+        "last_name": "Rubio"
+    },
+    "R000596": {
+        "crp_Id": "N00034017",
+        "first_name": "Trey",
+        "last_name": "Radel"
+    },
+    "R000597": {
+        "crp_Id": "N00033832",
+        "first_name": "Tom",
+        "last_name": "Rice"
+    },
+    "R000598": {
+        "crp_Id": "N00031253",
+        "first_name": "Keith",
+        "last_name": "Rothfus"
+    },
+    "R000599": {
+        "crp_Id": "N00033510",
+        "first_name": "Raul",
+        "last_name": "Ruiz"
+    },
+    "R000600": {
+        "crp_Id": "N00007635",
+        "first_name": "Amata",
+        "last_name": "Radewagen"
+    },
+    "R000601": {
+        "crp_Id": "N00035972",
+        "first_name": "John",
+        "last_name": "Ratcliffe"
+    },
+    "R000602": {
+        "crp_Id": "N00035927",
+        "first_name": "Kathleen",
+        "last_name": "Rice"
+    },
+    "R000603": {
+        "crp_Id": "N00033527",
+        "first_name": "David",
+        "last_name": "Rouzer"
+    },
+    "R000604": {
+        "crp_Id": "N00036175",
+        "first_name": "Steve",
+        "last_name": "Russell"
+    },
+    "R000605": {
+        "crp_Id": "N00035187",
+        "first_name": "Mike",
+        "last_name": "Rounds"
+    },
+    "R000606": {
+        "crp_Id": "N00037036",
+        "first_name": "Jamie",
+        "last_name": "Raskin"
+    },
+    "R000607": {
+        "crp_Id": "N00040007",
+        "first_name": "Francis",
+        "last_name": "Rooney"
+    },
+    "R000608": {
+        "crp_Id": "N00038734",
+        "first_name": "Jacky",
+        "last_name": "Rosen"
+    },
+    "R000609": {
+        "crp_Id": "N00039777",
+        "first_name": "John",
+        "last_name": "Rutherford"
+    },
+    "S000018": {
+        "crp_Id": "N00006446",
+        "first_name": "Matt",
+        "last_name": "Salmon"
+    },
+    "S000030": {
+        "crp_Id": "N00008274",
+        "first_name": "Loretta",
+        "last_name": "Sáchez"
+    },
+    "S000033": {
+        "crp_Id": "N00000528",
+        "first_name": "Bernard",
+        "last_name": "Sanders"
+    },
+    "S000051": {
+        "crp_Id": "N00002424",
+        "first_name": "Mark",
+        "last_name": "Sanford"
+    },
+    "S000148": {
+        "crp_Id": "N00001093",
+        "first_name": "Charles",
+        "last_name": "Schumer"
+    },
+    "S000185": {
+        "crp_Id": "N00002147",
+        "first_name": "Robert",
+        "last_name": "Scott"
+    },
+    "S000244": {
+        "crp_Id": "N00004291",
+        "first_name": "F.",
+        "last_name": "Sensenbrenner"
+    },
+    "S000248": {
+        "crp_Id": "N00001813",
+        "first_name": "José",
+        "last_name": "Serrano"
+    },
+    "S000250": {
+        "crp_Id": "N00005681",
+        "first_name": "Pete",
+        "last_name": "Sessions"
+    },
+    "S000320": {
+        "crp_Id": "N00009920",
+        "first_name": "Richard",
+        "last_name": "Shelby"
+    },
+    "S000344": {
+        "crp_Id": "N00006897",
+        "first_name": "Brad",
+        "last_name": "Sherman"
+    },
+    "S000364": {
+        "crp_Id": "N00004961",
+        "first_name": "John",
+        "last_name": "Shimkus"
+    },
+    "S000480": {
+        "crp_Id": "N00001311",
+        "first_name": "Louise",
+        "last_name": "Slaughter"
+    },
+    "S000510": {
+        "crp_Id": "N00007833",
+        "first_name": "Adam",
+        "last_name": "Smith"
+    },
+    "S000522": {
+        "crp_Id": "N00009816",
+        "first_name": "Christopher",
+        "last_name": "Smith"
+    },
+    "S000583": {
+        "crp_Id": "N00001811",
+        "first_name": "Lamar",
+        "last_name": "Smith"
+    },
+    "S000770": {
+        "crp_Id": "N00004118",
+        "first_name": "Debbie",
+        "last_name": "Stabenow"
+    },
+    "S000937": {
+        "crp_Id": "N00005918",
+        "first_name": "Steve",
+        "last_name": "Stockman"
+    },
+    "S001141": {
+        "crp_Id": "N00003062",
+        "first_name": "Jeff",
+        "last_name": "Sessions"
+    },
+    "S001145": {
+        "crp_Id": "N00004724",
+        "first_name": "Jan",
+        "last_name": "Schakowsky"
+    },
+    "S001148": {
+        "crp_Id": "N00006263",
+        "first_name": "Mike",
+        "last_name": "Simpson"
+    },
+    "S001150": {
+        "crp_Id": "N00009585",
+        "first_name": "Adam",
+        "last_name": "Schiff"
+    },
+    "S001154": {
+        "crp_Id": "N00013770",
+        "first_name": "Bill",
+        "last_name": "Shuster"
+    },
+    "S001156": {
+        "crp_Id": "N00024870",
+        "first_name": "Linda",
+        "last_name": "Sáchez"
+    },
+    "S001157": {
+        "crp_Id": "N00024871",
+        "first_name": "David",
+        "last_name": "Scott"
+    },
+    "S001162": {
+        "crp_Id": "N00001579",
+        "first_name": "Allyson",
+        "last_name": "Schwartz"
+    },
+    "S001165": {
+        "crp_Id": "N00027523",
+        "first_name": "Albio",
+        "last_name": "Sires"
+    },
+    "S001168": {
+        "crp_Id": "N00027751",
+        "first_name": "John",
+        "last_name": "Sarbanes"
+    },
+    "S001170": {
+        "crp_Id": "N00028091",
+        "first_name": "Carol",
+        "last_name": "Shea-Porter"
+    },
+    "S001172": {
+        "crp_Id": "N00027623",
+        "first_name": "Adrian",
+        "last_name": "Smith"
+    },
+    "S001175": {
+        "crp_Id": "N00029649",
+        "first_name": "Jackie",
+        "last_name": "Speier"
+    },
+    "S001176": {
+        "crp_Id": "N00009660",
+        "first_name": "Steve",
+        "last_name": "Scalise"
+    },
+    "S001177": {
+        "crp_Id": "N00030418",
+        "first_name": "Gregorio",
+        "last_name": "Sablan"
+    },
+    "S001179": {
+        "crp_Id": "N00029273",
+        "first_name": "Aaron",
+        "last_name": "Schock"
+    },
+    "S001180": {
+        "crp_Id": "N00030071",
+        "first_name": "Kurt",
+        "last_name": "Schrader"
+    },
+    "S001181": {
+        "crp_Id": "N00024790",
+        "first_name": "Jeanne",
+        "last_name": "Shaheen"
+    },
+    "S001183": {
+        "crp_Id": "N00006460",
+        "first_name": "David",
+        "last_name": "Schweikert"
+    },
+    "S001184": {
+        "crp_Id": "N00031782",
+        "first_name": "Tim",
+        "last_name": "Scott"
+    },
+    "S001185": {
+        "crp_Id": "N00030622",
+        "first_name": "Terri",
+        "last_name": "Sewell"
+    },
+    "S001186": {
+        "crp_Id": "N00031204",
+        "first_name": "Steve",
+        "last_name": "Southerland"
+    },
+    "S001187": {
+        "crp_Id": "N00029574",
+        "first_name": "Steve",
+        "last_name": "Stivers"
+    },
+    "S001188": {
+        "crp_Id": "N00030891",
+        "first_name": "Marlin",
+        "last_name": "Stutzman"
+    },
+    "S001189": {
+        "crp_Id": "N00032457",
+        "first_name": "Austin",
+        "last_name": "Scott"
+    },
+    "S001190": {
+        "crp_Id": "N00033101",
+        "first_name": "Brad",
+        "last_name": "Schneider"
+    },
+    "S001191": {
+        "crp_Id": "N00033983",
+        "first_name": "Kyrsten",
+        "last_name": "Sinema"
+    },
+    "S001192": {
+        "crp_Id": "N00033932",
+        "first_name": "Chris",
+        "last_name": "Stewart"
+    },
+    "S001193": {
+        "crp_Id": "N00033508",
+        "first_name": "Eric",
+        "last_name": "Swalwell"
+    },
+    "S001194": {
+        "crp_Id": "N00028138",
+        "first_name": "Brian",
+        "last_name": "Schatz"
+    },
+    "S001195": {
+        "crp_Id": "N00035282",
+        "first_name": "Jason",
+        "last_name": "Smith"
+    },
+    "S001196": {
+        "crp_Id": "N00035523",
+        "first_name": "Elise",
+        "last_name": "Stefanik"
+    },
+    "S001197": {
+        "crp_Id": "N00035544",
+        "first_name": "Ben",
+        "last_name": "Sasse"
+    },
+    "S001198": {
+        "crp_Id": "N00035774",
+        "first_name": "Dan",
+        "last_name": "Sullivan"
+    },
+    "S001199": {
+        "crp_Id": "N00038781",
+        "first_name": "Lloyd",
+        "last_name": "Smucker"
+    },
+    "S001200": {
+        "crp_Id": "N00037422",
+        "first_name": "Darren",
+        "last_name": "Soto"
+    },
+    "S001201": {
+        "crp_Id": "N00038742",
+        "first_name": "Thomas",
+        "last_name": "Suozzi"
+    },
+    "S001202": {
+        "crp_Id": "N00040607",
+        "first_name": "Luther",
+        "last_name": "Strange"
+    },
+    "S001203": {
+        "crp_Id": "N00042353",
+        "first_name": "Tina",
+        "last_name": "Smith"
+    },
+    "S001205": {
+        "crp_Id": "N00042706",
+        "first_name": "Mary",
+        "last_name": "Scanlon"
+    },
+    "T000193": {
+        "crp_Id": "N00003288",
+        "first_name": "Bennie",
+        "last_name": "Thompson"
+    },
+    "T000238": {
+        "crp_Id": "N00006052",
+        "first_name": "William",
+        "last_name": "Thornberry"
+    },
+    "T000250": {
+        "crp_Id": "N00004572",
+        "first_name": "John",
+        "last_name": "Thune"
+    },
+    "T000266": {
+        "crp_Id": "N00000226",
+        "first_name": "John",
+        "last_name": "Tierney"
+    },
+    "T000459": {
+        "crp_Id": "N00005321",
+        "first_name": "Lee",
+        "last_name": "Terry"
+    },
+    "T000460": {
+        "crp_Id": "N00007419",
+        "first_name": "Mike",
+        "last_name": "Thompson"
+    },
+    "T000461": {
+        "crp_Id": "N00001489",
+        "first_name": "Patrick",
+        "last_name": "Toomey"
+    },
+    "T000462": {
+        "crp_Id": "N00009699",
+        "first_name": "Pat",
+        "last_name": "Tiberi"
+    },
+    "T000463": {
+        "crp_Id": "N00025175",
+        "first_name": "Michael",
+        "last_name": "Turner"
+    },
+    "T000464": {
+        "crp_Id": "N00027605",
+        "first_name": "Jon",
+        "last_name": "Tester"
+    },
+    "T000465": {
+        "crp_Id": "N00029026",
+        "first_name": "Niki",
+        "last_name": "Tsongas"
+    },
+    "T000467": {
+        "crp_Id": "N00029736",
+        "first_name": "Glenn",
+        "last_name": "Thompson"
+    },
+    "T000468": {
+        "crp_Id": "N00030191",
+        "first_name": "Dina",
+        "last_name": "Titus"
+    },
+    "T000469": {
+        "crp_Id": "N00030196",
+        "first_name": "Paul",
+        "last_name": "Tonko"
+    },
+    "T000470": {
+        "crp_Id": "N00027509",
+        "first_name": "Scott",
+        "last_name": "Tipton"
+    },
+    "T000472": {
+        "crp_Id": "N00006701",
+        "first_name": "Mark",
+        "last_name": "Takano"
+    },
+    "T000473": {
+        "crp_Id": "N00035535",
+        "first_name": "Mark",
+        "last_name": "Takai"
+    },
+    "T000474": {
+        "crp_Id": "N00036107",
+        "first_name": "Norma",
+        "last_name": "Torres"
+    },
+    "T000475": {
+        "crp_Id": "N00035607",
+        "first_name": "Dave",
+        "last_name": "Trott"
+    },
+    "T000476": {
+        "crp_Id": "N00035492",
+        "first_name": "Thom",
+        "last_name": "Tillis"
+    },
+    "T000477": {
+        "crp_Id": "N00031263",
+        "first_name": "Scott",
+        "last_name": "Taylor"
+    },
+    "T000478": {
+        "crp_Id": "N00036351",
+        "first_name": "Claudia",
+        "last_name": "Tenney"
+    },
+    "U000031": {
+        "crp_Id": "N00004133",
+        "first_name": "Fred",
+        "last_name": "Upton"
+    },
+    "U000038": {
+        "crp_Id": "N00008051",
+        "first_name": "Mark",
+        "last_name": "Udall"
+    },
+    "U000039": {
+        "crp_Id": "N00006561",
+        "first_name": "Tom",
+        "last_name": "Udall"
+    },
+    "V000081": {
+        "crp_Id": "N00001102",
+        "first_name": "Nydia",
+        "last_name": "Velázquez"
+    },
+    "V000108": {
+        "crp_Id": "N00003813",
+        "first_name": "Peter",
+        "last_name": "Visclosky"
+    },
+    "V000127": {
+        "crp_Id": "N00009659",
+        "first_name": "David",
+        "last_name": "Vitter"
+    },
+    "V000128": {
+        "crp_Id": "N00013820",
+        "first_name": "Chris",
+        "last_name": "Van Hollen"
+    },
+    "V000129": {
+        "crp_Id": "N00033367",
+        "first_name": "David",
+        "last_name": "Valadao"
+    },
+    "V000130": {
+        "crp_Id": "N00007021",
+        "first_name": "Juan",
+        "last_name": "Vargas"
+    },
+    "V000131": {
+        "crp_Id": "N00033839",
+        "first_name": "Marc",
+        "last_name": "Veasey"
+    },
+    "V000132": {
+        "crp_Id": "N00034349",
+        "first_name": "Filemon",
+        "last_name": "Vela"
+    },
+    "W000187": {
+        "crp_Id": "N00006690",
+        "first_name": "Maxine",
+        "last_name": "Waters"
+    },
+    "W000207": {
+        "crp_Id": "N00002328",
+        "first_name": "Melvin",
+        "last_name": "Watt"
+    },
+    "W000215": {
+        "crp_Id": "N00001861",
+        "first_name": "Henry",
+        "last_name": "Waxman"
+    },
+    "W000413": {
+        "crp_Id": "N00003467",
+        "first_name": "Edward",
+        "last_name": "Whitfield"
+    },
+    "W000437": {
+        "crp_Id": "N00003280",
+        "first_name": "Roger",
+        "last_name": "Wicker"
+    },
+    "W000672": {
+        "crp_Id": "N00002073",
+        "first_name": "Frank",
+        "last_name": "Wolf"
+    },
+    "W000779": {
+        "crp_Id": "N00007724",
+        "first_name": "Ron",
+        "last_name": "Wyden"
+    },
+    "W000791": {
+        "crp_Id": "N00007690",
+        "first_name": "Greg",
+        "last_name": "Walden"
+    },
+    "W000795": {
+        "crp_Id": "N00024809",
+        "first_name": "Joe",
+        "last_name": "Wilson"
+    },
+    "W000796": {
+        "crp_Id": "N00026163",
+        "first_name": "Lynn",
+        "last_name": "Westmoreland"
+    },
+    "W000797": {
+        "crp_Id": "N00026106",
+        "first_name": "Debbie",
+        "last_name": "Wasserman Schultz"
+    },
+    "W000798": {
+        "crp_Id": "N00026368",
+        "first_name": "Tim",
+        "last_name": "Walberg"
+    },
+    "W000799": {
+        "crp_Id": "N00027467",
+        "first_name": "Tim",
+        "last_name": "Walz"
+    },
+    "W000800": {
+        "crp_Id": "N00000515",
+        "first_name": "Peter",
+        "last_name": "Welch"
+    },
+    "W000802": {
+        "crp_Id": "N00027533",
+        "first_name": "Sheldon",
+        "last_name": "Whitehouse"
+    },
+    "W000804": {
+        "crp_Id": "N00029459",
+        "first_name": "Robert",
+        "last_name": "Wittman"
+    },
+    "W000805": {
+        "crp_Id": "N00002097",
+        "first_name": "Mark",
+        "last_name": "Warner"
+    },
+    "W000806": {
+        "crp_Id": "N00026335",
+        "first_name": "Daniel",
+        "last_name": "Webster"
+    },
+    "W000808": {
+        "crp_Id": "N00030650",
+        "first_name": "Frederica",
+        "last_name": "Wilson"
+    },
+    "W000809": {
+        "crp_Id": "N00031857",
+        "first_name": "Steve",
+        "last_name": "Womack"
+    },
+    "W000810": {
+        "crp_Id": "N00032416",
+        "first_name": "Rob",
+        "last_name": "Woodall"
+    },
+    "W000812": {
+        "crp_Id": "N00033106",
+        "first_name": "Ann",
+        "last_name": "Wagner"
+    },
+    "W000813": {
+        "crp_Id": "N00031226",
+        "first_name": "Jackie",
+        "last_name": "Walorski"
+    },
+    "W000814": {
+        "crp_Id": "N00033539",
+        "first_name": "Randy",
+        "last_name": "Weber"
+    },
+    "W000815": {
+        "crp_Id": "N00033310",
+        "first_name": "Brad",
+        "last_name": "Wenstrup"
+    },
+    "W000816": {
+        "crp_Id": "N00030602",
+        "first_name": "Roger",
+        "last_name": "Williams"
+    },
+    "W000817": {
+        "crp_Id": "N00033492",
+        "first_name": "Elizabeth",
+        "last_name": "Warren"
+    },
+    "W000818": {
+        "crp_Id": "N00035686",
+        "first_name": "John",
+        "last_name": "Walsh"
+    },
+    "W000819": {
+        "crp_Id": "N00035311",
+        "first_name": "Mark",
+        "last_name": "Walker"
+    },
+    "W000820": {
+        "crp_Id": "N00035391",
+        "first_name": "Mimi",
+        "last_name": "Walters"
+    },
+    "W000821": {
+        "crp_Id": "N00035527",
+        "first_name": "Bruce",
+        "last_name": "Westerman"
+    },
+    "W000822": {
+        "crp_Id": "N00036158",
+        "first_name": "Bonnie",
+        "last_name": "Watson Coleman"
+    },
+    "W000826": {
+        "crp_Id": "N00041997",
+        "first_name": "Susan",
+        "last_name": "Wild"
+    },
+    "Y000031": {
+        "crp_Id": "N00001817",
+        "first_name": "C. W. Bill",
+        "last_name": "Young"
+    },
+    "Y000033": {
+        "crp_Id": "N00007999",
+        "first_name": "Don",
+        "last_name": "Young"
+    },
+    "Y000062": {
+        "crp_Id": "N00028073",
+        "first_name": "John",
+        "last_name": "Yarmuth"
+    },
+    "Y000063": {
+        "crp_Id": "N00031502",
+        "first_name": "Kevin",
+        "last_name": "Yoder"
+    },
+    "Y000064": {
+        "crp_Id": "N00030670",
+        "first_name": "Todd",
+        "last_name": "Young"
+    },
+    "Y000065": {
+        "crp_Id": "N00033220",
+        "first_name": "Ted",
+        "last_name": "Yoho"
+    },
+    "Y000066": {
+        "crp_Id": "N00035509",
+        "first_name": "David",
+        "last_name": "Young"
+    },
+    "Z000017": {
+        "crp_Id": "N00029404",
+        "first_name": "Lee",
+        "last_name": "Zeldin"
+    },
+    "Z000018": {
+        "crp_Id": "N00035616",
+        "first_name": "Ryan",
+        "last_name": "Zinke"
+    }
+}

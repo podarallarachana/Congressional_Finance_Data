@@ -1,9 +1,26 @@
 bioguide_id,crp_id,name,data_year,title,organization
+D000216,N00000615,"DeLauro, Rosa L",2016,Honorary Board of Directors,Cancer Schmancer Movement
+D000216,N00000615,"DeLauro, Rosa L",2016,Honorary Board Member,Center for WorkLife Law (WLL)
+D000216,N00000615,"DeLauro, Rosa L",2016,Member,CT International Women's Forum
+D000216,N00000615,"DeLauro, Rosa L",2016,Member,Delta Kappa Gamma Society
+D000216,N00000615,"DeLauro, Rosa L",2016,"Honorary Member, Advisory Committee",Diaper Bank
+F000372,N00000684,"Frelinghuysen, Rodney",2016,"Member, Advisory Board",El Primer Paso LTD
+H001032,N00000860,"Holt, Rush",2016,Trustee,Carnegie Institution for Science
 C001092,N00001285,,2016,Director-Chairman,Audubon Machinery Corp
 C001092,N00001285,,2016,Director-Chairman,Bloch Industries
 C001092,N00001285,,2016,Partner,Bloch Realty LLC
 C001092,N00001285,,2016,Partner,Cobblestone Realty LLC
 C001092,N00001285,,2016,Director,Easom Automation Systems
+D000482,N00001373,"Doyle, Mike",2016,Secretary/Treasurer,Eastgate Insurance Agency
+D000482,N00001373,"Doyle, Mike",2016,Board of Directors (uncompensated),Howard Hanna Children's Free Care Fund Foundation
+F000043,N00001746,"Fattah, Chaka",2016,Board Chairman,Congressional Black Caucus Foundation
+F000043,N00001746,"Fattah, Chaka",2016,Member,John Hopkins University Board
+F000043,N00001746,"Fattah, Chaka",2016,Member,Nurses Foundation of Pennsylvania
+F000043,N00001746,"Fattah, Chaka",2016,Member,Philadelphia Museum of Art
+G000386,N00001758,"Grassley, Chuck",2016,Proprietor,Farm-Butler County Iowa  New Hartford & Cedar Fall
+D000355,N00001783,"Dingell, John D",2016,"Member, Board of Trustees",Nature Conservancy of Michigan
+D000355,N00001783,"Dingell, John D",2016,"Member, Board of Directors",River Raisin National Battlefield Park Foundation
+H000874,N00001821,"Hoyer, Steny H",2016,Member,St Mary's College Board of Trustees
 C000141,N00001955,"Cardin, Ben",2016,Other (Advisory Board),Center for Democracy & the Interpretation of
 C000141,N00001955,"Cardin, Ben",2016,Other (Adivsory Board),Congressional Coalition on Adoption Institute
 C000141,N00001955,"Cardin, Ben",2016,Trustee,Herbert Rosen Irrevocable Trust
@@ -24,6 +41,8 @@ C000537,N00002408,"Clyburn, James E",2016,Board Member (uncompensated),Allen Uni
 C000537,N00002408,"Clyburn, James E",2016,Board Member (uncompensated),Congressional Black Caucus Education & Leadership
 C000286,N00002685,"Chambliss, Saxby",2016,Director,Camp Sunshine
 B000911,N00002713,"Brown, Corrine",2016,Board Member,Communities in Schools of Jacksonville
+F000462,N00002893,,2016,Partner,8400 Plaza Assoc
+F000462,N00002893,,2016,Partner,Real Estate Assoc Ltd III
 C000754,N00003132,"Cooper, Jim",2016,Partner,Cooper Bros Land Co
 C000754,N00003132,"Cooper, Jim",2016,Member,Hamilton Fairfax LLC
 C000754,N00003132,"Cooper, Jim",2016,Member,Harpeth Green Properties
@@ -38,12 +57,35 @@ C000567,N00003328,"Cochran, Thad",2016,(Committee Member),Profiles in Courage Aw
 B000944,N00003535,"Brown, Sherrod",2016,Trustee,Gallaudet University
 C001096,N00004614,,2016,Trustee,University of Mary
 C001096,N00004614,,2016,Trustee,University of Mary
+G000535,N00004874,"Gutierrez, Luis V",2016,Member of Advisory Council,Congressional Hispanic Caucus Institute
+D000096,N00004884,"Davis, Danny K",2016,Board Member,East-West University
+D000096,N00004884,"Davis, Danny K",2016,Advisory Board,Prevention Partnership
+D000096,N00004884,"Davis, Danny K",2016,Board Member,Streetwise Newspaper
 A000373,N00005293,,2016,Vice President/Co-Owner,Bugeaters Inc
 A000373,N00005293,,2016,President/Owner,Nebraska Solutions LLC
 C000560,N00005601,"Coburn, Tom",2016,Officer,Professional Building Partners LLC
 C000560,N00005601,"Coburn, Tom",2016,Officer,Thomas A Coburn MD
+H000067,N00005645,"Hall, Ralph",2016,President & Director (unpaid),Lakeside Bancshares
+H000067,N00005645,"Hall, Ralph",2016,Chairman & Director (unpaid),Lakeside National Bank
+H000067,N00005645,"Hall, Ralph",2016,Chairman & Director (unpaid),Linrock Inc
+H000067,N00005645,"Hall, Ralph",2016,Chairman & Director (unpaid),North & East Trading Co
+H000636,N00006008,"Hinojosa, Ruben",2016,Chairman,Congressional Hispanic Caucus Institute
+H000636,N00006008,"Hinojosa, Ruben",2016,Partner,Hinojosa Development
+H000636,N00006008,"Hinojosa, Ruben",2016,Partner,Hinojosa Enterprises
+F000448,N00006423,"Franks, Trent",2016,Board Member,Americans for Military Readiness
+F000448,N00006423,"Franks, Trent",2016,Board Member,Heartline Ministries
+F000030,N00007312,"Farr, Sam",2016,LLC member,Devils Flat Assn
+F000030,N00007312,"Farr, Sam",2016,Partner,Sorensen's Resort
+F000030,N00007312,"Farr, Sam",2016,Limited partner,Vista Lobos Property Trust Partnership
+F000010,N00007632,"Faleomavaega, Eni F H",2016,President and Director (5),Faleomavaega Community Service Foundation
 B000574,N00007727,"Blumenauer, Earl",2016,Member of the Board of Directors,Joinery Holding Company
 B000574,N00007727,"Blumenauer, Earl",2016,Member of the Board of Directors,Rail-Volution
+G000377,N00008799,"Granger, Kay",2016,Member of the Advisory Board,AIDS Outreach Advisory Board
+G000377,N00008799,"Granger, Kay",2016,Member of the Advisory Board,Alliance for Children
+G000377,N00008799,"Granger, Kay",2016,Member of the Advisory Board,American University Women & Politics Institute
+G000377,N00008799,"Granger, Kay",2016,Member of the Planning Committee,Aviation Museum
+G000377,N00008799,"Granger, Kay",2016,Member of the Advisory Board,Children's Education Fund
+F000444,N00009573,"Flake, Jeff",2016,Other (Member),National Advisory Board for the College of Family
 C001047,N00009771,"Capito, Shelley Moore",2016,National Advisory Board Member,University of Charleston
 B000287,N00009774,"Becerra, Xavier",2016,Board Member,Center for the Advancement of Hispanics in Science
 B000287,N00009774,"Becerra, Xavier",2016,Board of Advisors,Close Up Foundation
@@ -53,7 +95,13 @@ B000287,N00009774,"Becerra, Xavier",2016,Board Member,Smithsonian Institution Na
 A000360,N00009888,"Alexander, Lamar",2016,Chief Manager,Alexander Property Management LLC
 C001049,N00012460,"Clay, William L Jr",2016,Director,Project Vote Smart
 C001049,N00012460,"Clay, William L Jr",2016,Director,William L Clay Scholarship & Research Fund
+H001034,N00012611,"Honda, Mike",2016,Board Member (uncompensated),Asian Pacific American Inst for Congress Studies
 C001046,N00013131,"Cantor, Eric",2016,Non-compensated President and Member,CMR LLC
+G000546,N00013323,"Graves, Sam",2016,Member,Airport Farms Aviation LLC
+G000546,N00013323,"Graves, Sam",2016,Member,Archer Aviation LLC
+G000546,N00013323,"Graves, Sam",2016,Class 2 Director,EAA Warbirds Over America
+G000546,N00013323,"Graves, Sam",2016,Partner (together with brothers and spouses and Lesley Graves),Graves Brothers Farms
+G000546,N00013323,"Graves, Sam",2016,Member,Rockin Hord LLC
 B001236,N00013873,"Boozman, John",2016,Partner,Cotswald Partners
 C001069,N00024842,"Courtney, Joe",2016,Board Member (uncompensated),Connecticut Health Policy Project
 C001056,N00024852,"Cornyn, John",2016,Other (Board Member),Clements Center Statecraft Board
@@ -66,7 +114,13 @@ C001063,N00024978,"Cuellar, Henry",2016,Advisory Board Member,Center for US & Me
 C001063,N00024978,"Cuellar, Henry",2016,Advisory Council Member,Congressional Hispanic Caucus Institute
 C001063,N00024978,"Cuellar, Henry",2016,"Board Member, Vice Chairman",Congressional Hispanic Leadership
 C001063,N00024978,"Cuellar, Henry",2016,Proprietor,HC Rentals
+G000549,N00025025,"Gerlach, Jim",2016,Director,Brandywine Transitional Corp
 B001248,N00025219,"Burgess, Michael",2016,Board of Trustee (retired member),Medical Center
+G000551,N00025284,"Grijalva, Raul M",2016,Advisory Council Member,Congressional Hispanic Caucus Institute
+G000551,N00025284,"Grijalva, Raul M",2016,Board Member,Progressive Congress.org
+D000600,N00025337,"Diaz-Balart, Mario",2016,Vice President(unpaid),124 D Street Condominium Assn
+D000600,N00025337,"Diaz-Balart, Mario",2016,Boardmember(unpaid),Congressional Hispanic Leadership
+D000600,N00025337,"Diaz-Balart, Mario",2016,Boardmember(unpaid),National Assn of Latino Elected & Appointed
 B001269,N00025495,"Barletta, Lou",2016,Member,Elderwish Foundation
 B001269,N00025495,"Barletta, Lou",2016,Member,LB LLC
 B001269,N00025495,"Barletta, Lou",2016,Member,National Board of Advisors- Federation for America
@@ -75,14 +129,19 @@ C001053,N00025726,"Cole, Tom",2016,Partner,"Cole, Hargrave et al"
 C001053,N00025726,"Cole, Tom",2016,Board of Directors,Fulbright Assn
 C001053,N00025726,"Cole, Tom",2016,Board of Regents,Smithsonian Institution
 C001053,N00025726,"Cole, Tom",2016,Partner,Strategic Communications
+H001050,N00025881,"Hanabusa, Colleen",2016,Limited Partner,Hanabusa LP
+H001050,N00025881,"Hanabusa, Colleen",2016,Board of Councilors,US-Japan Council
 C001062,N00026041,"Conaway, Mike",2016,Board of Directors - President,Conabain Corp
 C001062,N00026041,"Conaway, Mike",2016,Board of Directors - President,Conawell Corp
 C001062,N00026041,"Conaway, Mike",2016,Sole Proprietor,K Michael Conaway CPA
 C001062,N00026041,"Conaway, Mike",2016,Board of Directors - Vice President,Kidwell Exploration
 C001062,N00026041,"Conaway, Mike",2016,Board of Directors - President,Kmc Inc
 B001252,N00026080,"Barrow, John",2016,Trustee,Pope Barrow Cemetery Trust
+D000604,N00026171,"Dent, Charlie",2016,Member,Advisory Board of the Minsi Trails Council Boy Sco
+D000604,N00026171,"Dent, Charlie",2016,Board Member,Crime Victims Council of the Lehigh Valley
 C001059,N00026341,"Costa, Jim",2016,Advisory Council Member,Congressional Hispanic Caucus Institute
 C001059,N00026341,"Costa, Jim",2016,Board Member,Maddy Institute CA State University
+D000607,N00026586,"Donnelly, Joe",2016,Officer,Marking Solutions
 C001061,N00026790,"Cleaver, Emanuel",2016,Board Member,Jazz District Renaissance Corp
 C001061,N00026790,"Cleaver, Emanuel",2016,Board of Trustees,National World War I Museum
 B001251,N00027035,"Butterfield, G K",2016,Principal,Millco on Wilson LLC
@@ -107,24 +166,70 @@ B001260,N00027626,"Buchanan, Vernon",2016,Partner,130 North Tamiami Trail LLC
 B001260,N00027626,"Buchanan, Vernon",2016,Partner,301 Oxford LLC
 B001260,N00027626,"Buchanan, Vernon",2016,Partner,600 LC dba Space Coast Honda
 B001260,N00027626,"Buchanan, Vernon",2016,Managing Member,6430 Hollywood Blvd LLC
+D000622,N00027860,,2016,Member,Pacific First Health Solutions
+E000290,N00028249,"Edwards, Donna",2016,Profiles in Courage Awards Selection Committee,John F Kennedy Presidential Library
+G000556,N00028418,,2016,Officer/Director,38296 Yukon Inc
+G000556,N00028418,,2016,Director,AMG Tr
+G000556,N00028418,,2016,Officer/Director,GCCPC
+G000556,N00028418,,2016,Officer/Director,Grayson Consulting
+G000556,N00028418,,2016,Trustee,Grayson Foundation
 B001262,N00028986,"Broun, Paul",2016,Member,Broun Brother's Investors LLC
+F000457,N00029016,"Franken, Al",2016,Other (President/Joint Owner/Employee),Alan Franken Inc
+F000457,N00029016,"Franken, Al",2016,Other (Board Member),US Holocaust Memorial
+H001052,N00029147,"Harris, Andy",2016,Associate Professor on Leave,Johns Hopkins University
 C001072,N00029513,"Carson, Andre",2016,Board Member (uncompensated),Congressional Black Caucus Foundation
+G000558,N00029675,"Guthrie, Brett",2016,Advisory Board Member,Center for Gifted Studies at Western KU
+G000558,N00029675,"Guthrie, Brett",2016,Advisory Board Member,Potter Children's Home
+G000558,N00029675,"Guthrie, Brett",2016,Advisory Board Member,Western Kentucky University
+F000456,N00029679,"Fleming, John",2016,Member,1 Subway LLC
+F000456,N00029679,"Fleming, John",2016,Member,ATB Construction & Maintenance
+F000456,N00029679,"Fleming, John",2016,Member,Chinese Concepts LLC
+F000456,N00029679,"Fleming, John",2016,Member,Flemfit LLC
+F000456,N00029679,"Fleming, John",2016,Member,Fleming Acquisitions LLC
 B001265,N00029901,"Begich, Mark",2016,Proprietor,Begich Apartments
 B001265,N00029901,"Begich, Mark",2016,Partner,Carson City Holding
 B001265,N00029901,"Begich, Mark",2016,Partner,Hot Springs Ltd
 B001265,N00029901,"Begich, Mark",2016,Officer,Kobuk Coffee
 B001265,N00029901,"Begich, Mark",2016,Officer,Sourdough Mercantile
+H001058,N00030673,"Huizenga, Bill",2016,Officer,Huizenga Gravel Co
+H001058,N00030673,"Huizenga, Bill",2016,Member,Lakeridge LLC
+H001058,N00030673,"Huizenga, Bill",2016,Member,Riverbend Llc
+D000623,N00030709,,2016,Proprietor,DBL Corp
+D000623,N00030709,,2016,President,Hat in the Ring Inc
+D000623,N00030709,,2016,Trustee,Norman Hobday Trust
 B001287,N00030717,,2016,CEO President,Mango Management Inc
 B001287,N00030717,,2016,Clinical Professor of Medicine,University of School of Medicine
 C001083,N00030736,"Carney, John",2016,Director,Delaware Cancer Consortium
+D000615,N00030752,"Duncan, Jeff",2016,President,Future Group
+D000615,N00030752,"Duncan, Jeff",2016,Treasurer,Three Tigers Capital Corp
+D000615,N00030752,"Duncan, Jeff",2016,Secretary,Three Tigers Capital Corp
+G000560,N00030788,"Graves, Tom",2016,Member,Tomahawk Ventures
+G000570,N00030801,"Guinta, Frank",2016,Chairman,Independent Business Council of NH
 B001297,N00030829,,2016,Director,Colorado District Attorney's Council
+D000616,N00030957,"Desjarlais, Scott",2016,officer- President,Medical Arts Plaza
 C001106,N00031064,,2016,Board Member,Chester County Industrial Development Authorit
 C001106,N00031064,,2016,Board Member,County Commissioners Assoc of Pennsylvania (1) Hum
 C001106,N00031064,,2016,Board Member,Phoenixville Hospital Board of Directors
 C001106,N00031064,,2016,Managing Member,Sheeder Properties
 C001106,N00031064,,2016,Co - Chairman,Vista 2025 Cmte
+D000613,N00031103,"Dold, Bob",2016,Secretary,America's Infrastructure Alliance
+D000613,N00031103,"Dold, Bob",2016,Board Member,Boy Scouts of America Northeast Illinois Council
+D000613,N00031103,"Dold, Bob",2016,Board Member,Boys & Girls Club of Lake County
+D000613,N00031103,"Dold, Bob",2016,President,Rose Exterminator Co
+D000613,N00031103,"Dold, Bob",2016,Managing Member,Rose Pest Solutions LLC
+F000458,N00031141,"Fincher, Steve",2016,Proprietor,Stephen & Lynn Fincher Farms
 B001273,N00031539,"Black, Diane",2016,Member,Ebon Falcon LLC
 B001273,N00031539,"Black, Diane",2016,Limited Partner & Member,Empirical Capital Partners LP
+F000461,N00031545,"Flores, Bill",2016,Trustee,Houston Baptist University
+F000461,N00031545,"Flores, Bill",2016,Trustee,Houston Baptist University
+F000461,N00031545,"Flores, Bill",2016,Officer,JW Flores Family I LP
+F000461,N00031545,"Flores, Bill",2016,Officer,JW Flores Family I LP
+F000461,N00031545,"Flores, Bill",2016,Director,Private Enterprise Research Center
+D000612,N00031593,"Denham, Jeff",2016,Member,Denham Plastics
+D000612,N00031593,"Denham, Jeff",2016,Member,MJT LLC
+H001061,N00031688,"Hoeven, John",2016,Director,First Western Bank & Trust
+H001061,N00031688,"Hoeven, John",2016,Other (Member),Northwest Respiratory Service LLC
+H001061,N00031688,"Hoeven, John",2016,Partner,Tompson-Hoeven Partnership
 C001088,N00031820,"Coons, Chris",2016,Trustee,2001 Coons Family Delaware Trust
 C001088,N00031820,"Coons, Chris",2016,Trustee,Grandma Sally's Expand Your Horizon Trust John C C
 C001088,N00031820,"Coons, Chris",2016,Trustee,Grandma Sally's Expand Your Horizon Trust Margaret
@@ -136,16 +241,25 @@ B001271,N00031934,"Benishek, Dan",2016,Vice President,Wild River Land Management
 A000367,N00031938,"Amash, Justin",2016,Owner of Minority Interest,Michigan Industrial Tools
 A000367,N00031938,"Amash, Justin",2016,Member,Standard Bear LLC
 C001084,N00032019,"Cicilline, David",2016,Board Member,After School Alliance
+D000618,N00033054,,2016,Member,Genesis Partners
 C001098,N00033085,,2016,Trustee,Free Enterprise Institute
+G000571,N00033281,,2016,VP,Healthy Hawaii Coalition
+G000571,N00033281,,2016,VP,Healthy Hawaii Coalition
+G000571,N00033281,,2016,VP,Healthy Hawaii Coalition
 C001091,N00033316,,2016,Member,2006 Magnolia LLC (Partnership)
 C001091,N00033316,,2016,Director,Congressional Hispanic Caucus Institute
 C001091,N00033316,,2016,Director,National College Advising Corps
+H001065,N00033399,,2016,Partner,Boyle Investment Group - Which Nich Sandwich Shop
+H001065,N00033399,,2016,Partner,Cape Fear LLP - Family Real Estate - Undeveloped L
 B001278,N00033474,"Bonamici, Suzanne",2016,Member (minority interest; no control or managerial responsibility),Insmouth Partners LLC
 B001284,N00033495,,2016,Distinguished Advisor,Children's Museum of Indianapolis
 B001284,N00033495,,2016,Distinguished Advisor,Children's Museum of Indianapolis
 B001284,N00033495,,2016,Distinguished Advisor,Children's Museum of Indianapolis
 B001284,N00033495,,2016,Board Member,Indiana University School of Law
 B001284,N00033495,,2016,Board Member,Indiana University School of Law
+G000572,N00033541,,2016,Director,Access To Justice Foundation
+G000572,N00033541,,2016,Director,Cibo Enterprises
+G000572,N00033541,,2016,Partner,NMRG Ventures LP
 B001280,N00033625,,2016,Member,Honorable Old Fashion Santa LLC
 A000372,N00033720,,2016,Director,Associated General Contractors of America
 A000372,N00033720,,2016,Director/Officer,Augusta Harrisburg Fuller Center for Housing
@@ -156,11 +270,18 @@ B001294,N00033744,,2016,Partner,Bedrock Development
 B001294,N00033744,,2016,Chief Executive Officer,Digital Canal Corp
 B001294,N00033744,,2016,Partner,Doppio Giu
 B001294,N00033744,,2016,Partner,Salto de Fede
+D000620,N00033897,,2016,Limited partner,Acacia Partners LP
+D000620,N00033897,,2016,"Co-Founder, Director and Member of LLC",Alliance Partners LLC
+D000620,N00033897,,2016,LLC Member,Alliance Partners Management
+D000620,N00033897,,2016,Limited partner,American Steadfast LP
+D000620,N00033897,,2016,Founder and Chairman,Blueprint Maryland
 A000371,N00033997,,2016,Board Member,California Consumer Motor Vehicle Recovery Corp
 A000371,N00033997,,2016,Alternate Board Member,Omnitrans - San Bernardino County
 A000371,N00033997,,2016,Alternate Board Member,San Bernardino Valley Municipal Water Advisory
 A000371,N00033997,,2016,Board Member,YMCA of the East Valley
 C001090,N00034128,,2016,Director,Hope Center of Wyoming Valley
+D000621,N00034746,,2016,Member,LSAT Freedom
+E000292,N00034884,,2016,Trustee,Alex D Enyart Trust #100
 B001288,N00035267,,2016,Other (Mayor),"City of Newark, NJ"
 B001288,N00035267,,2016,Other (Board member),Columbia University Teacher's College
 B001288,N00035267,,2016,Other (Board member),Foundation for Newark's Future
@@ -179,8 +300,15 @@ C001107,N00035403,,2016,Director,Centre Court Charities (youth basketball league
 C001107,N00035403,,2016,Board Member,Miami - Dade County School Board
 C001107,N00035403,,2016,Director,Miami - Dade County School Board Foundation
 C001107,N00035403,,2016,Board Member,Value Adjustment Board of Miami - Dade County
+E000294,N00035440,,2016,Employee,Clear Channel Communications
+E000294,N00035440,,2016,Owner / Partner,Emmer Law Firm
 A000370,N00035451,,2016,Board Vice-Chair,African American Atelier Inc
 A000370,N00035451,,2016,Board Chair,NC Legislative Black Caucus Foundation
+E000295,N00035483,,2016,Officer,Iowa Army National Guard
+E000295,N00035483,,2016,Officer,Iowa Army National Guard
+E000295,N00035483,,2016,Other (Senator),Iowa State Senate
+E000295,N00035483,,2016,(Senator),Iowa State Senate
+G000575,N00035688,,2016,Director,Graham Companies (The)
 C001102,N00035854,,2016,Partner,4646 N Beacon LLC: Clawson Assoc
 C001102,N00035854,,2016,"Officer, Director, Employee",HLI Operating Co
 C001102,N00035854,,2016,Director,Lear Corp
@@ -194,6 +322,18 @@ B001292,N00036018,,2016,Board member,American Security Project
 B001292,N00036018,,2016,Board member,Center for Arms Control & Nonproliferation
 C001105,N00036023,,2016,Director,Child Help
 C001105,N00036023,,2016,Director,Friends of Clemyjontri
+G000574,N00036097,,2016,owner,17th Avenue Group
+G000574,N00036097,,2016,Vote Vets,Arizona State Captain
+G000574,N00036097,,2016,President,Central Arizonans for a Sustainable Economy
+G000574,N00036097,,2016,Board Member,Children's Museum of Phoenix
+G000574,N00036097,,2016,owner,Taylor Street Group
+D000624,N00036149,,2016,Chair (Foundation Closed 2014),(Michigan) Governor's Residence Foundation
+D000624,N00036149,,2016,Co-Chair Steering Committee,All International Neighbors Club
+D000624,N00036149,,2016,Co-Host,"Am I Right, Detroit Public Television, Channel 56"
+D000624,N00036149,,2016,Advisory Board Member,American Civil Liberties Union (ACLU) of Michigan
+D000624,N00036149,,2016,Advisory Board Member,American-Arab Anti-Discrimination Cmte
+G000576,N00036409,,2016,Board Member,Citizens Advocacy
+G000576,N00036409,,2016,Board Member,Keale Maritine Symphony
 B001293,N00036449,,2016,Board Member,Covenant House Michigan
 B001293,N00036449,,2016,Chief Legal Officer / Secretary,International Bancard Corp
 B001293,N00036449,,2016,Vice President,Patriot Week
