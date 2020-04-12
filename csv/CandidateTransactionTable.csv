@@ -8,6 +8,11 @@ K000148,N00000245,"Kerry, John",2016,iShares Russell 1000 Index,Jun 14 2013,,100
 C001037,N00000267,"Capuano, Michael E",2016,Schwab S&P 500 Fund,Jul 31 2013,,1001,15000
 C001037,N00000267,"Capuano, Michael E",2016,Schwab Health Care Fund,Mar 20 2013,,1,1000
 M000133,N00000270,"Markey, Ed",2016,Fidelity Cash Reserve Fund,Apr  4 2013,,15001,50000
+R000122,N00000362,"Reed, Jack",2016,Vertex Pharmaceuticals,Apr  4 2013,,1001,15000
+R000122,N00000362,"Reed, Jack",2016,Apple Inc,Mar 27 2013,,1001,15000
+R000122,N00000362,"Reed, Jack",2016,Apple Inc,Mar 27 2013,,1001,15000
+R000122,N00000362,"Reed, Jack",2016,Vertex Pharmaceuticals,Mar 25 2013,,1001,15000
+R000122,N00000362,"Reed, Jack",2016,United Natural Foods,Jan 28 2013,,1001,15000
 C001035,N00000491,"Collins, Susan M",2016,"Real estate/Shady Side, MD",Oct  4 2013,,500001,1000000
 C001035,N00000491,"Collins, Susan M",2016,"Real estate/Bangor, ME",Jul 23 2013,,250001,500000
 C001035,N00000491,"Collins, Susan M",2016,MainStay Marketfield Fund,Jun  3 2013,,50001,100000
@@ -28,6 +33,12 @@ F000372,N00000684,"Frelinghuysen, Rodney",2016,Deere & Co,Jul 31 2013,,15001,500
 F000372,N00000684,"Frelinghuysen, Rodney",2016,US T-Notes,Jul 31 2013,,15001,50000
 F000372,N00000684,"Frelinghuysen, Rodney",2016,Demand Deposit Account,Various,,15001,50000
 G000548,N00000743,"Garrett, Scott",2016,Dreyfus S & P fund,Nov 13 2013,,250001,500000
+P000096,N00000751,"Pascrell, Bill Jr",2016,Wells Fargo Cash,Bi-weekly,,1,1000
+P000034,N00000781,"Pallone, Frank Jr",2016,Advisors Asset Management High 50 Dividend Fund,Apr  9 2013,,50001,100000
+P000034,N00000781,"Pallone, Frank Jr",2016,Lord Abbett Investment Trust Short Durat,Apr  9 2013,,1001,15000
+P000034,N00000781,"Pallone, Frank Jr",2016,SPDR Euro STOXX 50,Jul 15 2013,,1001,15000
+P000034,N00000781,"Pallone, Frank Jr",2016,Russell Invest US Strategic Equity Fund,Apr 26 2013,,1001,15000
+P000034,N00000781,"Pallone, Frank Jr",2016,Russell Strategic Bond Fund,Apr 26 2013,,1001,15000
 L000554,N00000851,"LoBiondo, Frank",2016,Pimco All Asset All Authority Fund,Dec 11 2013,,50001,100000
 L000554,N00000851,"LoBiondo, Frank",2016,Wasatch Long Short Fund,Dec 11 2013,,15001,50000
 L000554,N00000851,"LoBiondo, Frank",2016,Pimco All Asset All Authority Fund,Nov  1 2013,,1001,15000
@@ -38,8 +49,13 @@ L000567,N00000898,"Lance, Leonard",2016,Franklin  Templeton Foreign Small Co Fun
 L000567,N00000898,"Lance, Leonard",2016,Member Principal High Yield Fund,Dec 23 2013,,50001,100000
 L000567,N00000898,"Lance, Leonard",2016,Wells Fargo Advantage Growth Fund,Dec 23 2013,,15001,50000
 L000567,N00000898,"Lance, Leonard",2016,First Eagle Global Fund,Dec 23 2013,,1001,15000
+R000053,N00000964,"Rangel, Charles B",2016,Nuveen Ins NY TF Advantage Mun Fund,Jun  1 2013,,1001,15000
+R000053,N00000964,"Rangel, Charles B",2016,Eaton Vance TX-AD Global Div Inc Fund,Apr  1 2013,,1001,15000
+R000053,N00000964,"Rangel, Charles B",2016,Blackrock Mun Target Term TR,May  1 2013,,1001,15000
 L000480,N00001024,"Lowey, Nita M",2016,Parkstone Capital,,,15001,50000
 L000480,N00001024,"Lowey, Nita M",2016,New Silk Route Fund,Aug 26 2013,,1001,15000
+S000148,N00001093,"Schumer, Charles E",2016,Federal National Mortgage Assn Bonds,Sep 17 2012 12:00AM,,1001,15000
+S000148,N00001093,"Schumer, Charles E",2016,Triborough Bridge & Tunnel Auth NY Bond,Nov 15 2013,,1001,15000
 C001038,N00001127,"Crowley, Joseph",2016,Gold Coins,Jul 30 2013,,1,1000
 C001038,N00001127,"Crowley, Joseph",2016,Microsoft Corp,Jul 10 2013,,29,29
 M000309,N00001148,"McCarthy, Carolyn",2016,Vacant Land/Lot 7 Golf Terrace Dr/Olde Point,Dec  6 2013,,15001,50000
@@ -52,7 +68,25 @@ C001092,N00001285,,2016,Innate Immunotherapeutics,Dec 17 2013,,500001,1000000
 C001092,N00001285,,2016,TriState Capital,Jun  3 2013,,100001,250000
 C001092,N00001285,,2016,National Fuel Gas,Aug  2 2013,,100001,250000
 C001092,N00001285,,2016,Total SA,Aug  2 2013,,100001,250000
+S000480,N00001311,"Slaughter, Louise M",2016,Eastman Savings & Loan 30 mo Fixed CD IRA,Dec  3 2013,,15001,50000
+S000480,N00001311,"Slaughter, Louise M",2016,Fidelity Balanced Fund,Mar 14 2013,,15001,50000
+S000480,N00001311,"Slaughter, Louise M",2016,Fidelity Freedom Income,Quarterly,,1,1000
+S000480,N00001311,"Slaughter, Louise M",2016,Fidelity Balanced Fund,Quarterly,,1,1000
+S000480,N00001311,"Slaughter, Louise M",2016,Fidelity Asset Manager Fund,Quarterly,,1,1000
 D000482,N00001373,"Doyle, Mike",2016,PA SERS Defined Benefit Rollover to Structured Cap,Sep 23 2013,,15001,50000
+S001162,N00001579,"Schwartz, Allyson",2016,Vanguard 500 Index Signal,May 21 2013,,100001,250000
+S001162,N00001579,"Schwartz, Allyson",2016,Morgan Stanley FMA Money Market,Jul 19 2013,,1,1000
+S001162,N00001579,"Schwartz, Allyson",2016,Teva Pharmaceuticals,Dec 20 2013,,1,1000
+R000361,N00001685,"Rockefeller, Jay",2016,3411 Woodley Property Sale,Jun  7 2013,,1000001,5000000
+R000361,N00001685,"Rockefeller, Jay",2016,Rockefeller Global Dividend Growth Fund,Apr  1 2013,,250001,500000
+R000361,N00001685,"Rockefeller, Jay",2016,Carlyle Group LP,Jun 26 2013,,100001,250000
+R000361,N00001685,"Rockefeller, Jay",2016,Rockefeller Global Dividend Growth Fund,Jan  2 2013,,50001,100000
+R000361,N00001685,"Rockefeller, Jay",2016,Rockefeller Global Dividend Growth Fund,Jul  1 2013,,50001,100000
+N000147,N00001692,"Norton, Eleanor Holmes",2016,Davis NY Venture Fund,Jul  3 2013,,1001,15000
+N000147,N00001692,"Norton, Eleanor Holmes",2016,Allianz Fixed Period Account Money Market Fund,Dec  3 2013,,1001,15000
+N000147,N00001692,"Norton, Eleanor Holmes",2016,Retirement Growth Fund,May  7 2013,,1001,15000
+N000147,N00001692,"Norton, Eleanor Holmes",2016,TIAA Traditional Fund,May  7 2013,,1001,15000
+N000147,N00001692,"Norton, Eleanor Holmes",2016,Hartford Capital Appreciation Fund,Dec 18 2013,,1,1000
 G000386,N00001758,"Grassley, Chuck",2016,Neuberger Berman Equity Income Fund,Nov 18 2013,,50001,100000
 G000386,N00001758,"Grassley, Chuck",2016,Principal Small-MidCap Dividend Inc Fund,Nov 18 2013,,50001,100000
 G000386,N00001758,"Grassley, Chuck",2016,AQR Managed Futures Strategy Fund,May  2 2013,,15001,50000
@@ -63,6 +97,11 @@ D000355,N00001783,"Dingell, John D",2016,Comcast Corp,Jan 16 2013,,1001,15000
 D000355,N00001783,"Dingell, John D",2016,CVS Caremark,Jan 16 2013,,1001,15000
 D000355,N00001783,"Dingell, John D",2016,CVS Caremark,Mar 21 2013,,1001,15000
 D000355,N00001783,"Dingell, John D",2016,Eaton Vance Tax-Managed Global Diversified Equity,May 16 2013,,1001,15000
+S000583,N00001811,"Smith, Lamar",2016,Sale of Easement: TX.Net.JW.308,Aug 27 2013,,50001,100000
+S000583,N00001811,"Smith, Lamar",2016,Invesco Equally Weighted S&P 500 Fund,Feb 13 2013,,15001,50000
+S000583,N00001811,"Smith, Lamar",2016,Columbia Acorn International Fund,Feb 28 2013,,1001,15000
+S000583,N00001811,"Smith, Lamar",2016,Dodge & Cox Stock Fund,Feb 27 2013,,1001,15000
+S000583,N00001811,"Smith, Lamar",2016,Dodge & Cox Stock Fund,Jun 19 2013,,1001,15000
 C000141,N00001955,"Cardin, Ben",2016,Bond Core Plus Fund,Jun 17 2013,,100001,250000
 C000141,N00001955,"Cardin, Ben",2016,Conservative Risk Fund,Jun 17 2013,,100001,250000
 C000141,N00001955,"Cardin, Ben",2016,Small Cap Index Equity Fund,Jun 17 2013,,50001,100000
@@ -70,6 +109,16 @@ C000141,N00001955,"Cardin, Ben",2016,Columbia Tax Exempt Fund,Jun 21 2013,,15001
 C000141,N00001955,"Cardin, Ben",2016,Fixed Account - Deferred Compensation Plan,Aug 22 2013,,15001,50000
 C000984,N00001971,"Cummings, Elijah E",2016,"1830-11th St NW/Washington, DC 20001",Apr 15 2013,,250001,500000
 M000933,N00002083,"Moran, Jim",2016,Ameriprise Money Market,Aug  1 2013,,1,1000
+S000185,N00002147,"Scott, Bobby",2016,Harbor Capital Appreciation Fund,Jul  2 2012,,1001,15000
+S000185,N00002147,"Scott, Bobby",2016,Harbor Capital Appreciation Fund,various,,1,1000
+S000185,N00002147,"Scott, Bobby",2016,Fidelity Convertible Securities Fund,various,,1,1000
+S000185,N00002147,"Scott, Bobby",2016,Fidelity Convertible Securities Fund,various,,1,1000
+S000185,N00002147,"Scott, Bobby",2016,Apple Inc,Apr 23 2012,,1,1000
+R000011,N00002198,"Rahall, Nick",2016,NJR Charitable Remainder Unit Trust,,,100001,250000
+R000011,N00002198,"Rahall, Nick",2016,NJR Charitable Remainder Unit Trust,,,100001,250000
+R000011,N00002198,"Rahall, Nick",2016,"76.57, 82 & 2.2 Acre Tracts/Sampson Co",Feb 22 2013,,100001,250000
+R000011,N00002198,"Rahall, Nick",2016,Wells Fargo Advisors Account,,,50001,100000
+R000011,N00002198,"Rahall, Nick",2016,Amgen Inc,2013-05-30 00:00:00.000,,26200,26200
 B001135,N00002221,"Burr, Richard",2016,Richard M Burr & Brook F Burr JTTEN,Sep 25 2013,,35688,35688
 B001135,N00002221,"Burr, Richard",2016,American Funds Tax Exempt Bond Fund,2013-09-25 00:00:00.000,,35688,35688
 B001135,N00002221,"Burr, Richard",2016,Richard M Burr & Brook F Burr JTTEN,Sep 25 2013,,35207,35207
@@ -80,11 +129,21 @@ C000556,N00002247,"Coble, Howard",2016,Endo Health Solutions,2013-11-25 00:00:00
 C000556,N00002247,"Coble, Howard",2016,Edwards Lifesciences,2013-09-03 00:00:00.000,,10137,10137
 C000556,N00002247,"Coble, Howard",2016,Hillshire Brands Co,2013-10-10 00:00:00.000,,10117,10117
 C000556,N00002247,"Coble, Howard",2016,RR Donnelley & Sons,2013-02-22 00:00:00.000,,10056,10056
+P000523,N00002260,"Price, David",2016,Magellan Midstream Partners LP,Jul  3 2013,,1,1000
+P000523,N00002260,"Price, David",2016,Honeywell International,Jul  3 2013,,1,1000
+P000523,N00002260,"Price, David",2016,Gilead Sciences,Jul  3 2013,,1,1000
+P000523,N00002260,"Price, David",2016,Energy Transfer Partners,Jun 10 2013,,1,1000
+P000523,N00002260,"Price, David",2016,NC Health Care Facilities Bonds,Dec 10 2013,,1,1000
 C000537,N00002408,"Clyburn, James E",2016,Oakmark International Fund,Feb  6 2013,,1,1000
 C000537,N00002408,"Clyburn, James E",2016,Lazard Emerging Markets Fund,Feb  6 2013,,1,1000
 C000537,N00002408,"Clyburn, James E",2016,John Hancock Classic Value Fund,Feb  6 2013,,1,1000
 C000537,N00002408,"Clyburn, James E",2016,Cullen High-Dividend Equity,Feb  6 2013,,1,1000
 C000537,N00002408,"Clyburn, James E",2016,Thornburg International Value Fund,Feb  6 2013,,1,1000
+S000051,N00002424,,2016,Southchase (4017 AC),Aug  1 2013,,100001,250000
+S000051,N00002424,,2016,509 King St,Jan 31 2013,,15001,50000
+S000051,N00002424,,2016,1813 Lovejoy St,Dec 20 2013,,1001,15000
+S000051,N00002424,,2016,2304 Pine Ct #75,May 15 2013,,1001,15000
+S000051,N00002424,,2016,5 Quintyne Ct,Mar 11 2013,,1001,15000
 L000287,N00002577,"Lewis, John",2016,Bank of America,Mar 13 2013,,1,1000
 L000287,N00002577,"Lewis, John",2016,Bank of America,Mar 13 2013,,1,1000
 L000287,N00002577,"Lewis, John",2016,Bank of America,Mar 13 2013,,1,1000
@@ -103,6 +162,11 @@ F000462,N00002893,,2016,Apple Inc,Feb 22 2013,,1,1000
 F000462,N00002893,,2016,American International Group,Mar 11 2013,,1,1000
 F000462,N00002893,,2016,Alexion Pharmaceuticals,Jun 19 2013,,1,1000
 A000055,N00003028,"Aderholt, Robert B",2016,Telefonos de Mexico SA de CV,Apr  3 2013,,1,1000
+S001141,N00003062,"Sessions, Jeff",2016,Vanguard Money Market Reserves Fund,Jun  3 2013,,50001,100000
+S001141,N00003062,"Sessions, Jeff",2016,Vanguard Money Market Reserves Fund,Jul  5 2013,,50001,100000
+S001141,N00003062,"Sessions, Jeff",2016,T Rowe Price Prime Reserve Fund,Sep 23 2013,,50001,100000
+S001141,N00003062,"Sessions, Jeff",2016,Vanguard Money Market Reserves Fund,Oct  3 2013,,50001,100000
+S001141,N00003062,"Sessions, Jeff",2016,BlackRock MuniAssets Fund Inc,Apr  8 2013,,15001,50000
 B001243,N00003105,"Blackburn, Marsha",2016,Compass Emp Multi Asset Balanced Fund,Jun  5 2013,,1001,15000
 B001243,N00003105,"Blackburn, Marsha",2016,Blackrock Global Tactical Strategies Portfolio,Jun 10 2013,,1001,15000
 B001243,N00003105,"Blackburn, Marsha",2016,JP Morgan Active Allocation Portfolio,Jun 10 2013,,1001,15000
@@ -130,6 +194,11 @@ M000355,N00003389,"McConnell, Mitch",2016,Vanguard Tax Exempt Money Market Fund,
 M000355,N00003389,"McConnell, Mitch",2016,Vanguard 500 Index Signal,Jul  8 2013,,100001,250000
 M000355,N00003389,"McConnell, Mitch",2016,Vanguard 500 Index Signal,Apr  4 2013,,100001,250000
 M000355,N00003389,"McConnell, Mitch",2016,Dole Food Co,Nov  4 2013,,100001,250000
+R000395,N00003473,"Rogers, Hal",2016,KY State Ppty & Bldgs Commn Rev,2013-10-17 00:00:00.000,,11537,11537
+R000395,N00003473,"Rogers, Hal",2016,"City & County of San Francisco, CA",2013-10-03 00:00:00.000,,10919,10919
+R000395,N00003473,"Rogers, Hal",2016,JPMorgan Core Bond Fund,2013-10-31 00:00:00.000,,8381,8381
+R000395,N00003473,"Rogers, Hal",2016,Bridge Builder Bond Fund,2013-10-31 00:00:00.000,,8381,8381
+R000395,N00003473,"Rogers, Hal",2016,Bridge Builder Bond Fund,2013-11-20 00:00:00.000,,6324,6324
 K000009,N00003522,"Kaptur, Marcy",2016,DFA Two Year Global Fixed,Dec 30 2013,,1,1000
 K000009,N00003522,"Kaptur, Marcy",2016,DFA One Year Global Fixed,Jul 19 2013,,1,1000
 K000009,N00003522,"Kaptur, Marcy",2016,DFA One Year Global Fixed,Apr  2 2013,,1,1000
@@ -139,6 +208,11 @@ B000589,N00003675,"Boehner, John",2016,Calamos Market Neutral Income Fund,Aug 15
 B000589,N00003675,"Boehner, John",2016,Blackrock Global Long/Short Credit Fund,Aug 15 2013,,1001,15000
 B000589,N00003675,"Boehner, John",2016,Arbitrage Fund No Load Class,Aug 15 2013,,1001,15000
 B000589,N00003675,"Boehner, John",2016,AQR Managed Futures Strategy Fund,Aug 15 2013,,1001,15000
+P000449,N00003682,"Portman, Rob",2016,Vanguard Short-Term Tx-Ex Adm Fund,Oct 11 2013,,1000001,5000000
+P000449,N00003682,"Portman, Rob",2016,Vanguard OH Long Term Tax Exempt,Oct 10 2013,,250001,500000
+P000449,N00003682,"Portman, Rob",2016,Vanguard Interm-Term Tx-Ex Adm Fund,Oct 10 2013,,250001,500000
+P000449,N00003682,"Portman, Rob",2016,Vanguard Ltd-Term Tx-Ex Adm Fund,May 17 2013,,100001,250000
+P000449,N00003682,"Portman, Rob",2016,Vanguard OH Long Term Tax Exempt,May 23 2013,,100001,250000
 C000266,N00003689,"Chabot, Steve",2016,K-Swiss,May  1 2013,,1,1000
 C000542,N00003845,"Coats, Dan",2016,Vanguard GNMA Fund,Apr 19 2013,,250001,500000
 C000542,N00003845,"Coats, Dan",2016,Principal Large Cap Value Fund,Jun 13 2013,,250001,500000
@@ -154,11 +228,35 @@ H000206,N00004207,"Harkin, Tom",2016,Guggenheim Long Short Equity H Fund,May 20 
 H000206,N00004207,"Harkin, Tom",2016,HDV - iShares High Dividend,Feb 20 2013,,100001,250000
 H000206,N00004207,"Harkin, Tom",2016,Pimco All Asset All Authority Fund,Mar 27 2013,,100001,250000
 H000206,N00004207,"Harkin, Tom",2016,Phillips 66,Mar 27 2013,,100001,250000
+S000244,N00004291,"Sensenbrenner, Jim",2016,JPM Real Estate Fund,2013-11-19 00:00:00.000,,66994,66994
+S000244,N00004291,"Sensenbrenner, Jim",2016,PIMCO Unconstrained Bond Fund,2013-06-18 00:00:00.000,,53200,53200
+S000244,N00004291,"Sensenbrenner, Jim",2016,Kern County Calif Wtr Agy Impt Dist No 4 Wtr Rev,2013-05-01 00:00:00.000,,50000,50000
+S000244,N00004291,"Sensenbrenner, Jim",2016,Orange Cnty Calif Pub Fing Auth Lease Rev Ref Dtd,2013-05-01 00:00:00.000,,50000,50000
+S000244,N00004291,"Sensenbrenner, Jim",2016,San Lorenzo  Calif Uni Sch Dist Alameda Cnty Elect,2013-08-01 00:00:00.000,,50000,50000
+R000570,N00004357,"Ryan, Paul",2016,Nuveen Intermediate Duration Municipal Bond Fund,Sep 20 2013,,1001,15000
+R000570,N00004357,"Ryan, Paul",2016,PIMCO Total Return Fund,Sep 20 2013,,1001,15000
+R000570,N00004357,"Ryan, Paul",2016,3M Co,Jan 28 2013,,1,1000
+R000570,N00004357,"Ryan, Paul",2016,Vacant Land,Dec 31 2013,,1,1000
+R000570,N00004357,"Ryan, Paul",2016,Hartford Mid Cap Fund,Dec 16 2013,,1,1000
 K000188,N00004403,"Kind, Ron",2016,NC 529 Plan (II),Jan  3 2013,,1,1000
 K000188,N00004403,"Kind, Ron",2016,NC 529 Plan,Jan  3 2013,,1,1000
 K000188,N00004403,"Kind, Ron",2016,Mass Investors 6-8 Year Fund,Jan  3 2013,,1,1000
 K000188,N00004403,"Kind, Ron",2016,Mass Investors 6-8 Year Fund,Jan  3 2013,,1,1000
+P000265,N00004426,"Petri, Tom",2016,Lloyds of London,Dec 31 2013,,500001,1000000
+P000265,N00004426,"Petri, Tom",2016,Piper Jaffary Cos,Nov  8 2013,,15001,50000
+P000265,N00004426,"Petri, Tom",2016,Plum Creek Timber Co,Mar 13 2013,,15001,50000
+P000265,N00004426,"Petri, Tom",2016,Eaton Vance Enhanced Income Fund,Mar  4 2013,,1001,15000
+P000265,N00004426,"Petri, Tom",2016,Integrys Energy Gnp,Dec 11 2013,,1,1000
 C001096,N00004614,,2016,TIAA-CREF T Rowe Price Science & Technology Fund,Mar 20 2013,,1001,15000
+R000580,N00004719,"Roskam, Peter",2016,Short-Term Bond Fund of America - 529A,Aug  6 2013,,1001,15000
+R000580,N00004719,"Roskam, Peter",2016,Short-Term Bond Fund of America - 529A,Aug  6 2013,,1001,15000
+R000580,N00004719,"Roskam, Peter",2016,iShares Tips Bond ETF,Mar 12 2013,,1,1000
+R000580,N00004719,"Roskam, Peter",2016,FlexShares iBoxx 3 Year Target Duration TIPS Index,Mar 12 2013,,1,1000
+R000580,N00004719,"Roskam, Peter",2016,First Trust BICK Index Fund,Jan 28 2013,,1,1000
+S001145,N00004724,"Schakowsky, Jan",2016,Walgreens Co,Sep 19 2013,,1,1000
+S001145,N00004724,"Schakowsky, Jan",2016,Starbucks Corp,Sep 19 2013,,1,1000
+S001145,N00004724,"Schakowsky, Jan",2016,Walt Disney Co,Sep 19 2013,,1,1000
+S001145,N00004724,"Schakowsky, Jan",2016,AIM Invesco,Sep 19 2013,,46,46
 G000535,N00004874,"Gutierrez, Luis V",2016,Schw US LCAP ETF,Jul 11 2013,,250001,500000
 G000535,N00004874,"Gutierrez, Luis V",2016,Schw US LCAP ETF,Oct 11 2013,,250001,500000
 G000535,N00004874,"Gutierrez, Luis V",2016,Schw US LCAP ETF,Oct 17 2013,,250001,500000
@@ -174,6 +272,11 @@ B000575,N00005195,"Blunt, Roy",2016,Mondelez Int Inc stock options included as p
 B000575,N00005195,"Blunt, Roy",2016,Kraft Foods,Dec 31 2013,,1001,15000
 B000575,N00005195,"Blunt, Roy",2016,Kraft Foods,Sep 30 2013,,1001,15000
 B000575,N00005195,"Blunt, Roy",2016,Kraft Foods,Jun 30 2013,,1001,15000
+R000307,N00005285,"Roberts, Pat",2016,Apple Inc,Nov 27 2013,,100001,250000
+R000307,N00005285,"Roberts, Pat",2016,Apple Inc,Nov 29 2013,,100001,250000
+R000307,N00005285,"Roberts, Pat",2016,Apple Inc,Dec 18 2013,,100001,250000
+R000307,N00005285,"Roberts, Pat",2016,Apple Inc,Dec 18 2013,,100001,250000
+R000307,N00005285,"Roberts, Pat",2016,Netflix Inc,Jan 26 2013,,50001,100000
 L000550,N00005395,"Landrieu, Mary L",2016,Hancock Holding,Sep 26 2013,,15001,50000
 L000550,N00005395,"Landrieu, Mary L",2016,Janus Fund,Mar 25 2013,,1001,15000
 I000024,N00005582,"Inhofe, James M",2016,Vodafone Group,2013-02-22 00:00:00.000,,50001,100000
@@ -186,6 +289,11 @@ C000560,N00005601,"Coburn, Tom",2016,Google Inc,Jan 22 2013,,100001,250000
 C000560,N00005601,"Coburn, Tom",2016,Priceline.com,Jan 22 2013,,100001,250000
 C000560,N00005601,"Coburn, Tom",2016,Salesforce.Com Inc,Jan 22 2013,,100001,250000
 C000560,N00005601,"Coburn, Tom",2016,Priceline.com,Jan 22 2013,,100001,250000
+S000250,N00005681,"Sessions, Pete",2016,Magellan Midstream Partners LP,Feb 15 2013,,50001,100000
+S000250,N00005681,"Sessions, Pete",2016,General Electric,Feb 15 2013,,15001,50000
+S000250,N00005681,"Sessions, Pete",2016,Johnson & Johnson,Feb 15 2013,,15001,50000
+S000250,N00005681,"Sessions, Pete",2016,Dallas Fort Worth International Airport,Jul  9 2013,,1001,15000
+S000250,N00005681,"Sessions, Pete",2016,Fulton County GA Dev Bond,Apr 22 2014,,1001,15000
 H000636,N00006008,"Hinojosa, Ruben",2016,342 S Texas Ave/Ruben's Rental Building,May 29 2013,,50001,100000
 H000636,N00006008,"Hinojosa, Ruben",2016,Capital Income Builder-529A,Sep 16 2013,,1001,15000
 H000636,N00006008,"Hinojosa, Ruben",2016,Intermediate Bond Fund of America,Sep 16 2013,,1001,15000
@@ -202,6 +310,11 @@ D000197,N00006134,"DeGette, Diana",2016,Goldman Sachs Small Cap Value Fund,Feb 2
 D000197,N00006134,"DeGette, Diana",2016,Invesco Small Cap Growth Fund,Feb 21 2013,,50001,100000
 D000197,N00006134,"DeGette, Diana",2016,SSgA S&P 500 Index,Feb 21 2013,,50001,100000
 E000285,N00006249,"Enzi, Mike",2016,BIRMINGHAM ALABAMA G/O Bond,Mar 27 2013,,15001,50000
+S001148,N00006263,"Simpson, Mike",2016,Simpson Properties,2013-10-01 00:00:00.000,,213500,213500
+S001148,N00006263,"Simpson, Mike",2016,Simpson Properties,2013-10-01 00:00:00.000,,50001,100000
+S001148,N00006263,"Simpson, Mike",2016,International Fin Corp,2013-09-16 00:00:00.000,,32797,32797
+S001148,N00006263,"Simpson, Mike",2016,Callon Pete Co,2013-05-30 00:00:00.000,,22427,22427
+S001148,N00006263,"Simpson, Mike",2016,Prime Fund Daily Money Market,2013-05-30 00:00:00.000,,22427,22427
 C000880,N00006267,"Crapo, Mike",2016,Templeton Global Bond Fund,Apr  3 2013,,15001,50000
 C000880,N00006267,"Crapo, Mike",2016,Loomis Sayles Strategic Income Fund,Apr  3 2013,,15001,50000
 C000880,N00006267,"Crapo, Mike",2016,Delaware Diversified Income Institutional,Apr  3 2013,,15001,50000
@@ -212,6 +325,16 @@ M000303,N00006424,"McCain, John",2016,Sedona Hidden Valley LP,Aug  1 2013,,50000
 M000303,N00006424,"McCain, John",2016,AQR Diversified Arbitrage Fund,Feb  4 2013,,500001,1000000
 M000303,N00006424,"McCain, John",2016,AQR Risk Parity Fund,Feb  4 2013,,500001,1000000
 M000303,N00006424,"McCain, John",2016,JPMorgan Alerian MLP Index,Feb  4 2013,,500001,1000000
+S000018,N00006446,,2016,First Eagle US Value Fund,Jun 28 2013,,1001,15000
+S000018,N00006446,,2016,Comm Natl Bank IRA/First Eagle Sogon Overseas F,Jun 28 2013,,1001,15000
+S000018,N00006446,,2016,CNL Growth Prop REIT,Oct 21 2013,,1001,15000
+S000018,N00006446,,2016,Griffin Amer Healthcare REIT II,Jun 28 2013,,1001,15000
+S000018,N00006446,,2016,Corporate Capital Trust BDC,Jun 28 2013,,1001,15000
+S000344,N00006897,"Sherman, Brad",2016,Vanguard TIPS Fund (Not IRA),Jul  8 2013,,25000,25000
+S000344,N00006897,"Sherman, Brad",2016,Vanguard TIPS Fund (Not IRA),Nov  6 2013,,25000,25000
+S000344,N00006897,"Sherman, Brad",2016,Vanguard TIPS Fund (Not IRA),Nov  8 2013,,25000,25000
+S000344,N00006897,"Sherman, Brad",2016,Vanguard Intermediate Tax Exempt Fund,Jul 11 2013,,25000,25000
+S000344,N00006897,"Sherman, Brad",2016,Vanguard Intermediate Tax Exempt Fund,Dec 13 2013,,5706,5706
 M001139,N00006954,"Miller, Gary",2016,Stone Creek,Jul 31 2013,,500001,1000000
 M001139,N00006954,"Miller, Gary",2016,"Lots 30,40,41,42,43,44,45,46,47,48 & 49 Mirada I",May 30 2013,,250001,500000
 M001139,N00006954,"Miller, Gary",2016,Lot 36 SDP with House,May 17 2013,,100001,250000
@@ -223,11 +346,17 @@ I000056,N00007017,"Issa, Darrell",2016,Lord Abbett High Yield Fund,Feb 25 2013,,
 I000056,N00007017,"Issa, Darrell",2016,Mainstay High Yield Corporate Bond,Dec 20 2013,,25000001,50000000
 I000056,N00007017,"Issa, Darrell",2016,Alliance Bernstein High Income Fund,Dec 23 2013,,5000001,25000000
 C001036,N00007232,"Capps, Lois",2016,Fidelity Advisor New Insights Fund,Jan 16 2013,,1,1000
+N000181,N00007248,"Nunes, Devin",2016,"Condo/Visalia, CA",Mar  1 2013,,50001,100000
 F000030,N00007312,"Farr, Sam",2016,Actavis Inc,Oct  1 2013,,1001,15000
 F000030,N00007312,"Farr, Sam",2016,Actavis Inc,Oct  1 2013,,1001,15000
 F000030,N00007312,"Farr, Sam",2016,Colgate-Palmolive Co,Mar 13 2013,,1,1000
 F000030,N00007312,"Farr, Sam",2016,Caterpillar Inc,Mar 13 2013,,1,1000
 F000030,N00007312,"Farr, Sam",2016,AFLAC Inc,Mar 13 2013,,1,1000
+P000197,N00007360,"Pelosi, Nancy",2016,United Football League Sacramento Mountain Lions,Aug  2 2013,,100001,250000
+P000197,N00007360,"Pelosi, Nancy",2016,United Football League Sacramento Mountain Lions,Jul 18 2013,,50001,100000
+P000197,N00007360,"Pelosi, Nancy",2016,United Football League Sacramento Mountain Lions,Oct 21 2013,,50001,100000
+P000197,N00007360,"Pelosi, Nancy",2016,United Football League Sacramento Mountain Lions,Sep 30 2013,,15001,50000
+P000197,N00007360,"Pelosi, Nancy",2016,Active Network Inc,Nov 26 2013,,15001,50000
 F000062,N00007364,"Feinstein, Dianne",2016,Vanguard Life Strategy Conservative Growth Fund,Jun 24 2013,,1000001,5000000
 F000062,N00007364,"Feinstein, Dianne",2016,Vanguard Prime Money Market,Jun 24 2013,,1000001,5000000
 F000062,N00007364,"Feinstein, Dianne",2016,Vanguard Life Strategy Income Fund,Jun 24 2013,,1000001,5000000
@@ -281,17 +410,26 @@ B000013,N00008091,"Bachus, Spencer",2016,Eaton Vance Income Fund of Boston,Mar 1
 B000013,N00008091,"Bachus, Spencer",2016,Pimco Emerging Markets Bond Fund,Mar 13 2013,,1001,15000
 B000013,N00008091,"Bachus, Spencer",2016,Artisan Mid Cap Value Fund,Nov 14 2013,,1,1000
 B000013,N00008091,"Bachus, Spencer",2016,AM Century Growth,Dec 17 2013,,1,1000
+R000487,N00008264,"Royce, Ed",2016,Fidelity Mutual Fund - Equity Index Fund,Dec 31 2013,,50001,100000
+R000487,N00008264,"Royce, Ed",2016,Fidelity Mutual Fund - Bond Fund,Dec 31 2013,,15001,50000
+R000487,N00008264,"Royce, Ed",2016,Fidelity Mutual Fund - International Equity,Dec 31 2013,,15001,50000
+R000487,N00008264,"Royce, Ed",2016,Fidelity Mutual Fund - US Small Cap Fund,Jan  1 2013,,15001,50000
+R000487,N00008264,"Royce, Ed",2016,Fidelity Mutual Fund - Stable Value Bond Fund,Jan  1 2013,,1001,15000
 G000377,N00008799,"Granger, Kay",2016,Granger Real Estate Management,Mar  1 2013,,50001,100000
 G000289,N00009154,"Goodlatte, Bob",2016,Black Rock Large Cap Value Investment,Jan 31 2013,,15001,50000
 G000289,N00009154,"Goodlatte, Bob",2016,RGC Resources,monthly,,1001,15000
 G000289,N00009154,"Goodlatte, Bob",2016,"Harrisonburg, VA Indl Dev Auth Hosp Revenue Amb",Sep 23 2013,,1001,15000
 F000444,N00009573,"Flake, Jeff",2016,Apple Inc,Apr  5 2013,,15001,50000
 F000444,N00009573,"Flake, Jeff",2016,Apple Inc,Mar 22 2013,,15001,50000
+S001150,N00009585,"Schiff, Adam",2016,Marisco Flexible Capital Fund,Dec 17 2013,,1,1000
+S001150,N00009585,"Schiff, Adam",2016,Marisco Flexible Capital Fund,Nov  5 2013,,1,1000
+S001150,N00009585,"Schiff, Adam",2016,Marisco Flexible Capital Fund,Sep 14 2013,,1,1000
 D000598,N00009604,"Davis, Susan",2016,iShares Trust Core Total US Bond Market ETF,Aug  7 2013,,15001,50000
 D000598,N00009604,"Davis, Susan",2016,Lord Abbett Floating Rate Fund,Nov 12 2013,,15001,50000
 D000598,N00009604,"Davis, Susan",2016,Apple Inc,Jan 15 2013,,1001,15000
 D000598,N00009604,"Davis, Susan",2016,American Water Works,Aug  7 2013,,1001,15000
 D000598,N00009604,"Davis, Susan",2016,American Century Inflation-Adjusted,Mar  8 2013,,1001,15000
+S001176,N00009660,"Scalise, Steve",2016,Cisco Systems,Jan 22 2013,,1,1000
 L000559,N00009724,"Langevin, Jim",2016,Citigroup Cap XV,Apr 16 2013,,15001,50000
 L000559,N00009724,"Langevin, Jim",2016,American Capital Agency Corp,Dec 20 2013,,1001,15000
 L000559,N00009724,"Langevin, Jim",2016,American Capital Agency Corp,Apr 30 2013,,1001,15000
@@ -316,6 +454,7 @@ M001150,N00009795,"Miller, Candice S",2016,USAA Short Term Bond Fund,Dec 11 2013
 M001150,N00009795,"Miller, Candice S",2016,USAA Short Term Bond Fund,Jun 10 2013,,1,1000
 M001150,N00009795,"Miller, Candice S",2016,USAA International Fund Institutional,Dec 11 2013,,1,1000
 M001150,N00009795,"Miller, Candice S",2016,USAA Income Fund Institutional,Jun 10 2013,,1,1000
+S000522,N00009816,"Smith, Chris",2016,Vanguard Money Market Fund IRA,Dec  6 2013,,1800,1800
 M000404,N00009829,"McDermott, Jim",2016,Governement National Meeting Assn,2013-05-06 00:00:00.000,,96186,96186
 M000404,N00009829,"McDermott, Jim",2016,Federal National Meeting Assn,2013-05-14 00:00:00.000,,90892,90892
 M000404,N00009829,"McDermott, Jim",2016,JPMorgan Chase & Co,2013-08-05 00:00:00.000,,65102,65102
@@ -331,6 +470,15 @@ A000360,N00009888,"Alexander, Lamar",2016,Loomis Sayles Senior Floating Rate Fun
 A000360,N00009888,"Alexander, Lamar",2016,Loomis Sayles Absolute Strategy Fund,Apr  1 2013,,50001,100000
 A000360,N00009888,"Alexander, Lamar",2016,Ridgeworth Seix Floating Rate High Income,Apr  1 2013,,50001,100000
 A000360,N00009888,"Alexander, Lamar",2016,Tullahoma TN,Feb 26 2013,,50001,100000
+R000146,N00009922,"Reid, Harry",2016,Maricopa Cnty AZ Elem Sch Dist Sch Impt Bond,Nov  6 2013,,50001,100000
+R000146,N00009922,"Reid, Harry",2016,Weber Cnty UT Spl Assmnt Summit Mountain Assmnt Ar,Sep 17 2013,,50001,100000
+R000146,N00009922,"Reid, Harry",2016,Emerald Peoples Utility Dist Ref Bond,Aug  5 2013,,50001,100000
+R000146,N00009922,"Reid, Harry",2016,Milwaukee County Wis Corp Purp Bond,Aug  1 2013,,50001,100000
+R000146,N00009922,"Reid, Harry",2016,Emerald Peoples Utility Dist Ref Bond,Aug  5 2013,,50001,100000
+N000032,N00009926,"Nelson, Bill",2016,SunAmerica Focused Dividend Strategy Fund,Oct 17 2013,,15001,50000
+N000032,N00009926,"Nelson, Bill",2016,SunAmerica Focused Dividend Strategy Fund,Sep 30 2013,,15001,50000
+N000032,N00009926,"Nelson, Bill",2016,SunAmerica Focused Dividend Strategy Fund,Aug  5 2013,,15001,50000
+N000032,N00009926,"Nelson, Bill",2016,SunAmerica Focused Dividend Strategy Fund,Jun  4 2013,,1001,15000
 J000177,N00010084,"Johnson, Tim",2016,Pimco All Asset All Authority Fund,Apr 17 2013,,15001,50000
 J000177,N00010084,"Johnson, Tim",2016,Pimco All Asset All Authority Fund,Jul 26 2013,,15001,50000
 J000177,N00010084,"Johnson, Tim",2016,AllianzGI Income & Growth D Fund,Jul 26 2013,,15001,50000
@@ -346,6 +494,12 @@ C000174,N00012508,"Carper, Tom",2016,DuPont Co,Jan 24 2013,,50001,100000
 C000174,N00012508,"Carper, Tom",2016,Lincoln National Corp,Mar  5 2013,,50001,100000
 C000174,N00012508,"Carper, Tom",2016,Metropolitan Edison Bond,Mar 15 2013,,15001,50000
 C000174,N00012508,"Carper, Tom",2016,DuPont Co,May 30 2013,,15001,50000
+M001189,N00012546,,2016,Franklin Growth Fund,Apr 12 2013,,1001,15000
+M001189,N00012546,,2016,Franklin Flex Cap Growth Fund,Apr 12 2013,,1001,15000
+M001189,N00012546,,2016,Franklin Income Fund,Apr 12 2013,,1001,15000
+M001189,N00012546,,2016,Vanguard Total Bond,Apr  1 2013,,1001,15000
+M001189,N00012546,,2016,Franklin Flex Cap Growth Fund,Dec 17 2013,,1,1000
+P000588,N00012672,"Pearce, Steve",2016,College Sec 529 Plan Custom Choice,Jan  1 2013,,1001,15000
 C001045,N00012739,"Crenshaw, Ander ",2016,Resolution Trust,Jun 24 2013,,100001,250000
 C001045,N00012739,"Crenshaw, Ander ",2016,Challen Partners,Jun 24 2013,,100001,250000
 C001045,N00012739,"Crenshaw, Ander ",2016,Southern Co,Sep 11 2013,,1001,15000
@@ -355,12 +509,25 @@ C001046,N00013131,"Cantor, Eric",2016,Goldman Sachs Dwight Asset Management Stab
 C001046,N00013131,"Cantor, Eric",2016,Alternative Investment Management LLC,Feb 27 2013,,1001,15000
 C001046,N00013131,"Cantor, Eric",2016,Vanguard Short Term Treasury Fund,Nov 15 2013,,1001,15000
 C001046,N00013131,"Cantor, Eric",2016,Vanguard Intermediate Term Bond Index,Nov 15 2013,,1,1000
+S001154,N00013770,"Shuster, Bill",2016,S2 & L2 Partnership East,Oct  4 2013,,250001,500000
+S001154,N00013770,"Shuster, Bill",2016,Genesis Drilling Program IV LP,Nov 21 2013,,100001,250000
+P000597,N00013817,"Pingree, Chellie",2016,Cathay Capital Holdings III LP,Sep 10 2013,,500001,1000000
+P000597,N00013817,"Pingree, Chellie",2016,Sequentia Diversified US Fund,Sep 24 2013,,500001,1000000
+P000597,N00013817,"Pingree, Chellie",2016,Commercial Street Capital LLC/Kite Pharma Inc,May  7 2013,,500001,1000000
+P000597,N00013817,"Pingree, Chellie",2016,First Capital Advisors Sequentia Limited,Oct  1 2013,,500001,1000000
+P000597,N00013817,"Pingree, Chellie",2016,Sequentia Diversified US Fund,Oct 29 2013,,250001,500000
 B001236,N00013873,"Boozman, John",2016,John Boozman IRA Commercial Real Estate,Dec 10 2013,,250001,500000
 B001236,N00013873,"Boozman, John",2016,Cotswald lot A & B,May 17 2013,,250001,500000
 B001236,N00013873,"Boozman, John",2016,Cotswald lot F,Apr  4 2013,,100001,250000
 B001236,N00013873,"Boozman, John",2016,Cotswald lot E,Apr  4 2013,,100001,250000
 B001236,N00013873,"Boozman, John",2016,Cotswald lots I & J,Apr  4 2013,,100001,250000
+N000127,N00021207,,2016,Purchased vacant lot - in Crowning County,Jun 28 2013,,1001,15000
+N000127,N00021207,,2016,Contract for Deed - paid off,Nov 13 2013,,1,1000
 C001077,N00024753,"Coffman, Mike",2016,TSP Great Securities Investment Fund,,,1001,15000
+R000575,N00024759,"Rogers, Mike D",2016,USB Paine Webber 401K,Feb  1 2013,,15001,50000
+R000575,N00024759,"Rogers, Mike D",2016,Hartford Dividend & Growth Fund,Feb  1 2013,,1001,15000
+R000575,N00024759,"Rogers, Mike D",2016,Hartford Capital Total Return Bond Fund,Feb  1 2013,,1001,15000
+R000575,N00024759,"Rogers, Mike D",2016,Hartford Capital Appreciation Fund,Feb  1 2013,,1001,15000
 G000550,N00024760,"Gingrey, Phil",2016,Income Fund of America,Quarterly,,1,1000
 G000550,N00024760,"Gingrey, Phil",2016,Franklin Income Fund,Quarterly,,1,1000
 G000550,N00024760,"Gingrey, Phil",2016,FPA New Income Income Fund,Quarterly,,1,1000
@@ -380,6 +547,8 @@ C001056,N00024852,"Cornyn, John",2016,American Funds New Economy Fund,Sep  3 201
 B001245,N00024866,"Bordallo, Madeleine Z",2016,added to existing account from money market,Oct  7 2013,,50001,100000
 B001245,N00024866,"Bordallo, Madeleine Z",2016,C/D,Oct  7 2013,,15001,50000
 B001245,N00024866,"Bordallo, Madeleine Z",2016,added to existing account from money market,Mar  7 2013,,15001,50000
+S001156,N00024870,"Sanchez, Linda",2016,HLS Total Return Bond Fund,Quarterly,,1,1000
+S001156,N00024870,"Sanchez, Linda",2016,AMR Growth Fund,Quarterly,,1,1000
 H001036,N00024922,"Hensarling, Jeb",2016,Vanguard S&P 500 Fund,Nov 25 2013,,1001,15000
 H001036,N00024922,"Hensarling, Jeb",2016,Fidelity Inflation Protected Bond,Dec 20 2013,,1,1000
 H001036,N00024922,"Hensarling, Jeb",2016,Fidelity Contra Fund,Dec 13 2013,,1,1000
@@ -395,6 +564,7 @@ B001248,N00025219,"Burgess, Michael",2016,Fidelity Capital Appreciation Fund,Dec
 B001248,N00025219,"Burgess, Michael",2016,Abbvie Inc,Jan  1 2013,,1,1000
 K000362,N00025237,"King, Steven A",2016,King Construction,Jun  1 2013,,50001,100000
 K000362,N00025237,"King, Steven A",2016,Bank of America,Aug  1 2013,,1,1000
+R000577,N00025280,"Ryan, Tim",2016,Personal Residence,May 14 2013,,100001,250000
 G000551,N00025284,"Grijalva, Raul M",2016,Alliance Value Mark IV Annuity,May 28 2013,,1001,15000
 G000551,N00025284,"Grijalva, Raul M",2016,Amgen Inc,Oct 14 2013,,1,1000
 G000551,N00025284,"Grijalva, Raul M",2016,American Express,Jul 30 2013,,1,1000
@@ -402,6 +572,11 @@ G000551,N00025284,"Grijalva, Raul M",2016,Alcoa Inc,Aug 16 2013,,1,1000
 G000551,N00025284,"Grijalva, Raul M",2016,Alcoa Inc,Aug  5 2013,,1,1000
 B001242,N00025413,"Bishop, Timothy H",2016,TIAA Traditional Account,Monthly,,1,1000
 B001242,N00025413,"Bishop, Timothy H",2016,CREF Stock Account,Monthly,,1,1000
+R000576,N00025482,"Ruppersberger, Dutch",2016,Summer Beach #608,Aug 23 2013,,100001,250000
+R000576,N00025482,"Ruppersberger, Dutch",2016,iShares Core S&P 500 Index Fund,Jun 18 2013,,1001,15000
+R000576,N00025482,"Ruppersberger, Dutch",2016,iShares High Yield Corp Fund,Jun 19 2013,,1001,15000
+R000576,N00025482,"Ruppersberger, Dutch",2016,Powershares Div Achievers,May 16 2013,,1001,15000
+R000576,N00025482,"Ruppersberger, Dutch",2016,SPDR DJ Wilshire REIT,Sep  9 2013,,1001,15000
 B001269,N00025495,"Barletta, Lou",2016,3D Systems,Nov 19 2013,,1001,15000
 B001269,N00025495,"Barletta, Lou",2016,Apple Inc,Jan 24 2013,,1001,15000
 B001269,N00025495,"Barletta, Lou",2016,First Trust NASDAQ Technology Dividend Index Fund,Jun 11 2013,,1001,15000
@@ -422,11 +597,21 @@ C001062,N00026041,"Conaway, Mike",2016,Mizuho Corporate Bank CD,Jul 30 2013,,500
 C001062,N00026041,"Conaway, Mike",2016,Sovereign Bank/CD,Jan 28 2013,,50001,100000
 C001062,N00026041,"Conaway, Mike",2016,Sovereign Bank/CD,Jul 30 2013,,50001,100000
 C001062,N00026041,"Conaway, Mike",2016,Unit Trust First Trust Diversified Equity,Nov 11 2013,,50001,100000
+N000182,N00026043,"Neugebauer, Randy",2016,Empowerment Enterprises,Nov  7 2013,,100001,250000
+N000182,N00026043,"Neugebauer, Randy",2016,Brokerage Account - Goldman Sachs (20) Maui Cnt,Jan  8 2013,,50001,100000
+N000182,N00026043,"Neugebauer, Randy",2016,Brokerage Account - Goldman Sachs (19) Utah St,Dec  9 2013,,50001,100000
+N000182,N00026043,"Neugebauer, Randy",2016,Brokerage Account - Goldman Sachs (18) Austin T,Dec  6 2013,,50001,100000
+N000182,N00026043,"Neugebauer, Randy",2016,Lubbock Land Investment I LP,Aug  1 2013,,50001,100000
 M001153,N00026050,"Murkowski, Lisa",2016,Invesco Diversified Dividend Fund,Aug 19 2013,,15001,50000
 M001153,N00026050,"Murkowski, Lisa",2016,Schwab US Broad Market ETF,Dec 17 2013,,1001,15000
 M001153,N00026050,"Murkowski, Lisa",2016,Schwab US Aggregate Bond ETF,Dec 17 2013,,1001,15000
 M001153,N00026050,"Murkowski, Lisa",2016,Invesco S&P 500 Index,Aug 19 2013,,1001,15000
 M001153,N00026050,"Murkowski, Lisa",2016,Schwab US Broad Market ETF,Apr  1 2013,,1001,15000
+P000591,N00026160,"Price, Tom",2016,WF Advantage Ultra Short Term Income Fund,2013-04-22 00:00:00.000,,830006,830006
+P000591,N00026160,"Price, Tom",2016,DWS High Income Fund,2013-12-12 00:00:00.000,,175789,175789
+P000591,N00026160,"Price, Tom",2016,Oppenheimer International Bond Fund,2013-12-12 00:00:00.000,,113675,113675
+P000591,N00026160,"Price, Tom",2016,Blackrock Strategic Income Opportunities,2013-12-12 00:00:00.000,,87640,87640
+P000591,N00026160,"Price, Tom",2016,Goldman Sachs Strategic Income Fund,2013-12-12 00:00:00.000,,87640,87640
 F000450,N00026166,"Foxx, Virginia",2016,Altria Group,Nov 21 2013,,50001,100000
 F000450,N00026166,"Foxx, Virginia",2016,Canoe EIT Income Fund Units,Mar 14 2013,,50001,100000
 F000450,N00026166,"Foxx, Virginia",2016,Mortgage Note Receivable - Kenzie,Oct  1 2013,,50001,100000
@@ -458,6 +643,7 @@ M001158,N00026710,"Marchant, Kenny",2016,Trinity Industries,2013-06-26 00:00:00.
 M001158,N00026710,"Marchant, Kenny",2016,Hodges Small Mid Cap Fund,2013-12-31 00:00:00.000,,100019,100019
 M001158,N00026710,"Marchant, Kenny",2016,CPC Brazos II,Dec 13 2013,,50001,100000
 C001061,N00026790,"Cleaver, Emanuel",2016,Cleaver Co,Feb 13 2013,,100001,250000
+R000578,N00026885,"Reichert, Dave",2016,Sale Of Property - Chelan WA,Jun 30 2014,,1,1000
 F000451,N00027229,"Fitzpatrick, Michael G",2016,Franklin Strategic Income Fund,Aug 22 2013,,1001,15000
 F000451,N00027229,"Fitzpatrick, Michael G",2016,iShares S&P 500 Growth Index,Oct 10 2013,,1001,15000
 F000451,N00027229,"Fitzpatrick, Michael G",2016,JPMorgan Core Bond Fund,Feb 12 2013,,1001,15000
@@ -497,6 +683,11 @@ K000367,N00027500,"Klobuchar, Amy",2016,CD -TruStone Financial,May 29 2013,,1001
 C001070,N00027503,"Casey, Bob",2016,MA Moderate Growth Portfolio,Jan  7 2013,,15001,50000
 C001070,N00027503,"Casey, Bob",2016,MA Moderate Growth Portfolio,Dec 31 2013,,15001,50000
 C001070,N00027503,"Casey, Bob",2016,Now U,Sep 27 2013,,1001,15000
+P000593,N00027510,"Perlmutter, Ed",2016,Vanguard 500 Index Signal,Quarterly,,50001,100000
+P000593,N00027510,"Perlmutter, Ed",2016,US Bancorp,Oct  1 2013,,1,1000
+P000593,N00027510,"Perlmutter, Ed",2016,US Bancorp,Oct  1 2013,,1,1000
+P000593,N00027510,"Perlmutter, Ed",2016,Stanley Black & Decker,Oct  1 2013,,1,1000
+P000593,N00027510,"Perlmutter, Ed",2016,Altria Group,Oct  1 2013,,1,1000
 C001066,N00027514,"Castor, Kathy",2016,Principal Life Time 2030 Sep Account,Aug 15 2013,,15001,50000
 C001066,N00027514,"Castor, Kathy",2016,Franklin Income Fund,Monthly,,1001,15000
 C001066,N00027514,"Castor, Kathy",2016,Franklin Income Fund,Mar  1 2013,,1001,15000
@@ -507,11 +698,13 @@ H001041,N00027522,"Heller, Dean",2016,Roseville Calif JT UN,Apr  4 2013,,50001,1
 H001041,N00027522,"Heller, Dean",2016,Sierra Calif JT CMNTY,Mar 20 2013,,50001,100000
 H001041,N00027522,"Heller, Dean",2016,Castaic Lake Water AGY,Jan 15 2013,,50001,100000
 H001041,N00027522,"Heller, Dean",2016,Oakland Calif,Apr 10 2013,,50001,100000
+S001165,N00027523,"Sires, Albio",2016,General Electric,Jan  9 2013,,1001,15000
 C001064,N00027565,"Campbell, John",2016,"18801 Beach Blvd/Huntington Beach, CA",Nov 27 2013,,500001,1000000
 C001064,N00027565,"Campbell, John",2016,"9581 Irvine Center Drive/Irvine, CA",Nov 27 2013,,500001,1000000
 C001064,N00027565,"Campbell, John",2016,"9581 Irvine Center Drive/Irvine, CA",Nov 27 2013,,500001,1000000
 C001064,N00027565,"Campbell, John",2016,Pimco All Asset All Authority Fund,Aug  2 2013,,50001,100000
 C001064,N00027565,"Campbell, John",2016,Owned by M McNee Campbell Family Income Trust #2,Aug  2 2013,,50001,100000
+S001172,N00027623,"Smith, Adrian",2016,Miller Lake Corp,Sep  6 2013,,1001,15000
 B001260,N00027626,"Buchanan, Vernon",2016,130 Tamiami Tr LLC,May 30 2013,,500001,1000000
 B001260,N00027626,"Buchanan, Vernon",2016,Lyrical Multi Manager Fund QP LP,Feb  1 2013,,500001,1000000
 B001260,N00027626,"Buchanan, Vernon",2016,Lyrical Multi Manager Fund QP LP,Jul  1 2013,,500001,1000000
@@ -557,6 +750,11 @@ G000556,N00028418,,2016,Diversion Daily 20+ Year ETF,Jun 21 2013,,500001,1000000
 G000556,N00028418,,2016,iPath S&P 500 VIX ST ETF,Oct  7 2013,,500001,1000000
 G000556,N00028418,,2016,iPath S&P 500 VIX ST ETF,Nov 18 2013,,500001,1000000
 G000556,N00028418,,2016,iPath S&P 500 VIX ST ETF,Nov 26 2013,,500001,1000000
+R000582,N00028463,"Roe, Phil",2016,Sofha Real Estate Partnership,2013-09-30 00:00:00.000,,50001,100000
+R000582,N00028463,"Roe, Phil",2016,Vanguard Dividend Appreciation Fund,2013-01-04 00:00:00.000,,26596,26596
+R000582,N00028463,"Roe, Phil",2016,Morgan Stanley,2013-03-01 00:00:00.000,,25000,25000
+R000582,N00028463,"Roe, Phil",2016,General Electric,2013-02-01 00:00:00.000,,25000,25000
+R000582,N00028463,"Roe, Phil",2016,iShares Core S&P Small Cap ETF,2013-04-19 00:00:00.000,,24657,24657
 C001076,N00028958,"Chaffetz, Jason",2016,Investment Property,Sep 23 2013,,100001,250000
 C001076,N00028958,"Chaffetz, Jason",2016,Four Raw Hides LC,Jan  1 2013,,1,1000
 C001076,N00028958,"Chaffetz, Jason",2016,Marriott Vacation Club,Dec 23 2013,,1,1000
@@ -571,12 +769,18 @@ F000457,N00029016,"Franken, Al",2016,Franklin Income Fund,Jan 14 2013,,250001,50
 F000457,N00029016,"Franken, Al",2016,Invesco Equity & Income Fund,Jan 14 2013,,100001,250000
 F000457,N00029016,"Franken, Al",2016,Invesco Equity & Income Fund,Jan 14 2013,,100001,250000
 F000457,N00029016,"Franken, Al",2016,Blackrock Global Allocation Fund,Apr 30 2013,,100001,250000
+R000583,N00029018,"Rooney, Tom",2016,"Thoroughbred race horse ""Lucy Boo""",Jun 10 2013,,1,1000
 H001047,N00029070,"Himes, Jim",2016,Facebook Inc,Aug 26 2013,,50001,100000
 H001047,N00029070,"Himes, Jim",2016,Mondelez International,Oct 28 2013,,1,1000
 H001047,N00029070,"Himes, Jim",2016,High Equity Option,Jan 24 2013,,1,1000
 H001047,N00029070,"Himes, Jim",2016,Index Fixed Income Option,Jan 22 2013,,1,1000
 H001047,N00029070,"Himes, Jim",2016,Rebalance within DC1 529 account,Jan 22 2013,,1,1000
 J000290,N00029077,"Jenkins, Lynn",2016,Vanguard Wellington Fund,Aug  8 2013,,15001,50000
+P000598,N00029127,"Polis, Jared",2016,"Personal Residence/McLean, VA",Sep  3 2013,,1000001,5000000
+P000598,N00029127,"Polis, Jared",2016,"Personal Residence/McLean, VA",Sep 12 2013,,1000001,5000000
+P000598,N00029127,"Polis, Jared",2016,Mountain Property II LLC,Jan 25 2013,,500001,1000000
+P000598,N00029127,"Polis, Jared",2016,Proshares UltraShort Lehman 20+ Treasury,Dec 20 2013,,500001,1000000
+P000598,N00029127,"Polis, Jared",2016,Proshares Ultrashort Lehman 7-10 year,Dec 20 2013,,500001,1000000
 F000454,N00029139,,2016,Northwestern Mutual Insured Bank Deposit IRA,Aug 19 2013,,15001,50000
 F000454,N00029139,,2016,Northwestern Mutual Insured Bank Deposit IRA,Aug 19 2013,,15001,50000
 H001052,N00029147,"Harris, Andy",2016,Vanguard ST Investment Grade Bond,Jul  1 2013,,50001,100000
@@ -588,6 +792,21 @@ K000368,N00029260,,2016,Wells Fargo SIMPLE IRA Cash,Monthly,,1001,15000
 K000368,N00029260,,2016,Vanguard Investments Vanguard 500 Index Fund Admir,Quarterly,,1,1000
 K000368,N00029260,,2016,Spartan Total Market Index Fund Adv Class,Dec 13 2013,,1,1000
 K000368,N00029260,,2016,Fidelity NASDAQ Composite Index,Dec 13 2013,,1,1000
+P000595,N00029277,"Peters, Gary",2016,United Parcel Service Inc,Jul  2 2013,,1001,15000
+P000595,N00029277,"Peters, Gary",2016,Aetna Inc,Jan  7 2013,,1001,15000
+P000595,N00029277,"Peters, Gary",2016,AT&T Inc,Jan  7 2013,,1001,15000
+P000595,N00029277,"Peters, Gary",2016,Clorox Co,Jul 22 2013,,1001,15000
+P000595,N00029277,"Peters, Gary",2016,Ford Motor Credit,Feb 19 2013,,1001,15000
+O000168,N00029285,"Olson, Pete",2016,Janus Triton,Jul 24 2013,,1001,15000
+O000168,N00029285,"Olson, Pete",2016,Lord Abbett Mid Cap Stock Fund,Jul 23 2013,,1001,15000
+O000168,N00029285,"Olson, Pete",2016,SPDR S&P 500 ETF,Nov 27 2013,,1001,15000
+O000168,N00029285,"Olson, Pete",2016,SPDR S&P 500 ETF,Apr 22 2013,,1001,15000
+O000168,N00029285,"Olson, Pete",2016,Vanguard Mid-Cap Index Signal Fund,Nov 27 2013,,1001,15000
+R000584,N00029441,"Risch, James E",2016,Waddell & Reed High-Income Fund,Sep 26 2013,,1001,15000
+R000584,N00029441,"Risch, James E",2016,Nationwide Fixed Fund,Sep 26 2013,,1001,15000
+R000584,N00029441,"Risch, James E",2016,PERSI Short Term Investment Portfolio,Aug 28 2013,,1001,15000
+R000584,N00029441,"Risch, James E",2016,T Rowe Price Summit Cash Reser,Aug 26 2013,,1001,15000
+R000584,N00029441,"Risch, James E",2016,T Rowe Price Prime Reserve Fund,Aug 26 2013,,1001,15000
 J000291,N00029444,"Johanns, Mike",2016,Public Pwr Generation Agy NE Whelan,Aug 21 2013,,15001,50000
 J000291,N00029444,"Johanns, Mike",2016,American Century Short Term Govt,Mar 11 2013,,15001,50000
 J000291,N00029444,"Johanns, Mike",2016,Fidelity Small Cap Growth,Mar 11 2013,,15001,50000
@@ -598,6 +817,7 @@ H001049,N00029617,"Hagan, Kay R",2016,Transamerica Stable Value Advantage Opt Fu
 H001049,N00029617,"Hagan, Kay R",2016,Transamerica Stable Value Advantage Opt Fund,Oct 16 2013,,500001,1000000
 H001049,N00029617,"Hagan, Kay R",2016,Transamerica Stable Value Advantage Opt Fund,Dec  9 2013,,500001,1000000
 H001049,N00029617,"Hagan, Kay R",2016,American Century Disciplined Growth Ret Opt-MF,May 28 2013,,100001,250000
+S001175,N00029649,"Speier, Jackie",2016,Conceptus Inc,Jun  6 2013,,15001,50000
 G000558,N00029675,"Guthrie, Brett",2016,Northern Mid Cap Index,monthly,,1,1000
 G000558,N00029675,"Guthrie, Brett",2016,T Rowe Price Balanced Fudn,monthly,,1,1000
 G000558,N00029675,"Guthrie, Brett",2016,Northern Equity,monthly,,1,1000
@@ -636,6 +856,7 @@ C001080,N00030600,"Chu, Judy",2016,Large Cap Index Fund,Monthly,,1,1000
 B001267,N00030608,"Bennet, Michael",2016,Eaton Vance Large Cap Core Research,Dec 18 2013,,100001,250000
 B001267,N00030608,"Bennet, Michael",2016,Eaton Vance Large Cap Core Research,Aug  2 2013,,1001,15000
 B001267,N00030608,"Bennet, Michael",2016,BlackRock Global Allocation Fund,Dec 18 2013,,1001,15000
+R000593,N00030645,"Ross, Dennis",2016,"Vecchio, Carrier & Feldman",Jan  1 2011,,50001,100000
 K000378,N00030667,"Kinzinger, Adam",2016,Northwest Mutual Advisory Fund,Jan  7 2013,,15001,50000
 K000378,N00030667,"Kinzinger, Adam",2016,Russel Lifepoint Balanced Fund,Jan  7 2013,,15001,50000
 K000378,N00030667,"Kinzinger, Adam",2016,USAA Money Market,2013-07-01 00:00:00.000,,16000,16000
@@ -660,12 +881,22 @@ C001083,N00030736,"Carney, John",2016,PIMCO Total Return Fund,Jan 29 2013,,1001,
 C001083,N00030736,"Carney, John",2016,PIMCO Total Return Fund,Oct 18 2013,,1001,15000
 C001083,N00030736,"Carney, John",2016,Fidelity Retirement Money Market,Apr  2 2013,,1,1000
 C001083,N00030736,"Carney, John",2016,Fidelity Retirement Money Market,Apr  1 2013,,1,1000
+P000602,N00030744,"Pompeo, Mike",2016,Pimco Ttl Rtn,Oct 22 2013,,1001,15000
+P000602,N00030744,"Pompeo, Mike",2016,Baron Small Cap Fund,Oct 22 2013,,1001,15000
+P000602,N00030744,"Pompeo, Mike",2016,Dodge & Cox Inc Fund,Oct 22 2013,,1001,15000
+P000602,N00030744,"Pompeo, Mike",2016,Emprise Bank IRA,Oct 22 2013,,1,1000
+P000602,N00030744,"Pompeo, Mike",2016,SPDR Gold Shares,Jun 10 2013,,1,1000
 G000560,N00030788,"Graves, Tom",2016,Full withdrawal,Jun  1 2013,,1,1000
 F000459,N00030815,"Fleischmann, Chuck",2016,Towerhill Long Short Equity LLC Hedge Fund,2013-12-02 00:00:00.000,,81487,81487
 F000459,N00030815,"Fleischmann, Chuck",2016,Nuveen Tactical Market Opportunites Fund,2013-01-17 00:00:00.000,,50359,50359
 F000459,N00030815,"Fleischmann, Chuck",2016,Nuveen Tactical Market Opportunites Fund,2013-01-16 00:00:00.000,,50225,50225
 F000459,N00030815,"Fleischmann, Chuck",2016,Nuveen Tactical Markets Ties Fund,2013-01-16 00:00:00.000,,50225,50225
 F000459,N00030815,"Fleischmann, Chuck",2016,Microsoft Corp,2013-06-28 00:00:00.000,,34350,34350
+P000603,N00030836,"Paul, Rand",2016,Vanguard Energy Fund,Nov 12 2013,,50001,100000
+P000603,N00030836,"Paul, Rand",2016,Vanguard Energy Fund,Nov 12 2013,,50001,100000
+P000603,N00030836,"Paul, Rand",2016,Vanguard Inflation-Protected Secs Adm Fund,Jan  7 2013,,15001,50000
+P000603,N00030836,"Paul, Rand",2016,Upromise Investments Inc,Jan 24 2013,,15001,50000
+P000603,N00030836,"Paul, Rand",2016,Upromise Investments Inc,Jan 24 2013,,15001,50000
 G000559,N00030856,"Garamendi, John",2016,Twitter Inc,Nov  8 2013,,1,1000
 G000559,N00030856,"Garamendi, John",2016,Granite Construction Inc,Nov  8 2013,,1,1000
 K000382,N00030875,,2016,Fid Mid Cap Stock,2013-06-24 00:00:00.000,,209944,209944
@@ -678,17 +909,38 @@ B001274,N00030910,"Brooks, Mo",2016,Baldwin County AL Board of Ed Bond,Feb  8 20
 B001274,N00030910,"Brooks, Mo",2016,Royce Total Return Fund,Feb  8 2013,,15001,50000
 B001274,N00030910,"Brooks, Mo",2016,Sunoco Logistics Partners,Jun 12 2013,,15001,50000
 B001274,N00030910,"Brooks, Mo",2016,California EDL GACS Auth College & Univ,Jun 10 2013,,1001,15000
+R000585,N00030949,"Reed, Tom",2016,"Baty St/Elmira, NY",Jun 18 2013,,1001,15000
 D000616,N00030957,"Desjarlais, Scott",2016,Pacific Value Annunity,May 29 2013,,1001,15000
 D000616,N00030957,"Desjarlais, Scott",2016,Pacific Value Annunity,May 24 2013,,1001,15000
 D000616,N00030957,"Desjarlais, Scott",2016,DiaTech Oncology LLC,May 29 2013,,1001,15000
 D000616,N00030957,"Desjarlais, Scott",2016,DiaTech Oncology LLC,May 24 2013,,1001,15000
 D000616,N00030957,"Desjarlais, Scott",2016,CD Citizen State Bank,May  1 2013,,1,1000
+R000589,N00030962,"Rigell, Scott",2016,Mclean Va Turner Midcap Growth Fund,Mar 31 2013,,1001,15000
+R000589,N00030962,"Rigell, Scott",2016,Janus Adviser Mid Cap Growth Fund,Mar 31 2013,,1001,15000
+R000589,N00030962,"Rigell, Scott",2016,Liberty Property Assoc,Jul  1 2013,,1001,15000
+R000587,N00030968,"Ribble, Reid",2016,Mass Mutual Financial Group Whole Life Ins,Jul 26 2013,,15001,50000
+R000587,N00030968,"Ribble, Reid",2016,Enterprise Products Partners,Jun 19 2013,,1001,15000
+R000587,N00030968,"Ribble, Reid",2016,MetLife Balanced Plus Portfolio,Jan  8 2013,,1001,15000
+R000587,N00030968,"Ribble, Reid",2016,Pyramis Government Income,Jan  8 2013,,1001,15000
+R000587,N00030968,"Ribble, Reid",2016,Pyramis Government Income,Sep  4 2013,,1001,15000
 A000368,N00030980,"Ayotte, Kelly",2016,Federated Kaufmann R Fund,Dec 27 2013,,1001,15000
 A000368,N00030980,"Ayotte, Kelly",2016,American Century Ultra Fund,Dec 17 2013,,1001,15000
 A000368,N00030980,"Ayotte, Kelly",2016,T Rowe Price Health Sciences,Dec 16 2013,,1001,15000
 A000368,N00030980,"Ayotte, Kelly",2016,American Century Ultra Fund,Apr 16 2013,,1001,15000
 A000368,N00030980,"Ayotte, Kelly",2016,T Rowe Price Health Sciences,Apr 16 2013,,1001,15000
 H001053,N00031005,"Hartzler, Vicky",2016,Heartland Aviation Purchase of Airplane,Feb  5 2013,,1001,15000
+N000186,N00031006,"Nunnelee, Alan",2016,Fidelity Diversified International Fund,Jan  1 2013,,1,1000
+N000186,N00031006,"Nunnelee, Alan",2016,American Funds,Jan  1 2013,,1,1000
+O000169,N00031011,"Owens, Bill",2016,Bank of America,Oct 15 2013,,15001,50000
+O000169,N00031011,"Owens, Bill",2016,Goldman Sachs Group Bond,Oct 15 2013,,15001,50000
+O000169,N00031011,"Owens, Bill",2016,HSBC Financial Corporate Bond,Oct 15 2013,,15001,50000
+O000169,N00031011,"Owens, Bill",2016,Morgan Stanley Corporate Bond,Oct 15 2013,,15001,50000
+O000169,N00031011,"Owens, Bill",2016,American Funds Growth Fund of America,Aug 26 2013,,15001,50000
+R000586,N00031127,"Renacci, Jim",2016,515 Properties LLC,Jun 27 2013,,500001,1000000
+R000586,N00031127,"Renacci, Jim",2016,Lewis Cnty Wash Pub Util Dist No 001 Cowlitz Falls,2013-06-14 00:00:00.000,,179191,179191
+R000586,N00031127,"Renacci, Jim",2016,Pennsylvania Economic Dev Fing Unemployment,2013-10-02 00:00:00.000,,160762,160762
+R000586,N00031127,"Renacci, Jim",2016,Port Auth NY & NJ Consolidated Bonds 179,2013-11-22 00:00:00.000,,147635,147635
+R000586,N00031127,"Renacci, Jim",2016,New York Urban Dev Corp Rev Income Tax Rev Bds,2013-09-18 00:00:00.000,,145707,145707
 G000563,N00031128,"Gibbs, Bob",2016,Hershey Co,Jan 30 2013,,1,1000
 G000563,N00031128,"Gibbs, Bob",2016,RPM Inc,Nov 18 2013,,1,1000
 G000563,N00031128,"Gibbs, Bob",2016,Intel Corp,Dec 10 2013,,1,1000
@@ -713,6 +965,11 @@ B001282,N00031233,,2016,Fed Govt Cash,Nov  5 2013,,1001,15000
 B001282,N00031233,,2016,Fundamental Investors Fund,Apr  9 2013,,1,1000
 H001055,N00031244,"Heck, Joe",2016,IRA Rollover to Thrift Savings Plan,Oct 18 2013,,1001,15000
 H001055,N00031244,"Heck, Joe",2016,USAA College Savings Plan Conservative Portfolio,Monthly,,1,1000
+R000598,N00031253,,2016,HJ Heinz,Jun 10 2013,,50001,100000
+R000598,N00031253,,2016,Caterpillar Inc,Jun 24 2013,,1001,15000
+R000598,N00031253,,2016,HJ Heinz,Jun 10 2013,,1001,15000
+R000598,N00031253,,2016,XLP Cons Staples Sel Sect SPDR Fund,Jun 24 2013,,1,1000
+R000598,N00031253,,2016,Energy Select Sector SPDR Fund,Jun 24 2013,,1,1000
 H001060,N00031265,"Hurt, Robert",2016,Smithfield Foods,Sep 30 2013,,1,1000
 H001060,N00031265,"Hurt, Robert",2016,McDonald's,Jul 16 2013,,1,1000
 H001060,N00031265,"Hurt, Robert",2016,Tyson Foods,Jul 16 2013,,1,1000
@@ -763,6 +1020,11 @@ H001061,N00031688,"Hoeven, John",2016,Diageo Plc,Jan 22 2013,,100001,250000
 H001061,N00031688,"Hoeven, John",2016,Carlyle Group LP Fund,Apr 29 2013,,100001,250000
 H001061,N00031688,"Hoeven, John",2016,HJ Heinz Co,Jun 10 2013,,100001,250000
 H001061,N00031688,"Hoeven, John",2016,Deere & Co,Jul 10 2013,,100001,250000
+R000592,N00031741,"Rokita, Todd",2016,Franklin Templeton Global Bond Fund,Nov 20 2013,,1,1000
+R000592,N00031741,"Rokita, Todd",2016,FMI Funds Large Cap Fund,Nov 18 2013,,1,1000
+R000592,N00031741,"Rokita, Todd",2016,FMI Funds Large Cap Fund,Jun  6 2013,,1,1000
+R000592,N00031741,"Rokita, Todd",2016,Inflation Protected Portfolio,Jan  7 2013,,1,1000
+R000592,N00031741,"Rokita, Todd",2016,Nuveen NWQ Large Cap Value Fund,Sep 16 2013,,1,1000
 M001179,N00031777,"Marino, Tom",2016,American Funds Growth Fund of America,Dec 19 2013 12:00AM,,1502,1502
 M001179,N00031777,"Marino, Tom",2016,AllianceBernstein International Value,Dec 26 2013 12:00AM,,240,240
 M001179,N00031777,"Marino, Tom",2016,American Funds Growth Fund of America,Dec 19 2013 12:00AM,,133,133
@@ -783,11 +1045,21 @@ B001271,N00031934,"Benishek, Dan",2016,Ameriprise CBRE Clarion Global Real Estat
 A000367,N00031938,"Amash, Justin",2016,Tomboy Tools,Oct  2 2013,,1,1000
 A000367,N00031938,"Amash, Justin",2016,CVSL Inc,Oct  2 2013,,1,1000
 A000367,N00031938,"Amash, Justin",2016,DC3 SPDR S&P 500,Feb 25 2013,,1,1000
+P000601,N00031958,"Palazzo, Steven",2016,Greene Acres LLC,Sep  5 2013,,50001,100000
+P000601,N00031958,"Palazzo, Steven",2016,Muriel Siebert,Aug 19 2013,,1001,15000
+R000594,N00031988,"Runyan, Jon",2016,Nuveen Flagship NJ Muni,,,100001,250000
+R000594,N00031988,"Runyan, Jon",2016,Dreyfus Tax Smart,,,100001,250000
+R000594,N00031988,"Runyan, Jon",2016,American Century Fund,,,50001,100000
+R000594,N00031988,"Runyan, Jon",2016,American Century Fund,,,50001,100000
+R000594,N00031988,"Runyan, Jon",2016,American Century Fund,,,50001,100000
 J000292,N00032088,"Johnson, Bill",2016,Columbia Balanced Fund,Mar 19 2013,,1001,15000
 J000292,N00032088,"Johnson, Bill",2016,Columbia Capital Alloc Moderate Fund,Mar 19 2013,,1001,15000
 J000292,N00032088,"Johnson, Bill",2016,Eaton Vance Atlanta Capital Focused Growth Fund,Sep 18 2013,,1001,15000
 J000292,N00032088,"Johnson, Bill",2016,Eaton Vance Floating Rate Fund,Sep 18 2013,,1001,15000
 J000292,N00032088,"Johnson, Bill",2016,Oppenheimer Equity Inc Fund,Sep 19 2013,,1001,15000
+N000185,N00032441,"Nugent, Richard",2016,Bencor 401-A Am Funds Capital Income Builder,Bi-weekly,,1,1000
+N000185,N00032441,"Nugent, Richard",2016,American Funds Income Fund of America,Bi-weekly,,1,1000
+N000185,N00032441,"Nugent, Richard",2016,American Funds Capital Income Builder Fund,Bi-weekly,,1,1000
 M001183,N00032838,"Manchin, Joe",2016,DFA Intermediate-Term Municipal Bond Fund,Nov  4 2013,,50001,100000
 M001183,N00032838,"Manchin, Joe",2016,Sallie Mae Bank CD,Nov 13 2013,,50001,100000
 M001183,N00032838,"Manchin, Joe",2016,DFA Two-Year Global Fixed-Income Fund,Nov  4 2013,,15001,50000
@@ -808,6 +1080,7 @@ C001098,N00033085,,2016,Blackrock Municipal Income Trust,Apr 15 2013,,50001,1000
 C001098,N00033085,,2016,Goldman Sachs Local Emrg Mkts Debt Institutional,Feb  6 2013,,15001,50000
 C001098,N00033085,,2016,Enterprise Products Partners,Feb  6 2013,,15001,50000
 C001098,N00033085,,2016,Enterprise Products Partners,Mar 19 2013,,15001,50000
+M001191,N00033091,,2016,Principal Life IRA SAM Conservative Growth Portfol,Feb  5 2013,,1001,15000
 K000384,N00033177,,2016,MFS Diversified Income Fund,Jan 16 2013,,15001,50000
 E000293,N00033217,,2016,Lincoln Fidelity Tax Exempt Fund Daily Money Class,Aug 30 2013,,50001,100000
 E000293,N00033217,,2016,iShares Trust High Div ETF,Dec  9 2013,,1001,15000
@@ -834,6 +1107,8 @@ H001065,N00033399,,2016,Johnson County Bond,Jan 30 2013,,15001,50000
 H001065,N00033399,,2016,Chatham County Bond,Jan 30 2013,,15001,50000
 H001065,N00033399,,2016,Forsyth County Bond,Jan 15 2013,,15001,50000
 H001065,N00033399,,2016,Northrop Grumman,Jan  9 2013,,1001,15000
+M001190,N00033410,,2016,"Residence/Noble, OK",May  1 2013,,15001,50000
+M001190,N00033410,,2016,"Land/Westville, OK",Mar  1 2013,,1001,15000
 B001278,N00033474,"Bonamici, Suzanne",2016,Columbia Large Growth Quantitative Fund,May 17 2013,,1001,15000
 B001278,N00033474,"Bonamici, Suzanne",2016,Columbia Large Growth Quantitative Fund,Nov  6 2013,,1,1000
 B001278,N00033474,"Bonamici, Suzanne",2016,Columbia Large Growth Quantitative Fund,Aug 14 2013,,1,1000
@@ -844,17 +1119,35 @@ B001284,N00033495,,2016,Eaton Vance Global Macro Absolute Return Fund,Jun 18 201
 B001284,N00033495,,2016,Artisan Mid Cap Value Fund,Sep 24 2013,,1,1000
 B001284,N00033495,,2016,Artisan Funds Inc Mid Cap Value Fund,Jun 17 2013,,1,1000
 B001284,N00033495,,2016,Artio Global Invt Fds Aberdeen Total Return Bd Fd,Sep 24 2013,,1,1000
+N000187,N00033509,,2016,Sacramento Residence,Aug 10 2013,,100001,250000
 C001093,N00033518,,2016,Pension Annuity for service in the state legislatu,Jan 21 2014,,1,1000
 B001283,N00033532,,2016,Principal Large Cap S&P 500 Index Sep Account,Feb  1 2013,,1001,15000
 B001283,N00033532,,2016,Principal Intl Emerging Mkts Sep Account,Feb  1 2013,,1001,15000
 B001283,N00033532,,2016,Principal Small Cap S&P 500 Index,Feb  1 2013,,1001,15000
 B001283,N00033532,,2016,PIMCO Total Return Fund,Feb  1 2013,,1,1000
+O000170,N00033540,,2016,iShares US Financial Services ETF,Mar  5 2013,,1001,15000
+O000170,N00033540,,2016,SPDR DJ Euro STOXX 50 Etf,Mar  4 2013,,1001,15000
+O000170,N00033540,,2016,Corning Inc,Mar  4 2013,,1,1000
+O000170,N00033540,,2016,Coach Inc,Mar  4 2013,,1,1000
+O000170,N00033540,,2016,Trusted Hands Metlife Stable Value Solutions,Sep  6 2013,,1,1000
+P000607,N00033549,,2016,American Funds New Perspective Fund,Apr  4 2013,,1,1000
+P000607,N00033549,,2016,American Funds AMCAP Fund,Apr  4 2013,,1,1000
+P000608,N00033591,,2016,Astronics Corp,Apr  3 2013,,50000001,50000001
+P000608,N00033591,,2016,Globecomm Systems Inc,Oct  1 2013,,50000001,50000001
+P000608,N00033591,,2016,iShares Trust Bond,Dec  3 2013,,50000001,50000001
+P000608,N00033591,,2016,iShares Trust Bond,Dec  3 2013,,50000001,50000001
+P000608,N00033591,,2016,PMFG Inc,Dec 18 2013,,50000001,50000001
 B001280,N00033625,,2016,Honorable Old Fashion Santa LLC,Apr  5 2013,,1001,15000
 H001067,N00033630,,2016,Richard Hudson Transactions for account Primary IR,Sep  6 2013,,100025,100025
 H001067,N00033630,,2016,Richard Hudson Transactions for account Primary IR,Dec 11 2013,,71639,71639
 H001067,N00033630,,2016,Richard Hudson Transactions for account Primary IR,Aug 29 2013,,31267,31267
 H001067,N00033630,,2016,Richard Hudson Transactions for account Primary IR,Aug 29 2013,,14450,14450
 H001067,N00033630,,2016,Richard Hudson Transactions for account Primary IR,Aug 29 2013,,14294,14294
+M001187,N00033631,,2016,Oracle Corp,Oct  9 2013,,1001,15000
+M001187,N00033631,,2016,Western Digital Corp,Oct  9 2013,,1001,15000
+M001187,N00033631,,2016,Nordic American Tankers,Oct  9 2013,,1,1000
+M001187,N00033631,,2016,Pembina Pipeline,Oct  9 2013,,1,1000
+M001187,N00033631,,2016,Penn West Pete,Oct  9 2013,,1,1000
 H001066,N00033638,,2016,John Hancock Balanced Fund,Aug 26 2013,,1,1000
 H001066,N00033638,,2016,Ivy Asset Strategy Fund,Aug 26 2013,,1,1000
 H001066,N00033638,,2016,GSV Capital Corp,Dec 12 2013,,1,1000
@@ -865,6 +1158,8 @@ H001069,N00033782,,2016,DWS Global Small Cap Fund,Dec 26 2013,,1001,15000
 H001069,N00033782,,2016,Janus Enterprise Fund,Dec 19 2013,,1001,15000
 H001069,N00033782,,2016,Vanguard Energy Fund,Dec 18 2013,,1001,15000
 H001069,N00033782,,2016,Baron Small Cap Retail Fund,Nov 29 2013,,1001,15000
+R000597,N00033832,,2016,General Electric,Oct 16 2013,,1,1000
+R000597,N00033832,,2016,Berkshire Hathaway,Oct 16 2013,,1,1000
 D000620,N00033897,,2016,CapitalSource Inc,Oct  4 2013,,50000001,50000001
 D000620,N00033897,,2016,CapitalSource Inc,Jul 23 2013,,1000001,5000000
 D000620,N00033897,,2016,CapitalSource Inc,Apr 11 2013,,500001,1000000
@@ -893,12 +1188,26 @@ B001285,N00034254,,2016,Franklin California Tax Free Income Fund,Jul 11 2013,,50
 B001285,N00034254,,2016,Pimco CA Short Duration Fund,Monthly,,50001,100000
 B001285,N00034254,,2016,American Funds Washington,Apr  4 2013,,15001,50000
 B001285,N00034254,,2016,American Century Investments,Monthly,,15001,50000
+M001185,N00034277,,2016,"Orrick, Herrington & Sutcliffe",Jan 25 2013,,50001,100000
+M001185,N00034277,,2016,283 E Hill Road,Nov 25 2013,,50001,100000
+M001185,N00034277,,2016,1441 Lincoln Road,Apr 19 2013,,50001,100000
+M001185,N00034277,,2016,"Orrick, Herrington & Sutcliffe",Jan 13 2013,,15001,50000
+M001185,N00034277,,2016,East Hill Road (Land),May 14 2013,,1001,15000
 K000381,N00034453,,2016,Sun America Universal Life Insurance,Oct 22 2013,,1,1000
+M001188,N00034547,,2016,MorganStanley MidCap Growth Portfolio,Mar  7 2013,,1,1000
+M001188,N00034547,,2016,MetLife Stock Index Portfolio,Mar  7 2013,,1,1000
+M001188,N00034547,,2016,Black Rock Large Cap Core Portfolio,Mar  7 2013,,1,1000
+M001188,N00034547,,2016,Black Rock Diversified Portfolio,Mar  7 2013,,1,1000
+M001188,N00034547,,2016,Goldcorp Inc,Jun 25 2013,,1,1000
 K000383,N00034580,,2016,Vanguard Tax-Managed Growth & Inc Adm Fund,Jun 14 2013,,250001,500000
 K000383,N00034580,,2016,iShares Barclays 1-3 Year Credit Bond Fund,Jun 14 2013,,100001,250000
 K000383,N00034580,,2016,iShares MSCI EAFE Fund,Jan 29 2013,,50001,100000
 K000383,N00034580,,2016,iShares Barclays 1-3 Year Credit Bond Fund,Jan 29 2013,,50001,100000
 K000383,N00034580,,2016,Pimco All Asset Institutional Fund,Dec  4 2013,,50001,100000
+P000604,N00034639,"Payne, Donald M Jr",2016,Morgan Stanley-All Cash Money Market Account IRA,Dec 31 2013,,15001,50000
+P000604,N00034639,"Payne, Donald M Jr",2016,FFCB Bond,Sep 21 2012,,1001,15000
+P000604,N00034639,"Payne, Donald M Jr",2016,CT State Taxable G/O Bond,Nov 16 2012,,1001,15000
+P000604,N00034639,"Payne, Donald M Jr",2016,Vanguard Windsor II Fund,Feb 19 2013,,1,1000
 E000292,N00034884,,2016,"RR1/ Millstadt, IL",Jun 14 2012,,15001,50000
 E000292,N00034884,,2016,iShares MSCI EAFE Fund,May  4 2012,,1001,15000
 E000292,N00034884,,2016,iShares S&P 500 Growth Index,Oct  4 2012,,1001,15000

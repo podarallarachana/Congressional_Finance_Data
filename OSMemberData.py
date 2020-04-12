@@ -54,7 +54,7 @@ for key, value in crData.items():
 
 # Retrieve member profile data for each CRP ID. Each member has their own XML file.
 pfdBasePath = 'D:\\Users\\daveh\\OneDrive\\Documents\\UF\\CIS4914\\Congressional_Finance_Data\\raw_data\\memPFDprofile\\'
-for i in range(450, 600):
+for i in range(600, len(crList)):
     respUrl = pfdReqUrl1 + crList[i] + pfdReqUrl2 + OS_API_KEYS[0]
     resp = requests.get(respUrl)
     if resp.status_code == 200:
@@ -68,7 +68,7 @@ for i in range(450, 600):
 # Retrieve candidate summary data for each CRP ID and cycle. For each year that data exists for a given CRP ID, an XML
 # file is created and saved to a folder named for that cycle.
 candSumBasePath = 'D:\\Users\\daveh\\OneDrive\\Documents\\UF\\CIS4914\\Congressional_Finance_Data\\raw_data\\candSummary\\'
-for i in range(450, 600):
+for i in range(600, len(crList)):
     for j in range(0, 3):
         respUrl = candSumReqUrl1 + crList[i] + candSumReqUrl2 + cycles[j] + candSumReqUrl3 + OS_API_KEYS[j]
         resp = requests.get(respUrl)
@@ -83,7 +83,7 @@ for i in range(450, 600):
 # Retrieve candidate industry data for each CRP ID and cycle. For each year that data exists for a given CRP ID, an XML
 # file is created and saved to a folder named for that cycle.
 candIndBasePath = 'D:\\Users\\daveh\\OneDrive\\Documents\\UF\\CIS4914\\Congressional_Finance_Data\\raw_data\\candIndustry\\'
-for i in range(450, 600):
+for i in range(600, len(crList)):
     for j in range(0, 3):
         respUrl = candIndReqUrl1 + crList[i] + candIndReqUrl2 + cycles[j] + candIndReqUrl3 + OS_API_KEYS[j]
         resp = requests.get(respUrl)
@@ -98,7 +98,7 @@ for i in range(450, 600):
 # Retrieve candidate sector data for each CRP ID and cycle. For each year that data exists for a given CRP ID, an XML
 # file is created and saved to a folder named for that cycle.
 candSectBasePath = 'D:\\Users\\daveh\\OneDrive\\Documents\\UF\\CIS4914\\Congressional_Finance_Data\\raw_data\\candSector\\'
-for i in range(450, 600):
+for i in range(600, len(crList)):
     for j in range(0, 3):
         respUrl = candSectReqUrl1 + crList[i] + candSectReqUrl2 + cycles[j] + candSectReqUrl3 + OS_API_KEYS[j]
         resp = requests.get(respUrl)
