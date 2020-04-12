@@ -72,7 +72,7 @@ for file in fileLocs:
     dataYear = profile.get('data_year')
     netLow = profile.get('net_low')
     netHigh = profile.get('net_high')
-    positionsHeld = profile.get('positions_held')
+    positionsHeld = profile.get('positions_held_count')
     assetCount = profile.get('asset_count')
     assetLow = profile.get('asset_low')
     assetHigh = profile.get('asset_high')
