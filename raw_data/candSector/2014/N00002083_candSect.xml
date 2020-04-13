@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jim Moran (D)" cid="N00002083" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00002083&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="500" pacs="2000" total="2500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="31296" pacs="31090" total="62386"/>
+    <sector sector_name="Construction" sectorid="C" indivs="7908" pacs="11500" total="19408"/>
+    <sector sector_name="Defense" sectorid="D" indivs="59050" pacs="78500" total="137550"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1000" pacs="15000" total="16000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="34700" pacs="10000" total="44700"/>
+    <sector sector_name="Health" sectorid="H" indivs="3000" pacs="13000" total="16000"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="64610" pacs="25000" total="89610"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="11982" pacs="27500" total="39482"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="29100" pacs="24000" total="53100"/>
+    <sector sector_name="Labor" sectorid="P" indivs="200" pacs="82000" total="82200"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="13462" pacs="14250" total="27712"/>
+    <sector sector_name="Other" sectorid="W" indivs="30930" pacs="1500" total="32430"/>
+  </sectors>
+</response>

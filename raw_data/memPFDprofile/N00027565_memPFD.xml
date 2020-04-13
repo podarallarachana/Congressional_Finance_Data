@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Campbell, John" data_year="2016" member_id="N00027565" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00027565" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="18801 Beach Blvd/Huntington Beach, CA" tx_date="Nov 27 2013" tx_action="Sold" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="9581 Irvine Center Drive/Irvine, CA" tx_date="Nov 27 2013" tx_action="Sold" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="9581 Irvine Center Drive/Irvine, CA" tx_date="Nov 27 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Pimco All Asset All Authority Fund" tx_date="Aug  2 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Owned by M McNee Campbell Family Income Trust #2" tx_date="Aug  2 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+    </transactions>
+    <positions>
+      <position title="Managing Member" organization="ACD Holdings"/>
+      <position title="Managing Member" organization="Campbell/Mcnee Family Farm LLC"/>
+      <position title="Advisory Board (uncompensated)" organization="Crime Survivors Advisory Board"/>
+      <position title="Advisory Council (uncompensated)" organization="Laguna Canyon Foundation"/>
+      <position title="Board of Advisors (uncompensated)" organization="Leventhal School of Accounting University of Sout"/>
+    </positions>
+  </member_profile>
+</response>

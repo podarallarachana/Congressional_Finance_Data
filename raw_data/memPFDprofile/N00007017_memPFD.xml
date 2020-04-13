@@ -1,0 +1,25 @@
+<response>
+  <member_profile name="Issa, Darrell" data_year="2016" member_id="N00007017" net_low="163165026" net_high="484400000" positions_held_count="0" asset_count="26" asset_low="313165027" asset_high="584400003" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00007017" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="allianzGI Short Duration High Income Fund" holdings_low="55000002" holdings_high="75000001" industry="" sector="" subsidiary_of=""/>
+      <asset name="Blackrock High Yield Bond Fund" holdings_low="50000001" holdings_high="50000001" industry="" sector="" subsidiary_of=""/>
+      <asset name="Alliance Bernstein High Income Fund" holdings_low="50000001" holdings_high="50000001" industry="" sector="" subsidiary_of=""/>
+      <asset name="Undiscovered Managers Behavioral Value Fund" holdings_low="25000001" holdings_high="50000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="First Eagle US Value Fund" holdings_low="25000001" holdings_high="50000000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="First Eagle High Yield Fund" tx_date="Dec 20 2013" tx_action="Purchased" value_low="25000001" value_high="50000000"/>
+      <transaction asset_name="Lord Abbett Bond Debenture Fund" tx_date="Feb 25 2013" tx_action="Sold" value_low="25000001" value_high="50000000"/>
+      <transaction asset_name="Lord Abbett High Yield Fund" tx_date="Feb 25 2013" tx_action="Purchased" value_low="25000001" value_high="50000000"/>
+      <transaction asset_name="Mainstay High Yield Corporate Bond" tx_date="Dec 20 2013" tx_action="Sold" value_low="25000001" value_high="50000000"/>
+      <transaction asset_name="Alliance Bernstein High Income Fund" tx_date="Dec 23 2013" tx_action="Sold" value_low="5000001" value_high="25000000"/>
+    </transactions>
+    <positions>
+      <position title="Partner" organization="1 Viper Way LP"/>
+      <position title="Partner" organization="1200 Harbor Dr LP"/>
+      <position title="Partner" organization="12400 Stowe Drive LP"/>
+      <position title="Partner" organization="1800 Carillon Blvd LP"/>
+      <position title="Partner" organization="2067 W Vista Way LP"/>
+    </positions>
+  </member_profile>
+</response>

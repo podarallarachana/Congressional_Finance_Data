@@ -1,0 +1,15 @@
+<response>
+  <industries cand_name="John Lee Ratcliffe (R)" cid="N00035972" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035972&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="139936" pacs="21025" total="160961"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="73000" total="73000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="63683" pacs="0" total="63683"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="32850" pacs="11500" total="44350"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="38306" pacs="2000" total="40306"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="24600" pacs="0" total="24600"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="15506" pacs="8600" total="24106"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="13550" pacs="0" total="13550"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="2750" pacs="8000" total="10750"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="7500" total="7500"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="7500" total="7500"/>
+  </industries>
+</response>

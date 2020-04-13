@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="Garamendi, John" data_year="2016" member_id="N00030856" net_low="1108019" net_high="7709997" positions_held_count="0" asset_count="18" asset_low="2623019" asset_high="8470000" transaction_count="5" tx_low="101005" tx_high="268000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030856" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Ranch" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Rental Property" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Bank of America Account" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Bank of Stockton" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Davis House" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Twitter Inc" tx_date="Nov  8 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Granite Construction Inc" tx_date="Nov  8 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

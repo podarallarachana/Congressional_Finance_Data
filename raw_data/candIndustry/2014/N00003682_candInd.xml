@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Rob Portman (R)" cid="N00003682" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00003682&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="1541935" pacs="168000" total="1709935"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="1401492" pacs="0" total="1401492"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="646747" pacs="487300" total="1134047"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="882377" pacs="165798" total="1048175"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="657035" pacs="179200" total="836235"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="707801" pacs="59900" total="767701"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="703823" pacs="14950" total="718773"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="477322" pacs="64500" total="541822"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="370525" pacs="150399" total="520924"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="293544" pacs="167500" total="461044"/>
+  </industries>
+</response>

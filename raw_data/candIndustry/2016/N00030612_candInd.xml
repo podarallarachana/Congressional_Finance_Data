@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Marco Rubio (R)" cid="N00030612" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030612&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="4589310" pacs="0" total="4589310"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="1805068" pacs="66930" total="1871998"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="1263784" pacs="56500" total="1320284"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="1142429" pacs="77293" total="1219722"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="774809" pacs="108350" total="883159"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="596528" pacs="21000" total="617528"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="329211" pacs="196166" total="525377"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="424604" pacs="20000" total="444604"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="420041" total="420041"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="223391" pacs="186950" total="410341"/>
+  </industries>
+</response>

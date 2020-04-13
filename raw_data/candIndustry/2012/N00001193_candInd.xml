@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Pete King (R)" cid="N00001193" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001193&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="103750" pacs="43000" total="146750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="79800" pacs="10900" total="90700"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="65850" pacs="0" total="65850"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="33100" pacs="28662" total="61762"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="50500" total="50500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="49800" total="49800"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="35000" pacs="12500" total="47500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="46845" pacs="0" total="46845"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="10000" pacs="35070" total="45070"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="500" pacs="42000" total="42500"/>
+  </industries>
+</response>

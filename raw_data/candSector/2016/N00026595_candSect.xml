@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Charles W Boustany Jr (R)" cid="N00026595" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026595&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="211804" pacs="117250" total="329054"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="39500" pacs="62636" total="102136"/>
+    <sector sector_name="Construction" sectorid="C" indivs="175917" pacs="59500" total="235417"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2000" pacs="46500" total="48500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="269537" pacs="243000" total="512537"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="432845" pacs="430402" total="863247"/>
+    <sector sector_name="Health" sectorid="H" indivs="400142" pacs="387252" total="787394"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="393287" pacs="70163" total="463450"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="127850" pacs="119150" total="247000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="363613" pacs="203894" total="567507"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="84065" pacs="179949" total="264014"/>
+    <sector sector_name="Other" sectorid="W" indivs="213150" pacs="-50" total="213100"/>
+  </sectors>
+</response>

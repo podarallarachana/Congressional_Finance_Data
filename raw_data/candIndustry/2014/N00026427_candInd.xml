@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ro Khanna (D)" cid="N00026427" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026427&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="652150" pacs="0" total="652150"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="272345" pacs="0" total="272345"/>
+    <industry industry_code="B13" industry_name="Internet" indivs="210276" pacs="0" total="210276"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="159411" pacs="0" total="159411"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="153575" pacs="0" total="153575"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="100591" pacs="0" total="100591"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="85700" pacs="0" total="85700"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="68502" pacs="0" total="68502"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="58400" pacs="0" total="58400"/>
+    <industry industry_code="W04" industry_name="Education" indivs="49750" pacs="0" total="49750"/>
+  </industries>
+</response>

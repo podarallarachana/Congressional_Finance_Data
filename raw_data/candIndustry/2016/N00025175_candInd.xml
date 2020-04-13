@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Michael R Turner (R)" cid="N00025175" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00025175&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="30000" pacs="70500" total="100500"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="10800" pacs="65300" total="76100"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="0" pacs="51500" total="51500"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="26400" pacs="12000" total="38400"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="33925" pacs="0" total="33925"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="30378" pacs="3500" total="33878"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="14400" pacs="15000" total="29400"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="29000" total="29000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="21750" pacs="2000" total="23750"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="21900" pacs="1000" total="22900"/>
+  </industries>
+</response>

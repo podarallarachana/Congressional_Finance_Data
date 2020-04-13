@@ -1,0 +1,24 @@
+<response>
+  <member_profile name="Cooper, Jim" data_year="2016" member_id="N00003132" net_low="12285055" net_high="49251000" positions_held_count="9" asset_count="51" asset_low="12285055" asset_high="49251000" transaction_count="7" tx_low="4007" tx_high="63000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00003132" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Cooper Brothers Land" holdings_low="5000001" holdings_high="25000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="" holdings_low="2002004" holdings_high="10030000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Lot 6A at 658 Grassmere Office Park, Trousdale Pik" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Adams Properties" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Wells Fargo Bank Deposit Accounts" holdings_low="500002" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Jazz Pharmaceuticals" tx_date="Dec 13 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Select Medical Holdings Corp" tx_date="Jun 25 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Select Medical Holdings Corp" tx_date="Feb 19 2013" tx_action="Exchanged" value_low="1" value_high="1000"/>
+      <transaction asset_name="Select Medical Holdings Corp" tx_date="Feb 19 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Partner" organization="Cooper Bros Land Co"/>
+      <position title="Member" organization="Hamilton Fairfax LLC"/>
+      <position title="Member" organization="Harpeth Green Properties"/>
+      <position title="Honorary Member, Executive Board" organization="Middle Tennessee Council of the Boy Scouts of Amer"/>
+      <position title="Adjunct Professor" organization="Owen School of Management Vanderbilt University"/>
+    </positions>
+  </member_profile>
+</response>

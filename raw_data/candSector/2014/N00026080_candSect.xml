@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John Barrow (D)" cid="N00026080" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026080&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="25900" pacs="146000" total="171900"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="56750" pacs="151020" total="207770"/>
+    <sector sector_name="Construction" sectorid="C" indivs="6050" pacs="34250" total="40300"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="49500" total="49500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="24950" pacs="261000" total="285950"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="118671" pacs="280500" total="399171"/>
+    <sector sector_name="Health" sectorid="H" indivs="77340" pacs="409000" total="486340"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="432786" pacs="49750" total="482536"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="19100" pacs="99500" total="118600"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="80370" pacs="199055" total="279425"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1000" pacs="173500" total="174500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="28651" pacs="322600" total="351251"/>
+    <sector sector_name="Other" sectorid="W" indivs="155278" pacs="5000" total="160278"/>
+  </sectors>
+</response>

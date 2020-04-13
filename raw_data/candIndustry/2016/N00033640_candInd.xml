@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Hakeem Jeffries (D)" cid="N00033640" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033640&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="108980" pacs="34000" total="142980"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="87850" pacs="11500" total="99350"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="69461" pacs="26500" total="95961"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="38950" pacs="36250" total="75200"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="7500" pacs="49400" total="56900"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="43000" total="43000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="43000" total="43000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="40500" total="40500"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="35000" total="35000"/>
+    <industry industry_code="B01" industry_name="Printing &amp; Publishing" indivs="22700" pacs="9900" total="32600"/>
+  </industries>
+</response>

@@ -1,0 +1,13 @@
+<response>
+  <member_profile name="Murphy, Christopher S" data_year="2016" member_id="N00027566" net_low="-1497989" net_high="-425004" positions_held_count="1" asset_count="4" asset_low="102011" asset_high="355000" transaction_count="8" tx_low="8008" tx_high="120000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00027566" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="85008" holdings_high="275000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Target Retirement 2030" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="USAA Savings" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Principal Plus Interest Option" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Other (advisory board member)" organization="Susan B Anthony Project"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Mark Pocan (D)" cid="N00033549" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033549&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="5700" pacs="20500" total="26200"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="13453" pacs="10000" total="23453"/>
+    <sector sector_name="Construction" sectorid="C" indivs="500" pacs="7000" total="7500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="8100" pacs="18750" total="26850"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="33122" pacs="84000" total="117122"/>
+    <sector sector_name="Health" sectorid="H" indivs="12500" pacs="57575" total="70075"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="43989" pacs="12228" total="56217"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2500" pacs="29500" total="32000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="20300" pacs="45114" total="65414"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1700" pacs="250000" total="251700"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="12166" pacs="24000" total="36166"/>
+    <sector sector_name="Other" sectorid="W" indivs="56767" pacs="3500" total="60267"/>
+  </sectors>
+</response>

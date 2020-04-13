@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Xavier Becerra (D)" cid="N00009774" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009774&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1500" pacs="22000" total="23500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="61375" pacs="98000" total="159375"/>
+    <sector sector_name="Construction" sectorid="C" indivs="13800" pacs="20900" total="34700"/>
+    <sector sector_name="Defense" sectorid="D" indivs="510" pacs="25000" total="25510"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="250" pacs="40700" total="40950"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="158112" pacs="288000" total="446112"/>
+    <sector sector_name="Health" sectorid="H" indivs="55054" pacs="274200" total="329254"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="92057" pacs="36100" total="128157"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1000" pacs="41000" total="42000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="98910" pacs="107000" total="205910"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="147500" total="147750"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="34896" pacs="18249" total="53145"/>
+    <sector sector_name="Other" sectorid="W" indivs="30120" pacs="0" total="30120"/>
+  </sectors>
+</response>

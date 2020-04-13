@@ -1,0 +1,10 @@
+<response>
+  <sectors cand_name="Amata Coleman Radewagen (R)" cid="N00007635" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00007635&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="12800" pacs="0" total="12800"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="11500" pacs="0" total="11500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="38500" total="38500"/>
+    <sector sector_name="Other" sectorid="W" indivs="2025" pacs="0" total="2025"/>
+  </sectors>
+</response>

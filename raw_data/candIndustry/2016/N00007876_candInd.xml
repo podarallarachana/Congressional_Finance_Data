@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Patty Murray (D)" cid="N00007876" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007876&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="585807" pacs="150684" total="736491"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="621397" pacs="0" total="621397"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="108317" pacs="386650" total="494967"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="447227" pacs="10769" total="457996"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="392445" pacs="25000" total="417445"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="113954" pacs="285414" total="399368"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="276909" pacs="90000" total="366909"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="332400" total="332400"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="65681" pacs="242500" total="308181"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="196095" pacs="102250" total="298345"/>
+  </industries>
+</response>

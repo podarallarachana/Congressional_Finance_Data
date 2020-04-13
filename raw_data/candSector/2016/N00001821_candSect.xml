@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Steny H Hoyer (D)" cid="N00001821" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001821&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="19050" pacs="80500" total="99550"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="85500" pacs="163500" total="249000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="7500" pacs="73500" total="81000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="21564" pacs="112500" total="134064"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="31200" pacs="241000" total="272200"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="204726" pacs="606750" total="811476"/>
+    <sector sector_name="Health" sectorid="H" indivs="94770" pacs="414250" total="509020"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="190121" pacs="47500" total="237621"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="16450" pacs="142000" total="158450"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="58290" pacs="271500" total="329790"/>
+    <sector sector_name="Labor" sectorid="P" indivs="2500" pacs="305550" total="308050"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="84391" pacs="63738" total="148129"/>
+    <sector sector_name="Other" sectorid="W" indivs="129600" pacs="11000" total="140600"/>
+  </sectors>
+</response>

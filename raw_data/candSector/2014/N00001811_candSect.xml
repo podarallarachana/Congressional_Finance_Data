@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Lamar Smith (R)" cid="N00001811" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001811&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="15850" pacs="28832" total="44682"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="29500" pacs="144640" total="174140"/>
+    <sector sector_name="Construction" sectorid="C" indivs="53950" pacs="38000" total="91950"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1000" pacs="71844" total="72844"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="43550" pacs="72500" total="116050"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="99800" pacs="115905" total="215705"/>
+    <sector sector_name="Health" sectorid="H" indivs="39600" pacs="49250" total="88850"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="63950" pacs="26000" total="89950"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="30050" pacs="80500" total="110550"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="38650" pacs="117000" total="155650"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="5850" pacs="20010" total="25860"/>
+    <sector sector_name="Other" sectorid="W" indivs="91600" pacs="0" total="91600"/>
+  </sectors>
+</response>

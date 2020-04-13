@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Steve Stivers (R)" cid="N00029574" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029574&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="22300" pacs="37750" total="60050"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="15900" pacs="27000" total="42900"/>
+    <sector sector_name="Construction" sectorid="C" indivs="59000" pacs="37500" total="96500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="6550" pacs="21500" total="28050"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="85700" pacs="72500" total="158200"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="304750" pacs="599685" total="904435"/>
+    <sector sector_name="Health" sectorid="H" indivs="36150" pacs="221550" total="257700"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="117241" pacs="58925" total="176166"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="18800" pacs="57749" total="76549"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="162900" pacs="141841" total="304741"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="49250" total="49250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2800" pacs="91221" total="94021"/>
+    <sector sector_name="Other" sectorid="W" indivs="91000" pacs="3000" total="94000"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jeanne Shaheen (D)" cid="N00024790" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00024790&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="759879" pacs="34500" total="794379"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="660812" pacs="103575" total="764387"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="623787" pacs="0" total="623787"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="477600" total="477600"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="271541" pacs="55833" total="327374"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="279614" pacs="47040" total="326654"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="269168" pacs="11000" total="280168"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="205839" pacs="24500" total="230339"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="181328" pacs="37485" total="218813"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="97991" pacs="116500" total="214491"/>
+  </industries>
+</response>

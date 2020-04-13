@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Richard C Shelby (R)" cid="N00009920" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009920&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="27850" pacs="90000" total="117850"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="163900" pacs="119280" total="283180"/>
+    <sector sector_name="Construction" sectorid="C" indivs="232550" pacs="96200" total="328750"/>
+    <sector sector_name="Defense" sectorid="D" indivs="220050" pacs="314000" total="534050"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="68400" pacs="98000" total="166400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1427588" pacs="1119599" total="2547187"/>
+    <sector sector_name="Health" sectorid="H" indivs="116850" pacs="118900" total="235750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="519789" pacs="150050" total="669839"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="61930" pacs="76400" total="138330"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="269465" pacs="162400" total="431865"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="12500" total="12500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="26429" pacs="148000" total="174429"/>
+    <sector sector_name="Other" sectorid="W" indivs="156325" pacs="5400" total="161725"/>
+  </sectors>
+</response>

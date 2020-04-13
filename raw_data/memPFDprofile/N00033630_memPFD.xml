@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033630" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033630" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Richard Hudson Transactions for account Primary IR" tx_date="Sep  6 2013" tx_action="Sold" value_low="100025" value_high="100025"/>
+      <transaction asset_name="Richard Hudson Transactions for account Primary IR" tx_date="Dec 11 2013" tx_action="Sold" value_low="71639" value_high="71639"/>
+      <transaction asset_name="Richard Hudson Transactions for account Primary IR" tx_date="Aug 29 2013" tx_action="Sold" value_low="31267" value_high="31267"/>
+      <transaction asset_name="Richard Hudson Transactions for account Primary IR" tx_date="Aug 29 2013" tx_action="Sold" value_low="14450" value_high="14450"/>
+      <transaction asset_name="Richard Hudson Transactions for account Primary IR" tx_date="Aug 29 2013" tx_action="Sold" value_low="14294" value_high="14294"/>
+    </transactions>
+  </member_profile>
+</response>

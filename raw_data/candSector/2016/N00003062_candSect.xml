@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Jeff Sessions (R)" cid="N00003062" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00003062&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="25434" pacs="72500" total="97934"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="11850" pacs="67000" total="78850"/>
+    <sector sector_name="Construction" sectorid="C" indivs="66350" pacs="43000" total="109350"/>
+    <sector sector_name="Defense" sectorid="D" indivs="27400" pacs="159600" total="187000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="10950" pacs="165500" total="176450"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="75800" pacs="149000" total="224800"/>
+    <sector sector_name="Health" sectorid="H" indivs="26350" pacs="74500" total="100850"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="44521" pacs="52698" total="97219"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="21300" pacs="92100" total="113400"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="47750" pacs="129000" total="176750"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="4100" pacs="116400" total="120500"/>
+    <sector sector_name="Other" sectorid="W" indivs="63450" pacs="0" total="63450"/>
+  </sectors>
+</response>

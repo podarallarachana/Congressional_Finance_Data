@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Michael O Johanns (R)" cid="N00029444" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029444&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="212916" pacs="369783" total="582699"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="185843" pacs="138499" total="324342"/>
+    <sector sector_name="Construction" sectorid="C" indivs="113740" pacs="65500" total="179240"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="14000" total="14500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="74600" pacs="118750" total="193350"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="439625" pacs="454431" total="894056"/>
+    <sector sector_name="Health" sectorid="H" indivs="105707" pacs="168250" total="273957"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="204640" pacs="58100" total="262740"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="75150" pacs="122500" total="197650"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="280989" pacs="186799" total="467788"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="42500" total="42500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="79661" pacs="281250" total="360911"/>
+    <sector sector_name="Other" sectorid="W" indivs="245785" pacs="1000" total="246785"/>
+  </sectors>
+</response>

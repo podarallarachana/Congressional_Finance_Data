@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John F Tierney (D)" cid="N00000226" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000226&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="181254" pacs="27250" total="208504"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="146000" total="146000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="109118" pacs="0" total="109118"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="109000" total="109000"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="100709" total="100709"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="57000" total="57000"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="39800" pacs="14000" total="53800"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="47000" total="47000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="41500" pacs="4000" total="45500"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="41000" total="41000"/>
+  </industries>
+</response>

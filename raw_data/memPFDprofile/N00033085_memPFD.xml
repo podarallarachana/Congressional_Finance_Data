@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033085" net_low="2965074" net_high="9171994" positions_held_count="2" asset_count="44" asset_low="4195074" asset_high="9752000" transaction_count="8" tx_low="64008" tx_high="260000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033085" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Loan to Ted Cruz for Senate" holdings_low="1000002" holdings_high="2000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="BlackRock Municipal Income Trust Fund" holdings_low="500002" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Blackrock Lifepath Portfolio Target 2035" holdings_low="500002" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Morgan Lewis Cash Balance Retirement Plan" holdings_low="500002" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Goldman Sachs" holdings_low="265002" holdings_high="550000" industry="Securities &amp; Investment" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Chevron Corp" tx_date="Mar 19 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Blackrock Municipal Income Trust" tx_date="Apr 15 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Goldman Sachs Local Emrg Mkts Debt Institutional" tx_date="Feb  6 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Enterprise Products Partners" tx_date="Feb  6 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Enterprise Products Partners" tx_date="Mar 19 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+    </transactions>
+    <positions>
+      <position title="Trustee" organization="Free Enterprise Institute"/>
+    </positions>
+  </member_profile>
+</response>

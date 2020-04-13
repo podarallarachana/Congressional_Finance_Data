@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Peter Welch (D)" cid="N00000515" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000515&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="1534" pacs="68000" total="69534"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="5" pacs="66500" total="66505"/>
+    <industry industry_code="Q10" industry_name="Misc Issues" indivs="53000" pacs="0" total="53000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="47500" total="47500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="11779" pacs="32000" total="43779"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="155" pacs="41500" total="41655"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="3504" pacs="35000" total="38504"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="16589" pacs="15150" total="31739"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="608" pacs="30500" total="31108"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="30161" pacs="0" total="30161"/>
+  </industries>
+</response>

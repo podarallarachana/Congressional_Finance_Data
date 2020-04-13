@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Henry Cuellar (D)" cid="N00024978" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00024978&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="35800" pacs="89000" total="124800"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="32150" pacs="30500" total="62650"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="34825" pacs="18625" total="53450"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="9200" pacs="39000" total="48200"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="32300" pacs="14000" total="46300"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="7000" pacs="35850" total="42850"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="20200" pacs="17500" total="37700"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="26158" pacs="11000" total="37158"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="1250" pacs="30000" total="31250"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="1500" pacs="25500" total="27000"/>
+  </industries>
+</response>

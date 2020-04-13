@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Morgan Griffith (R)" cid="N00032029" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00032029&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="8200" pacs="59000" total="67200"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="5000" pacs="57000" total="62000"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="2000" pacs="54000" total="56000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="52708" pacs="0" total="52708"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="1750" pacs="37000" total="38750"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="8150" pacs="29000" total="37150"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="23850" pacs="9753" total="33603"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="11593" pacs="18000" total="29593"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="7850" pacs="18500" total="26350"/>
+    <industry industry_code="N13" industry_name="Chemical &amp; Related Manufacturing" indivs="3800" pacs="21500" total="25300"/>
+  </industries>
+</response>

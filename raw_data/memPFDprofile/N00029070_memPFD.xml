@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Himes, Jim" data_year="2016" member_id="N00029070" net_low="2867046" net_high="9782999" positions_held_count="0" asset_count="43" asset_low="3117046" asset_high="9883000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00029070" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Fidelity Total Market Index FID Advantage" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Intl Cap Appreciation Fund" holdings_low="150002" holdings_high="350000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Blue Chip Value Fund" holdings_low="101002" holdings_high="265000" industry="" sector="" subsidiary_of=""/>
+      <asset name="CT High Equity Option" holdings_low="250000" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Value Discovery Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Facebook Inc" tx_date="Aug 26 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Mondelez International" tx_date="Oct 28 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="High Equity Option" tx_date="Jan 24 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Index Fixed Income Option" tx_date="Jan 22 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Rebalance within DC1 529 account" tx_date="Jan 22 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

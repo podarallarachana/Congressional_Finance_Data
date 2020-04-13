@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Richard W Allen (R)" cid="N00033720" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033720&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="42372" pacs="109027" total="151399"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2500" pacs="21000" total="23500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="46400" pacs="35500" total="81900"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="12000" total="12000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="9750" pacs="21000" total="30750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="86975" pacs="92500" total="179475"/>
+    <sector sector_name="Health" sectorid="H" indivs="51650" pacs="27000" total="78650"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="27700" pacs="2250" total="29950"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="15200" pacs="28500" total="43700"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="36650" pacs="59498" total="96148"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="4000" total="4000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="10030" pacs="72000" total="82030"/>
+    <sector sector_name="Other" sectorid="W" indivs="101800" pacs="3500" total="105300"/>
+  </sectors>
+</response>

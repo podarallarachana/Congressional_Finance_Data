@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Patrick E Murphy (D)" cid="N00033091" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033091&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="295025" pacs="34500" total="329525"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="263750" pacs="61000" total="324750"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="308678" pacs="0" total="308678"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="164400" pacs="94880" total="259280"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="16100" pacs="196273" total="212373"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="64000" pacs="105700" total="169700"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="115450" pacs="4500" total="119950"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="85925" pacs="22000" total="107925"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="95250" pacs="11500" total="106750"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="16050" pacs="83500" total="99550"/>
+  </industries>
+</response>

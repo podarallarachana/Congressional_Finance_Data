@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John B Larson (D)" cid="N00000575" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00000575&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="11350" pacs="35500" total="46850"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="5850" pacs="58280" total="64130"/>
+    <sector sector_name="Construction" sectorid="C" indivs="14150" pacs="10250" total="24400"/>
+    <sector sector_name="Defense" sectorid="D" indivs="16050" pacs="50500" total="66550"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="6350" pacs="24250" total="30600"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="143950" pacs="436252" total="580202"/>
+    <sector sector_name="Health" sectorid="H" indivs="33050" pacs="191000" total="224050"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="82804" pacs="22000" total="104804"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="12450" pacs="47750" total="60200"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="59500" pacs="140630" total="200130"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="161500" total="161500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="4400" pacs="13100" total="17500"/>
+    <sector sector_name="Other" sectorid="W" indivs="49438" pacs="1000" total="50438"/>
+  </sectors>
+</response>

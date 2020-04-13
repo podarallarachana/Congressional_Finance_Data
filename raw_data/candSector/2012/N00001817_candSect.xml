@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="C W Bill Young (R)" cid="N00001817" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001817&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="10450" pacs="21750" total="32200"/>
+    <sector sector_name="Construction" sectorid="C" indivs="6600" pacs="28000" total="34600"/>
+    <sector sector_name="Defense" sectorid="D" indivs="84960" pacs="150000" total="234960"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="9750" pacs="22000" total="31750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="116890" pacs="34500" total="151390"/>
+    <sector sector_name="Health" sectorid="H" indivs="28750" pacs="48500" total="77250"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="88650" pacs="19952" total="108602"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="13200" pacs="51449" total="64649"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="12000" pacs="60500" total="72500"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1250" total="1250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2500" pacs="40000" total="42500"/>
+    <sector sector_name="Other" sectorid="W" indivs="34250" pacs="0" total="34250"/>
+  </sectors>
+</response>

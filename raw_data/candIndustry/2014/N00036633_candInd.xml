@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ralph Abraham (R)" cid="N00036633" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00036633&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="78950" pacs="14000" total="92950"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="64350" pacs="7000" total="71350"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="59000" total="59000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="48455" pacs="0" total="48455"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="35950" pacs="0" total="35950"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="13253" pacs="10500" total="23753"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="20250" pacs="0" total="20250"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="18650" pacs="0" total="18650"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="10450" pacs="7000" total="17450"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="12000" total="12000"/>
+  </industries>
+</response>

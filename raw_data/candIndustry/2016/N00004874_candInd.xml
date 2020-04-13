@@ -1,0 +1,15 @@
+<response>
+  <industries cand_name="Luis V Gutierrez (D)" cid="N00004874" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004874&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="38500" total="38500"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="2700" pacs="35000" total="37700"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="30000" total="30000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="25000" total="25000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="12500" pacs="8000" total="20500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="13400" pacs="6750" total="20150"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="140" pacs="16000" total="16140"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="16000" total="16000"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="15400" pacs="0" total="15400"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="15000" total="15000"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="0" pacs="15000" total="15000"/>
+  </industries>
+</response>

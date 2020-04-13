@@ -1,0 +1,15 @@
+<response>
+  <sectors cand_name="Vance McAllister (R)" cid="N00035593" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035593&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="29100" pacs="25999" total="55099"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="7000" pacs="3500" total="10500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="21050" pacs="3000" total="24050"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="16400" pacs="6073" total="22473"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="8550" pacs="4500" total="13050"/>
+    <sector sector_name="Health" sectorid="H" indivs="19500" pacs="8500" total="28000"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="11288" pacs="6500" total="17788"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="7200" pacs="0" total="7200"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="16750" pacs="6500" total="23250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="72300" total="72300"/>
+    <sector sector_name="Other" sectorid="W" indivs="21699" pacs="0" total="21699"/>
+  </sectors>
+</response>

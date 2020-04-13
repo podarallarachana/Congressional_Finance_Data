@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Kyrsten Sinema (D)" cid="N00033983" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033983&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="233565" pacs="28750" total="262315"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="4700" pacs="202300" total="207000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="189795" pacs="0" total="189795"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="106970" pacs="41500" total="148470"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="6950" pacs="130500" total="137450"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="111075" pacs="15200" total="126275"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="48783" pacs="74000" total="122783"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="86749" pacs="25500" total="112249"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="47128" pacs="39000" total="86128"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="85237" total="85237"/>
+  </industries>
+</response>

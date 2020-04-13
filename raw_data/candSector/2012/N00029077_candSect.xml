@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Lynn Jenkins (R)" cid="N00029077" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029077&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="69750" pacs="46850" total="116600"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="7500" pacs="39371" total="46871"/>
+    <sector sector_name="Construction" sectorid="C" indivs="45921" pacs="82500" total="128421"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="20500" total="20500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="94700" pacs="78250" total="172950"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="155500" pacs="288778" total="444278"/>
+    <sector sector_name="Health" sectorid="H" indivs="34050" pacs="173250" total="207300"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="66750" pacs="13670" total="80420"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="38250" pacs="84084" total="122334"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="102372" pacs="131000" total="233372"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="9000" total="9000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="26700" pacs="58424" total="85124"/>
+    <sector sector_name="Other" sectorid="W" indivs="47080" pacs="1000" total="48080"/>
+  </sectors>
+</response>

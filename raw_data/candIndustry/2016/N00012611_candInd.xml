@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mike Honda (D)" cid="N00012611" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00012611&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="244314" pacs="0" total="244314"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="92575" pacs="48400" total="140975"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="121535" pacs="14250" total="135785"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="2700" pacs="118950" total="121650"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="104944" pacs="11000" total="115944"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="75113" pacs="30606" total="105719"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="59931" pacs="38840" total="98771"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="550" pacs="87250" total="87800"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="52143" pacs="28000" total="80143"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="63450" pacs="0" total="63450"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Virginia Foxx (R)" cid="N00026166" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026166&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="131100" pacs="0" total="131100"/>
+    <industry industry_code="W04" industry_name="Education" indivs="87730" pacs="37500" total="125230"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="16850" pacs="27051" total="43901"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="9350" pacs="24000" total="33350"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="19900" pacs="13000" total="32900"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="11700" pacs="20000" total="31700"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="5700" pacs="25000" total="30700"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="14250" pacs="16000" total="30250"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="25700" pacs="2500" total="28200"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="10500" pacs="15500" total="26000"/>
+  </industries>
+</response>

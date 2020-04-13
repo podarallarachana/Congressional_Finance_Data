@@ -1,0 +1,23 @@
+<response>
+  <member_profile name="Ryan, Paul" data_year="2016" member_id="N00004357" net_low="2866080" net_high="10040000" positions_held_count="0" asset_count="65" asset_low="2866080" asset_high="10040000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00004357" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Prudence Little Living Trust" holdings_low="1000001" holdings_high="5000000" industry="Misc Finance" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Ryan Hutter Investment Partnership" holdings_low="500001" holdings_high="1000000" industry="Misc Finance" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="TIAA-CREF Tuition Financing Edvest 529 College" holdings_low="200002" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Ava O Ltd" holdings_low="100001" holdings_high="250000" industry="Mining" sector="Energy/Nat Resource" subsidiary_of=""/>
+      <asset name="Red River Pine Ltd Co" holdings_low="100001" holdings_high="250000" industry="Forestry &amp; Forest Products" sector="Agribusiness" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Nuveen Intermediate Duration Municipal Bond Fund" tx_date="Sep 20 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="PIMCO Total Return Fund" tx_date="Sep 20 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="3M Co" tx_date="Jan 28 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Vacant Land" tx_date="Dec 31 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Hartford Mid Cap Fund" tx_date="Dec 16 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Non-Compensated Member" organization="CMR LLC"/>
+      <position title="Limited Partner" organization="Ryan LP"/>
+      <position title="General Partner" organization="Ryan-Hutter Investment Partnership"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Shelley Moore Capito (R)" cid="N00009771" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009771&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="12000" pacs="12500" total="24500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="6850" pacs="21500" total="28350"/>
+    <sector sector_name="Construction" sectorid="C" indivs="115900" pacs="41500" total="157400"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="190987" pacs="120749" total="311736"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="138500" pacs="603850" total="742350"/>
+    <sector sector_name="Health" sectorid="H" indivs="61000" pacs="87000" total="148000"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="126543" pacs="15000" total="141543"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="31450" pacs="113000" total="144450"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="103140" pacs="75500" total="178640"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="59500" total="59500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="16550" pacs="53000" total="69550"/>
+    <sector sector_name="Other" sectorid="W" indivs="107250" pacs="1500" total="108750"/>
+  </sectors>
+</response>

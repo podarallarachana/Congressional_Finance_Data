@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Tom Price (R)" cid="N00026160" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026160&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="7000" pacs="28000" total="35000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="21651" pacs="75750" total="97401"/>
+    <sector sector_name="Construction" sectorid="C" indivs="6250" pacs="30000" total="36250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="11000" total="11000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5700" pacs="56000" total="61700"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="159680" pacs="281000" total="440680"/>
+    <sector sector_name="Health" sectorid="H" indivs="310832" pacs="427850" total="738682"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="48300" pacs="22000" total="70300"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="7700" pacs="43500" total="51200"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="59296" pacs="121250" total="180546"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="17250" pacs="16534" total="33784"/>
+    <sector sector_name="Other" sectorid="W" indivs="111462" pacs="1000" total="112462"/>
+  </sectors>
+</response>

@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Hatch, Orrin G" data_year="2016" member_id="N00009869" net_low="1758040" net_high="7124000" positions_held_count="0" asset_count="40" asset_low="1758040" asset_high="7124000" transaction_count="12" tx_low="26012" tx_high="215000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00009869" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Orrin G Hatch &amp; Elaine H Hatch Trust Agreement" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Edries N Hansen Properties" holdings_low="250001" holdings_high="500000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="US Senate Federal Credit Union" holdings_low="165003" holdings_high="400000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Funds Capital Income Builder Fund" holdings_low="30002" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="DoubleLine Total Return Bond Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="T Rowe Price Capital Apprecation Fund" tx_date="Jan  8 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Yacktman Fund Service" tx_date="Jan  8 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="DoubleLine Total Return Bond Fund" tx_date="Jan  8 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Lateef Fund" tx_date="Jan  8 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Edgewood Growth Fund Retail Class NL" tx_date="Jan 10 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+    </transactions>
+  </member_profile>
+</response>

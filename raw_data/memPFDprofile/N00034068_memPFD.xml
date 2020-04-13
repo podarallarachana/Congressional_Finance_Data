@@ -1,0 +1,17 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00034068" net_low="541019" net_high="1589999" positions_held_count="0" asset_count="17" asset_low="641019" asset_high="1640000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00034068" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Ford Motor Co" holdings_low="250001" holdings_high="500000" industry="Automotive" sector="Transportation" subsidiary_of=""/>
+      <asset name="American Funds" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="T Rowe Price Plan Deferred Compensation Science" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Rental home" holdings_low="50001" holdings_high="100000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Fedex Corp" holdings_low="30002" holdings_high="100000" industry="Air Transport" sector="Transportation" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Vice-Chair" organization="Democratic Mayors Assn"/>
+      <position title="Member" organization="Judicial Tenure Commission - State of Michigan"/>
+      <position title="Board Member" organization="Providence Hospital"/>
+      <position title="Trustee" organization="US Conference of Mayors"/>
+    </positions>
+  </member_profile>
+</response>

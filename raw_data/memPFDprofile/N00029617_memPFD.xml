@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Hagan, Kay R" data_year="2016" member_id="N00029617" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00029617" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Transamerica Stable Value Advantage Opt Fund" tx_date="Sep 27 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Transamerica Stable Value Advantage Opt Fund" tx_date="Oct  2 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Transamerica Stable Value Advantage Opt Fund" tx_date="Oct 16 2013" tx_action="Exchanged" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Transamerica Stable Value Advantage Opt Fund" tx_date="Dec  9 2013" tx_action="Exchanged" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="American Century Disciplined Growth Ret Opt-MF" tx_date="May 28 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+    </transactions>
+  </member_profile>
+</response>

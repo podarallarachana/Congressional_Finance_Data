@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Justin Amash (R)" cid="N00031938" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031938&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="246515" pacs="33500" total="280015"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="90765" pacs="1000" total="91765"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="83882" pacs="0" total="83882"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="72700" pacs="0" total="72700"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="51209" pacs="0" total="51209"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="46770" pacs="0" total="46770"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="43300" pacs="2000" total="45300"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="33400" pacs="1000" total="34400"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="29550" pacs="2750" total="32300"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="29400" total="29400"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Val Demings (D)" cid="N00033449" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033449&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="163674" pacs="25420" total="189094"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="84879" pacs="10000" total="94879"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="94000" total="94000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="78493" pacs="0" total="78493"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="74750" total="74750"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="48506" pacs="14600" total="63106"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="48500" total="48500"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="46500" total="46500"/>
+    <industry industry_code="W03" industry_name="Civil Servants/Public Officials" indivs="37655" pacs="0" total="37655"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="37000" total="37000"/>
+  </industries>
+</response>

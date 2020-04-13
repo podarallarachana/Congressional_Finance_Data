@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Merkley, Jeff" data_year="2016" member_id="N00029303" net_low="2836031" net_high="6166000" positions_held_count="0" asset_count="25" asset_low="2836031" asset_high="6166000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00029303" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Rental House - Portland, OR" holdings_low="500002" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Rental House - Takoma Park, MD" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Rental House - Washington, DC" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Rental House - Washington, DC #2" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Low Priced Stock Fund" holdings_low="200002" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

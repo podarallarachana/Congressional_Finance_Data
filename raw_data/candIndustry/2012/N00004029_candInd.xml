@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Conyers Jr (D)" cid="N00004029" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004029&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="79532" pacs="38250" total="117782"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="21500" pacs="75500" total="97000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="60103" pacs="6000" total="66103"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="13050" pacs="46500" total="59550"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="7032" pacs="34000" total="41032"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="40000" total="40000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="38000" total="38000"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="775" pacs="32000" total="32775"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="29000" total="29000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="28500" total="28500"/>
+  </industries>
+</response>

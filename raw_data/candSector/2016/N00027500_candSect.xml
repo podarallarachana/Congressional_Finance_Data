@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Amy Klobuchar (D)" cid="N00027500" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027500&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="160598" pacs="319250" total="479848"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="336472" pacs="317870" total="654342"/>
+    <sector sector_name="Construction" sectorid="C" indivs="43685" pacs="36050" total="79735"/>
+    <sector sector_name="Defense" sectorid="D" indivs="3900" pacs="14000" total="17900"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="59418" pacs="100850" total="160268"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="639099" pacs="211850" total="850949"/>
+    <sector sector_name="Health" sectorid="H" indivs="330239" pacs="294650" total="624889"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="839054" pacs="174497" total="1013551"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="65182" pacs="192450" total="257632"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="499832" pacs="302402" total="802234"/>
+    <sector sector_name="Labor" sectorid="P" indivs="3450" pacs="301000" total="304450"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="363481" pacs="452871" total="816352"/>
+    <sector sector_name="Other" sectorid="W" indivs="731418" pacs="28000" total="759418"/>
+  </sectors>
+</response>

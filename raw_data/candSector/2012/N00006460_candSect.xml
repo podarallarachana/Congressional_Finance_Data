@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="David Schweikert (R)" cid="N00006460" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00006460&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="2250" pacs="4000" total="6250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="14550" pacs="23000" total="37550"/>
+    <sector sector_name="Construction" sectorid="C" indivs="17062" pacs="15000" total="32062"/>
+    <sector sector_name="Defense" sectorid="D" indivs="7800" pacs="26000" total="33800"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="2250" pacs="53000" total="55250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="194105" pacs="373550" total="567655"/>
+    <sector sector_name="Health" sectorid="H" indivs="50562" pacs="98000" total="148562"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="59665" pacs="15250" total="74915"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="23500" pacs="12500" total="36000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="82400" pacs="71499" total="153899"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="52900" pacs="79864" total="132764"/>
+    <sector sector_name="Other" sectorid="W" indivs="156295" pacs="3000" total="159295"/>
+  </sectors>
+</response>

@@ -1,0 +1,25 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033495" net_low="4889038" net_high="26344997" positions_held_count="0" asset_count="35" asset_low="5539038" asset_high="26660000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033495" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="O'Day Farmbrook Inc" holdings_low="5000001" holdings_high="25000000" industry="Misc Business" sector="Misc Business" subsidiary_of=""/>
+      <asset name="Brooks, Koch &amp; Sorg" holdings_low="251002" holdings_high="515000" industry="Lawyers/Law Firms" sector="Lawyers &amp; Lobbyists" subsidiary_of=""/>
+      <asset name="TIAA CREF Lifecycle 2025 Fund-Retirement Class" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Harbor Fund Capital Appreciation Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="JP Morgan Tr I Intrepid Value Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Eaton Vance Mutual Fds Trust Global Macro Abslt Re" tx_date="Jun 18 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Eaton Vance Global Macro Absolute Return Fund" tx_date="Jun 18 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Artisan Mid Cap Value Fund" tx_date="Sep 24 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Artisan Funds Inc Mid Cap Value Fund" tx_date="Jun 17 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Artio Global Invt Fds Aberdeen Total Return Bd Fd" tx_date="Sep 24 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Distinguished Advisor" organization="Children's Museum of Indianapolis"/>
+      <position title="Distinguished Advisor" organization="Children's Museum of Indianapolis"/>
+      <position title="Distinguished Advisor" organization="Children's Museum of Indianapolis"/>
+      <position title="Board Member" organization="Indiana University School of Law"/>
+      <position title="Board Member" organization="Indiana University School of Law"/>
+    </positions>
+  </member_profile>
+</response>

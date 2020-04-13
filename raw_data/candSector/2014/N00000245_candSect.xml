@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John Kerry (D)" cid="N00000245" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00000245&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="4400" pacs="2500" total="6900"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="57725" pacs="96588" total="154313"/>
+    <sector sector_name="Construction" sectorid="C" indivs="23050" pacs="7500" total="30550"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2900" pacs="13300" total="16200"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="24725" pacs="11500" total="36225"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="170175" pacs="40110" total="210285"/>
+    <sector sector_name="Health" sectorid="H" indivs="126225" pacs="87300" total="213525"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="269952" pacs="36150" total="306102"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="9200" pacs="42000" total="51200"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="95700" pacs="17000" total="112700"/>
+    <sector sector_name="Labor" sectorid="P" indivs="-2400" pacs="21000" total="18600"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="3150" pacs="8378" total="11528"/>
+    <sector sector_name="Other" sectorid="W" indivs="64425" pacs="2500" total="66925"/>
+  </sectors>
+</response>

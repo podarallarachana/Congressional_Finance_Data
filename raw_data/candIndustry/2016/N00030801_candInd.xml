@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Frank Guinta (R)" cid="N00030801" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030801&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="223300" total="223300"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="40450" pacs="86500" total="126950"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="60575" pacs="48500" total="109075"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="51000" pacs="28000" total="79000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="72450" pacs="0" total="72450"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="1167" pacs="62230" total="63397"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="6750" pacs="35500" total="42250"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="24250" pacs="12000" total="36250"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="14250" pacs="20000" total="34250"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="31200" pacs="1998" total="33198"/>
+  </industries>
+</response>

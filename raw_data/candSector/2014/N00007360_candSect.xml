@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Nancy Pelosi (D)" cid="N00007360" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00007360&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="21500" total="21500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="103795" pacs="108100" total="211895"/>
+    <sector sector_name="Construction" sectorid="C" indivs="12050" pacs="14000" total="26050"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="45000" total="45000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="16500" total="16500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="158750" pacs="192200" total="350950"/>
+    <sector sector_name="Health" sectorid="H" indivs="31400" pacs="246500" total="277900"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="88250" pacs="39500" total="127750"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="35500" total="35500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="128650" pacs="49000" total="177650"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="289000" total="289250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="172765" pacs="57850" total="230615"/>
+    <sector sector_name="Other" sectorid="W" indivs="191771" pacs="9500" total="201271"/>
+  </sectors>
+</response>

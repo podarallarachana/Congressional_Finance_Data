@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Donnelly, Joe" data_year="2016" member_id="N00026586" net_low="-262988" net_high="1205998" positions_held_count="1" asset_count="10" asset_low="737012" asset_high="1706000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00026586" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Home - Michigan City, IN" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="TIAA-CREF Growth &amp; Income Retirement Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Institutional Target Retirement 2020 Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Notre Dame Federal Credit Union" holdings_low="4004" holdings_high="60000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Stewart Superior Corp" holdings_low="15001" holdings_high="50000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Officer" organization="Marking Solutions"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Shaheen, Jeanne" data_year="2016" member_id="N00024790" net_low="4591066" net_high="16734983" positions_held_count="0" asset_count="53" asset_low="9941066" asset_high="19340002" transaction_count="48" tx_low="546048" tx_high="1690000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00024790" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="140 Washington Street" holdings_low="2000002" holdings_high="2000002" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="10 Railroad Avenue" holdings_low="1000002" holdings_high="2000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="228 Route 108" holdings_low="1000002" holdings_high="2000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Kearsarge Project" holdings_low="500002" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="76 Perkins Road" holdings_low="500002" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="The Salon LLC" tx_date="Sep 13 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="River Mile LLC" tx_date="Jun 19 2010 12:00AM" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="AMG GW&amp;K Small Cap Core" tx_date="Dec 13 2013 12:00AM" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Mid Cap US Stock Royce Value" tx_date="Dec 13 2013 12:00AM" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Promissory Note owed to Kevin Macmillian" tx_date="Sep 13 2013 12:00AM" tx_action="Sold" value_low="15001" value_high="50000"/>
+    </transactions>
+  </member_profile>
+</response>

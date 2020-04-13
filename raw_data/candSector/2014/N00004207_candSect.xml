@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tom Harkin (D)" cid="N00004207" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00004207&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="30100" pacs="62067" total="92167"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="39600" pacs="9300" total="48900"/>
+    <sector sector_name="Construction" sectorid="C" indivs="11800" pacs="21500" total="33300"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5500" pacs="12500" total="18000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="7250" pacs="30500" total="37750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="112960" pacs="53500" total="166460"/>
+    <sector sector_name="Health" sectorid="H" indivs="186000" pacs="321384" total="507384"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="191484" pacs="56207" total="247691"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="5650" pacs="5200" total="10850"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="55450" pacs="50400" total="105850"/>
+    <sector sector_name="Labor" sectorid="P" indivs="200" pacs="60430" total="60630"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="24403" pacs="23145" total="47548"/>
+    <sector sector_name="Other" sectorid="W" indivs="172171" pacs="11000" total="183171"/>
+  </sectors>
+</response>

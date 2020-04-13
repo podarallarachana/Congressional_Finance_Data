@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Steve Chabot (R)" cid="N00003689" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00003689&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="38400" pacs="16185" total="54585"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="47500" pacs="0" total="47500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="28950" pacs="8100" total="37050"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="28500" pacs="8000" total="36500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="24200" pacs="12221" total="36421"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="26300" pacs="7000" total="33300"/>
+    <industry industry_code="N06" industry_name="Recreation/Live Entertainment" indivs="18800" pacs="11000" total="29800"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="9000" pacs="16500" total="25500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="8450" pacs="16000" total="24450"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="19200" pacs="4000" total="23200"/>
+  </industries>
+</response>

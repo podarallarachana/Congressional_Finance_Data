@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Ben Sasse (R)" cid="N00035544" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035544&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="195635" pacs="150500" total="346135"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="74010" pacs="78500" total="152510"/>
+    <sector sector_name="Construction" sectorid="C" indivs="105393" pacs="49500" total="154893"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5750" pacs="21000" total="26750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="205698" pacs="130000" total="335698"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="851526" pacs="410460" total="1261986"/>
+    <sector sector_name="Health" sectorid="H" indivs="283182" pacs="143266" total="426448"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="250850" pacs="57250" total="308100"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="74250" pacs="95000" total="169250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="448862" pacs="112600" total="561462"/>
+    <sector sector_name="Labor" sectorid="P" indivs="2000" pacs="1000" total="3000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="731217" pacs="343884" total="1075101"/>
+    <sector sector_name="Other" sectorid="W" indivs="481410" pacs="12750" total="494160"/>
+  </sectors>
+</response>

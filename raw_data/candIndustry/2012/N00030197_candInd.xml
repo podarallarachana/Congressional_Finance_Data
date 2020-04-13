@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Richard Hanna (R)" cid="N00030197" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030197&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="84566" pacs="19000" total="103566"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="42419" pacs="29753" total="72172"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="58000" total="58000"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="0" pacs="49999" total="49999"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="0" pacs="35500" total="35500"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="3250" pacs="27500" total="30750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="18133" pacs="9000" total="27133"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="26166" pacs="0" total="26166"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="19798" pacs="5500" total="25298"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="11550" pacs="13500" total="25050"/>
+  </industries>
+</response>

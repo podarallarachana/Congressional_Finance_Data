@@ -1,0 +1,23 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033631" net_low="364013" net_high="1410999" positions_held_count="2" asset_count="13" asset_low="614013" asset_high="1511000" transaction_count="8" tx_low="218008" tx_high="546000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033631" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Sound Investments LLC" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Edward Jones Employee Pension Account" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Undeveloped land" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Congressional Federal Credit Union" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Trimble Inc" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Oracle Corp" tx_date="Oct  9 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Western Digital Corp" tx_date="Oct  9 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Nordic American Tankers" tx_date="Oct  9 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Pembina Pipeline" tx_date="Oct  9 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Penn West Pete" tx_date="Oct  9 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Member" organization="Highlands Auction Co"/>
+      <position title="Partner" organization="Sapphire Lakes Development"/>
+      <position title="President" organization="Scotts Creek Holdings"/>
+    </positions>
+  </member_profile>
+</response>

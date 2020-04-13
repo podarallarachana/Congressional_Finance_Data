@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mark Pryor (D)" cid="N00013823" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00013823&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1225549" pacs="193542" total="1419091"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="13000" pacs="502349" total="515349"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="458918" pacs="23676" total="482594"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="318428" pacs="0" total="318428"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="249258" pacs="49500" total="298758"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="134150" pacs="160750" total="294900"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="243225" pacs="48600" total="291825"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="170812" pacs="105500" total="276312"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="140719" pacs="112500" total="253219"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="130233" pacs="104000" total="234233"/>
+  </industries>
+</response>

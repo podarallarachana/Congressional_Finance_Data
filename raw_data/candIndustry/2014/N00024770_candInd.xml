@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mike Michaud (D)" cid="N00024770" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00024770&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="0" pacs="20500" total="20500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="13000" total="13000"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="13000" total="13000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="0" pacs="10500" total="10500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="9500" total="9500"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="0" pacs="9500" total="9500"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="0" pacs="8000" total="8000"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="0" pacs="7500" total="7500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1500" pacs="5000" total="6500"/>
+    <industry industry_code="F05" industry_name="Credit Unions" indivs="500" pacs="5000" total="5500"/>
+  </industries>
+</response>

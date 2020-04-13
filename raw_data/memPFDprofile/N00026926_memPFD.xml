@@ -1,0 +1,10 @@
+<response>
+  <member_profile name="McNerney, Jerry" data_year="2016" member_id="N00026926" net_low="2004" net_high="780999" positions_held_count="0" asset_count="4" asset_low="502004" asset_high="1031000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00026926" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Family Home" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Bank of America checking &amp; savings" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Duke Midstream" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Valero Marketing" holdings_low="1" holdings_high="1000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

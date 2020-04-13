@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Johnson, Ron" data_year="2016" member_id="N00032546" net_low="10351014" net_high="44865000" positions_held_count="1" asset_count="13" asset_low="10351014" asset_high="44865000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00032546" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Ronald H &amp; Jane K Johnson LLC" holdings_low="5000001" holdings_high="25000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Charles Schwab &amp; Co Money Market" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Associated Bank NA Checking" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Pacur LLC" holdings_low="1000001" holdings_high="5000000" industry="Chemical &amp; Related Manufacturing" sector="Misc Business" subsidiary_of=""/>
+      <asset name="Associated Bank NA IRA Cash" holdings_low="550002" holdings_high="1100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Director" organization="Grammie Jean Foundation Inc"/>
+    </positions>
+  </member_profile>
+</response>

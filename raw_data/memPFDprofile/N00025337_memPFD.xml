@@ -1,0 +1,16 @@
+<response>
+  <member_profile name="Diaz-Balart, Mario" data_year="2016" member_id="N00025337" net_low="-689975" net_high="31998" positions_held_count="0" asset_count="14" asset_low="60025" asset_high="382000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00025337" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Florida Prepaid College Program" holdings_low="11011" holdings_high="165000" industry="" sector="" subsidiary_of=""/>
+      <asset name="CREF Growth R1 Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Capital One Savings Account" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Cash Reserves Fidelity Magellan" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="HP Inc" holdings_low="1002" holdings_high="16000" industry="Electronics Mfg &amp; Equip" sector="Communic/Electronics" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Vice President(unpaid)" organization="124 D Street Condominium Assn"/>
+      <position title="Boardmember(unpaid)" organization="Congressional Hispanic Leadership"/>
+      <position title="Boardmember(unpaid)" organization="National Assn of Latino Elected &amp; Appointed"/>
+    </positions>
+  </member_profile>
+</response>

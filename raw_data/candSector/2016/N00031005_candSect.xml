@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Vicky Hartzler (R)" cid="N00031005" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031005&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="42175" pacs="118700" total="160875"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="8000" pacs="14500" total="22500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="25350" pacs="13000" total="38350"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5000" pacs="82500" total="87500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="8400" pacs="29000" total="37400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="70050" pacs="36500" total="106550"/>
+    <sector sector_name="Health" sectorid="H" indivs="34960" pacs="22000" total="56960"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="28830" pacs="8750" total="37580"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="9350" pacs="17500" total="26850"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="61350" pacs="27000" total="88350"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="9999" pacs="52429" total="62428"/>
+    <sector sector_name="Other" sectorid="W" indivs="74994" pacs="0" total="74994"/>
+  </sectors>
+</response>

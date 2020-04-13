@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Nita M Lowey (D)" cid="N00001024" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001024&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="197319" pacs="0" total="197319"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="164700" pacs="14000" total="178700"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="159250" pacs="15500" total="174750"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="84400" pacs="23500" total="107900"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="65900" pacs="22925" total="88825"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="63500" total="63500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="22385" pacs="32000" total="54385"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="44850" pacs="0" total="44850"/>
+    <industry industry_code="W02" industry_name="Non-Profit Institutions" indivs="38900" pacs="4000" total="42900"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="34700" pacs="4550" total="39250"/>
+  </industries>
+</response>

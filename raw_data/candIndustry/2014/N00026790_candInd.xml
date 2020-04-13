@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Emanuel Cleaver (D)" cid="N00026790" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026790&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="53150" pacs="36500" total="89650"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="250" pacs="55000" total="55250"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="0" pacs="52000" total="52000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="49516" total="49516"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="49000" total="49000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="9350" pacs="39500" total="48850"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="1950" pacs="31500" total="33450"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="0" pacs="31500" total="31500"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="0" pacs="25500" total="25500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="25100" pacs="0" total="25100"/>
+  </industries>
+</response>

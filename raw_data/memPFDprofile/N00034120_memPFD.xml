@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00034120" net_low="-187981" net_high="1069997" positions_held_count="1" asset_count="19" asset_low="527019" asset_high="1430000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00034120" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Fidelity FDM Index 2035 IPR" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Residential Rental - Dillsburg, PA" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Residential Rental - Harrisburg, PA" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Pennsylvania State Employees CU" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Members First Credit Union" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Secretary / Treasurer" organization="Hydrotech Mechanical Services"/>
+    </positions>
+  </member_profile>
+</response>

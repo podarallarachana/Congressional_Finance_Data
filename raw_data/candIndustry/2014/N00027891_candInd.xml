@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Dan Maffei (D)" cid="N00027891" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027891&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="500" pacs="193300" total="193800"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="137400" pacs="40000" total="177400"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="102007" pacs="37500" total="139507"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="21251" pacs="103500" total="124751"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="108655" pacs="6700" total="115355"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="8350" pacs="91000" total="99350"/>
+    <industry industry_code="W04" industry_name="Education" indivs="90119" pacs="8500" total="98619"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="79250" total="79250"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="75500" total="75500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="70500" total="70500"/>
+  </industries>
+</response>

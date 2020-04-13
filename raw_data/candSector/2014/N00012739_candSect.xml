@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Ander Crenshaw (R)" cid="N00012739" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00012739&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="4750" pacs="33000" total="37750"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="12700" pacs="50000" total="62700"/>
+    <sector sector_name="Construction" sectorid="C" indivs="16500" pacs="31000" total="47500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="56900" pacs="152918" total="209818"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="14750" pacs="28500" total="43250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="60400" pacs="214500" total="274900"/>
+    <sector sector_name="Health" sectorid="H" indivs="13950" pacs="21250" total="35200"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="64600" pacs="34320" total="98920"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="45682" pacs="53500" total="99182"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="21500" pacs="81100" total="102600"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="3000" total="3000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1500" pacs="48000" total="49500"/>
+    <sector sector_name="Other" sectorid="W" indivs="57750" pacs="1000" total="58750"/>
+  </sectors>
+</response>

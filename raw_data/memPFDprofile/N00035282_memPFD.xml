@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00035282" net_low="-2088971" net_high="1266989" positions_held_count="0" asset_count="26" asset_low="1161029" asset_high="2792000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00035282" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="257.10 acre" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="JT Smith Farms 45943 Hwy 72" holdings_low="250001" holdings_high="500000" industry="Crop Production &amp; Basic Processing" sector="Agribusiness" subsidiary_of=""/>
+      <asset name="PSP Land Development LLC" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Notes Receivable" holdings_low="31003" holdings_high="115000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Rental Property 402 CR 4180" holdings_low="50001" holdings_high="100000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Sect Road Salem MO" tx_date="Apr 12 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+    </transactions>
+    <positions>
+      <position title="BOARD MEMBER" organization="MISSOURI COMMUNITY BETTERMENT Assn"/>
+      <position title="BOARD MEMBER" organization="SALEM FFA ALUMNI Assn"/>
+      <position title="Partner" organization="Smith &amp; Parker Enterprises"/>
+      <position title="PARTNER" organization="Smith &amp; Parker Enterprises"/>
+      <position title="Real Estate Agent" organization="SOUTH CENTRAL BOARD OF REALTORS"/>
+    </positions>
+  </member_profile>
+</response>

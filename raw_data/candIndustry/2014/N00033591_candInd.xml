@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Scott Peters (D)" cid="N00033591" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033591&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="4100" pacs="254363" total="258463"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="256965" pacs="0" total="256965"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="183325" pacs="43750" total="227075"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="144950" pacs="26500" total="171450"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="117341" total="117341"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="12950" pacs="100400" total="113350"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="78050" pacs="29500" total="107550"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="38700" pacs="67500" total="106200"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="38000" pacs="40400" total="78400"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="250" pacs="73250" total="73500"/>
+  </industries>
+</response>

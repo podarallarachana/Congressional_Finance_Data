@@ -1,0 +1,17 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00035774" net_low="3177118" net_high="11683991" positions_held_count="2" asset_count="46" asset_low="5127118" asset_high="12629000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00035774" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="RPM International Inc" holdings_low="1000002" holdings_high="2000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="RPM Inc" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Rental Property" holdings_low="500002" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="American Funds Tax-Exempt Bond Fund" holdings_low="200002" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Glenmede Fund Tax Exempt Portfo" holdings_low="200002" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Commissioner" organization="Alaska Dept of Natural Resources"/>
+      <position title="(Commissioner)" organization="Alaska Dept of Natural Resources"/>
+      <position title="Advisory Member" organization="Thomas C &amp; Sandra S Sullivan Foundation"/>
+      <position title="(Advisory Member)" organization="Thomas C &amp; Sandra S Sullivan Foundation"/>
+    </positions>
+  </member_profile>
+</response>

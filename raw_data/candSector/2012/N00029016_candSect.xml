@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Al Franken (D)" cid="N00029016" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029016&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="99306" pacs="19500" total="118806"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1700141" pacs="38750" total="1738891"/>
+    <sector sector_name="Construction" sectorid="C" indivs="145854" pacs="0" total="145854"/>
+    <sector sector_name="Defense" sectorid="D" indivs="23062" pacs="0" total="23062"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="67313" pacs="36500" total="103813"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1459263" pacs="11510" total="1470773"/>
+    <sector sector_name="Health" sectorid="H" indivs="513592" pacs="53649" total="567241"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1611127" pacs="33146" total="1644273"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="48675" pacs="1750" total="50425"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="1105624" pacs="24500" total="1130124"/>
+    <sector sector_name="Labor" sectorid="P" indivs="9350" pacs="385600" total="394950"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="792346" pacs="424232" total="1216578"/>
+    <sector sector_name="Other" sectorid="W" indivs="1961373" pacs="0" total="1961373"/>
+  </sectors>
+</response>

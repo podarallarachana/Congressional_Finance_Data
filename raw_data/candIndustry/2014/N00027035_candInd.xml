@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="G K Butterfield (D)" cid="N00027035" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027035&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="2950" pacs="79500" total="82450"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="6966" pacs="60000" total="66966"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="5500" pacs="44000" total="49500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="12900" pacs="25536" total="38436"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="3000" pacs="29250" total="32250"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="250" pacs="30000" total="30250"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="25000" total="25000"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="1000" pacs="23500" total="24500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="5916" pacs="18000" total="23916"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="750" pacs="22004" total="22754"/>
+  </industries>
+</response>

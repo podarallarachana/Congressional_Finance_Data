@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jimmy Panetta (D)" cid="N00038601" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00038601&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="182734" pacs="0" total="182734"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="76074" pacs="11000" total="87074"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="59050" pacs="25924" total="84974"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="60098" pacs="10000" total="70098"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="42620" pacs="0" total="42620"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="38500" total="38500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="37500" total="37500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="25250" pacs="4000" total="29250"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="28417" total="28417"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="15350" pacs="12000" total="27350"/>
+  </industries>
+</response>

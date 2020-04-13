@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Phil Roe (R)" cid="N00028463" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00028463&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="6950" pacs="250" total="7200"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1500" pacs="2000" total="3500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="35100" pacs="0" total="35100"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="4800" pacs="0" total="4800"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="34500" pacs="4500" total="39000"/>
+    <sector sector_name="Health" sectorid="H" indivs="73595" pacs="3500" total="77095"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="4300" pacs="0" total="4300"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2000" pacs="0" total="2000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="46835" pacs="1000" total="47835"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="4250" total="4250"/>
+    <sector sector_name="Other" sectorid="W" indivs="31050" pacs="0" total="31050"/>
+  </sectors>
+</response>

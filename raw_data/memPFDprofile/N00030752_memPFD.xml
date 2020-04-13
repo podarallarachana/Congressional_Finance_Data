@@ -1,0 +1,16 @@
+<response>
+  <member_profile name="Duncan, Jeff" data_year="2016" member_id="N00030752" net_low="43015" net_high="1714995" positions_held_count="0" asset_count="15" asset_low="893015" asset_high="2045000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030752" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="5 acres Commercial Property, Fleming street" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="25050 Us Hwy 76" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="305 W main" holdings_low="100001" holdings_high="250000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Palmetto Auction Services" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="James C Todd III DMD" holdings_low="50001" holdings_high="100000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="President" organization="Future Group"/>
+      <position title="Treasurer" organization="Three Tigers Capital Corp"/>
+      <position title="Secretary" organization="Three Tigers Capital Corp"/>
+    </positions>
+  </member_profile>
+</response>

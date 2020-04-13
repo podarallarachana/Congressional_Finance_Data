@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Pascrell, Bill Jr" data_year="2016" member_id="N00000751" net_low="2691040" net_high="8994000" positions_held_count="0" asset_count="33" asset_low="2691040" asset_high="8994000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00000751" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Jackson National Life Insurance" holdings_low="1000001" holdings_high="5000000" industry="Insurance" sector="Finance/Insur/RealEst" subsidiary_of="Prudential PLC"/>
+      <asset name="State Of New Jersey Pers" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Shore Pirates LLC" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Morgan Stanley" holdings_low="250001" holdings_high="500000" industry="Securities &amp; Investment" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Valic" holdings_low="150002" holdings_high="350000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Wells Fargo Cash" tx_date="Bi-weekly" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

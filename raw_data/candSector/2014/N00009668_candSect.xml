@@ -1,0 +1,15 @@
+<response>
+  <sectors cand_name="Mike Rogers (R)" cid="N00009668" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009668&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="6200" pacs="-3000" total="3200"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="8700" pacs="-500" total="8200"/>
+    <sector sector_name="Construction" sectorid="C" indivs="3350" pacs="0" total="3350"/>
+    <sector sector_name="Defense" sectorid="D" indivs="8200" pacs="-1000" total="7200"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="2800" pacs="0" total="2800"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="23200" pacs="-7500" total="15700"/>
+    <sector sector_name="Health" sectorid="H" indivs="31550" pacs="0" total="31550"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="30000" pacs="0" total="30000"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="4100" pacs="0" total="4100"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="14650" pacs="-1000" total="13650"/>
+    <sector sector_name="Other" sectorid="W" indivs="15500" pacs="0" total="15500"/>
+  </sectors>
+</response>

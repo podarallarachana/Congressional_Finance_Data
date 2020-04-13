@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="Burr, Richard" data_year="2016" member_id="N00002221" net_low="3269284" net_high="4797278" positions_held_count="0" asset_count="9" asset_low="3269284" asset_high="4797278" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00002221" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="LRB Partners Real Estate" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="New Jersey Avensue SE" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Brooke F Burr IRA" holdings_low="947022" holdings_high="947022" industry="" sector="" subsidiary_of=""/>
+      <asset name="Richard M Burr &amp; Brooke F Burr Joint" holdings_low="514328" holdings_high="514328" industry="" sector="" subsidiary_of=""/>
+      <asset name="Wells Fargo/Checking &amp; Savings" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Richard M Burr &amp; Brook F Burr JTTEN" tx_date="Sep 25 2013" tx_action="Exchanged" value_low="35688" value_high="35688"/>
+      <transaction asset_name="American Funds Tax Exempt Bond Fund" tx_date="2013-09-25 00:00:00.000" tx_action="Sold" value_low="35688" value_high="35688"/>
+      <transaction asset_name="Richard M Burr &amp; Brook F Burr JTTEN" tx_date="Sep 25 2013" tx_action="Exchanged" value_low="35207" value_high="35207"/>
+      <transaction asset_name="Thornburg Limited Term Municipal Fund" tx_date="2013-09-25 00:00:00.000" tx_action="Sold" value_low="35207" value_high="35207"/>
+      <transaction asset_name="Richard M Burr &amp; Brook F Burr JTTEN" tx_date="Sep 18 2013" tx_action="Exchanged" value_low="31109" value_high="31109"/>
+    </transactions>
+    <positions>
+      <position title="Board Member" organization="Brenners Children's Hospital"/>
+    </positions>
+  </member_profile>
+</response>

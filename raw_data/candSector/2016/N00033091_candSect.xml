@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Patrick Murphy (D)" cid="N00033091" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033091&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="88389" pacs="14000" total="102389"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="400407" pacs="15700" total="416107"/>
+    <sector sector_name="Construction" sectorid="C" indivs="494033" pacs="26700" total="520733"/>
+    <sector sector_name="Defense" sectorid="D" indivs="16897" pacs="27000" total="43897"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="61902" pacs="37500" total="99402"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="2047202" pacs="495700" total="2542902"/>
+    <sector sector_name="Health" sectorid="H" indivs="476401" pacs="200350" total="676751"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1718514" pacs="52150" total="1770664"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="115848" pacs="24000" total="139848"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="898663" pacs="69000" total="967663"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1604" pacs="311000" total="312604"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1228461" pacs="683546" total="1912007"/>
+    <sector sector_name="Other" sectorid="W" indivs="1633433" pacs="13000" total="1646433"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Paul Broun Jr (R)" cid="N00028986" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00028986&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="49430" pacs="91000" total="140430"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="114363" pacs="0" total="114363"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="63437" pacs="10000" total="73437"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="26012" pacs="7000" total="33012"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="12250" pacs="20000" total="32250"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="31000" total="31000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="6734" pacs="18000" total="24734"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="14649" pacs="8500" total="23149"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="12450" pacs="9500" total="21950"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="11501" pacs="9000" total="20501"/>
+  </industries>
+</response>

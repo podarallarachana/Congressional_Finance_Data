@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Joe Courtney (D)" cid="N00024842" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00024842&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="71837" pacs="13000" total="84837"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="13151" pacs="71250" total="84401"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="64000" total="64000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="63500" total="63500"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="500" pacs="61500" total="62000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="2350" pacs="53000" total="55350"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="20400" pacs="32500" total="52900"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="48950" pacs="0" total="48950"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="48000" total="48000"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="7250" pacs="30500" total="37750"/>
+  </industries>
+</response>

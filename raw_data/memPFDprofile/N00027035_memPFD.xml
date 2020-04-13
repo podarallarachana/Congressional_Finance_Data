@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Butterfield, G K" data_year="2016" member_id="N00027035" net_low="-77974" net_high="2189992" positions_held_count="0" asset_count="26" asset_low="1122026" asset_high="2705000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00027035" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="DC Home" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Wilson Home" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="1001 Vance Street" holdings_low="100001" holdings_high="250000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="603 Nash Street" holdings_low="100001" holdings_high="250000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Note Receivable - 211 Pender St" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Principal" organization="Millco on Wilson LLC"/>
+    </positions>
+  </member_profile>
+</response>

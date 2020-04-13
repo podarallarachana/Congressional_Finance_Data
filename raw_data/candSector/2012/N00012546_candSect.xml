@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Luke Messer (R)" cid="N00012546" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00012546&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="15050" pacs="23500" total="38550"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="32500" pacs="15000" total="47500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="48800" pacs="17500" total="66300"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1000" pacs="0" total="1000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="15250" pacs="34100" total="49350"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="94585" pacs="43750" total="138335"/>
+    <sector sector_name="Health" sectorid="H" indivs="33137" pacs="53500" total="86637"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="71365" pacs="6500" total="77865"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="3750" pacs="19000" total="22750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="110545" pacs="33000" total="143545"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="12000" pacs="74729" total="86729"/>
+    <sector sector_name="Other" sectorid="W" indivs="81436" pacs="1000" total="82436"/>
+  </sectors>
+</response>

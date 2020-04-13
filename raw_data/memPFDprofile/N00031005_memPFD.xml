@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Hartzler, Vicky" data_year="2016" member_id="N00031005" net_low="2982029" net_high="15055994" positions_held_count="0" asset_count="27" asset_low="4832029" asset_high="15906000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031005" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Hartzler Farms" holdings_low="1000001" holdings_high="5000000" industry="Crop Production &amp; Basic Processing" sector="Agribusiness" subsidiary_of=""/>
+      <asset name="Heartland Tractor" holdings_low="1000001" holdings_high="5000000" industry="Agricultural Services/Products" sector="Agribusiness" subsidiary_of=""/>
+      <asset name="South Hartzler Road" holdings_low="750002" holdings_high="1500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="South East Outer Road" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="East 283rd Street" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Heartland Aviation Purchase of Airplane" tx_date="Feb  5 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

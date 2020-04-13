@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Dennis Ross (R)" cid="N00030645" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030645&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="28600" pacs="61360" total="89960"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="5450" pacs="30500" total="35950"/>
+    <sector sector_name="Construction" sectorid="C" indivs="7124" pacs="32000" total="39124"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="11000" total="11000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1250" pacs="56500" total="57750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="105158" pacs="519500" total="624658"/>
+    <sector sector_name="Health" sectorid="H" indivs="7420" pacs="59000" total="66420"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="41166" pacs="16500" total="57666"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="250" pacs="25500" total="25750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="15150" pacs="88500" total="103650"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="3750" pacs="42315" total="46065"/>
+    <sector sector_name="Other" sectorid="W" indivs="24724" pacs="0" total="24724"/>
+  </sectors>
+</response>

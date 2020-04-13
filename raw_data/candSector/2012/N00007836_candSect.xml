@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Maria Cantwell (D)" cid="N00007836" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00007836&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="83633" pacs="9000" total="92633"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="467246" pacs="9512" total="476758"/>
+    <sector sector_name="Construction" sectorid="C" indivs="96973" pacs="3000" total="99973"/>
+    <sector sector_name="Defense" sectorid="D" indivs="39475" pacs="1500" total="40975"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="337189" pacs="13000" total="350189"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="869054" pacs="13000" total="882054"/>
+    <sector sector_name="Health" sectorid="H" indivs="465710" pacs="28500" total="494210"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1350634" pacs="8250" total="1358884"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="177740" pacs="25000" total="202740"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="785784" pacs="8500" total="794284"/>
+    <sector sector_name="Labor" sectorid="P" indivs="6650" pacs="21200" total="27850"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="410108" pacs="65937" total="476045"/>
+    <sector sector_name="Other" sectorid="W" indivs="1042339" pacs="0" total="1042339"/>
+  </sectors>
+</response>

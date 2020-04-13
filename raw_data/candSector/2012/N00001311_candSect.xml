@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Louise M Slaughter (D)" cid="N00001311" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001311&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="6000" pacs="20450" total="26450"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="19450" pacs="28000" total="47450"/>
+    <sector sector_name="Construction" sectorid="C" indivs="19475" pacs="2000" total="21475"/>
+    <sector sector_name="Defense" sectorid="D" indivs="3000" pacs="54000" total="57000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="12750" total="12750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="63536" pacs="54500" total="118036"/>
+    <sector sector_name="Health" sectorid="H" indivs="22150" pacs="64600" total="86750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="57686" pacs="25500" total="83186"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2750" pacs="13500" total="16250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="58312" pacs="78490" total="136802"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1000" pacs="304000" total="305000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="121596" pacs="355050" total="476646"/>
+    <sector sector_name="Other" sectorid="W" indivs="133486" pacs="16500" total="149986"/>
+  </sectors>
+</response>

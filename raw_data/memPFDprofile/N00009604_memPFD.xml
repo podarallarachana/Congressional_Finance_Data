@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Davis, Susan" data_year="2016" member_id="N00009604" net_low="677045" net_high="3504998" positions_held_count="0" asset_count="37" asset_low="1677045" asset_high="4005000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00009604" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="4113-15 Arbor Vitae/San Diego, CA" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Emerson Equity Money Market" holdings_low="151003" holdings_high="365000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Contrafund Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Pimco Low Duration Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="T Rowe Price Health Sciences" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="iShares Trust Core Total US Bond Market ETF" tx_date="Aug  7 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Lord Abbett Floating Rate Fund" tx_date="Nov 12 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Apple Inc" tx_date="Jan 15 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="American Water Works" tx_date="Aug  7 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="American Century Inflation-Adjusted" tx_date="Mar  8 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

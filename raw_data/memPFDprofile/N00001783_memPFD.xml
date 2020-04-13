@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="Dingell, John D" data_year="2016" member_id="N00001783" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00001783" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Apple Inc" tx_date="Oct  1 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Comcast Corp" tx_date="Jan 16 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="CVS Caremark" tx_date="Jan 16 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="CVS Caremark" tx_date="Mar 21 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Eaton Vance Tax-Managed Global Diversified Equity" tx_date="May 16 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+    <positions>
+      <position title="Member, Board of Trustees" organization="Nature Conservancy of Michigan"/>
+      <position title="Member, Board of Directors" organization="River Raisin National Battlefield Park Foundation"/>
+    </positions>
+  </member_profile>
+</response>

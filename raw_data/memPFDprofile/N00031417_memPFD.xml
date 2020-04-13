@@ -1,0 +1,22 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00031417" net_low="17017" net_high="255000" positions_held_count="0" asset_count="11" asset_low="17017" asset_high="255000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031417" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Thornburg Income Builder Fund" holdings_low="2002" holdings_high="30000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Royce Dividend Value" holdings_low="2002" holdings_high="30000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Ivy Asset Strategy Fund" holdings_low="2002" holdings_high="30000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Oppenheimer Developing Markets Fund" holdings_low="2002" holdings_high="30000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Century Heritage Fund" holdings_low="2002" holdings_high="30000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Crumpton Group" tx_date="" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Crumpton Group" tx_date="" tx_action="Sold" value_low="50001" value_high="100000"/>
+    </transactions>
+    <positions>
+      <position title="Partner" organization="Crumpton Global"/>
+      <position title="Partner" organization="Crumpton Group"/>
+      <position title="Consultant" organization="Fusion X"/>
+      <position title="Director" organization="Granite Dome"/>
+      <position title="Director" organization="Praydeal"/>
+    </positions>
+  </member_profile>
+</response>

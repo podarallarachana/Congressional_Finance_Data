@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jim Renacci (R)" cid="N00031127" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031127&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="23600" pacs="141750" total="165350"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="49050" pacs="80000" total="129050"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="33800" pacs="72500" total="106300"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="33750" pacs="51000" total="84750"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="6950" pacs="67000" total="73950"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="4370" pacs="67500" total="71870"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="15150" pacs="45500" total="60650"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="39146" pacs="20450" total="59596"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="4993" pacs="48250" total="53243"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="8350" pacs="44000" total="52350"/>
+  </industries>
+</response>

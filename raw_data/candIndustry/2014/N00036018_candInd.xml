@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Don Beyer (D)" cid="N00036018" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00036018&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="184353" pacs="25500" total="209853"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="196805" pacs="0" total="196805"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="143450" pacs="22000" total="165450"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="84000" pacs="30000" total="114000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="58710" pacs="5000" total="63710"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="59191" pacs="984" total="60175"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="54000" total="54000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="500" pacs="51000" total="51500"/>
+    <industry industry_code="W02" industry_name="Non-Profit Institutions" indivs="48350" pacs="1250" total="49600"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="44450" pacs="4000" total="48450"/>
+  </industries>
+</response>

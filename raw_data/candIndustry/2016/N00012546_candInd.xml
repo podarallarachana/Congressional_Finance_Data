@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Luke Messer (R)" cid="N00012546" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00012546&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="36850" pacs="176400" total="213250"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="13800" pacs="115500" total="129300"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="34595" pacs="78000" total="112595"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="17100" pacs="74200" total="91300"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="66855" pacs="0" total="66855"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="38900" pacs="26500" total="65400"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="41185" pacs="22750" total="63935"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="52500" pacs="2500" total="55000"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="10000" pacs="44150" total="54150"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="2750" pacs="48500" total="51250"/>
+  </industries>
+</response>

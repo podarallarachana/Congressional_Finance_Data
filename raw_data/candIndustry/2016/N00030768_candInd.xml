@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Martha Roby (R)" cid="N00030768" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030768&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="52784" pacs="19000" total="71784"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="66717" total="66717"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="22317" pacs="39500" total="61817"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="6450" pacs="49000" total="55450"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="11891" pacs="42500" total="54391"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="50550" pacs="0" total="50550"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="47500" total="47500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="11050" pacs="34300" total="45350"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="500" pacs="38500" total="39000"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="3200" pacs="32000" total="35200"/>
+  </industries>
+</response>

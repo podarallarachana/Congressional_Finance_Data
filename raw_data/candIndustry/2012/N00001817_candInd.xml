@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="C W Bill Young (R)" cid="N00001817" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001817&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="71000" pacs="50500" total="121500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="78890" pacs="10000" total="88890"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="10060" pacs="76500" total="86560"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="77750" pacs="5452" total="83202"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="15500" pacs="41000" total="56500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="29150" pacs="9000" total="38150"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="2500" pacs="32500" total="35000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="32250" pacs="0" total="32250"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="6200" pacs="23949" total="30149"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="27000" total="27000"/>
+  </industries>
+</response>

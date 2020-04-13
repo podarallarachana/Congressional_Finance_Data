@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Vicente Gonzalez (D)" cid="N00038809" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00038809&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="10150" pacs="26500" total="36650"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1000" pacs="8500" total="9500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="18250" pacs="7500" total="25750"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="2700" pacs="3500" total="6200"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="21250" pacs="25500" total="46750"/>
+    <sector sector_name="Health" sectorid="H" indivs="7500" pacs="16000" total="23500"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="66700" pacs="5000" total="71700"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="13500" total="13500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="23050" pacs="11000" total="34050"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="78500" total="78500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="15650" pacs="89774" total="105424"/>
+    <sector sector_name="Other" sectorid="W" indivs="9250" pacs="0" total="9250"/>
+  </sectors>
+</response>

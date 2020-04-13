@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Katherine Clark (D)" cid="N00035278" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035278&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="6950" pacs="15500" total="22450"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="31463" pacs="24240" total="55703"/>
+    <sector sector_name="Construction" sectorid="C" indivs="10160" pacs="9000" total="19160"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2500" pacs="24000" total="26500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3303" pacs="12500" total="15803"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="118292" pacs="65500" total="183792"/>
+    <sector sector_name="Health" sectorid="H" indivs="42228" pacs="123750" total="165978"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="101285" pacs="21500" total="122785"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="5100" pacs="4500" total="9600"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="28516" pacs="30156" total="58672"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="193250" total="193250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="82887" pacs="30030" total="112917"/>
+    <sector sector_name="Other" sectorid="W" indivs="121836" pacs="0" total="121836"/>
+  </sectors>
+</response>

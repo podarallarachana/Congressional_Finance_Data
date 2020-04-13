@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Trent Kelly (R)" cid="N00037003" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00037003&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="29500" pacs="72300" total="101800"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2550" pacs="13300" total="15850"/>
+    <sector sector_name="Construction" sectorid="C" indivs="37000" pacs="25500" total="62500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2500" pacs="21000" total="23500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="12700" pacs="53900" total="66600"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="59410" pacs="72700" total="132110"/>
+    <sector sector_name="Health" sectorid="H" indivs="33300" pacs="14000" total="47300"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="97400" pacs="12114" total="109514"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="21900" pacs="38000" total="59900"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="32450" pacs="24750" total="57200"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="5500" pacs="112550" total="118050"/>
+    <sector sector_name="Other" sectorid="W" indivs="57520" pacs="500" total="58020"/>
+  </sectors>
+</response>

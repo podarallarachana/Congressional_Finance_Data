@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jim McDermott (D)" cid="N00009829" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009829&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="6200" pacs="40000" total="46200"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="26945" pacs="0" total="26945"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="15000" total="15000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="6300" pacs="8000" total="14300"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="250" pacs="9500" total="9750"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="0" pacs="9500" total="9500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="2250" pacs="7000" total="9250"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="1500" pacs="7500" total="9000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="9000" total="9000"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="500" pacs="8000" total="8500"/>
+  </industries>
+</response>

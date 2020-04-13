@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Joyce Beatty (D)" cid="N00033904" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033904&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="2500" pacs="500" total="3000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="4409" pacs="7000" total="11409"/>
+    <sector sector_name="Construction" sectorid="C" indivs="32700" pacs="3750" total="36450"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2250" pacs="0" total="2250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="10500" pacs="19500" total="30000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="36150" pacs="93000" total="129150"/>
+    <sector sector_name="Health" sectorid="H" indivs="17875" pacs="42000" total="59875"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="28750" pacs="22750" total="51500"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1750" pacs="19000" total="20750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="21322" pacs="50750" total="72072"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1000" pacs="95500" total="96500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="8050" pacs="62458" total="70508"/>
+    <sector sector_name="Other" sectorid="W" indivs="59000" pacs="1000" total="60000"/>
+  </sectors>
+</response>

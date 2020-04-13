@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Chris Collins (R)" cid="N00001285" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001285&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="42487" pacs="11500" total="53987"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="13000" pacs="30500" total="43500"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="24000" pacs="16999" total="40999"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="31200" pacs="7000" total="38200"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="31500" total="31500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="22750" pacs="5500" total="28250"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="12050" pacs="15500" total="27550"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="0" pacs="27500" total="27500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="27050" pacs="0" total="27050"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="18950" pacs="7000" total="25950"/>
+  </industries>
+</response>

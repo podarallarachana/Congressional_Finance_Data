@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Adam Smith (D)" cid="N00007833" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00007833&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="3700" pacs="16000" total="19700"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="40000" pacs="60250" total="100250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1000" pacs="24500" total="25500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="32800" pacs="175000" total="207800"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="4450" pacs="14000" total="18450"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="38350" pacs="82000" total="120350"/>
+    <sector sector_name="Health" sectorid="H" indivs="18100" pacs="66000" total="84100"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="110460" pacs="24200" total="134660"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="7600" pacs="53500" total="61100"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="29951" pacs="45500" total="75451"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="121500" total="121500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="23500" pacs="34250" total="57750"/>
+    <sector sector_name="Other" sectorid="W" indivs="18900" pacs="0" total="18900"/>
+  </sectors>
+</response>

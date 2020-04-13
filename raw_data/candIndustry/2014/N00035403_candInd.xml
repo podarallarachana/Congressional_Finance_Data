@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Carlos Curbelo (R)" cid="N00035403" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035403&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="229200" total="229200"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="149380" pacs="0" total="149380"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="123850" pacs="5000" total="128850"/>
+    <industry industry_code="Q04" industry_name="Foreign &amp; Defense Policy" indivs="122600" pacs="5000" total="127600"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="103805" pacs="11500" total="115305"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="98295" pacs="2000" total="100295"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="83541" pacs="10500" total="94041"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="65150" pacs="16250" total="81400"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="65128" pacs="0" total="65128"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="61750" total="61750"/>
+  </industries>
+</response>

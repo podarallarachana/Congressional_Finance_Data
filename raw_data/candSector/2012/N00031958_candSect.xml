@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Steven Palazzo (R)" cid="N00031958" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031958&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="15300" pacs="23500" total="38800"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="5250" pacs="12250" total="17500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="67850" pacs="14750" total="82600"/>
+    <sector sector_name="Defense" sectorid="D" indivs="10000" pacs="96500" total="106500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="14750" pacs="43000" total="57750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="69750" pacs="73499" total="143249"/>
+    <sector sector_name="Health" sectorid="H" indivs="46184" pacs="12500" total="58684"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="31200" pacs="13750" total="44950"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="9750" pacs="26000" total="35750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="26800" pacs="29699" total="56499"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="42100" total="42100"/>
+    <sector sector_name="Other" sectorid="W" indivs="34850" pacs="1000" total="35850"/>
+  </sectors>
+</response>

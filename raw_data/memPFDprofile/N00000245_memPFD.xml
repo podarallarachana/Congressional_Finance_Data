@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="Kerry, John" data_year="2016" member_id="N00000245" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00000245" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Dreyfus Treasury Prime Cash Management (3)" tx_date="Various" tx_action="Purchased/Exchanged" value_low="1000001" value_high="1000001"/>
+      <transaction asset_name="Mellon Bank BNY Mellon Intermediate Muni Fund" tx_date="Jan 18 2013" tx_action="Purchased" value_low="1000001" value_high="1000001"/>
+      <transaction asset_name="BNY Mellon Intermediate Muni Fund" tx_date="Nov 25 2013" tx_action="Exchanged" value_low="1000001" value_high="1000001"/>
+      <transaction asset_name="HJ Heinz III Marital Trust iShares Russ" tx_date="Feb  7 2013" tx_action="Exchanged" value_low="1000001" value_high="1000001"/>
+      <transaction asset_name="iShares Russell 1000 Index" tx_date="Jun 14 2013" tx_action="Purchased" value_low="1000001" value_high="1000001"/>
+    </transactions>
+    <positions>
+      <position title="Board Member" organization="American Security Project"/>
+      <position title="Senior Advisory Board Committee Member" organization="Harvard University John F Kennedy School of Govt"/>
+    </positions>
+  </member_profile>
+</response>

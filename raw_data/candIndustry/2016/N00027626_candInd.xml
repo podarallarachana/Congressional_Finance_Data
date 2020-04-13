@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Vernon Buchanan (R)" cid="N00027626" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027626&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="51500" pacs="74500" total="126000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="56715" pacs="54500" total="111215"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="110425" pacs="0" total="110425"/>
+    <industry industry_code="Q10" industry_name="Misc Issues" indivs="86000" pacs="8000" total="94000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="65550" pacs="27675" total="93225"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="7400" pacs="62000" total="69400"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="29400" pacs="31000" total="60400"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="0" pacs="43000" total="43000"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="23100" pacs="18500" total="41600"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="22800" pacs="16500" total="39300"/>
+  </industries>
+</response>

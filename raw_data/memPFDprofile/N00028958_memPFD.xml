@@ -1,0 +1,17 @@
+<response>
+  <member_profile name="Chaffetz, Jason" data_year="2016" member_id="N00028958" net_low="55014" net_high="1049999" positions_held_count="1" asset_count="11" asset_low="555014" asset_high="1300000" transaction_count="7" tx_low="7" tx_high="7000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00028958" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Personal Residence" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="529 Plan The Investment Co of America Fund" holdings_low="30002" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Mountain America Credit Union Saving Money Market" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Mountain America Credit Union" holdings_low="2002" holdings_high="30000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Utah State Retirement Systems Large Cap Growth Fun" holdings_low="2002" holdings_high="30000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Investment Property" tx_date="Sep 23 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Four Raw Hides LC" tx_date="Jan  1 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Marriott Vacation Club" tx_date="Dec 23 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Wells Fargo Advantage FDS Cap Appreciation Fund" tx_date="Aug 13 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

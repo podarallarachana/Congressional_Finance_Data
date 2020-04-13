@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tim Johnson (D)" cid="N00010084" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00010084&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="55048" pacs="111500" total="166548"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="75766" pacs="96000" total="171766"/>
+    <sector sector_name="Construction" sectorid="C" indivs="32371" pacs="21250" total="53621"/>
+    <sector sector_name="Defense" sectorid="D" indivs="3750" pacs="56300" total="60050"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="72947" pacs="223069" total="296016"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="762722" pacs="1111702" total="1874424"/>
+    <sector sector_name="Health" sectorid="H" indivs="116490" pacs="205650" total="322140"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="482652" pacs="107839" total="590491"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="30950" pacs="48000" total="78950"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="219550" pacs="100250" total="319800"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1950" pacs="344750" total="346700"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="161277" pacs="371039" total="532316"/>
+    <sector sector_name="Other" sectorid="W" indivs="193025" pacs="3500" total="196525"/>
+  </sectors>
+</response>

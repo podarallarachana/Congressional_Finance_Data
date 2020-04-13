@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Joe Garcia (D)" cid="N00029908" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029908&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="55150" pacs="21979" total="77129"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="100573" pacs="84500" total="185073"/>
+    <sector sector_name="Construction" sectorid="C" indivs="116144" pacs="2000" total="118144"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="6500" total="7000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="9000" pacs="23250" total="32250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="402072" pacs="67500" total="469572"/>
+    <sector sector_name="Health" sectorid="H" indivs="124750" pacs="82600" total="207350"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="438558" pacs="44345" total="482903"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="35600" pacs="27500" total="63100"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="276706" pacs="48405" total="325111"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="215000" total="215000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="133738" pacs="377965" total="511703"/>
+    <sector sector_name="Other" sectorid="W" indivs="317085" pacs="2000" total="319085"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Orrin G Hatch (R)" cid="N00009869" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009869&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="1023375" pacs="215571" total="1238946"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="282060" pacs="582941" total="865001"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="142514" pacs="373674" total="516188"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="492657" pacs="14154" total="506811"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="262975" pacs="222131" total="485106"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="95465" pacs="359700" total="455165"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="325792" pacs="105900" total="431692"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="175650" pacs="236000" total="411650"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="161382" pacs="238500" total="399882"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="397378" total="397378"/>
+  </industries>
+</response>

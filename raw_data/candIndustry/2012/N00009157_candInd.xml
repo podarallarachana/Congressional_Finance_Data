@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Doc Hastings (R)" cid="N00009157" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009157&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="65050" pacs="112499" total="177549"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="69128" pacs="48000" total="117128"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="52720" pacs="30500" total="83220"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="58499" pacs="0" total="58499"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="55950" pacs="0" total="55950"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="18499" pacs="26620" total="45119"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="44000" pacs="1000" total="45000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="11978" pacs="28000" total="39978"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="5300" pacs="33261" total="38561"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="27475" pacs="7500" total="34975"/>
+  </industries>
+</response>

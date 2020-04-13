@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jon Runyan (R)" cid="N00031988" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031988&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="2500" pacs="17500" total="20000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="700" pacs="6000" total="6700"/>
+    <sector sector_name="Construction" sectorid="C" indivs="7150" pacs="6000" total="13150"/>
+    <sector sector_name="Defense" sectorid="D" indivs="4900" pacs="45500" total="50400"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="2500" pacs="16177" total="18677"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="27350" pacs="20000" total="47350"/>
+    <sector sector_name="Health" sectorid="H" indivs="7250" pacs="37000" total="44250"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="14350" pacs="2500" total="16850"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2800" pacs="7050" total="9850"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="6350" pacs="16500" total="22850"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="42400" total="42400"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="10500" pacs="23184" total="33684"/>
+    <sector sector_name="Other" sectorid="W" indivs="9900" pacs="500" total="10400"/>
+  </sectors>
+</response>

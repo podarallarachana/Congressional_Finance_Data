@@ -1,0 +1,7 @@
+<response>
+  <industries cand_name="Chris Gibson (R)" cid="N00031998" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031998&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="5000" total="5000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="0" pacs="2500" total="2500"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="2000" total="2000"/>
+  </industries>
+</response>

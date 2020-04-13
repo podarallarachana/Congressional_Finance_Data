@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jody Hice (R)" cid="N00032243" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00032243&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="138521" pacs="0" total="138521"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="36710" pacs="2000" total="38710"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="6475" pacs="26500" total="32975"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="30000" total="30000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="27550" pacs="0" total="27550"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="17450" pacs="10000" total="27450"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="21700" pacs="2500" total="24200"/>
+    <industry industry_code="Q13" industry_name="Gun Rights" indivs="1700" pacs="19182" total="20882"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="17900" pacs="2000" total="19900"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="12350" pacs="5000" total="17350"/>
+  </industries>
+</response>

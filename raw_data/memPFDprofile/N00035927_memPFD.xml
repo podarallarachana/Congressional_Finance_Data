@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00035927" net_low="-65994" net_high="109999" positions_held_count="0" asset_count="6" asset_low="34006" asset_high="160000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00035927" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="First Eagle Global Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Franklin Income Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Franklin Mutual Global Discovery Fund" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Dreyfus Ins Deposit -Brokerage Money Market" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Leader Total Return Fund" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="1st Vice President" organization="District Attorneys Assn of the State of New"/>
+      <position title="President-Elect" organization="District Attorneys Assn of the State of New"/>
+      <position title="President" organization="District Attorneys Assn of the State of New"/>
+      <position title="Commissioner" organization="Moreland Commission on Utility Storm Preparedness"/>
+      <position title="Co-Chair/Commissioner" organization="Moreland Commission to Investigate Public Corr"/>
+    </positions>
+  </member_profile>
+</response>

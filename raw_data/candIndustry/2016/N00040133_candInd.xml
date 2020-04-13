@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Stephanie Murphy (D)" cid="N00040133" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00040133&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="8700" pacs="145700" total="154400"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="64458" pacs="11500" total="75958"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="46985" pacs="15750" total="62735"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="55831" total="55831"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="47975" pacs="0" total="47975"/>
+    <industry industry_code="W04" industry_name="Education" indivs="33475" pacs="5000" total="38475"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="28301" pacs="5500" total="33801"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="33000" total="33000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="31397" pacs="0" total="31397"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="29000" total="29000"/>
+  </industries>
+</response>

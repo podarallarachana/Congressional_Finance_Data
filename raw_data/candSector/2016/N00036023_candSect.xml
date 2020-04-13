@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Barbara Comstock (R)" cid="N00036023" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00036023&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="53950" pacs="88536" total="142486"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="113181" pacs="141383" total="254564"/>
+    <sector sector_name="Construction" sectorid="C" indivs="70590" pacs="96000" total="166590"/>
+    <sector sector_name="Defense" sectorid="D" indivs="39875" pacs="61602" total="101477"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="35425" pacs="95200" total="130625"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="603277" pacs="242500" total="845777"/>
+    <sector sector_name="Health" sectorid="H" indivs="59426" pacs="102000" total="161426"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="451565" pacs="53763" total="505328"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="58614" pacs="194495" total="253109"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="272475" pacs="215148" total="487623"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="55000" total="55250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="167511" pacs="555500" total="723011"/>
+    <sector sector_name="Other" sectorid="W" indivs="415217" pacs="3500" total="418717"/>
+  </sectors>
+</response>

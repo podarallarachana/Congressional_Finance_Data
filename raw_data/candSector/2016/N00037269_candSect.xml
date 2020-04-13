@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Brian Mast (R)" cid="N00037269" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00037269&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="22940" pacs="7250" total="30190"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="12850" pacs="10500" total="23350"/>
+    <sector sector_name="Construction" sectorid="C" indivs="40011" pacs="13500" total="53511"/>
+    <sector sector_name="Defense" sectorid="D" indivs="250" pacs="0" total="250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="10125" pacs="11000" total="21125"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="225949" pacs="35500" total="261449"/>
+    <sector sector_name="Health" sectorid="H" indivs="58606" pacs="23500" total="82106"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="25173" pacs="1000" total="26173"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="23460" pacs="17000" total="40460"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="73927" pacs="34500" total="108427"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="249103" pacs="329847" total="578950"/>
+    <sector sector_name="Other" sectorid="W" indivs="482772" pacs="0" total="482772"/>
+  </sectors>
+</response>

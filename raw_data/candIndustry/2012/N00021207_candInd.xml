@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Rick Nolan (D)" cid="N00021207" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00021207&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="137965" pacs="0" total="137965"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="94000" total="94000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="73850" pacs="20110" total="93960"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="250" pacs="58000" total="58250"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="5000" pacs="43500" total="48500"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="47583" total="47583"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="750" pacs="43000" total="43750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="33450" pacs="0" total="33450"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="21350" pacs="8147" total="29497"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="28500" total="28500"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mac Thornberry (R)" cid="N00006052" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006052&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="2850" pacs="87500" total="90350"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="71000" pacs="0" total="71000"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="52800" pacs="15500" total="68300"/>
+    <industry industry_code="A06" industry_name="Livestock" indivs="62475" pacs="4550" total="67025"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="250" pacs="46500" total="46750"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="24400" pacs="20500" total="44900"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="15200" pacs="29500" total="44700"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="1500" pacs="39750" total="41250"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="17150" pacs="10000" total="27150"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="200" pacs="24500" total="24700"/>
+  </industries>
+</response>

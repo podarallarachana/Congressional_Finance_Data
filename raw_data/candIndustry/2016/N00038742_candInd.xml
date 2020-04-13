@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tom Suozzi (D)" cid="N00038742" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00038742&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="237812" pacs="2000" total="239812"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="219183" pacs="7750" total="226933"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="174648" pacs="0" total="174648"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="111263" pacs="0" total="111263"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="78200" total="78200"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="37750" pacs="10000" total="47750"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="44218" total="44218"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="41402" pacs="2500" total="43902"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="34100" pacs="4000" total="38100"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="36027" pacs="0" total="36027"/>
+  </industries>
+</response>

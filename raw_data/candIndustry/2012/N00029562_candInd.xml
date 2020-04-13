@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ben R Lujan (D)" cid="N00029562" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029562&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="110750" pacs="4000" total="114750"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="52950" pacs="15500" total="68450"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="47000" total="47000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="44000" total="44000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="42250" pacs="0" total="42250"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="6250" pacs="33500" total="39750"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="36730" pacs="0" total="36730"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="36500" total="36500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="14500" pacs="16325" total="30825"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="2000" pacs="24000" total="26000"/>
+  </industries>
+</response>

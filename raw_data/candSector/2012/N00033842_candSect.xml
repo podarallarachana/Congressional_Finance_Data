@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Mia Love (R)" cid="N00033842" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033842&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="12450" pacs="12500" total="24950"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="41993" pacs="0" total="41993"/>
+    <sector sector_name="Construction" sectorid="C" indivs="23125" pacs="20500" total="43625"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1000" pacs="0" total="1000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="29350" pacs="6500" total="35850"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="157970" pacs="16500" total="174470"/>
+    <sector sector_name="Health" sectorid="H" indivs="46011" pacs="6000" total="52011"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="39578" pacs="0" total="39578"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="16000" pacs="5000" total="21000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="93600" pacs="10750" total="104350"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="91700" pacs="334813" total="426513"/>
+    <sector sector_name="Other" sectorid="W" indivs="179164" pacs="0" total="179164"/>
+  </sectors>
+</response>

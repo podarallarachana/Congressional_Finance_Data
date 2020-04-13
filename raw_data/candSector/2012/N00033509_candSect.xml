@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Gloria McLeod (D)" cid="N00033509" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033509&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="700" pacs="0" total="700"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="700" pacs="1000" total="1700"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5250" pacs="1000" total="6250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5000" pacs="500" total="5500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="7500" pacs="2000" total="9500"/>
+    <sector sector_name="Health" sectorid="H" indivs="19170" pacs="17500" total="36670"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="21250" pacs="1000" total="22250"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1000" pacs="8000" total="9000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="36450" pacs="0" total="36450"/>
+    <sector sector_name="Labor" sectorid="P" indivs="200" pacs="19000" total="19200"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="950" pacs="11500" total="12450"/>
+    <sector sector_name="Other" sectorid="W" indivs="29450" pacs="0" total="29450"/>
+  </sectors>
+</response>

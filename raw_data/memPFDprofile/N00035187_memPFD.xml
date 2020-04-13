@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00035187" net_low="-283930" net_high="18389999" positions_held_count="10" asset_count="55" asset_low="4716070" asset_high="19390000" transaction_count="380" tx_low="2770380" tx_high="16650000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00035187" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="1151004" holdings_high="5365000" industry="" sector="" subsidiary_of=""/>
+      <asset name="BankWest" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Oahe Federal Credit Union" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="First National Bank" holdings_low="515002" holdings_high="1050000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Total Bond" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="(Member)" organization="201 LLC"/>
+      <position title="(Member)" organization="201 LLC"/>
+      <position title="(Member, Governors Council)" organization="Bipartisan Policy Council"/>
+      <position title="(Member, Governors Council)" organization="Bipartisan Policy Council"/>
+      <position title="(Co-Chair)" organization="Chicago Council on Global Affairs"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ted Cruz (R)" cid="N00033085" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033085&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="2075197" pacs="0" total="2075197"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="1926677" pacs="115405" total="2042082"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="1228068" pacs="181000" total="1409068"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1223012" pacs="57249" total="1280261"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="1189587" pacs="24500" total="1214087"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="983455" pacs="24000" total="1007455"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="667229" pacs="3500" total="670729"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="560642" pacs="38000" total="598642"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="457888" pacs="10500" total="468388"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="451719" pacs="8000" total="459719"/>
+  </industries>
+</response>

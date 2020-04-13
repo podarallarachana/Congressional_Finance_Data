@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bruce Braley (D)" cid="N00027464" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027464&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="956931" pacs="32497" total="989428"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="23400" pacs="97500" total="120900"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="95500" total="95500"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="83500" total="83500"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="27250" pacs="34884" total="62134"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="250" pacs="58000" total="58250"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="57320" pacs="0" total="57320"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="650" pacs="55000" total="55650"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="22163" pacs="12500" total="34663"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="29626" pacs="0" total="29626"/>
+  </industries>
+</response>

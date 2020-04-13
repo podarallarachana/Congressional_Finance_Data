@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Lindsey Graham (R)" cid="N00009975" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009975&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="182701" pacs="148787" total="331488"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="170497" pacs="178376" total="348873"/>
+    <sector sector_name="Construction" sectorid="C" indivs="286285" pacs="92850" total="379135"/>
+    <sector sector_name="Defense" sectorid="D" indivs="76593" pacs="172200" total="248793"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="285641" pacs="182000" total="467641"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1771281" pacs="266732" total="2038013"/>
+    <sector sector_name="Health" sectorid="H" indivs="400447" pacs="113750" total="514197"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1079627" pacs="91750" total="1171377"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="204500" pacs="170600" total="375100"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="760386" pacs="288700" total="1049086"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="14000" total="14000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="340288" pacs="416641" total="756929"/>
+    <sector sector_name="Other" sectorid="W" indivs="793226" pacs="4000" total="797226"/>
+  </sectors>
+</response>

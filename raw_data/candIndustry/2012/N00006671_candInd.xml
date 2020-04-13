@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Lucille Roybal-Allard (D)" cid="N00006671" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006671&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="40291" pacs="0" total="40291"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="38500" total="38500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="29350" pacs="9000" total="38350"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="33500" total="33500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="750" pacs="29500" total="30250"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="24700" total="24700"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="23500" total="23500"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="19300" pacs="4000" total="23300"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="11100" pacs="10500" total="21600"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="250" pacs="18500" total="18750"/>
+  </industries>
+</response>

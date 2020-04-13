@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bruce Poliquin (R)" cid="N00034584" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034584&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="237100" pacs="0" total="237100"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="120600" total="120600"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="111300" pacs="1000" total="112300"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="45650" pacs="5000" total="50650"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="28325" pacs="8000" total="36325"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="33000" pacs="0" total="33000"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="18400" pacs="13500" total="31900"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="26250" pacs="4000" total="30250"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="27500" total="27500"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="9100" pacs="13000" total="22100"/>
+  </industries>
+</response>

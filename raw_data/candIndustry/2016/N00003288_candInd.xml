@@ -1,0 +1,15 @@
+<response>
+  <industries cand_name="Bennie G Thompson (D)" cid="N00003288" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00003288&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="70000" total="70000"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="62000" total="62000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="21400" pacs="37000" total="58400"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="54000" total="54000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="52000" total="52000"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="37500" total="37500"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="36000" total="36000"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="4250" pacs="31000" total="35250"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="0" pacs="31000" total="31000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="26500" total="26500"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="5000" pacs="21500" total="26500"/>
+  </industries>
+</response>

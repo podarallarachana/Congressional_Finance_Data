@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Trent Kelly (R)" cid="N00037003" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00037003&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="90400" total="90400"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="67400" pacs="11000" total="78400"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="23050" pacs="41800" total="64850"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="10910" pacs="37700" total="48610"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="30050" pacs="11500" total="41550"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="250" pacs="38500" total="38750"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="36670" pacs="0" total="36670"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="17000" pacs="19500" total="36500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="18250" pacs="14500" total="32750"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="30000" pacs="1114" total="31114"/>
+  </industries>
+</response>

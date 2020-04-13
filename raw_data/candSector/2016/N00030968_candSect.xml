@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Reid Ribble (R)" cid="N00030968" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030968&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="26450" pacs="42750" total="69200"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="13500" pacs="6000" total="19500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="6950" pacs="43000" total="49950"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="6150" pacs="29500" total="35650"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="19000" pacs="38000" total="57000"/>
+    <sector sector_name="Health" sectorid="H" indivs="6750" pacs="37000" total="43750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="5250" pacs="1500" total="6750"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="16400" pacs="77499" total="93899"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="16400" pacs="44500" total="60900"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="7000" total="7000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="21700" total="21700"/>
+    <sector sector_name="Other" sectorid="W" indivs="19850" pacs="0" total="19850"/>
+  </sectors>
+</response>

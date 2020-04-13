@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Dave Trott (R)" cid="N00035607" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035607&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="10800" pacs="2000" total="12800"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="30900" pacs="7500" total="38400"/>
+    <sector sector_name="Construction" sectorid="C" indivs="60950" pacs="13000" total="73950"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="3000" total="3000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="14600" pacs="27499" total="42099"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="179300" pacs="37250" total="216550"/>
+    <sector sector_name="Health" sectorid="H" indivs="18700" pacs="28500" total="47200"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="220847" pacs="8500" total="229347"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="40200" pacs="24000" total="64200"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="160150" pacs="33500" total="193650"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2750" pacs="69000" total="71750"/>
+    <sector sector_name="Other" sectorid="W" indivs="71050" pacs="0" total="71050"/>
+  </sectors>
+</response>

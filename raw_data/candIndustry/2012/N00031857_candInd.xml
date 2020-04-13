@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Steve Womack (R)" cid="N00031857" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031857&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="33450" pacs="43000" total="76450"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="45300" pacs="8500" total="53800"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="19463" pacs="28500" total="47963"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="26000" pacs="17234" total="43234"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="32836" pacs="9000" total="41836"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="29725" pacs="0" total="29725"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="29000" total="29000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="12700" pacs="15500" total="28200"/>
+    <industry industry_code="A05" industry_name="Poultry &amp; Eggs" indivs="16500" pacs="10000" total="26500"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="5750" pacs="20000" total="25750"/>
+  </industries>
+</response>

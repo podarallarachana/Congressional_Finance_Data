@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="Desjarlais, Scott" data_year="2016" member_id="N00030957" net_low="-383988" net_high="259995" positions_held_count="0" asset_count="9" asset_low="166012" asset_high="490000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030957" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="CD FIRST SOUTHER BANK" holdings_low="67004" holdings_high="180000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Commercial Lot" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Pacific Life 401k Pacific Value Annunity" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Diatech LLC" holdings_low="15001" holdings_high="50000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="DiaTech Oncology LLC" holdings_low="15001" holdings_high="50000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Pacific Value Annunity" tx_date="May 29 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Pacific Value Annunity" tx_date="May 24 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="DiaTech Oncology LLC" tx_date="May 29 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="DiaTech Oncology LLC" tx_date="May 24 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="CD Citizen State Bank" tx_date="May  1 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="officer- President" organization="Medical Arts Plaza"/>
+    </positions>
+  </member_profile>
+</response>

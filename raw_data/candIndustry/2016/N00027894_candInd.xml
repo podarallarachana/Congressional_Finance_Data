@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jim Jordan (R)" cid="N00027894" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027894&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="36930" pacs="12848" total="49778"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="22200" pacs="18000" total="40200"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="13020" pacs="23250" total="36270"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="0" pacs="24500" total="24500"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="24000" total="24000"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="20500" pacs="2500" total="23000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="8500" pacs="10500" total="19000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="9789" pacs="7000" total="16789"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="0" pacs="16000" total="16000"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="0" pacs="16000" total="16000"/>
+  </industries>
+</response>

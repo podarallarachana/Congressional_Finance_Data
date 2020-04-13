@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Scott Desjarlais (R)" cid="N00030957" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030957&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="137000" total="137000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="81399" pacs="49884" total="131283"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="57460" pacs="0" total="57460"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="27800" pacs="14000" total="41800"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="13500" pacs="23000" total="36500"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="15850" pacs="18500" total="34350"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="13700" pacs="18500" total="32200"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="29550" pacs="2000" total="31550"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="23672" pacs="7500" total="31172"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="5500" pacs="25500" total="31000"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mike Kelly (R)" cid="N00031647" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031647&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="16602" pacs="9500" total="26102"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="14550" pacs="24500" total="39050"/>
+    <sector sector_name="Construction" sectorid="C" indivs="21161" pacs="26500" total="47661"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="11500" total="12000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="16100" pacs="78500" total="94600"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="32959" pacs="77900" total="110859"/>
+    <sector sector_name="Health" sectorid="H" indivs="26483" pacs="28350" total="54833"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="31950" pacs="10500" total="42450"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="43650" pacs="34000" total="77650"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="44550" pacs="107883" total="152433"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="26500" total="26500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="18050" pacs="80369" total="98419"/>
+    <sector sector_name="Other" sectorid="W" indivs="73136" pacs="18000" total="91136"/>
+  </sectors>
+</response>

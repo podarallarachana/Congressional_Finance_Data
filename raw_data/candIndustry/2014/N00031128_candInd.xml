@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bob Gibbs (R)" cid="N00031128" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031128&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="85545" total="85545"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="29400" pacs="36500" total="65900"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="3600" pacs="59024" total="62624"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="2300" pacs="50500" total="52800"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="33550" pacs="14000" total="47550"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="4250" pacs="31000" total="35250"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="33000" total="33000"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="20250" pacs="12500" total="32750"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="1000" pacs="31000" total="32000"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="4000" pacs="27000" total="31000"/>
+  </industries>
+</response>

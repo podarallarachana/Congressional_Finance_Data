@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tim Scott (R)" cid="N00031782" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031782&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="805818" pacs="248308" total="1054126"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="262825" pacs="501500" total="764325"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="430656" pacs="138240" total="568896"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="231976" pacs="248300" total="480276"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="363703" pacs="107850" total="471553"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="461265" total="461265"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="78850" pacs="347850" total="426700"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="421795" pacs="0" total="421795"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="209830" pacs="185170" total="395000"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="105804" pacs="208750" total="314554"/>
+  </industries>
+</response>

@@ -1,0 +1,20 @@
+<response>
+  <member_profile name="Amash, Justin" data_year="2016" member_id="N00031938" net_low="593025" net_high="6919997" positions_held_count="0" asset_count="13" asset_low="2093025" asset_high="7620000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031938" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Tekton Inc" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Commercial Property" holdings_low="600002" holdings_high="1250000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="SPDR S&amp;P 500 ETF Trust" holdings_low="250003" holdings_high="600000" industry="" sector="" subsidiary_of=""/>
+      <asset name="SPDR MidCap 400 ETF" holdings_low="45003" holdings_high="150000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Powershares QQQ Trust Fund" holdings_low="45003" holdings_high="150000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Tomboy Tools" tx_date="Oct  2 2013" tx_action="Exchanged" value_low="1" value_high="1000"/>
+      <transaction asset_name="CVSL Inc" tx_date="Oct  2 2013" tx_action="Exchanged" value_low="1" value_high="1000"/>
+      <transaction asset_name="DC3 SPDR S&amp;P 500" tx_date="Feb 25 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Owner of Minority Interest" organization="Michigan Industrial Tools"/>
+      <position title="Member" organization="Standard Bear LLC"/>
+    </positions>
+  </member_profile>
+</response>

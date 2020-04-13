@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Scott Perry (R)" cid="N00034120" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034120&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="42500" total="42500"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="3500" pacs="31500" total="35000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="15920" pacs="14000" total="29920"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="0" pacs="27500" total="27500"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="0" pacs="23000" total="23000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="14070" pacs="8000" total="22070"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="500" pacs="21000" total="21500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="19773" pacs="0" total="19773"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="2500" pacs="16250" total="18750"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="1000" pacs="17500" total="18500"/>
+  </industries>
+</response>

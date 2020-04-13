@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Raul Labrador (R)" cid="N00031377" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031377&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="48850" pacs="75000" total="123850"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="14750" pacs="35000" total="49750"/>
+    <sector sector_name="Construction" sectorid="C" indivs="14750" pacs="9000" total="23750"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="9500" total="9500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="28250" pacs="20250" total="48500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="66906" pacs="35500" total="102406"/>
+    <sector sector_name="Health" sectorid="H" indivs="7550" pacs="7500" total="15050"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="42654" pacs="11750" total="54404"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="12400" pacs="19000" total="31400"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="40400" pacs="32000" total="72400"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="9950" pacs="75985" total="85935"/>
+    <sector sector_name="Other" sectorid="W" indivs="45392" pacs="1000" total="46392"/>
+  </sectors>
+</response>

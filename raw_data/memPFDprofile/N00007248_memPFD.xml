@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="Nunes, Devin" data_year="2016" member_id="N00007248" net_low="101003" net_high="215000" positions_held_count="0" asset_count="3" asset_low="101003" asset_high="215000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00007248" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Phase 2 Cellars" holdings_low="50001" holdings_high="100000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="Alpha Omega Winery" holdings_low="50001" holdings_high="100000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="Bank of America/Savings" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Condo/Visalia, CA" tx_date="Mar  1 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+    </transactions>
+    <positions>
+      <position title="Limited Partner" organization="Alpha Omega Winery"/>
+    </positions>
+  </member_profile>
+</response>

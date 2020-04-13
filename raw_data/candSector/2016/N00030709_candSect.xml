@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mark Desaulnier (D)" cid="N00030709" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030709&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1000" pacs="18000" total="19000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2725" pacs="9000" total="11725"/>
+    <sector sector_name="Construction" sectorid="C" indivs="38355" pacs="8500" total="46855"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="7500" total="7500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="410" pacs="10000" total="10410"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="61540" pacs="17500" total="79040"/>
+    <sector sector_name="Health" sectorid="H" indivs="5629" pacs="6500" total="12129"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="38505" pacs="8500" total="47005"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="125" pacs="12500" total="12625"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="16750" pacs="10500" total="27250"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="170625" total="170625"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="24920" pacs="19750" total="44670"/>
+    <sector sector_name="Other" sectorid="W" indivs="38188" pacs="2500" total="40688"/>
+  </sectors>
+</response>

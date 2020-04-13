@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="David Vitter (R)" cid="N00009659" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009659&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="33000" pacs="26000" total="59000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="18050" pacs="23000" total="41050"/>
+    <sector sector_name="Construction" sectorid="C" indivs="138750" pacs="86000" total="224750"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="32000" total="32000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="173650" pacs="211150" total="384800"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="184250" pacs="118000" total="302250"/>
+    <sector sector_name="Health" sectorid="H" indivs="107550" pacs="17500" total="125050"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="118642" pacs="77000" total="195642"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="69900" pacs="70000" total="139900"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="158275" pacs="112100" total="270375"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="16000" total="16000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="28000" pacs="122392" total="150392"/>
+    <sector sector_name="Other" sectorid="W" indivs="106364" pacs="5000" total="111364"/>
+  </sectors>
+</response>

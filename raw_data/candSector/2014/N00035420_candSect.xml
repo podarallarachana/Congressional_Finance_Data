@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Mike Bost (R)" cid="N00035420" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035420&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="40964" pacs="16250" total="57214"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="8800" pacs="8500" total="17300"/>
+    <sector sector_name="Construction" sectorid="C" indivs="15750" pacs="30500" total="46250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="38400" pacs="26500" total="64900"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="94750" pacs="17000" total="111750"/>
+    <sector sector_name="Health" sectorid="H" indivs="37650" pacs="25750" total="63400"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="28675" pacs="500" total="29175"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="14250" pacs="7400" total="21650"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="82934" pacs="23499" total="106433"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="11000" total="11000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="10750" pacs="284809" total="295559"/>
+    <sector sector_name="Other" sectorid="W" indivs="79630" pacs="1000" total="80630"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bernie Sanders (I)" cid="N00000528" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000528&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="498315" pacs="0" total="498315"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="222960" pacs="6070" total="229030"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="600" pacs="113800" total="114400"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="96249" pacs="12000" total="108249"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="42672" pacs="41500" total="84172"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="71500" total="71500"/>
+    <industry industry_code="W04" industry_name="Education" indivs="57380" pacs="0" total="57380"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="49500" total="49500"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="45640" pacs="3250" total="48890"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="800" pacs="47650" total="48450"/>
+  </industries>
+</response>

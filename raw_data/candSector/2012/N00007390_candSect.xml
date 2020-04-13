@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="George Miller (D)" cid="N00007390" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00007390&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="4050" pacs="21500" total="25550"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1000" pacs="6500" total="7500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1650" pacs="5250" total="6900"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="35615" pacs="41000" total="76615"/>
+    <sector sector_name="Health" sectorid="H" indivs="1250" pacs="45500" total="46750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="26474" pacs="12000" total="38474"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="16500" total="16500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="22730" pacs="27500" total="50230"/>
+    <sector sector_name="Labor" sectorid="P" indivs="750" pacs="288442" total="289192"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="9890" pacs="27518" total="37408"/>
+    <sector sector_name="Other" sectorid="W" indivs="35288" pacs="8500" total="43788"/>
+  </sectors>
+</response>

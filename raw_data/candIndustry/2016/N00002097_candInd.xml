@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mark Warner (D)" cid="N00002097" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002097&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="1514027" pacs="226600" total="1740627"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1151310" pacs="201303" total="1352613"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="1139580" pacs="0" total="1139580"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="691125" pacs="101126" total="792251"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="262150" pacs="337500" total="599650"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="424600" total="424600"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="391688" pacs="11100" total="402788"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="359069" pacs="31800" total="390869"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="197500" pacs="166100" total="363600"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="321795" pacs="41600" total="363395"/>
+  </industries>
+</response>

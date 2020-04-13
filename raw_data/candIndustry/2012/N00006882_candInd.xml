@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Buck Mckeon (R)" cid="N00006882" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006882&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="141000" pacs="144500" total="285500"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="75000" pacs="89500" total="164500"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="34450" pacs="90000" total="124450"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="62584" pacs="2965" total="65549"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="19501" pacs="36000" total="55501"/>
+    <industry industry_code="W04" industry_name="Education" indivs="31750" pacs="23500" total="55250"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="31500" pacs="22000" total="53500"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="26825" pacs="18000" total="44825"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="22751" pacs="21500" total="44251"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="21000" pacs="22500" total="43500"/>
+  </industries>
+</response>

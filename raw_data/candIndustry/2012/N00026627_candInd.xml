@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Patrick McHenry (R)" cid="N00026627" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026627&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="35750" pacs="65999" total="101749"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="18500" pacs="67000" total="85500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="3250" pacs="81000" total="84250"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="15500" pacs="62500" total="78000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="37800" pacs="22000" total="59800"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="19000" pacs="34500" total="53500"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="2000" pacs="42500" total="44500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="43336" pacs="0" total="43336"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="11250" pacs="21500" total="32750"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="6000" pacs="25500" total="31500"/>
+  </industries>
+</response>

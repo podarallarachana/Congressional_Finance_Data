@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Pramila Jayapal (D)" cid="N00038858" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00038858&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1200" pacs="0" total="1200"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="117707" pacs="0" total="117707"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5307" pacs="0" total="5307"/>
+    <sector sector_name="Defense" sectorid="D" indivs="7501" pacs="0" total="7501"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3023" pacs="0" total="3023"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="105143" pacs="5000" total="110143"/>
+    <sector sector_name="Health" sectorid="H" indivs="61484" pacs="4000" total="65484"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="87192" pacs="5000" total="92192"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="5214" pacs="2700" total="7914"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="82068" pacs="0" total="82068"/>
+    <sector sector_name="Labor" sectorid="P" indivs="20523" pacs="235005" total="255528"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="341035" pacs="131709" total="472744"/>
+    <sector sector_name="Other" sectorid="W" indivs="234937" pacs="0" total="234937"/>
+  </sectors>
+</response>

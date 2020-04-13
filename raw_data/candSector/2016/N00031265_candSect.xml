@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Robert Hurt (R)" cid="N00031265" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031265&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1850" pacs="8000" total="9850"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="0" pacs="10000" total="10000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="4400" pacs="3500" total="7900"/>
+    <sector sector_name="Defense" sectorid="D" indivs="200" pacs="12000" total="12200"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="26000" total="26000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="21900" pacs="219500" total="241400"/>
+    <sector sector_name="Health" sectorid="H" indivs="3500" pacs="13500" total="17000"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="19500" pacs="8500" total="28000"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="3000" pacs="7000" total="10000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="1800" pacs="8000" total="9800"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="10500" total="10500"/>
+    <sector sector_name="Other" sectorid="W" indivs="21027" pacs="1000" total="22027"/>
+  </sectors>
+</response>

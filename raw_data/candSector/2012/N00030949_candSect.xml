@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tom Reed (R)" cid="N00030949" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030949&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="7100" pacs="19584" total="26684"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="45500" pacs="69500" total="115000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="54575" pacs="64000" total="118575"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="27000" total="27000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="44371" pacs="130641" total="175012"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="205542" pacs="298820" total="504362"/>
+    <sector sector_name="Health" sectorid="H" indivs="15750" pacs="140189" total="155939"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="115593" pacs="28529" total="144122"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="13735" pacs="115933" total="129668"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="92150" pacs="142292" total="234442"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="5500" total="5500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="22541" pacs="75359" total="97900"/>
+    <sector sector_name="Other" sectorid="W" indivs="62473" pacs="7500" total="69973"/>
+  </sectors>
+</response>

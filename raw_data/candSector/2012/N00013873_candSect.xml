@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John Boozman (R)" cid="N00013873" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00013873&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="121719" pacs="52200" total="173919"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="26196" pacs="36750" total="62946"/>
+    <sector sector_name="Construction" sectorid="C" indivs="103800" pacs="78000" total="181800"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1250" pacs="2000" total="3250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="123350" pacs="59500" total="182850"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="463359" pacs="102500" total="565859"/>
+    <sector sector_name="Health" sectorid="H" indivs="221314" pacs="95500" total="316814"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="137134" pacs="21216" total="158350"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="52845" pacs="124400" total="177245"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="286226" pacs="82300" total="368526"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="14000" total="14000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="91498" pacs="253521" total="345019"/>
+    <sector sector_name="Other" sectorid="W" indivs="372154" pacs="1500" total="373654"/>
+  </sectors>
+</response>

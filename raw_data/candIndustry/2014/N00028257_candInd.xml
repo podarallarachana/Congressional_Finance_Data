@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Keith Ellison (D)" cid="N00028257" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00028257&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="106812" pacs="7000" total="113812"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="47350" pacs="27730" total="75080"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="59365" pacs="0" total="59365"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="51000" total="51000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="30700" pacs="16000" total="46700"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="45000" total="45000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="9100" pacs="27500" total="36600"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="35750" total="35750"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="26300" pacs="1000" total="27300"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="25000" total="25000"/>
+  </industries>
+</response>

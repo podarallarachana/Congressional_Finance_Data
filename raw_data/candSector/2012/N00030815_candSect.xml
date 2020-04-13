@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Chuck Fleischmann (R)" cid="N00030815" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030815&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="21250" pacs="22000" total="43250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="7000" pacs="12000" total="19000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="107500" pacs="38000" total="145500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2500" pacs="12500" total="15000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="29700" pacs="51000" total="80700"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="163359" pacs="56500" total="219859"/>
+    <sector sector_name="Health" sectorid="H" indivs="48100" pacs="41000" total="89100"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="52350" pacs="15000" total="67350"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="36200" pacs="62499" total="98699"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="49350" pacs="98870" total="148220"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="7000" total="7000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="250" pacs="125500" total="125750"/>
+    <sector sector_name="Other" sectorid="W" indivs="53250" pacs="2500" total="55750"/>
+  </sectors>
+</response>

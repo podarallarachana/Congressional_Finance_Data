@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Langevin, Jim" data_year="2016" member_id="N00009724" net_low="-1156977" net_high="2870989" positions_held_count="0" asset_count="23" asset_low="1908023" asset_high="4346000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00009724" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="SunLife of Canada Insurance Policy" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="340 Shawmut" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Future Realty" holdings_low="250001" holdings_high="500000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="17 Scott" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="25 Scott" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Citigroup Cap XV" tx_date="Apr 16 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="American Capital Agency Corp" tx_date="Dec 20 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="American Capital Agency Corp" tx_date="Apr 30 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Blackrock Nat Res Invs Fund" tx_date="Sep 23 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Blackrock Munivest Fund" tx_date="Dec 20 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

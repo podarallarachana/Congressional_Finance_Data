@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Max Baucus (D)" cid="N00004643" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00004643&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="219819" pacs="431500" total="651319"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="171993" pacs="333272" total="505265"/>
+    <sector sector_name="Construction" sectorid="C" indivs="115175" pacs="204065" total="319240"/>
+    <sector sector_name="Defense" sectorid="D" indivs="23400" pacs="84000" total="107400"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="210778" pacs="508800" total="719578"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1671179" pacs="867116" total="2538295"/>
+    <sector sector_name="Health" sectorid="H" indivs="863579" pacs="1298218" total="2161797"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1030381" pacs="233603" total="1263984"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="123088" pacs="290300" total="413388"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="608047" pacs="590100" total="1198147"/>
+    <sector sector_name="Labor" sectorid="P" indivs="2652" pacs="236025" total="238677"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="163900" pacs="226475" total="390375"/>
+    <sector sector_name="Other" sectorid="W" indivs="292385" pacs="16000" total="308385"/>
+  </sectors>
+</response>

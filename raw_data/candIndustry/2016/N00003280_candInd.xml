@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Roger Wicker (R)" cid="N00003280" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00003280&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="259500" total="259500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="123675" pacs="81571" total="205246"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="71816" pacs="127000" total="198816"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="41500" pacs="126750" total="168250"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="79715" pacs="86150" total="165865"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="131628" pacs="12000" total="143628"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="59250" pacs="71000" total="130250"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="28750" pacs="96000" total="124750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="76100" pacs="46500" total="122600"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="17600" pacs="60500" total="78100"/>
+  </industries>
+</response>

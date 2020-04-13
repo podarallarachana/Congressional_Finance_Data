@@ -1,0 +1,25 @@
+<response>
+  <member_profile name="Cole, Tom" data_year="2016" member_id="N00025726" net_low="2917061" net_high="6831000" positions_held_count="0" asset_count="53" asset_low="2917061" asset_high="6831000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00025726" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Vanguard Total Stock Market Index Fund" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Strategic Communications" holdings_low="250001" holdings_high="500000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="Vanguard High Yield Tax Exempt Fund" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Federal Thrift Savings Plan/C Fund" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Federal Thrift Savings Plan/G Fund" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Fidelity Municipal Income Fund" tx_date="Aug 27 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Vanguard Dividend Growth Fund" tx_date="Sep 10 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Vanguard High Yield Tax Exempt Fund" tx_date="Sep  9 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Mid First Money Market Fund" tx_date="Quarterly" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Vanguard High Yield Tax Exempt Fund" tx_date="Monthly" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+    <positions>
+      <position title="Board of Advisors for Congressional Program" organization="Aspen Institute"/>
+      <position title="Partner" organization="Cole, Hargrave et al"/>
+      <position title="Board of Directors" organization="Fulbright Assn"/>
+      <position title="Board of Regents" organization="Smithsonian Institution"/>
+      <position title="Partner" organization="Strategic Communications"/>
+    </positions>
+  </member_profile>
+</response>

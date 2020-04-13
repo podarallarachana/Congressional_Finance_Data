@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Al Franken (D)" cid="N00029016" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029016&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1393991" pacs="93938" total="1487929"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="1346859" pacs="0" total="1346859"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="586096" pacs="22004" total="608100"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="480291" pacs="11000" total="491291"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="750" pacs="386450" total="387200"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="330413" pacs="15010" total="345423"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="190931" pacs="72400" total="263331"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="236905" pacs="20867" total="257772"/>
+    <industry industry_code="B01" industry_name="Printing &amp; Publishing" indivs="247094" pacs="2000" total="249094"/>
+    <industry industry_code="W04" industry_name="Education" indivs="238100" pacs="2000" total="240100"/>
+  </industries>
+</response>

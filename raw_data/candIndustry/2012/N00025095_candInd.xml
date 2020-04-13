@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Carter (R)" cid="N00025095" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00025095&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="52150" pacs="18000" total="70150"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="11000" pacs="48800" total="59800"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="7250" pacs="32000" total="39250"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="500" pacs="36000" total="36500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="25375" pacs="10000" total="35375"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="15800" pacs="16000" total="31800"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="21769" pacs="7000" total="28769"/>
+    <industry industry_code="C03" industry_name="Special Trade Contractors" indivs="28000" pacs="0" total="28000"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="14000" pacs="13500" total="27500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="24500" pacs="0" total="24500"/>
+  </industries>
+</response>

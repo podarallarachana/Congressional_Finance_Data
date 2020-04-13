@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Gary Miller (R)" cid="N00006954" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006954&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="158859" pacs="56739" total="215598"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="97500" total="97500"/>
+    <industry industry_code="Q10" industry_name="Misc Issues" indivs="78000" pacs="2600" total="80600"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="9500" pacs="41000" total="50500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="9500" pacs="39500" total="49000"/>
+    <industry industry_code="C02" industry_name="Home Builders" indivs="15000" pacs="23000" total="38000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="6000" pacs="26750" total="32750"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="1500" pacs="30500" total="32000"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="0" pacs="32000" total="32000"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="6000" pacs="25999" total="31999"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Phil Roe (R)" cid="N00028463" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00028463&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="58745" pacs="0" total="58745"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="26200" pacs="0" total="26200"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="22350" pacs="0" total="22350"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="20900" pacs="0" total="20900"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="13500" pacs="0" total="13500"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="13200" pacs="0" total="13200"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="11100" pacs="0" total="11100"/>
+    <industry industry_code="N13" industry_name="Chemical &amp; Related Manufacturing" indivs="8400" pacs="0" total="8400"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="8000" pacs="0" total="8000"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="6900" pacs="0" total="6900"/>
+  </industries>
+</response>

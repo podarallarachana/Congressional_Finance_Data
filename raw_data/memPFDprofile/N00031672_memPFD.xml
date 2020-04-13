@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Farenthold, Blake" data_year="2016" member_id="N00031672" net_low="2358354" net_high="8442306" positions_held_count="1" asset_count="37" asset_low="2408354" asset_high="8457307" transaction_count="21" tx_low="135021" tx_high="387000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031672" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="ABMH Investments" holdings_low="1015002" holdings_high="5050000" industry="" sector="" subsidiary_of=""/>
+      <asset name="" holdings_low="251004" holdings_high="615000" industry="" sector="" subsidiary_of=""/>
+      <asset name="R Morgan Properties Ltd" holdings_low="202004" holdings_high="530000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Presidio Short-Term Tax Exempt Fund LP" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Farmland/.5 int in 15.545 acres" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Presidio Short Term Bond Fund" tx_date="Sep  9 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="TTC Large Cap Core Fund" tx_date="May 31 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Trust Co" tx_date="Feb 25 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="TTC International Equity Fund" tx_date="May 31 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Presidio Short Term Bond Fund" tx_date="Dec 31 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

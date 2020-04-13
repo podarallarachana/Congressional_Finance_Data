@@ -1,0 +1,24 @@
+<response>
+  <member_profile name="DeLauro, Rosa L" data_year="2016" member_id="N00000615" net_low="5437010" net_high="26391996" positions_held_count="0" asset_count="9" asset_low="5682010" asset_high="26482000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00000615" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Greenberg Quinlan Rosner Inc" holdings_low="5000001" holdings_high="25000000" industry="Business Services" sector="Misc Business" subsidiary_of=""/>
+      <asset name="Greenberg Research Inc" holdings_low="500001" holdings_high="1000000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="Mass Mutual Whole Life Policy" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="TIAA CREF Retirement:TIAA Tradtional (EIF)" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="United Bank/Checking" holdings_low="15002" holdings_high="51000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="John Hancock Retirement Lifecycle 2015" tx_date="Bi-weekly" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="TIAA Traditional Fund" tx_date="Quarterly" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="TIAA Cref Money Market" tx_date="Quarterly" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="ML-PIMCO Total Return Fund(EIF)" tx_date="Jan 16 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Honorary Board of Directors" organization="Cancer Schmancer Movement"/>
+      <position title="Honorary Board Member" organization="Center for WorkLife Law (WLL)"/>
+      <position title="Member" organization="CT International Women's Forum"/>
+      <position title="Member" organization="Delta Kappa Gamma Society"/>
+      <position title="Honorary Member, Advisory Committee" organization="Diaper Bank"/>
+    </positions>
+  </member_profile>
+</response>

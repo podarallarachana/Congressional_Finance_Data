@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Collin C Peterson (D)" cid="N00004558" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00004558&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="142150" pacs="470368" total="612518"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3100" pacs="20000" total="23100"/>
+    <sector sector_name="Construction" sectorid="C" indivs="3000" pacs="11000" total="14000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="8000" total="8000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3750" pacs="72000" total="75750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="18900" pacs="111499" total="130399"/>
+    <sector sector_name="Health" sectorid="H" indivs="0" pacs="37500" total="37500"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="27811" pacs="23500" total="51311"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1250" pacs="22500" total="23750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="42900" pacs="87000" total="129900"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="156000" total="156000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1750" pacs="156250" total="158000"/>
+    <sector sector_name="Other" sectorid="W" indivs="12200" pacs="1500" total="13700"/>
+  </sectors>
+</response>

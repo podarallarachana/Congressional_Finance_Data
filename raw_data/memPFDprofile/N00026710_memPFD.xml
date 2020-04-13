@@ -1,0 +1,25 @@
+<response>
+  <member_profile name="Marchant, Kenny" data_year="2016" member_id="N00026710" net_low="15054732" net_high="34266710" positions_held_count="7" asset_count="42" asset_low="16404732" asset_high="34916713" transaction_count="1" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00026710" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="5067013" holdings_high="22330000" industry="" sector="" subsidiary_of=""/>
+      <asset name="" holdings_low="7161025" holdings_high="7161025" industry="" sector="" subsidiary_of=""/>
+      <asset name="Joint Venture 60 Acres Ft Worth" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Joint Venture less than 1%" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Energy Transfer Partners" holdings_low="250670" holdings_high="250670" industry="Oil &amp; Gas" sector="Energy/Nat Resource" subsidiary_of="Energy Transfer Equity"/>
+    </assets>
+    <transactions>
+      <transaction asset_name="AT&amp;T Inc" tx_date="2013-11-06 00:00:00.000" tx_action="Sold" value_low="201122" value_high="201122"/>
+      <transaction asset_name="Crocs Inc" tx_date="2013-02-19 00:00:00.000" tx_action="Sold" value_low="104503" value_high="104503"/>
+      <transaction asset_name="Trinity Industries" tx_date="2013-06-26 00:00:00.000" tx_action="Purchased" value_low="104382" value_high="104382"/>
+      <transaction asset_name="Hodges Small Mid Cap Fund" tx_date="2013-12-31 00:00:00.000" tx_action="Purchased" value_low="100019" value_high="100019"/>
+      <transaction asset_name="CPC Brazos II" tx_date="Dec 13 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+    </transactions>
+    <positions>
+      <position title="President" organization="Ashwood Court Inc General Partner Bonita Land &amp; Ca"/>
+      <position title="Ltd Partner" organization="Bonita Land &amp; Cattle"/>
+      <position title="Member" organization="Fort Worth 60 Acre LLC"/>
+      <position title="Ltd Partner" organization="Ken-Ran Development"/>
+      <position title="President" organization="Marchant Family Foundation 501 C3 Private Foundati"/>
+    </positions>
+  </member_profile>
+</response>

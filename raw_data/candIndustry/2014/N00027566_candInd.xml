@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Christopher S Murphy (D)" cid="N00027566" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027566&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="1061667" pacs="0" total="1061667"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="857958" pacs="50650" total="908608"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="602070" pacs="81000" total="683070"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="119025" pacs="228000" total="347025"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="282666" pacs="60500" total="343166"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="164815" pacs="139410" total="304225"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="15000" pacs="287500" total="302500"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="143271" pacs="124247" total="267518"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="245959" pacs="7000" total="252959"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="237700" pacs="15000" total="252700"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John D Dingell (D)" cid="N00001783" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001783&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="38100" total="38100"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="0" pacs="32500" total="32500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="0" pacs="24350" total="24350"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="6475" pacs="17070" total="23545"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="22100" total="22100"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="21000" total="21000"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="1300" pacs="15500" total="16800"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="0" pacs="15500" total="15500"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="0" pacs="15000" total="15000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="300" pacs="13600" total="13900"/>
+  </industries>
+</response>

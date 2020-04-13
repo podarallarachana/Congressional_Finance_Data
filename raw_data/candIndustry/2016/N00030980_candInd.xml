@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Kelly Ayotte (R)" cid="N00030980" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030980&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="1966431" pacs="0" total="1966431"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="1413762" pacs="119200" total="1532962"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="665006" pacs="58000" total="723006"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="442888" pacs="181224" total="624112"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="26050" pacs="591300" total="617350"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="440693" pacs="14587" total="455280"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="157650" pacs="294000" total="451650"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="366414" pacs="61700" total="428114"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="194756" pacs="227000" total="421756"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="364559" pacs="45000" total="409559"/>
+  </industries>
+</response>

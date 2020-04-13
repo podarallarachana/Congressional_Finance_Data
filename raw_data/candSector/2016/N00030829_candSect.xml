@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Kenneth R Buck (R)" cid="N00030829" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030829&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="27450" pacs="27901" total="55351"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="14250" pacs="47500" total="61750"/>
+    <sector sector_name="Construction" sectorid="C" indivs="27450" pacs="16000" total="43450"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="10000" total="10000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="20900" pacs="61500" total="82400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="85267" pacs="25000" total="110267"/>
+    <sector sector_name="Health" sectorid="H" indivs="7700" pacs="4500" total="12200"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="21800" pacs="5000" total="26800"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="16500" pacs="26500" total="43000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="31375" pacs="33998" total="65373"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="26066" pacs="45241" total="71307"/>
+    <sector sector_name="Other" sectorid="W" indivs="67276" pacs="0" total="67276"/>
+  </sectors>
+</response>

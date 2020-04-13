@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Pat Roberts (R)" cid="N00005285" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00005285&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="15600" pacs="467976" total="483576"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="227625" pacs="162250" total="389875"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="186500" pacs="198950" total="385450"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="67468" pacs="240250" total="307718"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="65900" pacs="230499" total="296399"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="33550" pacs="253614" total="287164"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="275886" pacs="0" total="275886"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="63500" pacs="208450" total="271950"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="125560" pacs="131537" total="257097"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="238231" pacs="5000" total="243231"/>
+  </industries>
+</response>

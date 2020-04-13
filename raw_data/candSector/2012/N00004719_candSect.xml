@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Peter Roskam (R)" cid="N00004719" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00004719&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="13850" pacs="46396" total="60246"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="53500" pacs="90250" total="143750"/>
+    <sector sector_name="Construction" sectorid="C" indivs="31925" pacs="76500" total="108425"/>
+    <sector sector_name="Defense" sectorid="D" indivs="450" pacs="31500" total="31950"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="37850" pacs="109500" total="147350"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="283602" pacs="495750" total="779352"/>
+    <sector sector_name="Health" sectorid="H" indivs="97500" pacs="330716" total="428216"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="122979" pacs="32012" total="154991"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="38983" pacs="85199" total="124182"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="156480" pacs="230500" total="386980"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="55000" total="55000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="43700" pacs="36402" total="80102"/>
+    <sector sector_name="Other" sectorid="W" indivs="146250" pacs="2000" total="148250"/>
+  </sectors>
+</response>

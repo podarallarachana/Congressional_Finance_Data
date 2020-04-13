@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John M Shimkus (R)" cid="N00004961" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00004961&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="18005" pacs="126896" total="144901"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="7500" pacs="125500" total="133000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="11000" pacs="49500" total="60500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="23000" total="23500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="13200" pacs="333000" total="346200"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="14050" pacs="143000" total="157050"/>
+    <sector sector_name="Health" sectorid="H" indivs="7050" pacs="416600" total="423650"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="70500" pacs="51750" total="122250"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="11470" pacs="97620" total="109090"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="28150" pacs="184390" total="212540"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="65000" total="65000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2500" pacs="26500" total="29000"/>
+    <sector sector_name="Other" sectorid="W" indivs="12340" pacs="3750" total="16090"/>
+  </sectors>
+</response>

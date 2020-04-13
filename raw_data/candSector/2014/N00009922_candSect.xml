@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Harry Reid (D)" cid="N00009922" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009922&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="128750" pacs="144235" total="272985"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1052503" pacs="392845" total="1445348"/>
+    <sector sector_name="Construction" sectorid="C" indivs="298800" pacs="120750" total="419550"/>
+    <sector sector_name="Defense" sectorid="D" indivs="67200" pacs="121080" total="188280"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="385699" pacs="337202" total="722901"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="2650904" pacs="655460" total="3306364"/>
+    <sector sector_name="Health" sectorid="H" indivs="1195264" pacs="1086100" total="2281364"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="4477507" pacs="364009" total="4841516"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="234052" pacs="200500" total="434552"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="1702319" pacs="541772" total="2244091"/>
+    <sector sector_name="Labor" sectorid="P" indivs="10100" pacs="378000" total="388100"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="613460" pacs="608725" total="1222185"/>
+    <sector sector_name="Other" sectorid="W" indivs="1285875" pacs="33500" total="1319375"/>
+  </sectors>
+</response>

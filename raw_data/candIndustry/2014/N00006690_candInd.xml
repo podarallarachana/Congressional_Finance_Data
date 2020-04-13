@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Maxine Waters (D)" cid="N00006690" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006690&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="500" pacs="113500" total="114000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="27600" pacs="76000" total="103600"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="15750" pacs="74490" total="90240"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="19350" pacs="27800" total="47150"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="21400" pacs="21000" total="42400"/>
+    <industry industry_code="Q10" industry_name="Misc Issues" indivs="41000" pacs="250" total="41250"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="800" pacs="27330" total="28130"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="24000" total="24000"/>
+    <industry industry_code="F05" industry_name="Credit Unions" indivs="0" pacs="21500" total="21500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="20750" total="20750"/>
+  </industries>
+</response>

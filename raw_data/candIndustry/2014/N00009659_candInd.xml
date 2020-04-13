@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="David Vitter (R)" cid="N00009659" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009659&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="427750" pacs="229200" total="656950"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="389176" pacs="79500" total="468676"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="406614" pacs="0" total="406614"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="263511" pacs="117499" total="381010"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="277400" pacs="50500" total="327900"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="286714" total="286714"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="136525" pacs="122000" total="258525"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="149324" pacs="87000" total="236324"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="192700" pacs="26000" total="218700"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="141890" pacs="75000" total="216890"/>
+  </industries>
+</response>

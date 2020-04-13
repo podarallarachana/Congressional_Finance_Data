@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Emanuel Cleaver (D)" cid="N00026790" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026790&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="7500" pacs="14500" total="22000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="7450" pacs="71000" total="78450"/>
+    <sector sector_name="Construction" sectorid="C" indivs="9200" pacs="24950" total="34150"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="13500" total="13500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1750" pacs="23500" total="25250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="22450" pacs="235688" total="258138"/>
+    <sector sector_name="Health" sectorid="H" indivs="8800" pacs="60094" total="68894"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="63000" pacs="45750" total="108750"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2000" pacs="18500" total="20500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="33480" pacs="67271" total="100751"/>
+    <sector sector_name="Labor" sectorid="P" indivs="6000" pacs="208500" total="214500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="10000" pacs="22500" total="32500"/>
+    <sector sector_name="Other" sectorid="W" indivs="35060" pacs="6000" total="41060"/>
+  </sectors>
+</response>

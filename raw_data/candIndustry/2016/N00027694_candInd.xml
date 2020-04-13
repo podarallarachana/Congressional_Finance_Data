@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Claire McCaskill (D)" cid="N00027694" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027694&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="2172300" pacs="143166" total="2315466"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="1379145" pacs="0" total="1379145"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="1172415" pacs="26500" total="1198915"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="508864" pacs="61000" total="569864"/>
+    <industry industry_code="W04" industry_name="Education" indivs="409441" pacs="0" total="409441"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="342327" pacs="30500" total="372827"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="334500" total="334500"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="282519" pacs="44750" total="327269"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="299056" pacs="24525" total="323581"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="258348" pacs="44500" total="302848"/>
+  </industries>
+</response>

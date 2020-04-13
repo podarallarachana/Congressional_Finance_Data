@@ -1,0 +1,25 @@
+<response>
+  <member_profile name="Polis, Jared" data_year="2016" member_id="N00029127" net_low="162686457" net_high="453692001" positions_held_count="33" asset_count="167" asset_low="162686457" asset_high="453692001" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00029127" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="59870278" holdings_high="182768001" industry="" sector="" subsidiary_of=""/>
+      <asset name="Jared Polis Qualified Blind Trust" holdings_low="25000001" holdings_high="50000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Jove Equity Fund I" holdings_low="25000001" holdings_high="50000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Holding Co Denver, Co" holdings_low="25000001" holdings_high="50000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Mountain Property II LLC" holdings_low="5000001" holdings_high="25000000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Personal Residence/McLean, VA" tx_date="Sep  3 2013" tx_action="Purchased" value_low="1000001" value_high="5000000"/>
+      <transaction asset_name="Personal Residence/McLean, VA" tx_date="Sep 12 2013" tx_action="Purchased" value_low="1000001" value_high="5000000"/>
+      <transaction asset_name="Mountain Property II LLC" tx_date="Jan 25 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Proshares UltraShort Lehman 20+ Treasury" tx_date="Dec 20 2013" tx_action="Sold" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Proshares Ultrashort Lehman 7-10 year" tx_date="Dec 20 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+    </transactions>
+    <positions>
+      <position title="Limited Partner" organization="Appian Ventures I LP"/>
+      <position title="Managing Member" organization="Aquacopia Ventures"/>
+      <position title="Limited Partner" organization="Baird Capital Partners IV LP"/>
+      <position title="Limited Partner" organization="Bow River Capital Fund II LP"/>
+      <position title="Limited Partner" organization="Bow River Capital Fund IV LP"/>
+    </positions>
+  </member_profile>
+</response>

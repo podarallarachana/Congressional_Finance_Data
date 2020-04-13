@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Brad Sherman (D)" cid="N00006897" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006897&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="69250" pacs="46000" total="115250"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="30100" pacs="33500" total="63600"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="17550" pacs="46000" total="63550"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="36925" pacs="24750" total="61675"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="44950" pacs="16000" total="60950"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="56000" total="56000"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="45500" pacs="2000" total="47500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="0" pacs="46800" total="46800"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="42100" pacs="0" total="42100"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="40500" total="40500"/>
+  </industries>
+</response>

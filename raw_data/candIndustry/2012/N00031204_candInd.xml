@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Steve Southerland (R)" cid="N00031204" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031204&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="132267" pacs="47000" total="179267"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="97668" pacs="0" total="97668"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="90000" total="90000"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="19700" pacs="42005" total="61705"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="30201" pacs="13923" total="44124"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="11874" pacs="31000" total="42874"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="5700" pacs="35500" total="41200"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="37321" pacs="0" total="37321"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="27601" pacs="8000" total="35601"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="250" pacs="34500" total="34750"/>
+  </industries>
+</response>

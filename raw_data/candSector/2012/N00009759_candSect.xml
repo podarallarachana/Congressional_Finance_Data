@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Rick Larsen (D)" cid="N00009759" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009759&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1000" pacs="42000" total="43000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="8500" pacs="46000" total="54500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5250" pacs="57000" total="62250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="81500" total="81500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="30100" pacs="61881" total="91981"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="16982" pacs="77000" total="93982"/>
+    <sector sector_name="Health" sectorid="H" indivs="29050" pacs="66550" total="95600"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="61182" pacs="20250" total="81432"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="14620" pacs="147998" total="162618"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="47307" pacs="46500" total="93807"/>
+    <sector sector_name="Labor" sectorid="P" indivs="500" pacs="205000" total="205500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="14550" pacs="30500" total="45050"/>
+    <sector sector_name="Other" sectorid="W" indivs="85400" pacs="0" total="85400"/>
+  </sectors>
+</response>

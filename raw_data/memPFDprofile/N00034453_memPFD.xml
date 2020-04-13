@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00034453" net_low="-359955" net_high="896996" positions_held_count="0" asset_count="43" asset_low="240045" asset_high="1127000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00034453" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="McKinsey &amp; Co Profit Sharing Retirement Plan and" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="WA State PERS Plan 2" holdings_low="30002" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Funds Capital Income Builder Fund" holdings_low="30002" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Invesco Comstock Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Invesco American Value Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Sun America Universal Life Insurance" tx_date="Oct 22 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

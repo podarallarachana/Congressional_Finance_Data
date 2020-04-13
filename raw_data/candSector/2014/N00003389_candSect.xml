@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mitch McConnell (R)" cid="N00003389" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00003389&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="707620" pacs="531587" total="1239207"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="683400" pacs="424243" total="1107643"/>
+    <sector sector_name="Construction" sectorid="C" indivs="476426" pacs="192450" total="668876"/>
+    <sector sector_name="Defense" sectorid="D" indivs="68950" pacs="204900" total="273850"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1282860" pacs="760082" total="2042942"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="5123131" pacs="1198450" total="6321581"/>
+    <sector sector_name="Health" sectorid="H" indivs="1691266" pacs="1057523" total="2748789"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1477030" pacs="335794" total="1812824"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="661837" pacs="349629" total="1011466"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="1686533" pacs="801888" total="2488421"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="21000" total="21000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="794178" pacs="640718" total="1434896"/>
+    <sector sector_name="Other" sectorid="W" indivs="1861810" pacs="35208" total="1897018"/>
+  </sectors>
+</response>

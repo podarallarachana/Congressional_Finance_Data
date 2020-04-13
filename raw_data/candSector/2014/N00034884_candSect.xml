@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="William Enyart (D)" cid="N00034884" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00034884&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="5950" pacs="54000" total="59950"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="10700" pacs="22000" total="32700"/>
+    <sector sector_name="Construction" sectorid="C" indivs="28900" pacs="0" total="28900"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="69498" total="69498"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="12200" pacs="39750" total="51950"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="64950" pacs="59250" total="124200"/>
+    <sector sector_name="Health" sectorid="H" indivs="6650" pacs="50500" total="57150"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="282544" pacs="28000" total="310544"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="7050" pacs="41000" total="48050"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="40055" pacs="23000" total="63055"/>
+    <sector sector_name="Labor" sectorid="P" indivs="3750" pacs="277500" total="281250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="56855" pacs="314986" total="371841"/>
+    <sector sector_name="Other" sectorid="W" indivs="86223" pacs="0" total="86223"/>
+  </sectors>
+</response>

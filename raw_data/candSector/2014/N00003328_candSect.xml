@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Thad Cochran (R)" cid="N00003328" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00003328&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="357579" pacs="690037" total="1047616"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="83850" pacs="157300" total="241150"/>
+    <sector sector_name="Construction" sectorid="C" indivs="139700" pacs="103700" total="243400"/>
+    <sector sector_name="Defense" sectorid="D" indivs="113150" pacs="333100" total="446250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="139355" pacs="277000" total="416355"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="308939" pacs="372300" total="681239"/>
+    <sector sector_name="Health" sectorid="H" indivs="105259" pacs="227300" total="332559"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="372475" pacs="144501" total="516976"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="120250" pacs="178100" total="298350"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="201827" pacs="210473" total="412300"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="47500" total="47500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="86600" pacs="558350" total="644950"/>
+    <sector sector_name="Other" sectorid="W" indivs="263342" pacs="6500" total="269842"/>
+  </sectors>
+</response>

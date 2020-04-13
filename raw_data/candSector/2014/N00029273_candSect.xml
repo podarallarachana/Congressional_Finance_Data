@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Aaron Schock (R)" cid="N00029273" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029273&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="38407" pacs="83000" total="121407"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="24580" pacs="50000" total="74580"/>
+    <sector sector_name="Construction" sectorid="C" indivs="38930" pacs="62500" total="101430"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="42000" total="42000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="26450" pacs="99450" total="125900"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="310140" pacs="430000" total="740140"/>
+    <sector sector_name="Health" sectorid="H" indivs="84900" pacs="260500" total="345400"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="57883" pacs="20850" total="78733"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="39900" pacs="77700" total="117600"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="123550" pacs="223710" total="347260"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="66680" total="66680"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="27800" pacs="43450" total="71250"/>
+    <sector sector_name="Other" sectorid="W" indivs="111270" pacs="1500" total="112770"/>
+  </sectors>
+</response>

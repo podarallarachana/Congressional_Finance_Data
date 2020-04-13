@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Fred Upton (R)" cid="N00004133" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00004133&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="14450" pacs="161500" total="175950"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="100201" pacs="266300" total="366501"/>
+    <sector sector_name="Construction" sectorid="C" indivs="45500" pacs="60000" total="105500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="28000" total="28500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="140358" pacs="535900" total="676258"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="62200" pacs="196989" total="259189"/>
+    <sector sector_name="Health" sectorid="H" indivs="79525" pacs="737290" total="816815"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="237443" pacs="119876" total="357319"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="36800" pacs="132750" total="169550"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="106675" pacs="383750" total="490425"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="45900" total="45900"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="53950" pacs="130499" total="184449"/>
+    <sector sector_name="Other" sectorid="W" indivs="114110" pacs="250" total="114360"/>
+  </sectors>
+</response>

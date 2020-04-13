@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jeff Duncan (R)" cid="N00030752" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030752&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="7755" pacs="36500" total="44255"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2000" pacs="17000" total="19000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="8850" pacs="13500" total="22350"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="19500" total="19500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5150" pacs="64500" total="69650"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="31375" pacs="35500" total="66875"/>
+    <sector sector_name="Health" sectorid="H" indivs="14700" pacs="61500" total="76200"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="16000" pacs="3500" total="19500"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="9100" pacs="28000" total="37100"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="17445" pacs="35878" total="53323"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="6350" pacs="36850" total="43200"/>
+    <sector sector_name="Other" sectorid="W" indivs="19350" pacs="0" total="19350"/>
+  </sectors>
+</response>

@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Thompson, Glenn" data_year="2016" member_id="N00029736" net_low="-192989" net_high="505997" positions_held_count="0" asset_count="11" asset_low="257011" asset_high="706000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00029736" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="351 Virginia Street Howard PA Rental Property" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="National Western Sheltered Fixed Index Annuity" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="606 Walnut Street Howard PA Rental Property" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Funds EuroPacific Gr A (ticker AEPGX)" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Century Value Fund" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

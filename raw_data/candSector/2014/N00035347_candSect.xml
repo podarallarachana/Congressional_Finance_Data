@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Barry Loudermilk (R)" cid="N00035347" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035347&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="5200" pacs="4500" total="9700"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="17400" pacs="17500" total="34900"/>
+    <sector sector_name="Construction" sectorid="C" indivs="32836" pacs="12250" total="45086"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="7500" total="7500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3750" pacs="18500" total="22250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="62385" pacs="48500" total="110885"/>
+    <sector sector_name="Health" sectorid="H" indivs="20200" pacs="29500" total="49700"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="16350" pacs="1500" total="17850"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="36450" pacs="12000" total="48450"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="49915" pacs="27500" total="77415"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="103940" pacs="128024" total="231964"/>
+    <sector sector_name="Other" sectorid="W" indivs="65306" pacs="0" total="65306"/>
+  </sectors>
+</response>

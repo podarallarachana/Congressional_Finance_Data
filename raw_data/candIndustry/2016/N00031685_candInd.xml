@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Richard Blumenthal (D)" cid="N00031685" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031685&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1147900" pacs="138841" total="1286741"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="818078" pacs="68500" total="886578"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="424301" pacs="33000" total="457301"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="372385" pacs="0" total="372385"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="337500" total="337500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="292052" pacs="15550" total="307602"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="124698" pacs="143250" total="267948"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="151450" pacs="110750" total="262200"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="169113" pacs="39000" total="208113"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="46635" pacs="126600" total="173235"/>
+  </industries>
+</response>

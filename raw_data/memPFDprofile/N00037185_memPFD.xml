@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00037185" net_low="223037" net_high="924000" positions_held_count="0" asset_count="21" asset_low="223037" asset_high="924000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00037185" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Reliastar Life Insurance" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="INPRS Legislators' Defined Contribution Fund" holdings_low="65002" holdings_high="150000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Options Xpress Charles Schwab IRA" holdings_low="30002" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Eli Lilly &amp; Co" holdings_low="2002" holdings_high="30000" industry="Pharmaceuticals/Health Products" sector="Health" subsidiary_of=""/>
+      <asset name="Marathon Oil" holdings_low="2002" holdings_high="30000" industry="Oil &amp; Gas" sector="Energy/Nat Resource" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

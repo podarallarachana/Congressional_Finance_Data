@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Janice Hahn (D)" cid="N00006806" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006806&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="108650" pacs="26500" total="135150"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="1500" pacs="109499" total="110999"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="89450" pacs="20500" total="109950"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="91000" total="91000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="87418" pacs="0" total="87418"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="71401" pacs="15500" total="86901"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="750" pacs="83500" total="84250"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="81000" total="81000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="57450" pacs="0" total="57450"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="55000" total="55000"/>
+  </industries>
+</response>

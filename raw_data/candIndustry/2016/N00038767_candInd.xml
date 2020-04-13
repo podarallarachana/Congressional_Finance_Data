@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Warren Davidson (R)" cid="N00038767" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00038767&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="79442" pacs="11242" total="90684"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="26900" pacs="35000" total="61900"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="40061" pacs="0" total="40061"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="27220" pacs="5500" total="32720"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="30403" pacs="0" total="30403"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="27055" pacs="0" total="27055"/>
+    <industry industry_code="W02" industry_name="Non-Profit Institutions" indivs="22600" pacs="0" total="22600"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="19363" pacs="0" total="19363"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="7845" pacs="5000" total="12845"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="11642" pacs="1000" total="12642"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Suzanne Bonamici (D)" cid="N00033474" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033474&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="282580" pacs="24164" total="306744"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="117325" pacs="0" total="117325"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="105000" total="105000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="102500" total="102500"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="79600" pacs="13000" total="92600"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="22850" pacs="36500" total="59350"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="48500" total="48500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="47500" total="47500"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="500" pacs="43000" total="43500"/>
+    <industry industry_code="W04" industry_name="Education" indivs="42092" pacs="0" total="42092"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Patrick Leahy (D)" cid="N00009918" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009918&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="514481" pacs="125459" total="639940"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="250056" pacs="81550" total="331606"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="290400" pacs="4000" total="294400"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="195500" pacs="78711" total="274211"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="212400" total="212400"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="106000" pacs="22000" total="128000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="94000" total="94000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="87100" pacs="0" total="87100"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="48851" pacs="27711" total="76562"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="61400" pacs="13500" total="74900"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Grace Napolitano (D)" cid="N00006789" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00006789&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="10500" total="10500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1500" pacs="13500" total="15000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="500" pacs="13000" total="13500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="6500" total="6500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3500" pacs="16250" total="19750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="4800" pacs="14000" total="18800"/>
+    <sector sector_name="Health" sectorid="H" indivs="0" pacs="9500" total="9500"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="24000" pacs="10750" total="34750"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="52000" total="52000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="13526" pacs="20500" total="34026"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="88250" total="88250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="3000" pacs="4000" total="7000"/>
+    <sector sector_name="Other" sectorid="W" indivs="3100" pacs="0" total="3100"/>
+  </sectors>
+</response>

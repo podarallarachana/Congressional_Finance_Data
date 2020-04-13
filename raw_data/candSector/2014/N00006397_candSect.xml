@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Ed Pastor (D)" cid="N00006397" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00006397&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="4000" total="4000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2000" pacs="16500" total="18500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5000" pacs="9500" total="14500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="28500" total="29000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1000" pacs="26000" total="27000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="0" pacs="5500" total="5500"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="19500" pacs="8250" total="27750"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="39000" total="39000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="14200" pacs="12000" total="26200"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="67500" total="67500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="4500" total="4500"/>
+    <sector sector_name="Other" sectorid="W" indivs="6750" pacs="0" total="6750"/>
+  </sectors>
+</response>

@@ -1,0 +1,15 @@
+<response>
+  <industries cand_name="Jose E Serrano (D)" cid="N00001813" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001813&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="62500" total="62500"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="19500" total="19500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="7950" pacs="10000" total="17950"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="15200" total="15200"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="13050" pacs="0" total="13050"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1500" pacs="10750" total="12250"/>
+    <industry industry_code="W04" industry_name="Education" indivs="13000" pacs="-1000" total="12000"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="2700" pacs="8500" total="11200"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="0" pacs="11000" total="11000"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="11000" total="11000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="11000" total="11000"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Steven Daines (R)" cid="N00033054" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033054&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="575579" pacs="0" total="575579"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="476725" pacs="35000" total="511725"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="242569" pacs="167500" total="410069"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="327267" total="327267"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="229825" pacs="22500" total="252325"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="131675" pacs="52851" total="184526"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="151250" pacs="22500" total="173750"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="69950" pacs="86100" total="156050"/>
+    <industry industry_code="A06" industry_name="Livestock" indivs="126425" pacs="18500" total="144925"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="81550" pacs="59750" total="141300"/>
+  </industries>
+</response>

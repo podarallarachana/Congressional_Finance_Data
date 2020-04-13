@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Niki Tsongas (D)" cid="N00029026" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029026&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="92150" pacs="15750" total="107900"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="68375" pacs="4000" total="72375"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="61675" pacs="0" total="61675"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="57049" pacs="100" total="57149"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="37000" total="37000"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="7000" pacs="26000" total="33000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="28650" pacs="2000" total="30650"/>
+    <industry industry_code="W03" industry_name="Civil Servants/Public Officials" indivs="30550" pacs="0" total="30550"/>
+    <industry industry_code="W02" industry_name="Non-Profit Institutions" indivs="29250" pacs="0" total="29250"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="14250" pacs="14500" total="28750"/>
+  </industries>
+</response>

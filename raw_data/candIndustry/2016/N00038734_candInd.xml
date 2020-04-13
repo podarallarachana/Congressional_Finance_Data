@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jacky Rosen (D)" cid="N00038734" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00038734&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="12900" pacs="149085" total="161985"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="104148" pacs="16500" total="120648"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="73456" pacs="5100" total="78556"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="60247" pacs="2500" total="62747"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="57170" pacs="4000" total="61170"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="59500" total="59500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="56188" pacs="0" total="56188"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="40570" pacs="12633" total="53203"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="51000" total="51000"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="35319" pacs="9384" total="44703"/>
+  </industries>
+</response>

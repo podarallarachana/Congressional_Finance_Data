@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Al Lawson (D)" cid="N00030642" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030642&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1350" pacs="4000" total="5350"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1000" pacs="2000" total="3000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1250" pacs="3500" total="4750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="500" pacs="5000" total="5500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="31950" pacs="29500" total="61450"/>
+    <sector sector_name="Health" sectorid="H" indivs="6300" pacs="5000" total="11300"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="27468" pacs="11000" total="38468"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="3000" total="3000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="14296" pacs="10000" total="24296"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="47000" total="47250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="-1000" pacs="16000" total="15000"/>
+    <sector sector_name="Other" sectorid="W" indivs="31907" pacs="0" total="31907"/>
+  </sectors>
+</response>

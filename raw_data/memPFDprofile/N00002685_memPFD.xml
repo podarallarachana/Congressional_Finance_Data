@@ -1,0 +1,12 @@
+<response>
+  <member_profile name="Chambliss, Saxby" data_year="2016" member_id="N00002685" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00002685" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Southwest Georgia Financial Corp" tx_date="Jul  2 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Southwest Georgia Financial Corp" tx_date="May  7 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Southwest Georgia Financial Corp" tx_date="Apr 16 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+    <positions>
+      <position title="Director" organization="Camp Sunshine"/>
+    </positions>
+  </member_profile>
+</response>

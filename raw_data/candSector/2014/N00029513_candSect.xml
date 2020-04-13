@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Andre Carson (D)" cid="N00029513" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029513&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="250" pacs="9500" total="9750"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="11400" pacs="15500" total="26900"/>
+    <sector sector_name="Construction" sectorid="C" indivs="29850" pacs="11500" total="41350"/>
+    <sector sector_name="Defense" sectorid="D" indivs="250" pacs="64500" total="64750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3500" pacs="12000" total="15500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="55700" pacs="50000" total="105700"/>
+    <sector sector_name="Health" sectorid="H" indivs="113980" pacs="29500" total="143480"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="81571" pacs="26800" total="108371"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="4800" pacs="83621" total="88421"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="30184" pacs="24000" total="54184"/>
+    <sector sector_name="Labor" sectorid="P" indivs="650" pacs="183250" total="183900"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="15145" pacs="38437" total="53582"/>
+    <sector sector_name="Other" sectorid="W" indivs="45700" pacs="2000" total="47700"/>
+  </sectors>
+</response>

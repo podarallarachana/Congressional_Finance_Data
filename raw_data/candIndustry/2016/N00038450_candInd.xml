@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Dwight Evans (D)" cid="N00038450" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00038450&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="143898" pacs="22324" total="166222"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="86341" pacs="13000" total="99341"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="250" pacs="50500" total="50750"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="950" pacs="35000" total="35950"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="22500" pacs="13000" total="35500"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="34322" pacs="1000" total="35322"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="31100" pacs="1000" total="32100"/>
+    <industry industry_code="W03" industry_name="Civil Servants/Public Officials" indivs="28087" pacs="0" total="28087"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="25825" pacs="2250" total="28075"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="28000" total="28000"/>
+  </industries>
+</response>

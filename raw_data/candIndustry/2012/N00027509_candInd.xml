@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Scott Tipton (R)" cid="N00027509" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027509&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="272172" pacs="0" total="272172"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="74274" pacs="74000" total="148274"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="143250" total="143250"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="105709" pacs="17500" total="123209"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="64326" pacs="11547" total="75873"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="54600" pacs="0" total="54600"/>
+    <industry industry_code="A06" industry_name="Livestock" indivs="43000" pacs="10500" total="53500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="48000" pacs="5000" total="53000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="31350" pacs="17000" total="48350"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="31898" pacs="13000" total="44898"/>
+  </industries>
+</response>

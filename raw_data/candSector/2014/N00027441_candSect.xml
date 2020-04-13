@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Bob Corker (R)" cid="N00027441" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027441&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="182336" pacs="114850" total="297186"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="219286" pacs="130251" total="349537"/>
+    <sector sector_name="Construction" sectorid="C" indivs="443100" pacs="60750" total="503850"/>
+    <sector sector_name="Defense" sectorid="D" indivs="8170" pacs="50500" total="58670"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="276975" pacs="265061" total="542036"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="2463429" pacs="980770" total="3444199"/>
+    <sector sector_name="Health" sectorid="H" indivs="666506" pacs="360400" total="1026906"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="645163" pacs="115765" total="760928"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="255195" pacs="116500" total="371695"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="899159" pacs="316345" total="1215504"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="12000" total="12000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="121160" pacs="299000" total="420160"/>
+    <sector sector_name="Other" sectorid="W" indivs="639909" pacs="3500" total="643409"/>
+  </sectors>
+</response>

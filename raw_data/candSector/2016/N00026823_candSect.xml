@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John Kennedy (R)" cid="N00026823" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026823&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="194545" pacs="58500" total="253045"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="86100" pacs="27000" total="113100"/>
+    <sector sector_name="Construction" sectorid="C" indivs="612100" pacs="48500" total="660600"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="9500" total="9500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="403400" pacs="150700" total="554100"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="937777" pacs="77000" total="1014777"/>
+    <sector sector_name="Health" sectorid="H" indivs="488400" pacs="87100" total="575500"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="562350" pacs="33000" total="595350"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="365600" pacs="98200" total="463800"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="458946" pacs="90000" total="548946"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="8500" total="8500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="109448" pacs="275235" total="384683"/>
+    <sector sector_name="Other" sectorid="W" indivs="724110" pacs="5000" total="729110"/>
+  </sectors>
+</response>

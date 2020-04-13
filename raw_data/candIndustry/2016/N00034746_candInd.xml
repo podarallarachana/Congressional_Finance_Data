@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ron DeSantis (R)" cid="N00034746" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034746&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="806629" pacs="0" total="806629"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="589351" pacs="60069" total="649420"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="282270" pacs="0" total="282270"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="189196" pacs="4500" total="193696"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="120610" pacs="3500" total="124110"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="105583" pacs="14000" total="119583"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="111310" pacs="6500" total="117810"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="108900" total="108900"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="69500" pacs="12500" total="82000"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="76100" pacs="5000" total="81100"/>
+  </industries>
+</response>

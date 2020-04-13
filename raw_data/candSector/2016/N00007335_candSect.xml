@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Anna Eshoo (D)" cid="N00007335" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00007335&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="3250" pacs="10000" total="13250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="120925" pacs="204712" total="325637"/>
+    <sector sector_name="Construction" sectorid="C" indivs="12950" pacs="0" total="12950"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="21000" total="21000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="10775" pacs="8500" total="19275"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="108550" pacs="67000" total="175550"/>
+    <sector sector_name="Health" sectorid="H" indivs="94231" pacs="196790" total="291021"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="70173" pacs="16000" total="86173"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="5400" pacs="26000" total="31400"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="41950" pacs="25500" total="67450"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="72000" total="72000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="22200" pacs="11000" total="33200"/>
+    <sector sector_name="Other" sectorid="W" indivs="135175" pacs="0" total="135175"/>
+  </sectors>
+</response>

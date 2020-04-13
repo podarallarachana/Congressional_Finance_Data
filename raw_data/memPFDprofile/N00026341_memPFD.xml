@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="Costa, Jim" data_year="2016" member_id="N00026341" net_low="1853029" net_high="7820999" positions_held_count="0" asset_count="28" asset_low="2353029" asset_high="8071000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00026341" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="James M Costa Farms" holdings_low="1000001" holdings_high="5000000" industry="Crop Production &amp; Basic Processing" sector="Agribusiness" subsidiary_of=""/>
+      <asset name="Rental home" holdings_low="750002" holdings_high="1500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="United Security Bank" holdings_low="250001" holdings_high="500000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="American Funds Washington Mutual Investors Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="MFS Ser Tr 1 Value Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Advisory Council Member" organization="Congressional Hispanic Caucus Institute"/>
+      <position title="Board Member" organization="Maddy Institute CA State University"/>
+    </positions>
+  </member_profile>
+</response>

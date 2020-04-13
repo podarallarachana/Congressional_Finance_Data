@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ron Johnson (R)" cid="N00032546" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00032546&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="639521" pacs="0" total="639521"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="249835" pacs="14000" total="263835"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="218234" pacs="36500" total="254734"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="213126" pacs="33325" total="246451"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="142930" pacs="32900" total="175830"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="172396" total="172396"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="80550" pacs="85150" total="165700"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="141133" pacs="12724" total="153857"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="97721" pacs="12500" total="110221"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="96575" pacs="10000" total="106575"/>
+  </industries>
+</response>

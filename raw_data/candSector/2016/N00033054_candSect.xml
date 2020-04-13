@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Steven Daines (R)" cid="N00033054" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033054&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="318450" pacs="151200" total="469650"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="144276" pacs="131440" total="275716"/>
+    <sector sector_name="Construction" sectorid="C" indivs="281542" pacs="80250" total="361792"/>
+    <sector sector_name="Defense" sectorid="D" indivs="6100" pacs="21000" total="27100"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="373589" pacs="314000" total="687589"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1057181" pacs="315100" total="1372281"/>
+    <sector sector_name="Health" sectorid="H" indivs="100250" pacs="124166" total="224416"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="214316" pacs="26563" total="240879"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="130675" pacs="193055" total="323730"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="495668" pacs="205429" total="701097"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="26500" total="26500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="201253" pacs="459838" total="661091"/>
+    <sector sector_name="Other" sectorid="W" indivs="687636" pacs="8000" total="695636"/>
+  </sectors>
+</response>

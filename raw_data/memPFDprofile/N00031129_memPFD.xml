@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="Lankford, James" data_year="2016" member_id="N00031129" net_low="4062" net_high="1469999" positions_held_count="2" asset_count="39" asset_low="314062" asset_high="1610000" transaction_count="23" tx_low="23023" tx_high="345000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031129" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Invesco Comstock Fund" holdings_low="51009" holdings_high="240000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Conservative Managed Allocation Age 18+" holdings_low="45003" holdings_high="150000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Conservative Managed Allocation Age 14-17" holdings_low="45003" holdings_high="150000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Capital Apprecitation" holdings_low="45003" holdings_high="150000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Advisor New Insights Fund" holdings_low="19005" holdings_high="110000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Fidelity Cash Reserve Fund" tx_date="Jun 14 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="DWS Global High Income Fund" tx_date="Jun 13 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Dodge &amp; Cox Income Fund" tx_date="Jun 13 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="American Beacon Stephens Small Cap Growth INV" tx_date="May 16 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Invesco Comstock Fund" tx_date="Jun 14 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Trustee" organization="Jasmine Moran Children's Museum"/>
+    </positions>
+  </member_profile>
+</response>

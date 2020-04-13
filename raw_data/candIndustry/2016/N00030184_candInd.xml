@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Cedric Richmond (D)" cid="N00030184" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030184&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="115350" pacs="37800" total="153150"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="7400" pacs="55000" total="62400"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="61000" total="61000"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="3000" pacs="44750" total="47750"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="47125" total="47125"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="42000" total="42000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="39637" pacs="2000" total="41637"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="3250" pacs="36500" total="39750"/>
+    <industry industry_code="N13" industry_name="Chemical &amp; Related Manufacturing" indivs="0" pacs="37000" total="37000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="19500" pacs="16500" total="36000"/>
+  </industries>
+</response>

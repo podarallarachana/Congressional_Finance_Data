@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Grace Meng (D)" cid="N00034547" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034547&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="57750" pacs="8500" total="66250"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="31267" pacs="10000" total="41267"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="23000" pacs="10000" total="33000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="31500" pacs="0" total="31500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="28600" total="28600"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="22350" pacs="6000" total="28350"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="28000" total="28000"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="26115" pacs="0" total="26115"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="24950" pacs="0" total="24950"/>
+    <industry industry_code="N04" industry_name="Misc Services" indivs="22500" pacs="0" total="22500"/>
+  </industries>
+</response>

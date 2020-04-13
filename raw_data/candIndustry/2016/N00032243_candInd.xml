@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jody B Hice (R)" cid="N00032243" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00032243&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="32863" pacs="0" total="32863"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="16150" pacs="6000" total="22150"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="5950" pacs="12000" total="17950"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="3300" pacs="12500" total="15800"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="5400" pacs="10000" total="15400"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="1750" pacs="12000" total="13750"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="5400" pacs="8200" total="13600"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="13500" total="13500"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="7900" pacs="5500" total="13400"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="13300" pacs="0" total="13300"/>
+  </industries>
+</response>

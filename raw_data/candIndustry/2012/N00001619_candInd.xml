@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Robert A Brady (D)" cid="N00001619" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001619&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="43950" pacs="23250" total="67200"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="500" pacs="51150" total="51650"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="47000" total="47000"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="32500" total="32500"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="30900" pacs="0" total="30900"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="24350" total="24350"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="23700" pacs="0" total="23700"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="16750" pacs="1500" total="18250"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="17500" total="17500"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="5500" pacs="10000" total="15500"/>
+  </industries>
+</response>

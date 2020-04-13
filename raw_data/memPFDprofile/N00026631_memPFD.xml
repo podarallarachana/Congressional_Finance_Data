@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Fortenberry, Jeff" data_year="2016" member_id="N00026631" net_low="-1048988" net_high="23999993" positions_held_count="0" asset_count="12" asset_low="5166012" asset_high="25540000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00026631" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Piedmont Shopping Center" holdings_low="5000001" holdings_high="25000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Gloria Deo Inc" holdings_low="100001" holdings_high="250000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="Pioneer Global High Yield Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="John Hancock Core High Yield Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Pepex Biomedical" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Piedmont Shopping Center" tx_date="Jun 10 2013" tx_action="Purchased" value_low="250001" value_high="500000"/>
+    </transactions>
+  </member_profile>
+</response>

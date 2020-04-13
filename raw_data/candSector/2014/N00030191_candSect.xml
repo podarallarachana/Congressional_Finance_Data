@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Dina Titus (D)" cid="N00030191" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030191&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="8000" pacs="1500" total="9500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="16100" pacs="25000" total="41100"/>
+    <sector sector_name="Construction" sectorid="C" indivs="12250" pacs="24000" total="36250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="12850" pacs="23250" total="36100"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="49600" pacs="42500" total="92100"/>
+    <sector sector_name="Health" sectorid="H" indivs="26945" pacs="27500" total="54445"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="66800" pacs="27311" total="94111"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="14650" pacs="50225" total="64875"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="78350" pacs="53600" total="131950"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="178000" total="178000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="28450" pacs="31600" total="60050"/>
+    <sector sector_name="Other" sectorid="W" indivs="59975" pacs="250" total="60225"/>
+  </sectors>
+</response>

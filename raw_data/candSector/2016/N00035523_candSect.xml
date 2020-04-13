@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Elise Stefanik (R)" cid="N00035523" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035523&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="18639" pacs="83716" total="102355"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="27700" pacs="69190" total="96890"/>
+    <sector sector_name="Construction" sectorid="C" indivs="61530" pacs="54700" total="116230"/>
+    <sector sector_name="Defense" sectorid="D" indivs="8500" pacs="110000" total="118500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="20675" pacs="70000" total="90675"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="465327" pacs="288000" total="753327"/>
+    <sector sector_name="Health" sectorid="H" indivs="35822" pacs="91170" total="126992"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="176235" pacs="27000" total="203235"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="12300" pacs="42700" total="55000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="133141" pacs="135998" total="269139"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="66500" total="66500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="94484" pacs="364114" total="458598"/>
+    <sector sector_name="Other" sectorid="W" indivs="176914" pacs="19000" total="195914"/>
+  </sectors>
+</response>

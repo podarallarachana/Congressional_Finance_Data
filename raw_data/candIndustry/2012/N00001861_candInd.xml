@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Henry Waxman (D)" cid="N00001861" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001861&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="8250" pacs="175000" total="183250"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="25500" pacs="104500" total="130000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="58630" pacs="69200" total="127830"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="36000" pacs="56000" total="92000"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="17750" pacs="64000" total="81750"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="32000" pacs="43000" total="75000"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="49050" pacs="13100" total="62150"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="55393" pacs="5000" total="60393"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="30250" pacs="22500" total="52750"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="49500" total="49500"/>
+  </industries>
+</response>

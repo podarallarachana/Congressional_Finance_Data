@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jeff Duncan (R)" cid="N00030752" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030752&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="3100" pacs="46500" total="49600"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="6250" pacs="25000" total="31250"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="6450" pacs="23000" total="29450"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="11925" pacs="7500" total="19425"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="18850" pacs="0" total="18850"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="7505" pacs="11000" total="18505"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="2850" pacs="14500" total="17350"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="4100" pacs="12500" total="16600"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="2050" pacs="14000" total="16050"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="13600" pacs="0" total="13600"/>
+  </industries>
+</response>

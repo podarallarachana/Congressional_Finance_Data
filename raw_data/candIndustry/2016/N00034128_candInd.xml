@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Matt Cartwright (D)" cid="N00034128" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034128&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="255101" pacs="14000" total="269101"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="350" pacs="70000" total="70350"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="58000" total="58000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="48000" total="48000"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="39500" total="39500"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="1000" pacs="22250" total="23250"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="19000" total="19000"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="755" pacs="15000" total="15755"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="3150" pacs="11000" total="14150"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="8100" pacs="5571" total="13671"/>
+  </industries>
+</response>

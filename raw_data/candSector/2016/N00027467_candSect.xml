@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tim Walz (D)" cid="N00027467" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027467&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="19400" pacs="144750" total="164150"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="6550" pacs="17000" total="23550"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1000" pacs="19000" total="20000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="4400" pacs="48000" total="52400"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3300" pacs="43750" total="47050"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="64954" pacs="41000" total="105954"/>
+    <sector sector_name="Health" sectorid="H" indivs="33375" pacs="70150" total="103525"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="78083" pacs="25750" total="103833"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="6510" pacs="25750" total="32260"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="63860" pacs="49000" total="112860"/>
+    <sector sector_name="Labor" sectorid="P" indivs="450" pacs="201500" total="201950"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="22230" pacs="81100" total="103330"/>
+    <sector sector_name="Other" sectorid="W" indivs="174815" pacs="2500" total="177315"/>
+  </sectors>
+</response>

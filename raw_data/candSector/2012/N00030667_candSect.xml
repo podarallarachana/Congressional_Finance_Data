@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Adam Kinzinger (R)" cid="N00030667" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030667&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="37400" pacs="60206" total="97606"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="20250" pacs="122350" total="142600"/>
+    <sector sector_name="Construction" sectorid="C" indivs="74010" pacs="18000" total="92010"/>
+    <sector sector_name="Defense" sectorid="D" indivs="250" pacs="30000" total="30250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="44312" pacs="130625" total="174937"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="171100" pacs="121500" total="292600"/>
+    <sector sector_name="Health" sectorid="H" indivs="28000" pacs="140500" total="168500"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="85284" pacs="8000" total="93284"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="21500" pacs="49000" total="70500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="93050" pacs="105500" total="198550"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1750" pacs="41500" total="43250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="39650" pacs="151900" total="191550"/>
+    <sector sector_name="Other" sectorid="W" indivs="61374" pacs="0" total="61374"/>
+  </sectors>
+</response>

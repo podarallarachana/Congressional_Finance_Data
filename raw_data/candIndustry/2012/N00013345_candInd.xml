@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Steve Israel (D)" cid="N00013345" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00013345&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="233400" pacs="50175" total="283575"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="175507" pacs="45500" total="221007"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="137600" pacs="25473" total="163073"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="73000" pacs="69000" total="142000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="95600" total="95600"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="89800" pacs="0" total="89800"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="66000" pacs="22000" total="88000"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="77050" pacs="3500" total="80550"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="74800" pacs="3953" total="78753"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="26750" pacs="49000" total="75750"/>
+  </industries>
+</response>

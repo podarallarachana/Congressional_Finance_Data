@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Robert E Latta (R)" cid="N00012233" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00012233&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="18550" pacs="44000" total="62550"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="15650" pacs="40000" total="55650"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="10550" pacs="37500" total="48050"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="1000" pacs="45000" total="46000"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="1250" pacs="42500" total="43750"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="41850" pacs="0" total="41850"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="23250" pacs="17500" total="40750"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="500" pacs="36900" total="37400"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="34250" total="34250"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="6750" pacs="21000" total="27750"/>
+  </industries>
+</response>

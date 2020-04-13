@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00037442" net_low="2921064" net_high="12304998" positions_held_count="0" asset_count="46" asset_low="4436064" asset_high="13065000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00037442" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="small strip Mall" holdings_low="1000001" holdings_high="5000000" industry="Retail Sales" sector="Misc Business" subsidiary_of=""/>
+      <asset name="Summit Financial Enterprises" holdings_low="1200004" holdings_high="2500000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="Gulf Resources LLC/Commercial Retail Building" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Usaa Whole Life Insurance Policy" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="T Rowe Price Health Sciences Fund" holdings_low="117004" holdings_high="330000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

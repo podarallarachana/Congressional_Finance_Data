@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mike Crapo (R)" cid="N00006267" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00006267&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="98196" pacs="157049" total="255245"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="56250" pacs="98790" total="155040"/>
+    <sector sector_name="Construction" sectorid="C" indivs="75116" pacs="144500" total="219616"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="48000" total="48000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="90126" pacs="201612" total="291738"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1085752" pacs="1373270" total="2459022"/>
+    <sector sector_name="Health" sectorid="H" indivs="209594" pacs="415471" total="625065"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="317156" pacs="90600" total="407756"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="72170" pacs="91100" total="163270"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="209150" pacs="246516" total="455666"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="6500" total="6500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="172220" pacs="469831" total="642051"/>
+    <sector sector_name="Other" sectorid="W" indivs="198865" pacs="0" total="198865"/>
+  </sectors>
+</response>

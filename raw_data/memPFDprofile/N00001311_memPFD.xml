@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Slaughter, Louise M" data_year="2016" member_id="N00001311" net_low="1093021" net_high="2545000" positions_held_count="0" asset_count="20" asset_low="1093021" asset_high="2545000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00001311" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Procter &amp; Gamble" holdings_low="250001" holdings_high="500000" industry="Misc Manufacturing &amp; Distributing" sector="Misc Business" subsidiary_of=""/>
+      <asset name="Eastman Savings &amp; Loan Traditional IRA Money Maker" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Franklin Mutual Quest Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Balanced Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Permanent Portfolio Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Eastman Savings &amp; Loan 30 mo Fixed CD IRA" tx_date="Dec  3 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Fidelity Balanced Fund" tx_date="Mar 14 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Fidelity Freedom Income" tx_date="Quarterly" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Fidelity Balanced Fund" tx_date="Quarterly" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Fidelity Asset Manager Fund" tx_date="Quarterly" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

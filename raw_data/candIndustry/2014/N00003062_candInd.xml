@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jeff Sessions (R)" cid="N00003062" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00003062&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="101500" total="101500"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="2000" pacs="95500" total="97500"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="2250" pacs="87000" total="89250"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="24205" pacs="52198" total="76403"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="40400" pacs="24000" total="64400"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="58250" total="58250"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="25400" pacs="30600" total="56000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="11450" pacs="42000" total="53450"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="8150" pacs="39500" total="47650"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="3100" pacs="43500" total="46600"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Hal Rogers (R)" cid="N00003473" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00003473&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="M01" industry_name="Air Transport" indivs="7500" pacs="65800" total="73300"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="3500" pacs="57500" total="61000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="14900" pacs="44500" total="59400"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="7600" pacs="51000" total="58600"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="500" pacs="55500" total="56000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="50993" pacs="5000" total="55993"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="14200" pacs="32500" total="46700"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="14900" pacs="31750" total="46650"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="4200" pacs="37500" total="41700"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="2000" pacs="38000" total="40000"/>
+  </industries>
+</response>

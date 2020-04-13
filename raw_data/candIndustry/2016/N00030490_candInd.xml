@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Marcia L Fudge (D)" cid="N00030490" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030490&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="54500" total="54500"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="5000" pacs="42500" total="47500"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="0" pacs="44000" total="44000"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="40500" total="40500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="2000" pacs="35000" total="37000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="7531" pacs="23000" total="30531"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="0" pacs="27000" total="27000"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="26500" total="26500"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="2000" pacs="21500" total="23500"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="500" pacs="23000" total="23500"/>
+  </industries>
+</response>

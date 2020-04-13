@@ -1,0 +1,13 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033316" net_low="-112998" net_high="-30001" positions_held_count="2" asset_count="2" asset_low="2002" asset_high="30000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033316" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Congressional Federal Credit Union" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Member" organization="2006 Magnolia LLC (Partnership)"/>
+      <position title="Director" organization="Congressional Hispanic Caucus Institute"/>
+      <position title="Director" organization="National College Advising Corps"/>
+    </positions>
+  </member_profile>
+</response>

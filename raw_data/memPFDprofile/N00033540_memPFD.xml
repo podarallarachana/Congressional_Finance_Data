@@ -1,0 +1,22 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033540" net_low="-1236972" net_high="19855996" positions_held_count="0" asset_count="27" asset_low="4413028" asset_high="21171000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033540" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Peppertree Square Ltd" holdings_low="2000002" holdings_high="10000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Imperial Arms LLC" holdings_low="1000001" holdings_high="5000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Note Receivable - Amy Sanders O'Rourke 2014 Invest" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Stanton Street Technology Group" holdings_low="250001" holdings_high="500000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="Goldman Sachs Financial Square Treas Instrs Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="iShares US Financial Services ETF" tx_date="Mar  5 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="SPDR DJ Euro STOXX 50 Etf" tx_date="Mar  4 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Corning Inc" tx_date="Mar  4 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Coach Inc" tx_date="Mar  4 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Trusted Hands Metlife Stable Value Solutions" tx_date="Sep  6 2013" tx_action="Exchanged" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Director" organization="Imperial Arms LLC"/>
+      <position title="Partner" organization="Peppertree Square Ltd"/>
+    </positions>
+  </member_profile>
+</response>

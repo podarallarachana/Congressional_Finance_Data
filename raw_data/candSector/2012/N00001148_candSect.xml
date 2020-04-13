@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Carolyn McCarthy (D)" cid="N00001148" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001148&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1200" pacs="3500" total="4700"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="19250" pacs="19000" total="38250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="8000" pacs="11000" total="19000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="450" pacs="10000" total="10450"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5500" pacs="10000" total="15500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="82200" pacs="368510" total="450710"/>
+    <sector sector_name="Health" sectorid="H" indivs="13500" pacs="132150" total="145650"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="56350" pacs="24400" total="80750"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="3000" pacs="11000" total="14000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="14750" pacs="20055" total="34805"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1000" pacs="156500" total="157500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="116100" pacs="35000" total="151100"/>
+    <sector sector_name="Other" sectorid="W" indivs="157343" pacs="25500" total="182843"/>
+  </sectors>
+</response>

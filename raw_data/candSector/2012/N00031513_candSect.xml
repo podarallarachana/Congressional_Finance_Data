@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Renee Ellmers (R)" cid="N00031513" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031513&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="24950" pacs="139500" total="164450"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3750" pacs="21500" total="25250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="25900" pacs="21325" total="47225"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1000" pacs="10500" total="11500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="6700" pacs="22000" total="28700"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="51450" pacs="78800" total="130250"/>
+    <sector sector_name="Health" sectorid="H" indivs="24350" pacs="95250" total="119600"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="14175" pacs="11750" total="25925"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1500" pacs="26500" total="28000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="35607" pacs="67499" total="103106"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="14500" total="14500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="4950" pacs="90947" total="95897"/>
+    <sector sector_name="Other" sectorid="W" indivs="38600" pacs="2000" total="40600"/>
+  </sectors>
+</response>

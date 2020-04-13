@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Gus Bilirakis (R)" cid="N00027462" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027462&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="2800" pacs="18000" total="20800"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2750" pacs="60000" total="62750"/>
+    <sector sector_name="Construction" sectorid="C" indivs="2750" pacs="13500" total="16250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="300" pacs="21000" total="21300"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="10000" pacs="58500" total="68500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="60747" pacs="76500" total="137247"/>
+    <sector sector_name="Health" sectorid="H" indivs="53629" pacs="251950" total="305579"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="45485" pacs="13750" total="59235"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2200" pacs="25000" total="27200"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="53341" pacs="95500" total="148841"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="3700" pacs="19050" total="22750"/>
+    <sector sector_name="Other" sectorid="W" indivs="25765" pacs="3000" total="28765"/>
+  </sectors>
+</response>

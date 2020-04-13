@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Chuck Grassley (R)" cid="N00001758" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001758&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="879737" pacs="0" total="879737"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="491157" pacs="58000" total="549157"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="344841" pacs="119950" total="464791"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="453299" total="453299"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="113485" pacs="235000" total="348485"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="75725" pacs="233100" total="308825"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="278276" pacs="26487" total="304763"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="225986" pacs="58500" total="284486"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="90450" pacs="164619" total="255069"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="162802" pacs="64000" total="226802"/>
+  </industries>
+</response>

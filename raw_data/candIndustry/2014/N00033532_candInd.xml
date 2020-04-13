@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="James Bridenstine (R)" cid="N00033532" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033532&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="29000" pacs="38500" total="67500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="30950" pacs="23000" total="53950"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="1250" pacs="40000" total="41250"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="36350" pacs="0" total="36350"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="10750" pacs="20738" total="31488"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="0" pacs="21000" total="21000"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="18000" total="18000"/>
+    <industry industry_code="W04" industry_name="Education" indivs="17815" pacs="0" total="17815"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="13550" pacs="3403" total="16953"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="6250" pacs="10500" total="16750"/>
+  </industries>
+</response>

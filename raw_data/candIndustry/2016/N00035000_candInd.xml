@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Stacey Plaskett (D)" cid="N00035000" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035000&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="31000" total="31000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="23150" pacs="4500" total="27650"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="16500" total="16500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="15000" total="15000"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="9550" pacs="5000" total="14550"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="14247" pacs="0" total="14247"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="2250" pacs="9000" total="11250"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="0" pacs="11000" total="11000"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="0" pacs="10500" total="10500"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="0" pacs="10488" total="10488"/>
+  </industries>
+</response>

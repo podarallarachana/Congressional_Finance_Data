@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Adam Schiff (D)" cid="N00009585" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009585&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="87850" pacs="15500" total="103350"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="54605" pacs="0" total="54605"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="21800" pacs="28000" total="49800"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="36350" pacs="12250" total="48600"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="32950" pacs="8000" total="40950"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="2700" pacs="33000" total="35700"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="34000" total="34000"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="0" pacs="25000" total="25000"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="22500" total="22500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="22500" total="22500"/>
+  </industries>
+</response>

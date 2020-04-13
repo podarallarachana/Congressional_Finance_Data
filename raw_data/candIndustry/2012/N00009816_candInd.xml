@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Chris Smith (R)" cid="N00009816" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009816&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="37500" total="37500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="36800" pacs="0" total="36800"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="29500" total="29500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="14100" pacs="9000" total="23100"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="10000" pacs="12000" total="22000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="18750" pacs="1000" total="19750"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="12000" pacs="5584" total="17584"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="6700" pacs="8400" total="15100"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="14800" total="14800"/>
+    <industry industry_code="Q14" industry_name="Abortion Policy/Anti-Abortion" indivs="2800" pacs="12000" total="14800"/>
+  </industries>
+</response>

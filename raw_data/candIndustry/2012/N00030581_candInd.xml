@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mike Quigley (D)" cid="N00030581" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030581&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="49723" pacs="13999" total="63722"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="44550" pacs="18500" total="63050"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="1000" pacs="29500" total="30500"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="21650" pacs="6000" total="27650"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="16500" pacs="8000" total="24500"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="22750" pacs="1600" total="24350"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="250" pacs="20000" total="20250"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="19300" total="19300"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="1000" pacs="16935" total="17935"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="9800" pacs="7500" total="17300"/>
+  </industries>
+</response>

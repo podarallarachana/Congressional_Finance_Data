@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Stephen F Lynch (D)" cid="N00013855" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00013855&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="131000" total="131000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="69500" total="69500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="32683" pacs="15250" total="47933"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="6750" pacs="35000" total="41750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="23300" pacs="17500" total="40800"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="38000" total="38000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="3850" pacs="31500" total="35350"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="29500" total="29500"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="13300" pacs="5000" total="18300"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="12250" pacs="2000" total="14250"/>
+  </industries>
+</response>

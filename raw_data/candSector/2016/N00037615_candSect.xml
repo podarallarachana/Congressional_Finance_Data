@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Jenniffer Gonzalez (3)" cid="N00037615" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00037615&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3000" pacs="2500" total="5500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="21600" pacs="0" total="21600"/>
+    <sector sector_name="Defense" sectorid="D" indivs="3000" pacs="0" total="3000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="2500" pacs="0" total="2500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="70551" pacs="3000" total="73551"/>
+    <sector sector_name="Health" sectorid="H" indivs="54700" pacs="3500" total="58200"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="164828" pacs="8748" total="173576"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="4000" pacs="15400" total="19400"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="127049" pacs="4500" total="131549"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="5500" total="5500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="8500" total="8500"/>
+    <sector sector_name="Other" sectorid="W" indivs="44945" pacs="0" total="44945"/>
+  </sectors>
+</response>

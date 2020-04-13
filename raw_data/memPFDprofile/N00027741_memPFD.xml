@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Loebsack, David" data_year="2016" member_id="N00027741" net_low="175015" net_high="774999" positions_held_count="0" asset_count="12" asset_low="275015" asset_high="825000" transaction_count="4" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00027741" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="TIAA Real Estate Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="" holdings_low="46004" holdings_high="165000" industry="" sector="" subsidiary_of=""/>
+      <asset name="CREF Growth Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="TIAA Traditional Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="CREF Global Equities Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Rental Property/610 3rd Ave NW Mt Vernon, IA" tx_date="May 30 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="CREF Inflation Linked Bond Fund" tx_date="Dec 23 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="TIAA Real Estate Fund" tx_date="Dec 23 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="TIAA - CREF Lifecycle 2015" tx_date="Dec 23 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="CREF Stock Fund" tx_date="Dec 23 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Larry Bucshon (R)" cid="N00031227" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031227&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="6050" pacs="37700" total="43750"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1600" pacs="46500" total="48100"/>
+    <sector sector_name="Construction" sectorid="C" indivs="21850" pacs="18000" total="39850"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5200" pacs="13500" total="18700"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="20300" pacs="70399" total="90699"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="27500" pacs="42800" total="70300"/>
+    <sector sector_name="Health" sectorid="H" indivs="67175" pacs="274825" total="342000"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="30164" pacs="16500" total="46664"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2879" pacs="38500" total="41379"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="51275" pacs="38500" total="89775"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2100" pacs="42600" total="44700"/>
+    <sector sector_name="Other" sectorid="W" indivs="20250" pacs="0" total="20250"/>
+  </sectors>
+</response>

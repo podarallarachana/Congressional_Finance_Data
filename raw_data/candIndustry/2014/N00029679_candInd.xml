@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Fleming (R)" cid="N00029679" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029679&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="123027" pacs="66000" total="189027"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="138950" pacs="38500" total="177450"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="60650" pacs="0" total="60650"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="51700" pacs="4000" total="55700"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="54300" pacs="0" total="54300"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="39296" pacs="15000" total="54296"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="24850" pacs="17500" total="42350"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="26950" pacs="5500" total="32450"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="29900" pacs="2000" total="31900"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="29400" pacs="0" total="29400"/>
+  </industries>
+</response>

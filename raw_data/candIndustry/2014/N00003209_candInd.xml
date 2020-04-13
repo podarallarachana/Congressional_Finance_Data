@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John J Duncan Jr (R)" cid="N00003209" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00003209&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="45000" total="45000"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="0" pacs="43000" total="43000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="14150" pacs="14500" total="28650"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="0" pacs="25500" total="25500"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="25000" total="25000"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="2500" pacs="21500" total="24000"/>
+    <industry industry_code="M03" industry_name="Trucking" indivs="3000" pacs="21000" total="24000"/>
+    <industry industry_code="M06" industry_name="Misc Transport" indivs="1500" pacs="20000" total="21500"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="20800" pacs="0" total="20800"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="8500" pacs="11500" total="20000"/>
+  </industries>
+</response>

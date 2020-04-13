@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Gregory W Meeks (D)" cid="N00001171" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001171&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="2700" pacs="11500" total="14200"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="500" pacs="65500" total="66000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="7050" pacs="8500" total="15550"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="22000" total="22000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="14500" total="14500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="68750" pacs="451800" total="520550"/>
+    <sector sector_name="Health" sectorid="H" indivs="6600" pacs="16000" total="22600"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="29477" pacs="17500" total="46977"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="35500" total="35500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="25300" pacs="50310" total="75610"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="23500" total="23500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="9850" pacs="37000" total="46850"/>
+    <sector sector_name="Other" sectorid="W" indivs="12250" pacs="1000" total="13250"/>
+  </sectors>
+</response>

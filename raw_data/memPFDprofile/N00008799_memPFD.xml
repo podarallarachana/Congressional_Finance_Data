@@ -1,0 +1,19 @@
+<response>
+  <member_profile name="Granger, Kay" data_year="2016" member_id="N00008799" net_low="245012" net_high="2134997" positions_held_count="3" asset_count="3" asset_low="1045012" asset_high="2500000" transaction_count="1" tx_low="100001" tx_high="250000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00008799" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="695010" holdings_high="1750000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Frost Bank" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="G&amp;R Insurance" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Granger Real Estate Management" tx_date="Mar  1 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+    </transactions>
+    <positions>
+      <position title="Member of the Advisory Board" organization="AIDS Outreach Advisory Board"/>
+      <position title="Member of the Advisory Board" organization="Alliance for Children"/>
+      <position title="Member of the Advisory Board" organization="American University Women &amp; Politics Institute"/>
+      <position title="Member of the Planning Committee" organization="Aviation Museum"/>
+      <position title="Member of the Advisory Board" organization="Children's Education Fund"/>
+    </positions>
+  </member_profile>
+</response>

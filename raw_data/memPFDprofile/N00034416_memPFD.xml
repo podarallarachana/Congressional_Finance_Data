@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00034416" net_low="-8258964" net_high="3940997" positions_held_count="1" asset_count="34" asset_low="2741036" asset_high="6441000" transaction_count="18" tx_low="50444018" tx_high="51060001" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00034416" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Belmont 2-US 321/74 Bypass LLC" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Lower Rocky River/Morrison Road LLC" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Little River/Highway 57 &amp; Highway 111" holdings_low="115002" holdings_high="300000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Mt Pleasant/Monroe LLC" holdings_low="115002" holdings_high="300000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Locust/Highway 200 LLC" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Managing Member" organization="RPC LLC"/>
+    </positions>
+  </member_profile>
+</response>

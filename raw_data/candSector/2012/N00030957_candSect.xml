@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Scott Desjarlais (R)" cid="N00030957" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030957&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="34500" pacs="58500" total="93000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="15700" pacs="6000" total="21700"/>
+    <sector sector_name="Construction" sectorid="C" indivs="49200" pacs="7500" total="56700"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="4000" total="4000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="25500" pacs="13250" total="38750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="105100" pacs="61800" total="166900"/>
+    <sector sector_name="Health" sectorid="H" indivs="112999" pacs="70384" total="183383"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="35550" pacs="2500" total="38050"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="18000" pacs="32700" total="50700"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="85256" pacs="62372" total="147628"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="10000" pacs="160315" total="170315"/>
+    <sector sector_name="Other" sectorid="W" indivs="73610" pacs="1000" total="74610"/>
+  </sectors>
+</response>

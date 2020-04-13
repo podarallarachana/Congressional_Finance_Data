@@ -1,0 +1,25 @@
+<response>
+  <member_profile name="Cardin, Ben" data_year="2016" member_id="N00001955" net_low="1454106" net_high="4540000" positions_held_count="10" asset_count="90" asset_low="1454106" asset_high="4540000" transaction_count="77" tx_low="414077" tx_high="1910000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00001955" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Columbia Dividend Income Fund" holdings_low="150002" holdings_high="350000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Ishares Core US Aggregate Bond ETF" holdings_low="101002" holdings_high="265000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Calamos Growth &amp; Income C Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Venture BG LLC" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="iShares Core S&amp;P Small Cap ETF" holdings_low="67004" holdings_high="180000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Bond Core Plus Fund" tx_date="Jun 17 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Conservative Risk Fund" tx_date="Jun 17 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Small Cap Index Equity Fund" tx_date="Jun 17 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Columbia Tax Exempt Fund" tx_date="Jun 21 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Fixed Account - Deferred Compensation Plan" tx_date="Aug 22 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+    </transactions>
+    <positions>
+      <position title="Other (Advisory Board)" organization="Center for Democracy &amp; the Interpretation of"/>
+      <position title="Other (Adivsory Board)" organization="Congressional Coalition on Adoption Institute"/>
+      <position title="Trustee" organization="Herbert Rosen Irrevocable Trust"/>
+      <position title="Other (Advisory Board)" organization="Institute for Public Studies Johns Hopkins"/>
+      <position title="Trustee" organization="James Madison Memorial Fellowship Foundation  Wash"/>
+    </positions>
+  </member_profile>
+</response>

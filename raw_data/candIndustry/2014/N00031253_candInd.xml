@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Keith J Rothfus (R)" cid="N00031253" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031253&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="112240" pacs="47000" total="159240"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="46792" pacs="89000" total="135792"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="118288" total="118288"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="73054" pacs="40500" total="113554"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="104823" pacs="0" total="104823"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="45574" pacs="55950" total="101524"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="40250" pacs="35000" total="75250"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="37015" pacs="32540" total="69555"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="49050" pacs="20500" total="69550"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="51300" pacs="17201" total="68501"/>
+  </industries>
+</response>

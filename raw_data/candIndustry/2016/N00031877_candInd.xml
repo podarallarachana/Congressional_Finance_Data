@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Karen Bass (D)" cid="N00031877" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031877&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="43900" pacs="36000" total="79900"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="14514" pacs="13500" total="28014"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="26500" total="26500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="-150" pacs="26500" total="26350"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="-250" pacs="26500" total="26250"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="25500" total="25500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="24641" pacs="0" total="24641"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="21000" total="21000"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="14600" pacs="2000" total="16600"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="14500" total="14500"/>
+  </industries>
+</response>

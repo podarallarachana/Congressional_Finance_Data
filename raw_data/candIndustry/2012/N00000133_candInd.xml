@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Donna Christian-Christensen (D)" cid="N00000133" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000133&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="350" pacs="38615" total="38965"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="23200" pacs="0" total="23200"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="1500" pacs="20500" total="22000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="700" pacs="21000" total="21700"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="5000" pacs="10000" total="15000"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="13000" total="13000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="5850" pacs="7000" total="12850"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="0" pacs="11500" total="11500"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="900" pacs="10000" total="10900"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="9200" pacs="1500" total="10700"/>
+  </industries>
+</response>

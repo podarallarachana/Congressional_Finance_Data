@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Christopher S Murphy (D)" cid="N00027566" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027566&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="43850" pacs="6500" total="50350"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="320502" pacs="72250" total="392752"/>
+    <sector sector_name="Construction" sectorid="C" indivs="139160" pacs="9500" total="148660"/>
+    <sector sector_name="Defense" sectorid="D" indivs="9000" pacs="35000" total="44000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="44389" pacs="75000" total="119389"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1138011" pacs="422000" total="1560011"/>
+    <sector sector_name="Health" sectorid="H" indivs="323061" pacs="187887" total="510948"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1067467" pacs="56500" total="1123967"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="65076" pacs="24500" total="89576"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="575650" pacs="112822" total="688472"/>
+    <sector sector_name="Labor" sectorid="P" indivs="4750" pacs="366495" total="371245"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="395171" pacs="506075" total="901246"/>
+    <sector sector_name="Other" sectorid="W" indivs="1468896" pacs="2500" total="1471396"/>
+  </sectors>
+</response>

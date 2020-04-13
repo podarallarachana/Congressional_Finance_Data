@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Adam Schiff (D)" cid="N00009585" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009585&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="3500" pacs="0" total="3500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="26050" pacs="57000" total="83050"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1300" pacs="11450" total="12750"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="46000" total="46000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="72750" pacs="46500" total="119250"/>
+    <sector sector_name="Health" sectorid="H" indivs="29700" pacs="39000" total="68700"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="88293" pacs="23500" total="111793"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1900" pacs="20800" total="22700"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="28300" pacs="54750" total="83050"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="114400" total="114400"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="25550" pacs="24516" total="50066"/>
+    <sector sector_name="Other" sectorid="W" indivs="51150" pacs="500" total="51650"/>
+  </sectors>
+</response>

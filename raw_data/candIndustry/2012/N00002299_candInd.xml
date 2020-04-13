@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Walter B Jones Jr (R)" cid="N00002299" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002299&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="53500" pacs="0" total="53500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="21300" pacs="29500" total="50800"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="16750" pacs="14000" total="30750"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="8300" pacs="22000" total="30300"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="20000" total="20000"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="19000" total="19000"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="19000" total="19000"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="2700" pacs="16000" total="18700"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="16500" pacs="2000" total="18500"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="3000" pacs="15000" total="18000"/>
+  </industries>
+</response>

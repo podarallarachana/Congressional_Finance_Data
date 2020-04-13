@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Faleomavaega, Eni F H" data_year="2016" member_id="N00007632" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00007632" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Lord Abbett Short Duration Income Fund" tx_date="Jan  7 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Columbia Income Opportunity Fund" tx_date="Monthly" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Invesco American Franchise" tx_date="Jul 12 2013" tx_action="Exchanged" value_low="1" value_high="1000"/>
+      <transaction asset_name="AIM Invesco Leisure" tx_date="Jul 12 2013" tx_action="Exchanged" value_low="1" value_high="1000"/>
+      <transaction asset_name="AIM Invesco Leisure" tx_date="May 22 2013" tx_action="Exchanged" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="President and Director (5)" organization="Faleomavaega Community Service Foundation"/>
+    </positions>
+  </member_profile>
+</response>

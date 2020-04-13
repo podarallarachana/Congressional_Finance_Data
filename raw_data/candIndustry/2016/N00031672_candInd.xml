@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Blake Farenthold (R)" cid="N00031672" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031672&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="15450" pacs="54500" total="69950"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="68766" pacs="0" total="68766"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="46275" pacs="4000" total="50275"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="34750" pacs="8200" total="42950"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="775" pacs="39500" total="40275"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="37999" total="37999"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="1500" pacs="34650" total="36150"/>
+    <industry industry_code="B13" industry_name="Internet" indivs="4200" pacs="29900" total="34100"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="32500" total="32500"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="17750" pacs="14000" total="31750"/>
+  </industries>
+</response>

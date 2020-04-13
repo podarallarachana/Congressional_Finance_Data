@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Andy Barr (R)" cid="N00031233" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031233&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="136287" pacs="32000" total="168287"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="6500" pacs="26000" total="32500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="69850" pacs="45250" total="115100"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="13000" total="13000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="88850" pacs="80000" total="168850"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="251611" pacs="545810" total="797421"/>
+    <sector sector_name="Health" sectorid="H" indivs="44600" pacs="115900" total="160500"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="96669" pacs="9000" total="105669"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="38000" pacs="48000" total="86000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="96950" pacs="99788" total="196738"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="7500" total="7500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="73800" pacs="97423" total="171223"/>
+    <sector sector_name="Other" sectorid="W" indivs="144753" pacs="1000" total="145753"/>
+  </sectors>
+</response>

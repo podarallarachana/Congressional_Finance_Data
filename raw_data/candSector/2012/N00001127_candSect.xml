@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Joseph Crowley (D)" cid="N00001127" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001127&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="10250" pacs="29000" total="39250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="30000" pacs="117548" total="147548"/>
+    <sector sector_name="Construction" sectorid="C" indivs="28200" pacs="34250" total="62450"/>
+    <sector sector_name="Defense" sectorid="D" indivs="250" pacs="37500" total="37750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="2500" pacs="62750" total="65250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="287249" pacs="617596" total="904845"/>
+    <sector sector_name="Health" sectorid="H" indivs="29150" pacs="226250" total="255400"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="162701" pacs="51350" total="214051"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="13850" pacs="61000" total="74850"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="93723" pacs="167522" total="261245"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1750" pacs="132500" total="134250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="25050" pacs="39000" total="64050"/>
+    <sector sector_name="Other" sectorid="W" indivs="48700" pacs="500" total="49200"/>
+  </sectors>
+</response>

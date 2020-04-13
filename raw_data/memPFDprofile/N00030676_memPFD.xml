@@ -1,0 +1,17 @@
+<response>
+  <member_profile name="Long, Billy" data_year="2016" member_id="N00030676" net_low="1399045" net_high="4567998" positions_held_count="0" asset_count="7" asset_low="2149045" asset_high="4918000" transaction_count="1" tx_low="1" tx_high="1000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030676" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="1596039" holdings_high="3772000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Southern Co" holdings_low="500001" holdings_high="1000000" industry="Electric Utilities" sector="Energy/Nat Resource" subsidiary_of=""/>
+      <asset name="Apple Inc" holdings_low="50001" holdings_high="100000" industry="Electronics Mfg &amp; Equip" sector="Communic/Electronics" subsidiary_of=""/>
+      <asset name="Congressional FCU/Savings" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Congressional FCU/Checking" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Rental Condominium/23922 Deville Way/Malibu, CA" tx_date="Jun 12 2013" tx_action="Sold" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Commercial Building/1444 N Wabash, Springfield" tx_date="Oct 17 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Galena 165 acres/Stone County, MO" tx_date="Jul 10 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Most 529 Account" tx_date="Sep 10 2013" tx_action="Exchanged" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

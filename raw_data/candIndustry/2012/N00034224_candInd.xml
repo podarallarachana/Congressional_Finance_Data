@@ -1,0 +1,15 @@
+<response>
+  <industries cand_name="Paul Cook (R)" cid="N00034224" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034224&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="45316" pacs="0" total="45316"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="5350" pacs="23000" total="28350"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="27500" total="27500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="27500" total="27500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="21367" pacs="5000" total="26367"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="22350" pacs="0" total="22350"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="21450" pacs="0" total="21450"/>
+    <industry industry_code="C02" industry_name="Home Builders" indivs="11500" pacs="3500" total="15000"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="250" pacs="14000" total="14250"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="9750" pacs="3000" total="12750"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="11750" pacs="1000" total="12750"/>
+  </industries>
+</response>

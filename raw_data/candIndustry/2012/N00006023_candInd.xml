@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Lloyd Doggett (D)" cid="N00006023" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006023&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="347309" pacs="27750" total="375059"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="123972" pacs="0" total="123972"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="28568" pacs="42300" total="70868"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="60500" total="60500"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="48000" total="48000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="22500" pacs="17000" total="39500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="35500" total="35500"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="35500" total="35500"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="34500" pacs="0" total="34500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="26500" pacs="6500" total="33000"/>
+  </industries>
+</response>

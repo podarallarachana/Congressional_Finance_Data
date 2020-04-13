@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Donald M Payne Jr (D)" cid="N00034639" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00034639&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="1500" total="1500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1250" pacs="32000" total="33250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="4000" pacs="6000" total="10000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="10000" total="10000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5600" pacs="24500" total="30100"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="16350" pacs="39700" total="56050"/>
+    <sector sector_name="Health" sectorid="H" indivs="4350" pacs="33500" total="37850"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="35150" pacs="10500" total="45650"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1000" pacs="21500" total="22500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="6601" pacs="25000" total="31601"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1000" pacs="146800" total="147800"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2000" pacs="17750" total="19750"/>
+    <sector sector_name="Other" sectorid="W" indivs="14450" pacs="0" total="14450"/>
+  </sectors>
+</response>

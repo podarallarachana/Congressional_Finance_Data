@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mazie K Hirono (D)" cid="N00028139" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00028139&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="738901" pacs="64750" total="803651"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="310272" pacs="29500" total="339772"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="239070" pacs="0" total="239070"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1000" pacs="228000" total="229000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="161599" pacs="24500" total="186099"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="175094" pacs="6750" total="181844"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="92185" pacs="78852" total="171037"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="1400" pacs="136875" total="138275"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="87966" pacs="33244" total="121210"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="300" pacs="117000" total="117300"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Michael G Fitzpatrick (R)" cid="N00027229" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027229&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="41750" pacs="18500" total="60250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="53400" pacs="39200" total="92600"/>
+    <sector sector_name="Construction" sectorid="C" indivs="123945" pacs="38100" total="162045"/>
+    <sector sector_name="Defense" sectorid="D" indivs="16160" pacs="29000" total="45160"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="27900" pacs="56200" total="84100"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="348245" pacs="404740" total="752985"/>
+    <sector sector_name="Health" sectorid="H" indivs="58475" pacs="97700" total="156175"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="131958" pacs="35300" total="167258"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="40759" pacs="29000" total="69759"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="132819" pacs="71000" total="203819"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="53000" total="53000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="95600" pacs="241985" total="337585"/>
+    <sector sector_name="Other" sectorid="W" indivs="128937" pacs="10500" total="139437"/>
+  </sectors>
+</response>

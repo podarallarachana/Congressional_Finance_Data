@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mike Enzi (R)" cid="N00006249" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006249&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="13400" pacs="257250" total="270650"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="10050" pacs="143499" total="153549"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="26050" pacs="106434" total="132484"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="28500" pacs="97800" total="126300"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="1250" pacs="122500" total="123750"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="108550" total="108550"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="76806" pacs="3750" total="80556"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="18500" pacs="45500" total="64000"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="11400" pacs="41500" total="52900"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="11500" pacs="41000" total="52500"/>
+  </industries>
+</response>

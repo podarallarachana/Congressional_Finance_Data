@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Phil Gingrey (R)" cid="N00024760" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00024760&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="116700" pacs="193750" total="310450"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="8000" pacs="99000" total="107000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="23750" pacs="35000" total="58750"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="56450" pacs="0" total="56450"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="36700" pacs="18500" total="55200"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="37500" pacs="17000" total="54500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="30950" pacs="20750" total="51700"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="5000" pacs="44500" total="49500"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="9950" pacs="37900" total="47850"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="1250" pacs="43600" total="44850"/>
+  </industries>
+</response>

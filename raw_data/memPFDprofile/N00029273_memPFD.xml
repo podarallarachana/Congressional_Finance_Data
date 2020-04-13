@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Schock, Aaron" data_year="2016" member_id="N00029273" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00029273" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="RS Invt Trust Emerging Markets Fund" tx_date="2013-02-20 00:00:00.000" tx_action="Sold" value_low="2923" value_high="2923"/>
+      <transaction asset_name="Oppenheimer Developing Markets Fund" tx_date="2013-02-21 00:00:00.000" tx_action="Purchased" value_low="2923" value_high="2923"/>
+      <transaction asset_name="Hartford Mutual Funds Inc Cap Appreciation Fund" tx_date="2013-06-10 00:00:00.000" tx_action="Sold" value_low="2832" value_high="2832"/>
+      <transaction asset_name="Fidelity Advisor Mid Cap II Fund" tx_date="2013-06-10 00:00:00.000" tx_action="Purchased" value_low="2668" value_high="2668"/>
+      <transaction asset_name="Hartford Mutual Funds II Growth Opportunities Fund" tx_date="2013-06-10 00:00:00.000" tx_action="Purchased" value_low="2001" value_high="2001"/>
+    </transactions>
+  </member_profile>
+</response>

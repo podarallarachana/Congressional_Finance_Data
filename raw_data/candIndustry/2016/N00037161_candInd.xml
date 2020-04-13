@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Catherine Cortez Masto (D)" cid="N00037161" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00037161&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="1627058" pacs="41485" total="1668543"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="1431489" pacs="25234" total="1456723"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1314378" pacs="21474" total="1335852"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="673735" pacs="0" total="673735"/>
+    <industry industry_code="W04" industry_name="Education" indivs="570239" pacs="0" total="570239"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="493695" pacs="52271" total="545966"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="492597" pacs="19863" total="512460"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="475490" pacs="0" total="475490"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="7900" pacs="396876" total="404776"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="354282" pacs="0" total="354282"/>
+  </industries>
+</response>

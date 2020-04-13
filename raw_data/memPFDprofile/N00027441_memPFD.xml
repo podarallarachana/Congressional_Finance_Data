@@ -1,0 +1,24 @@
+<response>
+  <member_profile name="Corker, Bob" data_year="2016" member_id="N00027441" net_low="23108047" net_high="106827000" positions_held_count="6" asset_count="36" asset_low="23108047" asset_high="106827000" transaction_count="30" tx_low="21300030" tx_high="93750000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00027441" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Raymond James Wealth Preservation Advisors" holdings_low="10615005" holdings_high="51301000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Volunteer Buidling" holdings_low="5000001" holdings_high="25000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="McGowin Park Shopping Center" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="City of Mobile Ltd Obligation Project Revenue" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Covenant Apartment Fund VIII" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Raymond James Bank Deposit" tx_date="Aug 29 2013" tx_action="Purchased" value_low="5000001" value_high="25000000"/>
+      <transaction asset_name="Partners LP" tx_date="Apr  1 2013" tx_action="Purchased" value_low="1000001" value_high="5000000"/>
+      <transaction asset_name="Global Hedge LP" tx_date="Apr  1 2013" tx_action="Purchased" value_low="1000001" value_high="5000000"/>
+      <transaction asset_name="Morgan Stanley Bank/Money Market Account" tx_date="Apr 10 2013" tx_action="Exchanged" value_low="1000001" value_high="5000000"/>
+      <transaction asset_name="Morgan Stanley Bank/Money Market Account" tx_date="Apr 11 2013" tx_action="Purchased" value_low="1000001" value_high="5000000"/>
+    </transactions>
+    <positions>
+      <position title="Officer" organization="Corker Development Corp"/>
+      <position title="Director" organization="Corker Properties X LP"/>
+      <position title="Trustee" organization="Emily Corker 2006 Trust"/>
+      <position title="Trustee" organization="Julia Corker 2006 Trust"/>
+    </positions>
+  </member_profile>
+</response>

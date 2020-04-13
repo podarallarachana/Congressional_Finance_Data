@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Val Demings (D)" cid="N00033449" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033449&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="5000" pacs="0" total="5000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="27435" pacs="0" total="27435"/>
+    <sector sector_name="Construction" sectorid="C" indivs="6750" pacs="0" total="6750"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1500" pacs="0" total="1500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="500" pacs="0" total="500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="54026" pacs="0" total="54026"/>
+    <sector sector_name="Health" sectorid="H" indivs="28550" pacs="2000" total="30550"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="97429" pacs="10000" total="107429"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="9612" pacs="600" total="10212"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="81642" pacs="2000" total="83642"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="219750" total="219750"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="225680" pacs="221030" total="446710"/>
+    <sector sector_name="Other" sectorid="W" indivs="150492" pacs="0" total="150492"/>
+  </sectors>
+</response>

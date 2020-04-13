@@ -1,0 +1,8 @@
+<response>
+  <member_profile name="Rogers, Mike" data_year="2016" member_id="N00009668" net_low="-628984" net_high="1304996" positions_held_count="3" asset_count="2" asset_low="886016" asset_high="2015000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00009668" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="871015" holdings_high="1965000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Southern Co" holdings_low="15001" holdings_high="50000" industry="Electric Utilities" sector="Energy/Nat Resource" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

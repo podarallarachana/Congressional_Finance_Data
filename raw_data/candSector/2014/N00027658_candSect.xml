@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Kirsten Gillibrand (D)" cid="N00027658" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027658&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="166533" pacs="300233" total="466766"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1550124" pacs="361358" total="1911482"/>
+    <sector sector_name="Construction" sectorid="C" indivs="299033" pacs="140541" total="439574"/>
+    <sector sector_name="Defense" sectorid="D" indivs="51764" pacs="228400" total="280164"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="158148" pacs="258750" total="416898"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="5493673" pacs="1007516" total="6501189"/>
+    <sector sector_name="Health" sectorid="H" indivs="667724" pacs="544610" total="1212334"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="4756103" pacs="353616" total="5109719"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="102934" pacs="194000" total="296934"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="1828381" pacs="439110" total="2267491"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1250" pacs="572250" total="573500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1820076" pacs="592810" total="2412886"/>
+    <sector sector_name="Other" sectorid="W" indivs="1832258" pacs="26250" total="1858508"/>
+  </sectors>
+</response>

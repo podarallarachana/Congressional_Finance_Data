@@ -1,0 +1,13 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00034746" net_low="-46996" net_high="69999" positions_held_count="0" asset_count="4" asset_low="18004" asset_high="95000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00034746" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="USAA Bank Account" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Sirius XM Radio" holdings_low="1001" holdings_high="15000" industry="Securities &amp; Investment" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Scottrade Inc" holdings_low="1001" holdings_high="15000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="US Steel" holdings_low="1001" holdings_high="15000" industry="Steel Production" sector="Misc Business" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Member" organization="LSAT Freedom"/>
+    </positions>
+  </member_profile>
+</response>

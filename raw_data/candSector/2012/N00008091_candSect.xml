@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Spencer Bachus (R)" cid="N00008091" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00008091&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="11600" pacs="33302" total="44902"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="14950" pacs="20000" total="34950"/>
+    <sector sector_name="Construction" sectorid="C" indivs="62500" pacs="48500" total="111000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="18500" total="18500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="16500" pacs="66000" total="82500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="469745" pacs="891500" total="1361245"/>
+    <sector sector_name="Health" sectorid="H" indivs="25350" pacs="31500" total="56850"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="104434" pacs="83304" total="187738"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="24500" pacs="75000" total="99500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="87130" pacs="99500" total="186630"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="11500" total="11500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="12150" pacs="107000" total="119150"/>
+    <sector sector_name="Other" sectorid="W" indivs="43700" pacs="1000" total="44700"/>
+  </sectors>
+</response>

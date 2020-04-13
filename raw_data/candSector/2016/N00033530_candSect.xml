@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Ruben Kihuen (D)" cid="N00033530" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033530&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="16890" pacs="5000" total="21890"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="81103" pacs="13500" total="94603"/>
+    <sector sector_name="Construction" sectorid="C" indivs="44657" pacs="1000" total="45657"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1542" pacs="1000" total="2542"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3822" pacs="13000" total="16822"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="126867" pacs="7000" total="133867"/>
+    <sector sector_name="Health" sectorid="H" indivs="131936" pacs="21500" total="153436"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="236487" pacs="11500" total="247987"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="6022" pacs="1000" total="7022"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="136632" pacs="30000" total="166632"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1255" pacs="228000" total="229255"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="201384" pacs="260313" total="461697"/>
+    <sector sector_name="Other" sectorid="W" indivs="88931" pacs="0" total="88931"/>
+  </sectors>
+</response>

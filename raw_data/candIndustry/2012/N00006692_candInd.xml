@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Barbara Boxer (D)" cid="N00006692" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006692&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1983749" pacs="144721" total="2128470"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="1461995" pacs="0" total="1461995"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="1284001" pacs="30895" total="1314896"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="936545" pacs="76300" total="1012845"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="566755" pacs="25681" total="592436"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="541124" pacs="21300" total="562424"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="394110" pacs="67900" total="462010"/>
+    <industry industry_code="W04" industry_name="Education" indivs="445639" pacs="1000" total="446639"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="438375" pacs="6500" total="444875"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="428910" total="428910"/>
+  </industries>
+</response>

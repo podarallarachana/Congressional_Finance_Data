@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Roberts, Pat" data_year="2016" member_id="N00005285" net_low="2044028" net_high="4594000" positions_held_count="0" asset_count="34" asset_low="2044028" asset_high="4594000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00005285" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Capitol One Money Market Accoumt" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Wells Fargo Savings" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Condo Rental Property/National Harbor" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="American Express Savings" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Capitol One Savings" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Apple Inc" tx_date="Nov 27 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Apple Inc" tx_date="Nov 29 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Apple Inc" tx_date="Dec 18 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Apple Inc" tx_date="Dec 18 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Netflix Inc" tx_date="Jan 26 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+    </transactions>
+  </member_profile>
+</response>

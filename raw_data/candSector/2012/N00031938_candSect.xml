@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Justin Amash (R)" cid="N00031938" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031938&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="38151" pacs="1950" total="40101"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="27550" pacs="4000" total="31550"/>
+    <sector sector_name="Construction" sectorid="C" indivs="27450" pacs="3000" total="30450"/>
+    <sector sector_name="Defense" sectorid="D" indivs="400" pacs="1000" total="1400"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="21250" pacs="24000" total="45250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="101650" pacs="38000" total="139650"/>
+    <sector sector_name="Health" sectorid="H" indivs="81100" pacs="11000" total="92100"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="38525" pacs="3000" total="41525"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="33150" pacs="8000" total="41150"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="202481" pacs="16750" total="219231"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="500" total="500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="16450" pacs="60936" total="77386"/>
+    <sector sector_name="Other" sectorid="W" indivs="87561" pacs="0" total="87561"/>
+  </sectors>
+</response>

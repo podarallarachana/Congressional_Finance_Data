@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Debbie Wasserman Schultz (D)" cid="N00026106" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026106&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="284090" pacs="31180" total="315270"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="197374" pacs="0" total="197374"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="135775" pacs="16000" total="151775"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="134622" pacs="16500" total="151122"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="96304" pacs="11690" total="107994"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1000" pacs="103000" total="104000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="65943" pacs="24000" total="89943"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="75600" pacs="12009" total="87609"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="57065" pacs="28500" total="85565"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="54492" pacs="17500" total="71992"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Kay R Hagan (D)" cid="N00029617" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029617&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="763822" pacs="73326" total="837148"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="703360" pacs="0" total="703360"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="598820" pacs="25661" total="624481"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="319261" pacs="109000" total="428261"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1600" pacs="308000" total="309600"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="267576" pacs="34050" total="301626"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="62950" pacs="199309" total="262259"/>
+    <industry industry_code="W04" industry_name="Education" indivs="227730" pacs="6000" total="233730"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="103548" pacs="120000" total="223548"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="129797" pacs="82219" total="212016"/>
+  </industries>
+</response>

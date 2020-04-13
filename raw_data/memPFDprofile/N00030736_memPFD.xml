@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Carney, John" data_year="2016" member_id="N00030736" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030736" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Fidelity Select Electronics Fund" tx_date="Jan 29 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="PIMCO Total Return Fund" tx_date="Jan 29 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="PIMCO Total Return Fund" tx_date="Oct 18 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Fidelity Retirement Money Market" tx_date="Apr  2 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Fidelity Retirement Money Market" tx_date="Apr  1 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Director" organization="Delaware Cancer Consortium"/>
+    </positions>
+  </member_profile>
+</response>

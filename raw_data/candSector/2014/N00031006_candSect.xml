@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Alan Nunnelee (R)" cid="N00031006" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031006&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="13800" pacs="87000" total="100800"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="18200" pacs="11500" total="29700"/>
+    <sector sector_name="Construction" sectorid="C" indivs="30700" pacs="24500" total="55200"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="43000" total="43000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="46200" pacs="83600" total="129800"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="67300" pacs="64500" total="131800"/>
+    <sector sector_name="Health" sectorid="H" indivs="68400" pacs="38500" total="106900"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="40200" pacs="18750" total="58950"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="16600" pacs="52200" total="68800"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="54400" pacs="33805" total="88205"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="4000" total="4000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="8200" pacs="36500" total="44700"/>
+    <sector sector_name="Other" sectorid="W" indivs="30100" pacs="1000" total="31100"/>
+  </sectors>
+</response>

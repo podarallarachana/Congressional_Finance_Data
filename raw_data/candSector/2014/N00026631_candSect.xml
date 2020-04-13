@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jeff Fortenberry (R)" cid="N00026631" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026631&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="15900" pacs="52000" total="67900"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="17900" pacs="10500" total="28400"/>
+    <sector sector_name="Construction" sectorid="C" indivs="6000" pacs="9500" total="15500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="250" pacs="34500" total="34750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1300" pacs="18000" total="19300"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="71800" pacs="82750" total="154550"/>
+    <sector sector_name="Health" sectorid="H" indivs="60272" pacs="20000" total="80272"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="24950" pacs="12500" total="37450"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2500" pacs="29498" total="31998"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="44112" pacs="21000" total="65112"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="4500" total="4500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="500" pacs="37300" total="37800"/>
+    <sector sector_name="Other" sectorid="W" indivs="29750" pacs="0" total="29750"/>
+  </sectors>
+</response>

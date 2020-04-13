@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="F James Sensenbrenner Jr (R)" cid="N00004291" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00004291&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="27500" pacs="76000" total="103500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="2000" pacs="9000" total="11000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="4750" pacs="27000" total="31750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="26050" pacs="62423" total="88473"/>
+    <sector sector_name="Health" sectorid="H" indivs="500" pacs="13500" total="14000"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="28306" pacs="20250" total="48556"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="4500" pacs="24750" total="29250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="26250" pacs="40250" total="66500"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="500" total="500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="6750" pacs="4034" total="10784"/>
+    <sector sector_name="Other" sectorid="W" indivs="30900" pacs="0" total="30900"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mike Crapo (R)" cid="N00006267" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006267&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="189165" pacs="237350" total="426515"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="65300" pacs="308750" total="374050"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="190400" pacs="4169" total="194569"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="31750" pacs="137871" total="169621"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="168484" total="168484"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="79204" pacs="82010" total="161214"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="23844" pacs="123000" total="146844"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="21900" pacs="112200" total="134100"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="129147" pacs="0" total="129147"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="55018" pacs="71822" total="126840"/>
+  </industries>
+</response>

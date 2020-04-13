@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Joaquin Castro (D)" cid="N00033316" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033316&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="9700" pacs="28500" total="38200"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="15150" pacs="53710" total="68860"/>
+    <sector sector_name="Construction" sectorid="C" indivs="20800" pacs="13250" total="34050"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="65500" total="65500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="7550" pacs="26500" total="34050"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="60117" pacs="101750" total="161867"/>
+    <sector sector_name="Health" sectorid="H" indivs="38947" pacs="67500" total="106447"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="112744" pacs="33582" total="146326"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2500" pacs="43000" total="45500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="41725" pacs="49785" total="91510"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="135500" total="135500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="21912" pacs="23000" total="44912"/>
+    <sector sector_name="Other" sectorid="W" indivs="45353" pacs="0" total="45353"/>
+  </sectors>
+</response>

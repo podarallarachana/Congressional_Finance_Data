@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Chuck Grassley (R)" cid="N00001758" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001758&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="321927" pacs="333119" total="655046"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="142450" pacs="285100" total="427550"/>
+    <sector sector_name="Construction" sectorid="C" indivs="163426" pacs="80500" total="243926"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1820" pacs="41500" total="43320"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="176500" pacs="237750" total="414250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1056732" pacs="492300" total="1549032"/>
+    <sector sector_name="Health" sectorid="H" indivs="234694" pacs="508814" total="743508"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="623117" pacs="146437" total="769554"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="92465" pacs="137199" total="229664"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="412257" pacs="381699" total="793956"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="12000" total="12000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="390470" pacs="558999" total="949469"/>
+    <sector sector_name="Other" sectorid="W" indivs="990580" pacs="19000" total="1009580"/>
+  </sectors>
+</response>

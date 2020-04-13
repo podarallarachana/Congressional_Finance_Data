@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00036351" net_low="-53939" net_high="2319990" positions_held_count="0" asset_count="30" asset_low="846061" asset_high="2640000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00036351" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Dreyfus Ins Deposit Program" holdings_low="101002" holdings_high="265000" industry="" sector="" subsidiary_of=""/>
+      <asset name="The Oakmark Fund" holdings_low="100002" holdings_high="200000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Voya Corporate Ldrs 100 Fund" holdings_low="100002" holdings_high="200000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Funds Growth Fund" holdings_low="100002" holdings_high="200000" industry="" sector="" subsidiary_of=""/>
+      <asset name="ClearBridge Appreciation Fund" holdings_low="46004" holdings_high="165000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

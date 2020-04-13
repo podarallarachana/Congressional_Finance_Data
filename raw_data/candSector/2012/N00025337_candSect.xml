@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mario Diaz-Balart (R)" cid="N00025337" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00025337&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="7590" pacs="36500" total="44090"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3500" pacs="37500" total="41000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="6500" pacs="30000" total="36500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1000" pacs="25500" total="26500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="11700" pacs="18750" total="30450"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="50450" pacs="51000" total="101450"/>
+    <sector sector_name="Health" sectorid="H" indivs="53500" pacs="16500" total="70000"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="40750" pacs="16250" total="57000"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="32000" pacs="59000" total="91000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="36750" pacs="58303" total="95053"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="83500" total="83750"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="39250" pacs="43000" total="82250"/>
+    <sector sector_name="Other" sectorid="W" indivs="13000" pacs="0" total="13000"/>
+  </sectors>
+</response>

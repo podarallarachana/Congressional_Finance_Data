@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00030875" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030875" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Fid Mid Cap Stock" tx_date="2013-06-24 00:00:00.000" tx_action="Sold" value_low="209944" value_high="209944"/>
+      <transaction asset_name="FID Low Priced Stock" tx_date="2013-06-24 00:00:00.000" tx_action="Sold" value_low="192858" value_high="192858"/>
+      <transaction asset_name="FID Diversified International" tx_date="2013-06-24 00:00:00.000" tx_action="Sold" value_low="162758" value_high="162758"/>
+      <transaction asset_name="Fidelity Blue Chip Growth Fund" tx_date="2013-06-24 00:00:00.000" tx_action="Sold" value_low="126460" value_high="126460"/>
+      <transaction asset_name="SPTN US Bond Index" tx_date="2013-06-24 00:00:00.000" tx_action="Sold" value_low="119900" value_high="119900"/>
+    </transactions>
+    <positions>
+      <position title="President" organization="Kuster for Congress"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Robert Pittenger (R)" cid="N00034416" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034416&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="97500" pacs="0" total="97500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="10700" pacs="64500" total="75200"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="32300" pacs="39000" total="71300"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="32350" pacs="35000" total="67350"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="6500" pacs="59500" total="66000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="29950" pacs="11125" total="41075"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="26200" pacs="3000" total="29200"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="3500" pacs="24000" total="27500"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="13650" pacs="12000" total="25650"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="24507" total="24507"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="David Loebsack (D)" cid="N00027741" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027741&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="4750" pacs="47500" total="52250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="7150" pacs="16000" total="23150"/>
+    <sector sector_name="Construction" sectorid="C" indivs="11250" pacs="27350" total="38600"/>
+    <sector sector_name="Defense" sectorid="D" indivs="6000" pacs="63000" total="69000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3500" pacs="29000" total="32500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="46850" pacs="93500" total="140350"/>
+    <sector sector_name="Health" sectorid="H" indivs="40739" pacs="96000" total="136739"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="74350" pacs="13750" total="88100"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="6950" pacs="23000" total="29950"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="18600" pacs="40500" total="59100"/>
+    <sector sector_name="Labor" sectorid="P" indivs="750" pacs="238000" total="238750"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="30550" pacs="244058" total="274608"/>
+    <sector sector_name="Other" sectorid="W" indivs="183300" pacs="10000" total="193300"/>
+  </sectors>
+</response>

@@ -1,0 +1,12 @@
+<response>
+  <member_profile name="Hoyer, Steny H" data_year="2016" member_id="N00001821" net_low="50003" net_high="102000" positions_held_count="0" asset_count="3" asset_low="50003" asset_high="102000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00001821" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Congressional Federal Credit Union" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="VeriTeQ Corp" holdings_low="1" holdings_high="1000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="Telkonet Inc" holdings_low="1" holdings_high="1000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Member" organization="St Mary's College Board of Trustees"/>
+    </positions>
+  </member_profile>
+</response>

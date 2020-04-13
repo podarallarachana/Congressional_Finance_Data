@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Ted Yoho (R)" cid="N00033220" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033220&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="60385" pacs="42000" total="102385"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="6870" pacs="4000" total="10870"/>
+    <sector sector_name="Construction" sectorid="C" indivs="32099" pacs="11000" total="43099"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="500" pacs="8500" total="9000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="24235" pacs="19000" total="43235"/>
+    <sector sector_name="Health" sectorid="H" indivs="19250" pacs="13054" total="32304"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="10687" pacs="0" total="10687"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="7637" pacs="5000" total="12637"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="50907" pacs="11500" total="62407"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="0" total="250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="250" pacs="58560" total="58810"/>
+    <sector sector_name="Other" sectorid="W" indivs="70342" pacs="1000" total="71342"/>
+  </sectors>
+</response>

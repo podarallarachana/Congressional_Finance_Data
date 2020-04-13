@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Michael O Johanns (R)" cid="N00029444" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029444&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F09" industry_name="Insurance" indivs="58650" pacs="196750" total="255400"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="230930" total="230930"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="223335" pacs="0" total="223335"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="114099" pacs="55600" total="169699"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="113200" pacs="55999" total="169199"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="120640" pacs="47500" total="168140"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="123485" pacs="43000" total="166485"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="71150" pacs="79998" total="151148"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="24500" pacs="116500" total="141000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="60430" pacs="76250" total="136680"/>
+  </industries>
+</response>

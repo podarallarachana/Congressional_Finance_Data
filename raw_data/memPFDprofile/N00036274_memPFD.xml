@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00036274" net_low="16319059" net_high="108284998" positions_held_count="0" asset_count="52" asset_low="26319059" asset_high="110285000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00036274" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="iShares Core S&amp;P Small Cap ETF" holdings_low="1500002" holdings_high="6000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Mairs &amp; Power Growth Fund" holdings_low="1500002" holdings_high="6000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="T Rowe Price Real Estate Fund" holdings_low="1250002" holdings_high="5500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Ishares Russell 3000 ETF" holdings_low="1250002" holdings_high="5500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Mairs &amp; Power Small Cap Fund" holdings_low="1250002" holdings_high="5500000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

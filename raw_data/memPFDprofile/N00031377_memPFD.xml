@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="Labrador, Raul" data_year="2016" member_id="N00031377" net_low="-1567988" net_high="-555005" positions_held_count="0" asset_count="5" asset_low="12012" asset_high="180000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031377" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="American Funds Money Market" holdings_low="4004" holdings_high="60000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Balanced Fund" holdings_low="2002" holdings_high="30000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Funds Large Cap Index" holdings_low="2002" holdings_high="30000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Funds 2030 Target Date" holdings_low="2002" holdings_high="30000" industry="" sector="" subsidiary_of=""/>
+      <asset name="US Bank Accounts" holdings_low="2002" holdings_high="30000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Board Member (uncompensated)" organization="Congressional Hispanic Leadership"/>
+      <position title="Board Member (uncompensated)" organization="Congressional Hispanic Leadership"/>
+    </positions>
+  </member_profile>
+</response>

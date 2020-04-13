@@ -1,0 +1,11 @@
+<response>
+  <sectors cand_name="Ed Whitfield (R)" cid="N00003467" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00003467&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="750" pacs="0" total="750"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2000" pacs="0" total="2000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="2000" pacs="0" total="2000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="500" pacs="0" total="500"/>
+    <sector sector_name="Health" sectorid="H" indivs="6100" pacs="0" total="6100"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="8650" pacs="0" total="8650"/>
+    <sector sector_name="Other" sectorid="W" indivs="300" pacs="0" total="300"/>
+  </sectors>
+</response>

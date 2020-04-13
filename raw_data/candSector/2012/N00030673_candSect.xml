@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Bill Huizenga (R)" cid="N00030673" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030673&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="14750" pacs="20500" total="35250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="0" pacs="14000" total="14000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="9050" pacs="22500" total="31550"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5500" pacs="21000" total="26500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="4850" pacs="40500" total="45350"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="120275" pacs="326576" total="446851"/>
+    <sector sector_name="Health" sectorid="H" indivs="14000" pacs="16900" total="30900"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="23150" pacs="16348" total="39498"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="21000" total="21000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="85150" pacs="67235" total="152385"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="17900" pacs="51319" total="69219"/>
+    <sector sector_name="Other" sectorid="W" indivs="26277" pacs="0" total="26277"/>
+  </sectors>
+</response>

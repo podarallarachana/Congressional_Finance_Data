@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Trey Radel (R)" cid="N00034017" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034017&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="155298" pacs="0" total="155298"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="32263" pacs="7500" total="39763"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="39500" total="39500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="36223" pacs="1000" total="37223"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="18000" pacs="15500" total="33500"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="14000" pacs="7500" total="21500"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="14000" pacs="5000" total="19000"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="8750" pacs="10000" total="18750"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="18500" pacs="0" total="18500"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="500" pacs="18000" total="18500"/>
+  </industries>
+</response>

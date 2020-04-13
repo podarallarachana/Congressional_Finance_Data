@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Jo Bonner (R)" cid="N00025330" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00025330&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1500" pacs="6500" total="8000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="4250" pacs="1000" total="5250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="13000" total="13000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="3000" total="3000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="4250" pacs="2000" total="6250"/>
+    <sector sector_name="Health" sectorid="H" indivs="750" pacs="1000" total="1750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="4650" pacs="4000" total="8650"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="7000" total="7000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="4750" pacs="5500" total="10250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="3000" total="3000"/>
+    <sector sector_name="Other" sectorid="W" indivs="12250" pacs="0" total="12250"/>
+  </sectors>
+</response>

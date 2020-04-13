@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Claudia Tenney (R)" cid="N00036351" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00036351&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="114500" total="114500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="61139" pacs="0" total="61139"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="12750" pacs="31100" total="43850"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="32498" pacs="5000" total="37498"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="32100" pacs="3000" total="35100"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="26000" pacs="3500" total="29500"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="22950" pacs="5000" total="27950"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="23500" total="23500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="16100" pacs="5000" total="21100"/>
+    <industry industry_code="Q14" industry_name="Abortion Policy/Anti-Abortion" indivs="5400" pacs="15000" total="20400"/>
+  </industries>
+</response>

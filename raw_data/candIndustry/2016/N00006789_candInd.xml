@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Grace Napolitano (D)" cid="N00006789" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006789&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="67000" total="67000"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="65500" total="65500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="53500" total="53500"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="40000" total="40000"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="39500" total="39500"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="0" pacs="36000" total="36000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="17950" pacs="9000" total="26950"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="22800" pacs="2500" total="25300"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="7000" pacs="16750" total="23750"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="3501" pacs="16000" total="19501"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Roger Wicker (R)" cid="N00003280" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00003280&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="70133" pacs="127603" total="197736"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="97850" pacs="209200" total="307050"/>
+    <sector sector_name="Construction" sectorid="C" indivs="164983" pacs="85250" total="250233"/>
+    <sector sector_name="Defense" sectorid="D" indivs="30700" pacs="153300" total="184000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="194592" pacs="191500" total="386092"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="415949" pacs="428041" total="843990"/>
+    <sector sector_name="Health" sectorid="H" indivs="110033" pacs="149750" total="259783"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="351079" pacs="123150" total="474229"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="126566" pacs="244780" total="371346"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="227885" pacs="191000" total="418885"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="34000" total="34000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="59750" pacs="276850" total="336600"/>
+    <sector sector_name="Other" sectorid="W" indivs="139408" pacs="4500" total="143908"/>
+  </sectors>
+</response>

@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033030" net_low="-252951" net_high="2382998" positions_held_count="0" asset_count="40" asset_low="1247049" asset_high="3133000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033030" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Washington residence" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Rental Income from DC Residence" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Fidelity Capital Appreciation Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="ONEQ NASDAQ Tracking" holdings_low="30002" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="iShares S&amp;P 500 Tracking" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Washington residence" tx_date="Nov 21 2013" tx_action="Purchased" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Fidelity CA Municipal Money Market" tx_date="Nov 20 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Fidelity CA Municipal Money Market" tx_date="Nov  8 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Fidelity Strategic Dividend &amp; Income Fund" tx_date="Nov  1 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="ONEQ NASDAQ Tracking" tx_date="Nov  4 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

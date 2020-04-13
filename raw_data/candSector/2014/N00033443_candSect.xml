@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Deb Fischer (R)" cid="N00033443" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033443&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="300210" pacs="189052" total="489262"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="83128" pacs="101000" total="184128"/>
+    <sector sector_name="Construction" sectorid="C" indivs="144435" pacs="65578" total="210013"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="21000" total="21000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="169601" pacs="118000" total="287601"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="437128" pacs="248500" total="685628"/>
+    <sector sector_name="Health" sectorid="H" indivs="163390" pacs="110500" total="273890"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="149487" pacs="43250" total="192737"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="86316" pacs="95300" total="181616"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="311472" pacs="151500" total="462972"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="7000" total="7000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="215850" pacs="357282" total="573132"/>
+    <sector sector_name="Other" sectorid="W" indivs="407450" pacs="7500" total="414950"/>
+  </sectors>
+</response>

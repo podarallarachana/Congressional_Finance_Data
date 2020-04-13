@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Fred Upton (R)" cid="N00004133" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004133&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="16500" pacs="241350" total="257850"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="31013" pacs="208500" total="239513"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="66750" pacs="155500" total="222250"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="11450" pacs="203250" total="214700"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="132585" pacs="0" total="132585"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="53543" pacs="63500" total="117043"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="10900" pacs="76500" total="87400"/>
+    <industry industry_code="N13" industry_name="Chemical &amp; Related Manufacturing" indivs="3700" pacs="77200" total="80900"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="71650" pacs="8500" total="80150"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="14800" pacs="57500" total="72300"/>
+  </industries>
+</response>

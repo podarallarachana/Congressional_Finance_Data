@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tammy Baldwin (D)" cid="N00004367" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004367&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="882131" pacs="36972" total="919103"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="762873" pacs="0" total="762873"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="582657" pacs="18250" total="600907"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="388594" pacs="173765" total="562359"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="8750" pacs="300680" total="309430"/>
+    <industry industry_code="W04" industry_name="Education" indivs="297525" pacs="0" total="297525"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="185468" pacs="29993" total="215461"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="159704" pacs="40750" total="200454"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="175688" pacs="0" total="175688"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="147665" pacs="24715" total="172380"/>
+  </industries>
+</response>

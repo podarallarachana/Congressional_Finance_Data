@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Gardner, Cory" data_year="2016" member_id="N00030780" net_low="-290982" net_high="429996" positions_held_count="0" asset_count="17" asset_low="159018" asset_high="610000" transaction_count="1" tx_low="100001" tx_high="250000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030780" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Yuma County Federal Credit Union" holdings_low="115002" holdings_high="300000" industry="" sector="" subsidiary_of=""/>
+      <asset name="PERAdvantage 2040 Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="PERAdvantage US Sm Mid Cap" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="John Hancock Regional Bank Fund" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Lord Abbett Small Cap Value A" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

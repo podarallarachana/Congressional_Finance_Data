@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Aderholt, Robert B" data_year="2016" member_id="N00003028" net_low="1176021" net_high="7150998" positions_held_count="0" asset_count="16" asset_low="2226021" asset_high="7666000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00003028" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="6207 30th Street North" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="" holdings_low="800004" holdings_high="1600000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Commercial Building - Highway 5 South" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="65 Acres Land - Greenbrier Farms/McDonald Farms Pa" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="NY Life Securities LLC - IRA" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Telefonos de Mexico SA de CV" tx_date="Apr  3 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tom Rice (R)" cid="N00033832" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033832&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="14500" pacs="51000" total="65500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="5250" pacs="27000" total="32250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="79300" pacs="47500" total="126800"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="11300" pacs="63250" total="74550"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="61000" pacs="200000" total="261000"/>
+    <sector sector_name="Health" sectorid="H" indivs="28250" pacs="68500" total="96750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="55650" pacs="11500" total="67150"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="6000" pacs="91000" total="97000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="27200" pacs="95500" total="122700"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="3000" pacs="18582" total="21582"/>
+    <sector sector_name="Other" sectorid="W" indivs="52650" pacs="0" total="52650"/>
+  </sectors>
+</response>

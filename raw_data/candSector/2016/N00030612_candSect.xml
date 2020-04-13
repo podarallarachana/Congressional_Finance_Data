@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Marco Rubio (R)" cid="N00030612" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030612&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="560035" pacs="188640" total="748675"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="487242" pacs="302503" total="789745"/>
+    <sector sector_name="Construction" sectorid="C" indivs="855151" pacs="89500" total="944651"/>
+    <sector sector_name="Defense" sectorid="D" indivs="43545" pacs="44000" total="87545"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="539206" pacs="332166" total="871372"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="4139030" pacs="495880" total="4634910"/>
+    <sector sector_name="Health" sectorid="H" indivs="660284" pacs="260600" total="920884"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1103959" pacs="114850" total="1218809"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="406455" pacs="299828" total="706283"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="1879883" pacs="431800" total="2311683"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="14500" total="14500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1785152" pacs="640495" total="2425647"/>
+    <sector sector_name="Other" sectorid="W" indivs="4987252" pacs="13800" total="5001052"/>
+  </sectors>
+</response>

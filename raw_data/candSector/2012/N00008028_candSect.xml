@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Sam Johnson (R)" cid="N00008028" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00008028&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="24147" total="24147"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="5250" pacs="26000" total="31250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="19650" pacs="17000" total="36650"/>
+    <sector sector_name="Defense" sectorid="D" indivs="3750" pacs="39000" total="42750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="25100" pacs="33400" total="58500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="84614" pacs="203900" total="288514"/>
+    <sector sector_name="Health" sectorid="H" indivs="52650" pacs="131595" total="184245"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="31750" pacs="12500" total="44250"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="23800" pacs="52900" total="76700"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="23700" pacs="90000" total="113700"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="5450" total="5450"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="24500" total="24500"/>
+    <sector sector_name="Other" sectorid="W" indivs="53555" pacs="2000" total="55555"/>
+  </sectors>
+</response>

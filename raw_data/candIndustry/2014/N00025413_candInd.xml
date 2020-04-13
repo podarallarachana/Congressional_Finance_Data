@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Timothy H Bishop (D)" cid="N00025413" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00025413&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="5700" pacs="232850" total="238550"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="136915" pacs="0" total="136915"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="100099" pacs="34000" total="134099"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="200" pacs="113500" total="113700"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="250" pacs="96000" total="96250"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="72260" pacs="23750" total="96010"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="88000" total="88000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="31650" pacs="54000" total="85650"/>
+    <industry industry_code="W04" industry_name="Education" indivs="79375" pacs="1000" total="80375"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="69250" total="69250"/>
+  </industries>
+</response>

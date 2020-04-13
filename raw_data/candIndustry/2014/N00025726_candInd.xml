@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tom Cole (R)" cid="N00025726" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00025726&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="156025" pacs="2000" total="158025"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="45500" pacs="74000" total="119500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="53048" pacs="2000" total="55048"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="500" pacs="50000" total="50500"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="33900" pacs="14500" total="48400"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="16900" pacs="27000" total="43900"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="25700" pacs="10750" total="36450"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="4850" pacs="28500" total="33350"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="0" pacs="33000" total="33000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="8600" pacs="24100" total="32700"/>
+  </industries>
+</response>

@@ -1,0 +1,22 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033832" net_low="-9620979" net_high="20409996" positions_held_count="0" asset_count="20" asset_low="5629021" asset_high="23510000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033832" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Rice REI, LLC Commercial Building 38th Avenue" holdings_low="1000001" holdings_high="5000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Calhoun Rice LLC" holdings_low="1000001" holdings_high="5000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Rice Properties, LLC Commercial Building Kings Hig" holdings_low="1000001" holdings_high="5000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Winyah Road Investors" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Winyah Commercial LLC" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="General Electric" tx_date="Oct 16 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Berkshire Hathaway" tx_date="Oct 16 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Investor" organization="Calhoun Rice LLC"/>
+      <position title="Investor" organization="Graves Rice Investments"/>
+      <position title="Investor" organization="Parkway Office Plaza LLC"/>
+      <position title="Investor" organization="POP 3 LLC"/>
+      <position title="Investor" organization="POP Plus LLC"/>
+    </positions>
+  </member_profile>
+</response>

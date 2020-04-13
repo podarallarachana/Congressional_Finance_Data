@@ -1,0 +1,25 @@
+<response>
+  <member_profile name="Norton, Eleanor Holmes" data_year="2016" member_id="N00001692" net_low="1131036" net_high="2841000" positions_held_count="0" asset_count="32" asset_low="1131036" asset_high="2841000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00001692" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Powershares ETF TR II S&amp;P 500 Fund" holdings_low="150002" holdings_high="350000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Guggenheim S&amp;P 500 Equal Weight ETF" holdings_low="115002" holdings_high="300000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Retirement Growth Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Berkshire Hathaway" holdings_low="100001" holdings_high="250000" industry="Securities &amp; Investment" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Large Cap Growth Portfolio" holdings_low="100002" holdings_high="200000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Davis NY Venture Fund" tx_date="Jul  3 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Allianz Fixed Period Account Money Market Fund" tx_date="Dec  3 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Retirement Growth Fund" tx_date="May  7 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="TIAA Traditional Fund" tx_date="May  7 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Hartford Capital Appreciation Fund" tx_date="Dec 18 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Advisory Board Member" organization="American University Women &amp; Politics Institute"/>
+      <position title="Member" organization="Citizens Commission for Civil Rights"/>
+      <position title="Member" organization="Council On Foreign Relations"/>
+      <position title="Professor of Law" organization="Georgetown University"/>
+      <position title="Board of Trustees" organization="Lawyers Cmte for Civil Rights Under Law"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Dan Sullivan (R)" cid="N00035774" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035774&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="1069287" pacs="0" total="1069287"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="688585" pacs="0" total="688585"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="550923" pacs="48700" total="599623"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="417843" pacs="5000" total="422843"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="297935" pacs="70200" total="368135"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="300100" total="300100"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="248611" pacs="250" total="248861"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="235084" pacs="1000" total="236084"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="160000" pacs="10000" total="170000"/>
+    <industry industry_code="N13" industry_name="Chemical &amp; Related Manufacturing" indivs="122575" pacs="18500" total="141075"/>
+  </industries>
+</response>

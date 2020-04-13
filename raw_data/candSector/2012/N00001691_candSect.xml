@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Carl Levin (D)" cid="N00001691" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001691&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="63750" pacs="28410" total="92160"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="150196" pacs="38010" total="188206"/>
+    <sector sector_name="Construction" sectorid="C" indivs="69350" pacs="36700" total="106050"/>
+    <sector sector_name="Defense" sectorid="D" indivs="66950" pacs="147050" total="214000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="71600" pacs="48854" total="120454"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="744594" pacs="143760" total="888354"/>
+    <sector sector_name="Health" sectorid="H" indivs="215054" pacs="56900" total="271954"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="784285" pacs="106482" total="890767"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="151500" pacs="58369" total="209869"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="562646" pacs="84646" total="647292"/>
+    <sector sector_name="Labor" sectorid="P" indivs="3300" pacs="246800" total="250100"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="409877" pacs="184395" total="594272"/>
+    <sector sector_name="Other" sectorid="W" indivs="644140" pacs="5000" total="649140"/>
+  </sectors>
+</response>

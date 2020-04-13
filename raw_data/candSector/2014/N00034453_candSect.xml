@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Derek Kilmer (D)" cid="N00034453" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00034453&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="13200" pacs="27350" total="40550"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="54000" pacs="41500" total="95500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="17850" pacs="21500" total="39350"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1750" pacs="93500" total="95250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="15975" pacs="15450" total="31425"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="87950" pacs="113500" total="201450"/>
+    <sector sector_name="Health" sectorid="H" indivs="39100" pacs="73000" total="112100"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="98574" pacs="20000" total="118574"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="25910" pacs="53200" total="79110"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="134150" pacs="52804" total="186954"/>
+    <sector sector_name="Labor" sectorid="P" indivs="2600" pacs="213500" total="216100"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="70400" pacs="58067" total="128467"/>
+    <sector sector_name="Other" sectorid="W" indivs="183780" pacs="1000" total="184780"/>
+  </sectors>
+</response>

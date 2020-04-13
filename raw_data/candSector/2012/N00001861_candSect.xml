@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Henry Waxman (D)" cid="N00001861" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001861&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="500" pacs="1000" total="1500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="88750" pacs="237031" total="325781"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1500" pacs="4500" total="6000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="12500" total="12500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5250" pacs="48750" total="54000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="63500" pacs="60500" total="124000"/>
+    <sector sector_name="Health" sectorid="H" indivs="78099" pacs="294500" total="372599"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="114023" pacs="74200" total="188223"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1250" pacs="7000" total="8250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="45300" pacs="50500" total="95800"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1500" pacs="124500" total="126000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="99500" pacs="68600" total="168100"/>
+    <sector sector_name="Other" sectorid="W" indivs="80600" pacs="0" total="80600"/>
+  </sectors>
+</response>

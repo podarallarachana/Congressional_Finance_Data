@@ -1,0 +1,16 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00034044" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00034044" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Abbvie Inc" tx_date="Sep 11 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Biogen Idec" tx_date="Sep 11 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Morgan Stanley" tx_date="Sep 11 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Novartis AG" tx_date="Sep 11 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Volkswagen AG" tx_date="Sep 11 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+    <positions>
+      <position title="Director" organization="Robert F Kennedy Children's Action Corp"/>
+      <position title="Member Board of Directors" organization="Robert F Kennedy Memorial"/>
+      <position title="Member Board of Directors" organization="Sooner Foundation"/>
+    </positions>
+  </member_profile>
+</response>

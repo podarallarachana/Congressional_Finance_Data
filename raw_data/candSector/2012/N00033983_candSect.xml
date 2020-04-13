@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Kyrsten Sinema (D)" cid="N00033983" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033983&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="15900" pacs="0" total="15900"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="38112" pacs="0" total="38112"/>
+    <sector sector_name="Construction" sectorid="C" indivs="15000" pacs="3500" total="18500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2750" pacs="0" total="2750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="7400" pacs="2500" total="9900"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="87600" pacs="14500" total="102100"/>
+    <sector sector_name="Health" sectorid="H" indivs="62260" pacs="15000" total="77260"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="191786" pacs="6000" total="197786"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1750" pacs="3500" total="5250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="75608" pacs="2000" total="77608"/>
+    <sector sector_name="Labor" sectorid="P" indivs="200" pacs="176750" total="176950"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="222656" pacs="167383" total="390039"/>
+    <sector sector_name="Other" sectorid="W" indivs="256232" pacs="1500" total="257732"/>
+  </sectors>
+</response>

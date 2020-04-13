@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jackie Walorski (R)" cid="N00031226" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031226&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="159377" total="159377"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="132975" pacs="0" total="132975"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="44500" pacs="46000" total="90500"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="69900" pacs="13250" total="83150"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="42000" total="42000"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="6000" pacs="35000" total="41000"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="39900" pacs="1000" total="40900"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="21700" pacs="14500" total="36200"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="11300" pacs="21500" total="32800"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="26069" pacs="6000" total="32069"/>
+  </industries>
+</response>

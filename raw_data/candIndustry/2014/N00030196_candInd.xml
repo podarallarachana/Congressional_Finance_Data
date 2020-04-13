@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Paul Tonko (D)" cid="N00030196" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030196&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="12400" pacs="101650" total="114050"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="50000" total="50000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="48500" total="48500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="27792" pacs="19750" total="47542"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="37000" total="37000"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="0" pacs="33000" total="33000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="1000" pacs="29500" total="30500"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="250" pacs="21848" total="22098"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="1250" pacs="20250" total="21500"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="21000" total="21000"/>
+  </industries>
+</response>

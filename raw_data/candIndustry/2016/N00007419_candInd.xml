@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mike Thompson (D)" cid="N00007419" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007419&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="207227" pacs="38500" total="245727"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="9540" pacs="184861" total="194401"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="1500" pacs="159000" total="160500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="16923" pacs="85500" total="102423"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="80335" pacs="0" total="80335"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="21755" pacs="46500" total="68255"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="500" pacs="60400" total="60900"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="4100" pacs="56500" total="60600"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="2710" pacs="52000" total="54710"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="13160" pacs="32500" total="45660"/>
+  </industries>
+</response>

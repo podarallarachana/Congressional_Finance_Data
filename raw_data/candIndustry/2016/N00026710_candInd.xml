@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Kenny Marchant (R)" cid="N00026710" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026710&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="6100" pacs="97800" total="103900"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="23400" pacs="65750" total="89150"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="4750" pacs="48500" total="53250"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="2500" pacs="47250" total="49750"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="3200" pacs="39750" total="42950"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="0" pacs="29500" total="29500"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="6150" pacs="23000" total="29150"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="15500" pacs="11000" total="26500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="4500" pacs="21750" total="26250"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="5400" pacs="17310" total="22710"/>
+  </industries>
+</response>

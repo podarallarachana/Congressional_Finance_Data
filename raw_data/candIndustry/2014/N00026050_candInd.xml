@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Lisa Murkowski (R)" cid="N00026050" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026050&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="124846" pacs="448750" total="573596"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="221081" pacs="336300" total="557381"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="354001" pacs="5500" total="359501"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="266393" total="266393"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="101872" pacs="120750" total="222622"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="111744" pacs="31500" total="143244"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="61750" pacs="73100" total="134850"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="46600" pacs="85100" total="131700"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="130761" pacs="0" total="130761"/>
+    <industry industry_code="E07" industry_name="Misc Energy" indivs="31200" pacs="94368" total="125568"/>
+  </industries>
+</response>

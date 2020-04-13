@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Al Green (D)" cid="N00026686" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026686&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="82286" pacs="13100" total="95386"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="58107" pacs="14000" total="72107"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="40000" total="40000"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="33600" pacs="2700" total="36300"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="33500" total="33500"/>
+    <industry industry_code="W04" industry_name="Education" indivs="26950" pacs="0" total="26950"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="25500" total="25500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="24800" pacs="0" total="24800"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="21500" total="21500"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="14600" pacs="5500" total="20100"/>
+  </industries>
+</response>

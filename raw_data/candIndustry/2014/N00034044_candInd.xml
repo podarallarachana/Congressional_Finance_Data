@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Joe Kennedy III (D)" cid="N00034044" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034044&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="433314" pacs="8000" total="441314"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="285799" pacs="32650" total="318449"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="154800" pacs="16000" total="170800"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="100000" pacs="2453" total="102453"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="20850" pacs="63244" total="84094"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="77250" pacs="4000" total="81250"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="67800" pacs="0" total="67800"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="33823" pacs="24680" total="58503"/>
+    <industry industry_code="W04" industry_name="Education" indivs="55000" pacs="0" total="55000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="54750" pacs="0" total="54750"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jose E Serrano (D)" cid="N00001813" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001813&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="500" pacs="9000" total="9500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="300" pacs="3000" total="3300"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1300" pacs="0" total="1300"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="4000" total="4000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1500" pacs="22500" total="24000"/>
+    <sector sector_name="Health" sectorid="H" indivs="5750" pacs="4000" total="9750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="3150" pacs="7000" total="10150"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="6800" pacs="12500" total="19300"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="100000" total="100000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="11750" total="11750"/>
+    <sector sector_name="Other" sectorid="W" indivs="2500" pacs="1500" total="4000"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Katko (R)" cid="N00035934" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035934&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="95500" total="95500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="63050" pacs="0" total="63050"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="49675" pacs="0" total="49675"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="35525" pacs="2500" total="38025"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="10600" pacs="14500" total="25100"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="18675" pacs="5000" total="23675"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="23300" pacs="0" total="23300"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="17375" pacs="5000" total="22375"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="20000" total="20000"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="13650" pacs="2500" total="16150"/>
+  </industries>
+</response>

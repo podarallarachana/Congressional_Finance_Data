@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Greg Walden (R)" cid="N00007690" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00007690&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="149229" pacs="122200" total="271429"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="148150" pacs="338257" total="486407"/>
+    <sector sector_name="Construction" sectorid="C" indivs="30374" pacs="55500" total="85874"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1000" pacs="45500" total="46500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="12350" pacs="251250" total="263600"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="111490" pacs="315649" total="427139"/>
+    <sector sector_name="Health" sectorid="H" indivs="70300" pacs="360648" total="430948"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="145576" pacs="45650" total="191226"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="48089" pacs="97500" total="145589"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="115992" pacs="191245" total="307237"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="48500" total="48500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="67129" pacs="50550" total="117679"/>
+    <sector sector_name="Other" sectorid="W" indivs="140287" pacs="0" total="140287"/>
+  </sectors>
+</response>

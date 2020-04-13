@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Barbara Boxer (D)" cid="N00006692" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00006692&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="75800" pacs="91300" total="167100"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1211075" pacs="174683" total="1385758"/>
+    <sector sector_name="Construction" sectorid="C" indivs="189038" pacs="142117" total="331155"/>
+    <sector sector_name="Defense" sectorid="D" indivs="14400" pacs="6500" total="20900"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="160750" pacs="103699" total="264449"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1186744" pacs="74941" total="1261685"/>
+    <sector sector_name="Health" sectorid="H" indivs="523215" pacs="116150" total="639365"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1855560" pacs="118322" total="1973882"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="51349" pacs="104200" total="155549"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="1006369" pacs="87202" total="1093571"/>
+    <sector sector_name="Labor" sectorid="P" indivs="13400" pacs="321100" total="334500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1850424" pacs="527268" total="2377692"/>
+    <sector sector_name="Other" sectorid="W" indivs="2087070" pacs="3500" total="2090570"/>
+  </sectors>
+</response>

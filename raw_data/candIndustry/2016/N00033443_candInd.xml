@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Deb Fischer (R)" cid="N00033443" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033443&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="200" pacs="407182" total="407382"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="358387" pacs="0" total="358387"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="83000" pacs="129000" total="212000"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="134360" pacs="72552" total="206912"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="153071" pacs="46500" total="199571"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="76525" pacs="100500" total="177025"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="96186" pacs="76250" total="172436"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="89000" pacs="81170" total="170170"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="68234" pacs="90400" total="158634"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="109199" pacs="44500" total="153699"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Brenda Lawrence (D)" cid="N00034068" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00034068&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1750" pacs="24500" total="26250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2450" pacs="21000" total="23450"/>
+    <sector sector_name="Construction" sectorid="C" indivs="4545" pacs="0" total="4545"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="11500" total="11500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3000" pacs="17600" total="20600"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="68125" pacs="63750" total="131875"/>
+    <sector sector_name="Health" sectorid="H" indivs="15800" pacs="26250" total="42050"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="32750" pacs="15500" total="48250"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="34283" pacs="54500" total="88783"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="32755" pacs="26917" total="59672"/>
+    <sector sector_name="Labor" sectorid="P" indivs="625" pacs="190000" total="190625"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="8359" pacs="41317" total="49676"/>
+    <sector sector_name="Other" sectorid="W" indivs="16010" pacs="1500" total="17510"/>
+  </sectors>
+</response>

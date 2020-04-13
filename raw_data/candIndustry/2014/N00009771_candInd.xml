@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Shelley Moore Capito (R)" cid="N00009771" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009771&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="384415" pacs="51400" total="435815"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="410186" pacs="0" total="410186"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="291500" pacs="44513" total="336013"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="330100" total="330100"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="218874" pacs="83375" total="302249"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="102866" pacs="162500" total="265366"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="127175" pacs="125000" total="252175"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="77338" pacs="173600" total="250938"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="117566" pacs="104500" total="222066"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="134178" pacs="51500" total="185678"/>
+  </industries>
+</response>

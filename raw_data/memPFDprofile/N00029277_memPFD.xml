@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Peters, Gary" data_year="2016" member_id="N00029277" net_low="1757195" net_high="6721000" positions_held_count="0" asset_count="185" asset_low="1757195" asset_high="6721000" transaction_count="13" tx_low="97013" tx_high="405000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00029277" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Congressional Federal Certificicate of Deposit" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Stable Value Fund" holdings_low="65002" holdings_high="150000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Funds Europacific Growth Fund" holdings_low="31003" holdings_high="115000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Ford Motor Credit Co" holdings_low="30002" holdings_high="101000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Sherwin-Williams Co" holdings_low="50001" holdings_high="100000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="United Parcel Service Inc" tx_date="Jul  2 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Aetna Inc" tx_date="Jan  7 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="AT&amp;T Inc" tx_date="Jan  7 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Clorox Co" tx_date="Jul 22 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Ford Motor Credit" tx_date="Feb 19 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

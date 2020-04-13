@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Mikulski, Barbara A" data_year="2016" member_id="N00001945" net_low="241016" net_high="791000" positions_held_count="0" asset_count="17" asset_low="241016" asset_high="791000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00001945" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Kopernik Bank" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="T Rowe Price Real Estate Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Wilmington US Government Money" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Franklin Mutual Global Discovery Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="T Rowe Price Capital Appreciation Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Other (Advisory Committee)" organization="Character Counts  Los Angeles California"/>
+      <position title="Other (Member-Board of Advisors)" organization="Girl Scout Council of National Capital Area"/>
+      <position title="Other (Member-Board of Trustees)" organization="Helen Keller Foundation"/>
+      <position title="Other (Health Advisory Committee)" organization="Johns Hopkins Bloomberg School of Public Health"/>
+      <position title="Other (Advisory Board)" organization="Kids Voting MD"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,20 @@
+<response>
+  <member_profile name="Smith, Adrian" data_year="2016" member_id="N00027623" net_low="-1079985" net_high="-15004" positions_held_count="0" asset_count="15" asset_low="170015" asset_high="600000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00027623" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="My Other Garage" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="State Farm Large Cap Index" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="TD Bank (Savings)" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vacant Lot - Ogallala 1/3 interest" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Miller Lake Corp" holdings_low="15001" holdings_high="50000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Miller Lake Corp" tx_date="Sep  6 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+    <positions>
+      <position title="Board Member" organization="American Council of Young Political Leaders"/>
+      <position title="Board Member" organization="Leadership Institutes' Congressional Advisory Boar"/>
+      <position title="Board Member" organization="Nebraska State Historical Society Foundation"/>
+      <position title="Board Member" organization="ThanksUSA"/>
+    </positions>
+  </member_profile>
+</response>

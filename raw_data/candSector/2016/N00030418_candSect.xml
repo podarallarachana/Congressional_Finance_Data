@@ -1,0 +1,12 @@
+<response>
+  <sectors cand_name="Gregorio Sablan (I)" cid="N00030418" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030418&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Construction" sectorid="C" indivs="2400" pacs="0" total="2400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="7300" pacs="0" total="7300"/>
+    <sector sector_name="Health" sectorid="H" indivs="400" pacs="0" total="400"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1700" pacs="0" total="1700"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="500" total="500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="1500" pacs="0" total="1500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Other" sectorid="W" indivs="3600" pacs="0" total="3600"/>
+  </sectors>
+</response>

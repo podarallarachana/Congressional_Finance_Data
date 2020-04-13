@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Claudia Tenney (R)" cid="N00036351" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00036351&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="18050" pacs="6500" total="24550"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1500" pacs="8500" total="10000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="39500" pacs="5000" total="44500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="6200" pacs="2500" total="8700"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="8900" pacs="10000" total="18900"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="61500" pacs="18500" total="80000"/>
+    <sector sector_name="Health" sectorid="H" indivs="17650" pacs="8000" total="25650"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="34700" pacs="3000" total="37700"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="5900" pacs="2250" total="8150"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="80598" pacs="31500" total="112098"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="26100" pacs="211050" total="237150"/>
+    <sector sector_name="Other" sectorid="W" indivs="67314" pacs="2700" total="70014"/>
+  </sectors>
+</response>

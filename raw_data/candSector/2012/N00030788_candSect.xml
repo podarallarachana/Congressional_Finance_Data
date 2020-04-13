@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tom Graves (R)" cid="N00030788" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030788&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="22900" pacs="61250" total="84150"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="10750" pacs="46000" total="56750"/>
+    <sector sector_name="Construction" sectorid="C" indivs="15016" pacs="9500" total="24516"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="19000" total="19500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="6000" pacs="49750" total="55750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="77949" pacs="81000" total="158949"/>
+    <sector sector_name="Health" sectorid="H" indivs="47400" pacs="54000" total="101400"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="36316" pacs="11000" total="47316"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="11333" pacs="32499" total="43832"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="92851" pacs="84934" total="177785"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="1000" total="1250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="5587" pacs="53667" total="59254"/>
+    <sector sector_name="Other" sectorid="W" indivs="50593" pacs="0" total="50593"/>
+  </sectors>
+</response>

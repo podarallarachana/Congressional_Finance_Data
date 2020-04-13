@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Thomas MacArthur (R)" cid="N00036155" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00036155&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="101829" total="101829"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="19050" pacs="10500" total="29550"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="22199" total="22199"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="21000" total="21000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="20200" pacs="0" total="20200"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="5750" pacs="11000" total="16750"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="16000" pacs="0" total="16000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="12000" pacs="1000" total="13000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="12900" pacs="0" total="12900"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="12000" pacs="0" total="12000"/>
+  </industries>
+</response>

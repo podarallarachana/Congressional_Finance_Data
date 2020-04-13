@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Sanford Bishop (D)" cid="N00002674" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002674&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="15000" pacs="51500" total="66500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="28584" pacs="24750" total="53334"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="42000" total="42000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="39000" total="39000"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="0" pacs="33500" total="33500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="5150" pacs="27000" total="32150"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="0" pacs="32000" total="32000"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="30500" total="30500"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="3334" pacs="27000" total="30334"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="10500" pacs="18000" total="28500"/>
+  </industries>
+</response>

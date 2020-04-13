@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="McDermott, Jim" data_year="2016" member_id="N00009829" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00009829" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Governement National Meeting Assn" tx_date="2013-05-06 00:00:00.000" tx_action="Purchased" value_low="96186" value_high="96186"/>
+      <transaction asset_name="Federal National Meeting Assn" tx_date="2013-05-14 00:00:00.000" tx_action="Purchased" value_low="90892" value_high="90892"/>
+      <transaction asset_name="JPMorgan Chase &amp; Co" tx_date="2013-08-05 00:00:00.000" tx_action="Purchased" value_low="65102" value_high="65102"/>
+      <transaction asset_name="Zions Bancorp" tx_date="2013-05-20 00:00:00.000" tx_action="Purchased" value_low="50000" value_high="50000"/>
+      <transaction asset_name="Eaton Vance Enhanced Equity Income Fund" tx_date="2013-06-25 00:00:00.000" tx_action="Purchased" value_low="27338" value_high="27338"/>
+    </transactions>
+    <positions>
+      <position title="Member" organization="Child Haven Advisory Board"/>
+      <position title="Member" organization="Evans School of Public Affairs University of Wash"/>
+      <position title="Member" organization="Henry M Jackson Foundation"/>
+      <position title="Commissioner" organization="Japan-US Friendship Commission"/>
+      <position title="Member" organization="Pacific Science Center"/>
+    </positions>
+  </member_profile>
+</response>

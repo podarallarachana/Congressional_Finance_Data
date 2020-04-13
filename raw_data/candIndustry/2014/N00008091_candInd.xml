@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Spencer Bachus (R)" cid="N00008091" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00008091&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="500" pacs="23500" total="24000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="0" pacs="23500" total="23500"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="0" pacs="23000" total="23000"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="1000" pacs="20500" total="21500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="1000" pacs="20500" total="21500"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="21000" total="21000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1500" pacs="18500" total="20000"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="2500" pacs="11000" total="13500"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="0" pacs="13000" total="13000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="10250" pacs="0" total="10250"/>
+  </industries>
+</response>

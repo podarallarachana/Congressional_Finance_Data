@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Pedro Pierluisi (D)" cid="N00029168" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029168&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="15500" pacs="1000" total="16500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="13750" pacs="5500" total="19250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="15600" pacs="1000" total="16600"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="3500" total="3500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="38150" pacs="1000" total="39150"/>
+    <sector sector_name="Health" sectorid="H" indivs="22750" pacs="8500" total="31250"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="66300" pacs="13000" total="79300"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1500" pacs="1500" total="3000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="32323" pacs="13500" total="45823"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1500" total="1500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="10000" total="10000"/>
+    <sector sector_name="Other" sectorid="W" indivs="16400" pacs="0" total="16400"/>
+  </sectors>
+</response>

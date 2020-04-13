@@ -1,0 +1,8 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00040733" net_low="292575639" net_high="806468130" positions_held_count="0" asset_count="2" asset_low="292575639" asset_high="806468130" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00040733" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="216544509" holdings_high="730437000" industry="" sector="" subsidiary_of=""/>
+      <asset name="" holdings_low="76031130" holdings_high="76031130" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

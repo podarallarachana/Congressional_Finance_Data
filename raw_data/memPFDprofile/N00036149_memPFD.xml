@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00036149" net_low="4398152" net_high="11336000" positions_held_count="0" asset_count="129" asset_low="4413152" asset_high="11346000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00036149" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Income Fund of America Fund" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Davis New York Venture Fund" holdings_low="415004" holdings_high="900000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Franklin Mutual Quest Fund" holdings_low="350002" holdings_high="750000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Microsoft Corp" holdings_low="115002" holdings_high="300000" industry="Electronics Mfg &amp; Equip" sector="Communic/Electronics" subsidiary_of=""/>
+      <asset name="Wells Fargo Bank/Checking" holdings_low="115002" holdings_high="300000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Chair (Foundation Closed 2014)" organization="(Michigan) Governor's Residence Foundation"/>
+      <position title="Co-Chair Steering Committee" organization="All International Neighbors Club"/>
+      <position title="Co-Host" organization="Am I Right, Detroit Public Television, Channel 56"/>
+      <position title="Advisory Board Member" organization="American Civil Liberties Union (ACLU) of Michigan"/>
+      <position title="Advisory Board Member" organization="American-Arab Anti-Discrimination Cmte"/>
+    </positions>
+  </member_profile>
+</response>

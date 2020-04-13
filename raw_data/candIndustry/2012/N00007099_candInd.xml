@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ken Calvert (R)" cid="N00007099" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007099&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="39640" pacs="12000" total="51640"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="48801" pacs="2000" total="50801"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="3500" pacs="43500" total="47000"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="2150" pacs="44000" total="46150"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="46000" total="46000"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="16986" pacs="24884" total="41870"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="25250" pacs="15500" total="40750"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="30300" pacs="9500" total="39800"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="34000" pacs="0" total="34000"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="20600" pacs="13000" total="33600"/>
+  </industries>
+</response>

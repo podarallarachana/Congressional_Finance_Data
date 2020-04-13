@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Earl Blumenauer (D)" cid="N00007727" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007727&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="2500" pacs="138900" total="141400"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="10650" pacs="86500" total="97150"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="18050" pacs="67500" total="85550"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="24375" pacs="56000" total="80375"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="30700" pacs="49000" total="79700"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="34650" pacs="23500" total="58150"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="24892" pacs="26500" total="51392"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="9267" pacs="34500" total="43767"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="40827" pacs="1500" total="42327"/>
+    <industry industry_code="Q10" industry_name="Misc Issues" indivs="18250" pacs="24000" total="42250"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Lou Correa (D)" cid="N00037260" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00037260&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="2700" pacs="59800" total="62500"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="41800" pacs="6000" total="47800"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="11149" pacs="31500" total="42649"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="24250" pacs="17500" total="41750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="26018" pacs="12000" total="38018"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="31425" pacs="3000" total="34425"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="4300" pacs="26622" total="30922"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="5200" pacs="22500" total="27700"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="6000" pacs="20500" total="26500"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="750" pacs="24000" total="24750"/>
+  </industries>
+</response>

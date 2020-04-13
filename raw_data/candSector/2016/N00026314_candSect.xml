@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Cathy McMorris Rodgers (R)" cid="N00026314" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026314&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="86499" pacs="111963" total="198462"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="52640" pacs="164450" total="217090"/>
+    <sector sector_name="Construction" sectorid="C" indivs="65270" pacs="55000" total="120270"/>
+    <sector sector_name="Defense" sectorid="D" indivs="300" pacs="40000" total="40300"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="72920" pacs="169950" total="242870"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="412570" pacs="303940" total="716510"/>
+    <sector sector_name="Health" sectorid="H" indivs="121605" pacs="328400" total="450005"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="126130" pacs="34000" total="160130"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="30405" pacs="89000" total="119405"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="184435" pacs="177950" total="362385"/>
+    <sector sector_name="Labor" sectorid="P" indivs="5400" pacs="1000" total="6400"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="91650" pacs="55775" total="147425"/>
+    <sector sector_name="Other" sectorid="W" indivs="190504" pacs="2500" total="193004"/>
+  </sectors>
+</response>

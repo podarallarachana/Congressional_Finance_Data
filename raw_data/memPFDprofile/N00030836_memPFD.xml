@@ -1,0 +1,23 @@
+<response>
+  <member_profile name="Paul, Rand" data_year="2016" member_id="N00030836" net_low="386038" net_high="1814999" positions_held_count="2" asset_count="34" asset_low="636038" asset_high="1915000" transaction_count="33" tx_low="61033" tx_high="565000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030836" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Vanguard Inflation-Protected Secs Adm" holdings_low="150002" holdings_high="350000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Rental Property/Bowling Green, KY" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Rental Property/Destin, FL" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Money Market Reserves" holdings_low="65002" holdings_high="150000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Janus Government Money Market Fund - JGVXX" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Vanguard Energy Fund" tx_date="Nov 12 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Vanguard Energy Fund" tx_date="Nov 12 2013" tx_action="Exchanged" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Vanguard Inflation-Protected Secs Adm Fund" tx_date="Jan  7 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Upromise Investments Inc" tx_date="Jan 24 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Upromise Investments Inc" tx_date="Jan 24 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+    </transactions>
+    <positions>
+      <position title="(Member)" organization="Alchemy LLC"/>
+      <position title="(Limited Partner)" organization="Carona Ltd"/>
+      <position title="Officer" organization="Randal H Paul MD"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Linda Sanchez (D)" cid="N00024870" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00024870&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="0" pacs="120500" total="120500"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="250" pacs="111700" total="111950"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="2379" pacs="63500" total="65879"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="1000" pacs="61500" total="62500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="250" pacs="58500" total="58750"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="12500" pacs="43250" total="55750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="11925" pacs="42500" total="54425"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="26855" pacs="24750" total="51605"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="5900" pacs="37000" total="42900"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="42500" total="42500"/>
+  </industries>
+</response>

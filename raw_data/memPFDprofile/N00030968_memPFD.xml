@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Ribble, Reid" data_year="2016" member_id="N00030968" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030968" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Mass Mutual Financial Group Whole Life Ins" tx_date="Jul 26 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Enterprise Products Partners" tx_date="Jun 19 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="MetLife Balanced Plus Portfolio" tx_date="Jan  8 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Pyramis Government Income" tx_date="Jan  8 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Pyramis Government Income" tx_date="Sep  4 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

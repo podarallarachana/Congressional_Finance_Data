@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Catherine Cortez Masto (D)" cid="N00037161" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00037161&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="87058" pacs="8000" total="95058"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="618367" pacs="1000" total="619367"/>
+    <sector sector_name="Construction" sectorid="C" indivs="138694" pacs="5000" total="143694"/>
+    <sector sector_name="Defense" sectorid="D" indivs="22778" pacs="8000" total="30778"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="66671" pacs="46000" total="112671"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1141921" pacs="6000" total="1147921"/>
+    <sector sector_name="Health" sectorid="H" indivs="487403" pacs="20000" total="507403"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1487771" pacs="23474" total="1511245"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="62675" pacs="0" total="62675"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="730574" pacs="64000" total="794574"/>
+    <sector sector_name="Labor" sectorid="P" indivs="9373" pacs="330500" total="339873"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="4568237" pacs="640893" total="5209130"/>
+    <sector sector_name="Other" sectorid="W" indivs="1583712" pacs="2000" total="1585712"/>
+  </sectors>
+</response>

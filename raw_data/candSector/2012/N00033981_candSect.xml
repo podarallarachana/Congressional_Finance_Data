@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Ron Barber (D)" cid="N00033981" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033981&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="42750" pacs="16750" total="59500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="25000" pacs="12000" total="37000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="14150" pacs="0" total="14150"/>
+    <sector sector_name="Defense" sectorid="D" indivs="7000" pacs="28500" total="35500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="2750" pacs="19000" total="21750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="67900" pacs="57500" total="125400"/>
+    <sector sector_name="Health" sectorid="H" indivs="55851" pacs="72000" total="127851"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="90274" pacs="24500" total="114774"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="4200" pacs="2500" total="6700"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="83540" pacs="22500" total="106040"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1500" pacs="371500" total="373000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="118452" pacs="317378" total="435830"/>
+    <sector sector_name="Other" sectorid="W" indivs="401038" pacs="0" total="401038"/>
+  </sectors>
+</response>

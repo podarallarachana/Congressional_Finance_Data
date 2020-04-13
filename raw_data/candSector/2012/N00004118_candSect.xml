@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Debbie Stabenow (D)" cid="N00004118" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00004118&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="209243" pacs="729715" total="938958"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="217463" pacs="122171" total="339634"/>
+    <sector sector_name="Construction" sectorid="C" indivs="74517" pacs="40800" total="115317"/>
+    <sector sector_name="Defense" sectorid="D" indivs="11700" pacs="51000" total="62700"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="142991" pacs="242099" total="385090"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1056079" pacs="601426" total="1657505"/>
+    <sector sector_name="Health" sectorid="H" indivs="654189" pacs="717210" total="1371399"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="872014" pacs="179132" total="1051146"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="125660" pacs="100957" total="226617"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="570153" pacs="250950" total="821103"/>
+    <sector sector_name="Labor" sectorid="P" indivs="8666" pacs="327200" total="335866"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="601993" pacs="464669" total="1066662"/>
+    <sector sector_name="Other" sectorid="W" indivs="769201" pacs="28164" total="797365"/>
+  </sectors>
+</response>

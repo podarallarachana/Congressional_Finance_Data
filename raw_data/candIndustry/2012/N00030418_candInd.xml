@@ -1,0 +1,15 @@
+<response>
+  <industries cand_name="Gregorio Sablan (D)" cid="N00030418" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030418&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="12000" total="12000"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="9250" total="9250"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="9000" pacs="0" total="9000"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="0" pacs="7000" total="7000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="4500" pacs="1000" total="5500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="2900" pacs="0" total="2900"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="2500" total="2500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="2500" total="2500"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="1400" pacs="0" total="1400"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="1100" pacs="0" total="1100"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="1100" pacs="0" total="1100"/>
+  </industries>
+</response>

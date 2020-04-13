@@ -1,0 +1,22 @@
+<response>
+  <member_profile name="Clyburn, James E" data_year="2016" member_id="N00002408" net_low="197009" net_high="532000" positions_held_count="0" asset_count="7" asset_low="197009" asset_high="532000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00002408" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Investment Entrepreneurs LLC" holdings_low="100001" holdings_high="250000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="Bank of America" holdings_low="31003" holdings_high="115000" industry="Commercial Banks" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="645-47 W Liberty St" holdings_low="50001" holdings_high="100000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="SCANA Corp" holdings_low="15001" holdings_high="50000" industry="Electric Utilities" sector="Energy/Nat Resource" subsidiary_of=""/>
+      <asset name="Automatic Data Processing Inc" holdings_low="1001" holdings_high="15000" industry="Business Services" sector="Misc Business" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Oakmark International Fund" tx_date="Feb  6 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Lazard Emerging Markets Fund" tx_date="Feb  6 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="John Hancock Classic Value Fund" tx_date="Feb  6 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Cullen High-Dividend Equity" tx_date="Feb  6 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Thornburg International Value Fund" tx_date="Feb  6 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Board Member (uncompensated)" organization="Allen University"/>
+      <position title="Board Member (uncompensated)" organization="Congressional Black Caucus Education &amp; Leadership"/>
+    </positions>
+  </member_profile>
+</response>

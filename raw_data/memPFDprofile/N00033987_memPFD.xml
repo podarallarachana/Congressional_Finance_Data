@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033987" net_low="1281008" net_high="5716000" positions_held_count="0" asset_count="7" asset_low="1281008" asset_high="5716000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033987" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="DSL Farming Partnership/Rice Farm" holdings_low="1000001" holdings_high="5000000" industry="Crop Production &amp; Basic Processing" sector="Agribusiness" subsidiary_of=""/>
+      <asset name="Tri Counties Bank Accounts" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="LaMalfa Farms Inc" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="TriCo Bancshares" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="New York Life Insurance/Universal Life Insurance" holdings_low="16002" holdings_high="65000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Partner" organization="DSL Farming Partnership (Rice Farm)"/>
+      <position title="Partner" organization="DSL Farming Partnership (Rice Farm)"/>
+      <position title="Vice President &amp; CFO" organization="La Malfa Farms Inc"/>
+      <position title="Vice President &amp; CFO" organization="La Malfa Farms Inc"/>
+      <position title="CEO" organization="LaMalfa Trucking"/>
+    </positions>
+  </member_profile>
+</response>

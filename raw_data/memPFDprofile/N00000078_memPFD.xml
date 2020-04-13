@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Maloney, Carolyn B" data_year="2016" member_id="N00000078" net_low="10313048" net_high="46744999" positions_held_count="0" asset_count="46" asset_low="11313048" asset_high="47245000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00000078" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Residential Rental Property &amp; Residence/East 92" holdings_low="5000001" holdings_high="25000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Birdneck Country Club Apartments" holdings_low="1000001" holdings_high="5000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Residential Rentals/206 D Street SE, Washington" holdings_low="1000001" holdings_high="5000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="ATHENA II LLC" holdings_low="1000001" holdings_high="5000000" industry="Misc Business" sector="Misc Business" subsidiary_of=""/>
+      <asset name="Columns LLC" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Member" organization="Albemarle Plantation LLC"/>
+      <position title="Single Member/Manager" organization="Athena Astoria Realty LLC"/>
+      <position title="Member" organization="Bosher Family LLC"/>
+      <position title="Partner" organization="Bosher Family Partnership"/>
+      <position title="Member" organization="Greensea Farms"/>
+    </positions>
+  </member_profile>
+</response>

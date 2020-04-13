@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Rick Nolan (D)" cid="N00021207" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00021207&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="8845" pacs="62500" total="71345"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="27109" pacs="16000" total="43109"/>
+    <sector sector_name="Construction" sectorid="C" indivs="23559" pacs="10500" total="34059"/>
+    <sector sector_name="Defense" sectorid="D" indivs="636" pacs="0" total="636"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="22764" pacs="20500" total="43264"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="89869" pacs="42000" total="131869"/>
+    <sector sector_name="Health" sectorid="H" indivs="38583" pacs="36500" total="75083"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="82090" pacs="44075" total="126165"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="11642" pacs="63000" total="74642"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="109444" pacs="34500" total="143944"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1375" pacs="302000" total="303375"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="283969" pacs="456161" total="740130"/>
+    <sector sector_name="Other" sectorid="W" indivs="268421" pacs="2000" total="270421"/>
+  </sectors>
+</response>

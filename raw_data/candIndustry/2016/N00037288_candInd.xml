@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Faso (R)" cid="N00037288" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00037288&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="359099" pacs="0" total="359099"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="297385" pacs="0" total="297385"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="163303" pacs="500" total="163803"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="140932" pacs="10000" total="150932"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="136200" total="136200"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="56439" pacs="47500" total="103939"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="61800" pacs="0" total="61800"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="41750" pacs="18200" total="59950"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="51750" pacs="7000" total="58750"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="50654" pacs="6000" total="56654"/>
+  </industries>
+</response>

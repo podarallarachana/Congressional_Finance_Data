@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="David P Joyce (R)" cid="N00035007" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035007&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="4750" pacs="6500" total="11250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="6500" pacs="5500" total="12000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="55800" pacs="12000" total="67800"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="2000" total="2500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="29314" pacs="25000" total="54314"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="70400" pacs="35600" total="106000"/>
+    <sector sector_name="Health" sectorid="H" indivs="18750" pacs="28000" total="46750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="33471" pacs="6000" total="39471"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="8300" pacs="7000" total="15300"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="106805" pacs="16500" total="123305"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="42500" total="42500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="12500" pacs="100500" total="113000"/>
+    <sector sector_name="Other" sectorid="W" indivs="43600" pacs="0" total="43600"/>
+  </sectors>
+</response>

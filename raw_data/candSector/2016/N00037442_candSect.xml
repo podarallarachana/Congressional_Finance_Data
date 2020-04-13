@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Neal Dunn (R)" cid="N00037442" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00037442&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="36300" pacs="22000" total="58300"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="4200" pacs="13500" total="17700"/>
+    <sector sector_name="Construction" sectorid="C" indivs="41050" pacs="6000" total="47050"/>
+    <sector sector_name="Defense" sectorid="D" indivs="800" pacs="3500" total="4300"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="4200" pacs="17000" total="21200"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="108610" pacs="50500" total="159110"/>
+    <sector sector_name="Health" sectorid="H" indivs="278122" pacs="92000" total="370122"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="51335" pacs="6500" total="57835"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="26070" pacs="26500" total="52570"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="82448" pacs="20500" total="102948"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="4600" pacs="124550" total="129150"/>
+    <sector sector_name="Other" sectorid="W" indivs="143944" pacs="0" total="143944"/>
+  </sectors>
+</response>

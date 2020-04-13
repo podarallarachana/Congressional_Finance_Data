@@ -1,0 +1,15 @@
+<response>
+  <sectors cand_name="Dana Rohrabacher (R)" cid="N00007151" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00007151&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="11250" pacs="2000" total="13250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="3700" pacs="3500" total="7200"/>
+    <sector sector_name="Defense" sectorid="D" indivs="650" pacs="1000" total="1650"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="15050" pacs="13500" total="28550"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="64850" pacs="10760" total="75610"/>
+    <sector sector_name="Health" sectorid="H" indivs="31150" pacs="13650" total="44800"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="20150" pacs="1675" total="21825"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="25250" pacs="12000" total="37250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="58350" pacs="5000" total="63350"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1000" pacs="20550" total="21550"/>
+    <sector sector_name="Other" sectorid="W" indivs="37000" pacs="0" total="37000"/>
+  </sectors>
+</response>

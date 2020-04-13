@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Alcee L Hastings (D)" cid="N00002884" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002884&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W04" industry_name="Education" indivs="38750" pacs="31250" total="70000"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="17300" pacs="23500" total="40800"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="26426" pacs="13000" total="39426"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="27400" pacs="0" total="27400"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="27000" total="27000"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="18250" pacs="8000" total="26250"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="25250" total="25250"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="250" pacs="24500" total="24750"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="20550" pacs="0" total="20550"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="20000" total="20000"/>
+  </industries>
+</response>

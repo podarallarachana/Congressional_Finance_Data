@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Pete Visclosky (D)" cid="N00003813" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00003813&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="1792" pacs="73000" total="74792"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="8500" pacs="61000" total="69500"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="10700" pacs="49500" total="60200"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="500" pacs="51250" total="51750"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="29550" pacs="16344" total="45894"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="25000" pacs="16000" total="41000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="18950" pacs="15750" total="34700"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="33000" total="33000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="33000" total="33000"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="3000" pacs="29000" total="32000"/>
+  </industries>
+</response>

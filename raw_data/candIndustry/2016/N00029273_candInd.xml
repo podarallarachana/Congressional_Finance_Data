@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Aaron Schock (R)" cid="N00029273" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029273&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="10700" pacs="8000" total="18700"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="5300" pacs="7000" total="12300"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="5400" pacs="2500" total="7900"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="2700" pacs="5000" total="7700"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="3700" pacs="2500" total="6200"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="500" pacs="5000" total="5500"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="5200" pacs="0" total="5200"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="2700" pacs="2000" total="4700"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="4000" total="4000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="0" pacs="4000" total="4000"/>
+  </industries>
+</response>

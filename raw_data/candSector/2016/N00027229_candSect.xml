@@ -1,0 +1,13 @@
+<response>
+  <sectors cand_name="Michael G Fitzpatrick (R)" cid="N00027229" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027229&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="0" pacs="5150" total="5150"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="3000" total="3000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="0" pacs="0" total="0"/>
+    <sector sector_name="Health" sectorid="H" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="0" pacs="4000" total="4000"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="-3500" total="-3500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="11250" total="11250"/>
+  </sectors>
+</response>

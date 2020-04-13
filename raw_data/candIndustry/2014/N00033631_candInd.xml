@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mark R Meadows (R)" cid="N00033631" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033631&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="45815" pacs="0" total="45815"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="1500" pacs="29500" total="31000"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="27000" total="27000"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="25180" total="25180"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="0" pacs="23281" total="23281"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="7600" pacs="11500" total="19100"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="16210" pacs="800" total="17010"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="1750" pacs="11260" total="13010"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="12500" total="12500"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="250" pacs="11500" total="11750"/>
+  </industries>
+</response>

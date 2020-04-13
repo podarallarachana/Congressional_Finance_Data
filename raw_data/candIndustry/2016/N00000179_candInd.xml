@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="James P McGovern (D)" cid="N00000179" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000179&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="37578" pacs="20250" total="57828"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="3850" pacs="50500" total="54350"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="1450" pacs="43500" total="44950"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="2000" pacs="42000" total="44000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="34500" total="34500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="29439" pacs="0" total="29439"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="8125" pacs="19000" total="27125"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="0" pacs="25000" total="25000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="22600" pacs="1500" total="24100"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="23500" total="23500"/>
+  </industries>
+</response>

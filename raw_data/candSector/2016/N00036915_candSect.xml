@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Kamala D Harris (D)" cid="N00036915" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00036915&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="75453" pacs="21700" total="97153"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1692831" pacs="43000" total="1735831"/>
+    <sector sector_name="Construction" sectorid="C" indivs="155355" pacs="13500" total="168855"/>
+    <sector sector_name="Defense" sectorid="D" indivs="7242" pacs="7500" total="14742"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="55197" pacs="2900" total="58097"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1578679" pacs="39300" total="1617979"/>
+    <sector sector_name="Health" sectorid="H" indivs="393914" pacs="35000" total="428914"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="2289418" pacs="65000" total="2354418"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="83135" pacs="26000" total="109135"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="978854" pacs="68700" total="1047554"/>
+    <sector sector_name="Labor" sectorid="P" indivs="9202" pacs="213450" total="222652"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1610445" pacs="289376" total="1899821"/>
+    <sector sector_name="Other" sectorid="W" indivs="1430938" pacs="2000" total="1432938"/>
+  </sectors>
+</response>

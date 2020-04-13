@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="Cummings, Elijah E" data_year="2016" member_id="N00001971" net_low="244014" net_high="2125998" positions_held_count="5" asset_count="14" asset_low="1259014" asset_high="2636000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00001971" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="132 Randolph Place, NW" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="2221 St Paul St/Baltimore, MD 21218" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="2014 Madison Ave, Baltimore, MD 21217" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Global Policy Solutions LLC" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Invesco Stable Asset Fund" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="1830-11th St NW/Washington, DC 20001" tx_date="Apr 15 2013" tx_action="Sold" value_low="250001" value_high="500000"/>
+    </transactions>
+    <positions>
+      <position title="Board Member" organization="Baltimore Area Council of Boy Scouts of America Bo"/>
+      <position title="Board Member" organization="Community Assistance Network"/>
+      <position title="Board Member" organization="Maritime Industries Academy Foundation"/>
+      <position title="Board Member" organization="Morgan State University Board of Regents"/>
+      <position title="Board Member" organization="SEED School of Baltimore"/>
+    </positions>
+  </member_profile>
+</response>

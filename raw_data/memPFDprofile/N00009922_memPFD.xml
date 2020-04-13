@@ -1,0 +1,23 @@
+<response>
+  <member_profile name="Reid, Harry" data_year="2016" member_id="N00009922" net_low="3044043" net_high="6480000" positions_held_count="0" asset_count="62" asset_low="3044043" asset_high="6480000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00009922" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Wells Fargo" holdings_low="501002" holdings_high="1015000" industry="Commercial Banks" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Bullhead City Vacant Land" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Nevada Milling Deed of Trust #2" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Nevada Milling Deed of Trust #3" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Nevada Milling Deed of Trust #1" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Maricopa Cnty AZ Elem Sch Dist Sch Impt Bond" tx_date="Nov  6 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Weber Cnty UT Spl Assmnt Summit Mountain Assmnt Ar" tx_date="Sep 17 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Emerald Peoples Utility Dist Ref Bond" tx_date="Aug  5 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Milwaukee County Wis Corp Purp Bond" tx_date="Aug  1 2013" tx_action="Exchanged" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Emerald Peoples Utility Dist Ref Bond" tx_date="Aug  5 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+    </transactions>
+    <positions>
+      <position title="(Ex Officio Board Member)" organization="Kennedy Center for the Performing Arts"/>
+      <position title="Trustee" organization="Reid Family Revocable Trust Agreement"/>
+      <position title="Trustee" organization="Reid Ltd Pension &amp; Profit Sharing Plan"/>
+    </positions>
+  </member_profile>
+</response>

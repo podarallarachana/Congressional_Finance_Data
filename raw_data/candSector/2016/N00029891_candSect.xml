@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Gerry Connolly (D)" cid="N00029891" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029891&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="23000" total="23000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="63729" pacs="164200" total="227929"/>
+    <sector sector_name="Construction" sectorid="C" indivs="19939" pacs="58250" total="78189"/>
+    <sector sector_name="Defense" sectorid="D" indivs="17140" pacs="117000" total="134140"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="4900" pacs="16250" total="21150"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="91644" pacs="131000" total="222644"/>
+    <sector sector_name="Health" sectorid="H" indivs="26067" pacs="61500" total="87567"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="127940" pacs="27250" total="155190"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="14320" pacs="48500" total="62820"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="65177" pacs="61750" total="126927"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1100" pacs="150313" total="151413"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="74529" pacs="38500" total="113029"/>
+    <sector sector_name="Other" sectorid="W" indivs="167909" pacs="1000" total="168909"/>
+  </sectors>
+</response>

@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Kristi Noem (R)" cid="N00032022" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00032022&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="86866" pacs="120000" total="206866"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="17550" pacs="55000" total="72550"/>
+    <sector sector_name="Construction" sectorid="C" indivs="30041" pacs="49500" total="79541"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="38000" total="38000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="44225" pacs="114250" total="158475"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="172885" pacs="361500" total="534385"/>
+    <sector sector_name="Health" sectorid="H" indivs="71836" pacs="141000" total="212836"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="98863" pacs="4500" total="103363"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="35965" pacs="62750" total="98715"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="71282" pacs="124500" total="195782"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="10350" pacs="73039" total="83389"/>
+    <sector sector_name="Other" sectorid="W" indivs="186162" pacs="1000" total="187162"/>
+  </sectors>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Kathy Castor (D)" cid="N00027514" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027514&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="7750" pacs="10900" total="18650"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3600" pacs="61000" total="64600"/>
+    <sector sector_name="Construction" sectorid="C" indivs="6024" pacs="16500" total="22524"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="3000" total="3000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="6500" total="6500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="33900" pacs="41000" total="74900"/>
+    <sector sector_name="Health" sectorid="H" indivs="20975" pacs="102500" total="123475"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="52448" pacs="19250" total="71698"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="9850" pacs="14500" total="24350"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="14950" pacs="50500" total="65450"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="78000" total="78000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="11371" pacs="24500" total="35871"/>
+    <sector sector_name="Other" sectorid="W" indivs="22175" pacs="2000" total="24175"/>
+  </sectors>
+</response>

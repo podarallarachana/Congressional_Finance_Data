@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John Lee Ratcliffe (R)" cid="N00035972" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035972&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="16342" pacs="48329" total="64671"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="250" pacs="64000" total="64250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="10300" pacs="17000" total="27300"/>
+    <sector sector_name="Defense" sectorid="D" indivs="16000" pacs="33500" total="49500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="32150" pacs="40000" total="72150"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="101986" pacs="113700" total="215686"/>
+    <sector sector_name="Health" sectorid="H" indivs="6200" pacs="16250" total="22450"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="53481" pacs="4000" total="57481"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="4000" pacs="29000" total="33000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="31425" pacs="60498" total="91923"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="6950" pacs="62360" total="69310"/>
+    <sector sector_name="Other" sectorid="W" indivs="38050" pacs="0" total="38050"/>
+  </sectors>
+</response>

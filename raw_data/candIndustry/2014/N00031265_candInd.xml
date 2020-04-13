@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Robert Hurt (R)" cid="N00031265" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031265&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="2500" pacs="103000" total="105500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="13100" pacs="87500" total="100600"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="10100" pacs="71000" total="81100"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="77252" pacs="0" total="77252"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="23750" pacs="51000" total="74750"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="45352" total="45352"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="1250" pacs="41499" total="42749"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="2000" pacs="28500" total="30500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="18150" pacs="11750" total="29900"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="29000" total="29000"/>
+  </industries>
+</response>

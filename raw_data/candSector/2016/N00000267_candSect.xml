@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Michael E Capuano (D)" cid="N00000267" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00000267&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="6950" pacs="12000" total="18950"/>
+    <sector sector_name="Construction" sectorid="C" indivs="12800" pacs="33500" total="46300"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="28000" pacs="2000" total="30000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="36850" pacs="188250" total="225100"/>
+    <sector sector_name="Health" sectorid="H" indivs="21300" pacs="40500" total="61800"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="26100" pacs="16250" total="42350"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1850" pacs="71500" total="73350"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="9450" pacs="14500" total="23950"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="128500" total="128500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2800" pacs="10000" total="12800"/>
+    <sector sector_name="Other" sectorid="W" indivs="19250" pacs="0" total="19250"/>
+  </sectors>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Kay Granger (R)" cid="N00008799" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00008799&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="3750" pacs="29147" total="32897"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="10750" pacs="23500" total="34250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="28310" pacs="20000" total="48310"/>
+    <sector sector_name="Defense" sectorid="D" indivs="55950" pacs="127000" total="182950"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="66900" pacs="35500" total="102400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="137445" pacs="80500" total="217945"/>
+    <sector sector_name="Health" sectorid="H" indivs="35320" pacs="53500" total="88820"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="89482" pacs="29490" total="118972"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="19850" pacs="71600" total="91450"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="71680" pacs="51500" total="123180"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="6000" total="6000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="26700" pacs="38500" total="65200"/>
+    <sector sector_name="Other" sectorid="W" indivs="70675" pacs="1500" total="72175"/>
+  </sectors>
+</response>

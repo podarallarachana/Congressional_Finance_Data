@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Lou Barletta (R)" cid="N00025495" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00025495&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="M04" industry_name="Railroads" indivs="2550" pacs="55775" total="58325"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="18519" pacs="34000" total="52519"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="1000" pacs="48500" total="49500"/>
+    <industry industry_code="M03" industry_name="Trucking" indivs="15200" pacs="33500" total="48700"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="12000" pacs="33500" total="45500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="3606" pacs="40000" total="43606"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="23310" pacs="11500" total="34810"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="2300" pacs="32000" total="34300"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="33000" total="33000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="32745" pacs="0" total="32745"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John Rutherford (R)" cid="N00039777" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00039777&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="15750" pacs="12000" total="27750"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="5950" pacs="6000" total="11950"/>
+    <sector sector_name="Construction" sectorid="C" indivs="31400" pacs="11000" total="42400"/>
+    <sector sector_name="Defense" sectorid="D" indivs="8100" pacs="18500" total="26600"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="16100" pacs="2000" total="18100"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="83950" pacs="19500" total="103450"/>
+    <sector sector_name="Health" sectorid="H" indivs="18250" pacs="4500" total="22750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="12950" pacs="4000" total="16950"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="31350" pacs="19500" total="50850"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="12900" pacs="19000" total="31900"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1500" total="1500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="8850" pacs="42050" total="50900"/>
+    <sector sector_name="Other" sectorid="W" indivs="87529" pacs="0" total="87529"/>
+  </sectors>
+</response>

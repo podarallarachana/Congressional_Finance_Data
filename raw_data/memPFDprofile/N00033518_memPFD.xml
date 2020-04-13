@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033518" net_low="502013" net_high="1255000" positions_held_count="0" asset_count="13" asset_low="502013" asset_high="1255000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033518" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Residential Property - Gainesville, GA" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="GA Teacher Retirement System" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Chicken Farm" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Bank of the Ozarks Savings Account" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Bank of the Ozarks Checking Account" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Pension Annuity for service in the state legislatu" tx_date="Jan 21 2014" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Steve Knight (R)" cid="N00035820" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035820&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="M02" industry_name="Automotive" indivs="27450" pacs="0" total="27450"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="18775" pacs="0" total="18775"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="17417" pacs="0" total="17417"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="16866" pacs="0" total="16866"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="13235" pacs="0" total="13235"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="11850" pacs="0" total="11850"/>
+    <industry industry_code="W03" industry_name="Civil Servants/Public Officials" indivs="11658" pacs="0" total="11658"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="11200" pacs="0" total="11200"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="10200" pacs="0" total="10200"/>
+    <industry industry_code="Q13" industry_name="Gun Rights" indivs="2800" pacs="6554" total="9354"/>
+  </industries>
+</response>

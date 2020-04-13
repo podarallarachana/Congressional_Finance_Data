@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Scott Rigell (R)" cid="N00030962" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030962&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="148658" pacs="0" total="148658"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="109350" pacs="9500" total="118850"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="82965" pacs="31500" total="114465"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1250" pacs="109500" total="110750"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="35175" pacs="27500" total="62675"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="900" pacs="48499" total="49399"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="24250" pacs="23500" total="47750"/>
+    <industry industry_code="C03" industry_name="Special Trade Contractors" indivs="43750" pacs="0" total="43750"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="19950" pacs="22000" total="41950"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="16500" pacs="19500" total="36000"/>
+  </industries>
+</response>

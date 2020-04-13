@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jared Huffman (D)" cid="N00033030" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033030&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="143173" pacs="0" total="143173"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="107251" pacs="17000" total="124251"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="19725" pacs="57500" total="77225"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="250" pacs="61537" total="61787"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="44561" pacs="10000" total="54561"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="53000" total="53000"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="33232" pacs="13900" total="47132"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="27550" pacs="12200" total="39750"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="25498" pacs="0" total="25498"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="25000" total="25000"/>
+  </industries>
+</response>

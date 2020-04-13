@@ -1,0 +1,15 @@
+<response>
+  <sectors cand_name="Ralph Abraham (R)" cid="N00036633" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00036633&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="71850" pacs="16500" total="88350"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1500" pacs="5500" total="7000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="25350" pacs="1000" total="26350"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="15453" pacs="13000" total="28453"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="39387" pacs="7500" total="46887"/>
+    <sector sector_name="Health" sectorid="H" indivs="118000" pacs="16600" total="134600"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="13150" pacs="1000" total="14150"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="14150" pacs="6000" total="20150"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="41400" pacs="3500" total="44900"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="500" pacs="75000" total="75500"/>
+    <sector sector_name="Other" sectorid="W" indivs="56714" pacs="0" total="56714"/>
+  </sectors>
+</response>

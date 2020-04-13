@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Alan Lowenthal (D)" cid="N00033274" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033274&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="500" pacs="0" total="500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="20600" pacs="8000" total="28600"/>
+    <sector sector_name="Construction" sectorid="C" indivs="4500" pacs="4500" total="9000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1250" pacs="2000" total="3250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="28200" pacs="9000" total="37200"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="36750" pacs="12000" total="48750"/>
+    <sector sector_name="Health" sectorid="H" indivs="15700" pacs="21000" total="36700"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="61150" pacs="12250" total="73400"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="6000" pacs="21000" total="27000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="41000" pacs="6000" total="47000"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1000" pacs="226000" total="227000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="44749" pacs="162552" total="207301"/>
+    <sector sector_name="Other" sectorid="W" indivs="108274" pacs="500" total="108774"/>
+  </sectors>
+</response>

@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Warren Davidson (R)" cid="N00038767" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00038767&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="10616" pacs="2000" total="12616"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="7681" pacs="0" total="7681"/>
+    <sector sector_name="Construction" sectorid="C" indivs="2446" pacs="2500" total="4946"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1068" pacs="0" total="1068"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1488" pacs="5000" total="6488"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="94542" pacs="21000" total="115542"/>
+    <sector sector_name="Health" sectorid="H" indivs="17340" pacs="0" total="17340"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="9775" pacs="2700" total="12475"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="3680" pacs="7000" total="10680"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="57307" pacs="13500" total="70807"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="109192" pacs="53642" total="162834"/>
+    <sector sector_name="Other" sectorid="W" indivs="65698" pacs="0" total="65698"/>
+  </sectors>
+</response>

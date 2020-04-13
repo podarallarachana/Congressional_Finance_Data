@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Pete King (R)" cid="N00001193" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001193&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="4750" pacs="5000" total="9750"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="13050" pacs="19500" total="32550"/>
+    <sector sector_name="Construction" sectorid="C" indivs="19700" pacs="32000" total="51700"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2250" pacs="52500" total="54750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3000" pacs="11000" total="14000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="195810" pacs="144500" total="340310"/>
+    <sector sector_name="Health" sectorid="H" indivs="51150" pacs="20000" total="71150"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="83750" pacs="13700" total="97450"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="12600" pacs="23500" total="36100"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="35875" pacs="49000" total="84875"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="135500" total="135500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="4250" pacs="19500" total="23750"/>
+    <sector sector_name="Other" sectorid="W" indivs="86830" pacs="0" total="86830"/>
+  </sectors>
+</response>

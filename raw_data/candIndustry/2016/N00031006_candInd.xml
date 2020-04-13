@@ -1,0 +1,8 @@
+<response>
+  <industries cand_name="Alan Nunnelee (R)" cid="N00031006" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031006&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="C01" industry_name="General Contractors" indivs="5000" pacs="0" total="5000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="2500" pacs="0" total="2500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="1000" pacs="0" total="1000"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="2600" pacs="-2500" total="100"/>
+  </industries>
+</response>

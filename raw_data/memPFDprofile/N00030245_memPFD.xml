@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Cassidy, Bill" data_year="2016" member_id="N00030245" net_low="-1643883" net_high="4589996" positions_held_count="2" asset_count="74" asset_low="2356117" asset_high="6590000" transaction_count="108" tx_low="388108" tx_high="2170000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030245" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="TIAA- CREF Traditional" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="CREF Traditional" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="TIAA-CREF Inflation Link Bd R" holdings_low="116003" holdings_high="315000" industry="" sector="" subsidiary_of=""/>
+      <asset name="TIAA-CREF Inflation-Linked Bond Fund Retirement" holdings_low="115002" holdings_high="300000" industry="" sector="" subsidiary_of=""/>
+      <asset name="JPMorgan Income Builder Select" holdings_low="102003" holdings_high="280000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="College Savings Plans Michigan Educational Savings" tx_date="Jul  9 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="College Savings Plans Michigan Educational Savings" tx_date="Nov  4 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="College Savings Plans Michigan Educational Savings" tx_date="Dec  9 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="College Savings Plans Michigan Educational Savings" tx_date="Nov  4 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Blackrock Global Allocation Fund" tx_date="Jul  2 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

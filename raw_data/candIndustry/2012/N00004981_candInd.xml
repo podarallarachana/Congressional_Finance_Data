@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Dick Durbin (D)" cid="N00004981" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004981&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1535901" pacs="148088" total="1683989"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="650987" pacs="107500" total="758487"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="426396" pacs="36500" total="462896"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="335696" pacs="16407" total="352103"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="296012" pacs="42000" total="338012"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="133346" pacs="186191" total="319537"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="287774" pacs="0" total="287774"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="72410" pacs="128900" total="201310"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="174525" pacs="24500" total="199025"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="98625" pacs="95500" total="194125"/>
+  </industries>
+</response>

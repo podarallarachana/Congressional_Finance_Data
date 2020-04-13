@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jon Tester (D)" cid="N00027605" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027605&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1255950" pacs="162371" total="1418321"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="599566" pacs="227500" total="827066"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="814131" pacs="0" total="814131"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="607169" pacs="18105" total="625274"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="15750" pacs="408000" total="423750"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="182018" pacs="192350" total="374368"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="292034" pacs="73820" total="365854"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="69133" pacs="275544" total="344677"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="158273" pacs="126400" total="284673"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="252321" pacs="16814" total="269135"/>
+  </industries>
+</response>

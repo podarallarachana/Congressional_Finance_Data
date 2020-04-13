@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tom Harkin (D)" cid="N00004207" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004207&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="415226" pacs="156086" total="571312"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="169650" pacs="354148" total="523798"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="399251" pacs="7501" total="406752"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="327230" pacs="47500" total="374730"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="107250" pacs="239816" total="347066"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="288663" pacs="0" total="288663"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="160000" pacs="74500" total="234500"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="99810" pacs="109425" total="209235"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="183350" pacs="20400" total="203750"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="74530" pacs="108500" total="183030"/>
+  </industries>
+</response>

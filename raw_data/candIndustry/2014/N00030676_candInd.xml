@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Billy Long (R)" cid="N00030676" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030676&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="27950" pacs="57000" total="84950"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="40400" pacs="23500" total="63900"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="51300" total="51300"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="39900" pacs="9990" total="49890"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="45650" pacs="0" total="45650"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="6200" pacs="38650" total="44850"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="42750" pacs="2000" total="44750"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="19100" pacs="22056" total="41156"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="10300" pacs="26270" total="36570"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="0" pacs="36500" total="36500"/>
+  </industries>
+</response>

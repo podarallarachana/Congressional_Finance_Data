@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Paul Gosar (R)" cid="N00030771" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030771&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="6949" pacs="20750" total="27699"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2000" pacs="1000" total="3000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="3766" pacs="9000" total="12766"/>
+    <sector sector_name="Defense" sectorid="D" indivs="250" pacs="8000" total="8250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="7350" pacs="55000" total="62350"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="11550" pacs="13000" total="24550"/>
+    <sector sector_name="Health" sectorid="H" indivs="76150" pacs="83000" total="159150"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="18800" pacs="2750" total="21550"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="8700" pacs="6300" total="15000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="39900" pacs="12052" total="51952"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="9000" pacs="20500" total="29500"/>
+    <sector sector_name="Other" sectorid="W" indivs="10500" pacs="0" total="10500"/>
+  </sectors>
+</response>

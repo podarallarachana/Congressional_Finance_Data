@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="David Perdue (R)" cid="N00035516" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035516&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="299080" pacs="147100" total="446180"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="161098" pacs="38100" total="199198"/>
+    <sector sector_name="Construction" sectorid="C" indivs="199366" pacs="48600" total="247966"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1000" pacs="3600" total="4600"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="205632" pacs="143000" total="348632"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1591861" pacs="234375" total="1826236"/>
+    <sector sector_name="Health" sectorid="H" indivs="288599" pacs="68000" total="356599"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="293935" pacs="42750" total="336685"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="161300" pacs="93000" total="254300"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="821474" pacs="213600" total="1035074"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="6000" total="6000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="219045" pacs="407436" total="626481"/>
+    <sector sector_name="Other" sectorid="W" indivs="1762526" pacs="3500" total="1766026"/>
+  </sectors>
+</response>

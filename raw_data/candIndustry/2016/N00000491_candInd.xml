@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Susan Collins (R)" cid="N00000491" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000491&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="409300" pacs="0" total="409300"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="250256" pacs="129750" total="380006"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="296500" pacs="65600" total="362100"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="325000" total="325000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="58150" pacs="228300" total="286450"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="275913" pacs="10500" total="286413"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="36000" pacs="195500" total="231500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="121125" pacs="53000" total="174125"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="56900" pacs="63500" total="120400"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="94950" pacs="23000" total="117950"/>
+  </industries>
+</response>

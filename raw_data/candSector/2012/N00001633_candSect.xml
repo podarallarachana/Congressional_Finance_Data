@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Joe Pitts (R)" cid="N00001633" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001633&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="18750" pacs="37500" total="56250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="8500" pacs="75500" total="84000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="6500" pacs="16250" total="22750"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="6000" total="6000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="500" pacs="84500" total="85000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="29150" pacs="54000" total="83150"/>
+    <sector sector_name="Health" sectorid="H" indivs="64159" pacs="601024" total="665183"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="49926" pacs="36000" total="85926"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="750" pacs="17000" total="17750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="26050" pacs="67150" total="93200"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="4500" pacs="24000" total="28500"/>
+    <sector sector_name="Other" sectorid="W" indivs="6750" pacs="0" total="6750"/>
+  </sectors>
+</response>

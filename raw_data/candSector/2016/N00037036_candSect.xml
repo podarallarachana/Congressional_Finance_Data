@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jamie Raskin (D)" cid="N00037036" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00037036&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="12601" pacs="0" total="12601"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="77449" pacs="17000" total="94449"/>
+    <sector sector_name="Construction" sectorid="C" indivs="13433" pacs="1000" total="14433"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2175" pacs="5000" total="7175"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3316" pacs="1000" total="4316"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="185298" pacs="16500" total="201798"/>
+    <sector sector_name="Health" sectorid="H" indivs="66148" pacs="4500" total="70648"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="370732" pacs="15604" total="386336"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="11150" pacs="8000" total="19150"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="68787" pacs="2500" total="71287"/>
+    <sector sector_name="Labor" sectorid="P" indivs="5159" pacs="136950" total="142109"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="185369" pacs="60679" total="246048"/>
+    <sector sector_name="Other" sectorid="W" indivs="528386" pacs="10000" total="538386"/>
+  </sectors>
+</response>

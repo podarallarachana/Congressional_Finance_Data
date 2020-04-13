@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00035792" net_low="3001068" net_high="10782998" positions_held_count="0" asset_count="49" asset_low="3366068" asset_high="10943000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00035792" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Simmons First National Corp" holdings_low="1200003" holdings_high="5500000" industry="Commercial Banks" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Bank Deposit Program" holdings_low="452006" holdings_high="1031000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Berkshire Hathaway" holdings_low="295004" holdings_high="650000" industry="Securities &amp; Investment" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Single Family Residence" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="AR Gift 529 Plan" holdings_low="150002" holdings_high="350000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Director" organization="Access Plans/Alliance Healthcard"/>
+      <position title="Former Member" organization="Board of Directors, AR Children Hospital"/>
+      <position title="Past Member" organization="Board of Directors, St Joseph House of AR"/>
+      <position title="Vice-Chairman &amp; CEO, Director" organization="Delta Trust &amp; Bank"/>
+      <position title="Chairman of the board &amp; CEO, director" organization="Delta Trust &amp; Bankie Corp"/>
+    </positions>
+  </member_profile>
+</response>

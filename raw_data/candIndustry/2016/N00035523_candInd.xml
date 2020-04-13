@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Elise Stefanik (R)" cid="N00035523" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035523&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="307354" pacs="46000" total="353354"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1000" pacs="247064" total="248064"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="17200" pacs="120500" total="137700"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="117688" pacs="0" total="117688"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="111375" pacs="2500" total="113875"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="65197" pacs="25500" total="90697"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="64860" pacs="24500" total="89360"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="41638" pacs="39500" total="81138"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="7500" pacs="56500" total="64000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="19306" pacs="38500" total="57806"/>
+  </industries>
+</response>

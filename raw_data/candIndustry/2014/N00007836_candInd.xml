@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Maria Cantwell (D)" cid="N00007836" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007836&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="759909" pacs="10500" total="770409"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="696466" pacs="0" total="696466"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="580332" pacs="250" total="580582"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="354237" pacs="0" total="354237"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="260950" pacs="0" total="260950"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="236685" pacs="2500" total="239185"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="192949" pacs="3512" total="196461"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="196027" pacs="0" total="196027"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="182862" pacs="6750" total="189612"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="131539" pacs="3750" total="135289"/>
+  </industries>
+</response>

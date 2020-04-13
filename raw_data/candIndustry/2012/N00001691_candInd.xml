@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Carl Levin (D)" cid="N00001691" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001691&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="671861" pacs="101241" total="773102"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="400040" pacs="0" total="400040"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="320649" pacs="28510" total="349159"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="271878" pacs="71050" total="342928"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="178890" pacs="29500" total="208390"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="163852" pacs="9596" total="173448"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="130350" pacs="41869" total="172219"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="95450" pacs="43500" total="138950"/>
+    <industry industry_code="W04" industry_name="Education" indivs="136050" pacs="2500" total="138550"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="124200" pacs="2000" total="126200"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jay Rockefeller (D)" cid="N00001685" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001685&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="22750" pacs="27500" total="50250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="292400" pacs="395736" total="688136"/>
+    <sector sector_name="Construction" sectorid="C" indivs="68600" pacs="30500" total="99100"/>
+    <sector sector_name="Defense" sectorid="D" indivs="8100" pacs="30000" total="38100"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="149250" pacs="172300" total="321550"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="634800" pacs="206724" total="841524"/>
+    <sector sector_name="Health" sectorid="H" indivs="259800" pacs="330900" total="590700"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="743500" pacs="129985" total="873485"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="157999" pacs="338561" total="496560"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="345215" pacs="189620" total="534835"/>
+    <sector sector_name="Labor" sectorid="P" indivs="2300" pacs="329500" total="331800"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="124700" pacs="87562" total="212262"/>
+    <sector sector_name="Other" sectorid="W" indivs="377757" pacs="9500" total="387257"/>
+  </sectors>
+</response>

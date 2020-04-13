@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Steven A King (R)" cid="N00025237" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00025237&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="171435" pacs="0" total="171435"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="74840" pacs="45000" total="119840"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="61205" pacs="54500" total="115705"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="25500" pacs="26250" total="51750"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="36945" total="36945"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="32500" pacs="3000" total="35500"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="30100" pacs="0" total="30100"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="23900" pacs="5000" total="28900"/>
+    <industry industry_code="E07" industry_name="Misc Energy" indivs="10600" pacs="18250" total="28850"/>
+    <industry industry_code="M03" industry_name="Trucking" indivs="25300" pacs="3500" total="28800"/>
+  </industries>
+</response>

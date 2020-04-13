@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Roy Blunt (R)" cid="N00005195" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00005195&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="902805" pacs="133200" total="1036005"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="692499" pacs="0" total="692499"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="643269" total="643269"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="400744" pacs="173488" total="574232"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="523535" pacs="47400" total="570935"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="318330" pacs="200500" total="518830"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="473380" pacs="10550" total="483930"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="228634" pacs="239900" total="468534"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="353450" pacs="91900" total="445350"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="246385" pacs="170750" total="417135"/>
+  </industries>
+</response>

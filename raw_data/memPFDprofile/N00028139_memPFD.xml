@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Hirono, Mazie K" data_year="2016" member_id="N00028139" net_low="657039" net_high="4316997" positions_held_count="0" asset_count="40" asset_low="2207039" asset_high="5082000" transaction_count="12" tx_low="68012" tx_high="320000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00028139" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Employee's Retirement System of the State of Hawai" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Funds Capital Income Builder Fund" holdings_low="265002" holdings_high="550000" industry="" sector="" subsidiary_of=""/>
+      <asset name="T Rowe Price Personal Strategic Income Fund" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Residential Rental Property" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="American Funds Capital World Growth &amp; Income Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Manning &amp; Napier Pro-Blend Cnsrv Term Fund" tx_date="Feb 19 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+      <transaction asset_name="T Rowe Price Prime Reserve Fund" tx_date="Feb 19 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="T Rowe Price Personal Strat Balanced" tx_date="Feb 19 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="PIMCO Total Return Fund" tx_date="Feb 19 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="American Funds AMCAP Fund" tx_date="Dec 31 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

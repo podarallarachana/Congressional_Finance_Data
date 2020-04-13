@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Colleen Hanabusa (D)" cid="N00025881" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00025881&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="3500" pacs="18500" total="22000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="19750" pacs="13000" total="32750"/>
+    <sector sector_name="Construction" sectorid="C" indivs="96150" pacs="2500" total="98650"/>
+    <sector sector_name="Defense" sectorid="D" indivs="12600" pacs="78000" total="90600"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="9500" pacs="6500" total="16000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="94210" pacs="35000" total="129210"/>
+    <sector sector_name="Health" sectorid="H" indivs="33550" pacs="28500" total="62050"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="95386" pacs="17000" total="112386"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="19500" pacs="34500" total="54000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="68000" pacs="19500" total="87500"/>
+    <sector sector_name="Labor" sectorid="P" indivs="5400" pacs="188850" total="194250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="20050" pacs="32831" total="52881"/>
+    <sector sector_name="Other" sectorid="W" indivs="100550" pacs="4500" total="105050"/>
+  </sectors>
+</response>

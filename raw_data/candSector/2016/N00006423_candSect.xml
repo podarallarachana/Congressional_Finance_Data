@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Trent Franks (R)" cid="N00006423" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00006423&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="12050" pacs="2500" total="14550"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="10800" pacs="36000" total="46800"/>
+    <sector sector_name="Construction" sectorid="C" indivs="12000" pacs="11000" total="23000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="53500" total="53500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="2750" pacs="28500" total="31250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="9400" pacs="9500" total="18900"/>
+    <sector sector_name="Health" sectorid="H" indivs="800" pacs="10500" total="11300"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="17500" pacs="5750" total="23250"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="11350" pacs="3500" total="14850"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="23450" pacs="3500" total="26950"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="7500" total="7500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="6435" pacs="46770" total="53205"/>
+    <sector sector_name="Other" sectorid="W" indivs="13900" pacs="1500" total="15400"/>
+  </sectors>
+</response>

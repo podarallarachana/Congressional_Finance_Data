@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Sherrod Brown (D)" cid="N00003535" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00003535&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1865503" pacs="195154" total="2060657"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="1272358" pacs="0" total="1272358"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="447477" pacs="265300" total="712777"/>
+    <industry industry_code="W04" industry_name="Education" indivs="604739" pacs="6000" total="610739"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="509062" pacs="78907" total="587969"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="454916" pacs="23850" total="478766"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="402684" pacs="1500" total="404184"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="200" pacs="387605" total="387805"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="329488" pacs="50250" total="379738"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="341621" pacs="36071" total="377692"/>
+  </industries>
+</response>

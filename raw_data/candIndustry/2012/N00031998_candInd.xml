@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Chris Gibson (R)" cid="N00031998" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031998&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="212500" total="212500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="102333" pacs="27000" total="129333"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="59500" pacs="20000" total="79500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="74469" pacs="0" total="74469"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="41333" pacs="25000" total="66333"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="51733" pacs="9500" total="61233"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="61050" total="61050"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="31075" pacs="26750" total="57825"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="50998" total="50998"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="49500" total="49500"/>
+  </industries>
+</response>

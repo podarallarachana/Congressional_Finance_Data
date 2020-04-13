@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Julia Brownley (D)" cid="N00034254" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00034254&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="26125" pacs="21059" total="47184"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="88332" pacs="34000" total="122332"/>
+    <sector sector_name="Construction" sectorid="C" indivs="30937" pacs="11500" total="42437"/>
+    <sector sector_name="Defense" sectorid="D" indivs="881" pacs="8000" total="8881"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3713" pacs="13000" total="16713"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="131917" pacs="67000" total="198917"/>
+    <sector sector_name="Health" sectorid="H" indivs="60860" pacs="125500" total="186360"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="133978" pacs="13000" total="146978"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2029" pacs="73000" total="75029"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="118832" pacs="20000" total="138832"/>
+    <sector sector_name="Labor" sectorid="P" indivs="700" pacs="303905" total="304605"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="615609" pacs="342228" total="957837"/>
+    <sector sector_name="Other" sectorid="W" indivs="276190" pacs="3500" total="279690"/>
+  </sectors>
+</response>

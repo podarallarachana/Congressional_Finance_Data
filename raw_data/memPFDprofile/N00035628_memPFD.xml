@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00035628" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00035628" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <positions>
+      <position title="Board Member" organization="Boulder City Hospital"/>
+      <position title="Manager" organization="Bunkerville Compound LLC"/>
+      <position title="Manager" organization="Falcon Ridge Golf"/>
+      <position title="President" organization="Falcon Ridge Golf Course"/>
+      <position title="Manager" organization="Falcon Ridge Holdings"/>
+    </positions>
+  </member_profile>
+</response>

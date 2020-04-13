@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mark Pryor (D)" cid="N00013823" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00013823&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="643215" pacs="92022" total="735237"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="208150" pacs="71500" total="279650"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="244415" pacs="15452" total="259867"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="2000" pacs="220249" total="222249"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="157000" pacs="26100" total="183100"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="85195" pacs="82000" total="167195"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="90900" pacs="70000" total="160900"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="37900" pacs="111000" total="148900"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="48850" pacs="93600" total="142450"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="89300" pacs="52000" total="141300"/>
+  </industries>
+</response>

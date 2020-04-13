@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Grace Meng (D)" cid="N00034547" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00034547&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="27800" pacs="0" total="27800"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="29050" pacs="7000" total="36050"/>
+    <sector sector_name="Construction" sectorid="C" indivs="38400" pacs="0" total="38400"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1000" pacs="0" total="1000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="120670" pacs="29000" total="149670"/>
+    <sector sector_name="Health" sectorid="H" indivs="106844" pacs="8500" total="115344"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="62400" pacs="9250" total="71650"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="14600" pacs="7500" total="22100"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="117545" pacs="4000" total="121545"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="102500" total="102500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="15500" pacs="76750" total="92250"/>
+    <sector sector_name="Other" sectorid="W" indivs="100300" pacs="1250" total="101550"/>
+  </sectors>
+</response>

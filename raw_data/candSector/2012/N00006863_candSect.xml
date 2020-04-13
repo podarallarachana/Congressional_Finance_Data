@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Tom McClintock (R)" cid="N00006863" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00006863&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="24875" pacs="5000" total="29875"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="28650" pacs="16500" total="45150"/>
+    <sector sector_name="Construction" sectorid="C" indivs="25450" pacs="1000" total="26450"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1650" pacs="3000" total="4650"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="12300" pacs="34250" total="46550"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="59539" pacs="22000" total="81539"/>
+    <sector sector_name="Health" sectorid="H" indivs="12325" pacs="2500" total="14825"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="10050" pacs="0" total="10050"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="3250" pacs="6500" total="9750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="62700" pacs="5500" total="68200"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="53088" pacs="14023" total="67111"/>
+    <sector sector_name="Other" sectorid="W" indivs="125722" pacs="0" total="125722"/>
+  </sectors>
+</response>

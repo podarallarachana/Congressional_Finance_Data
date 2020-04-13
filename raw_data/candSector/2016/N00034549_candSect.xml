@@ -1,0 +1,14 @@
+<response>
+  <sectors cand_name="Adriano Espaillat (D)" cid="N00034549" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00034549&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="26400" pacs="0" total="26400"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="18500" pacs="9500" total="28000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="10450" pacs="0" total="10450"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="71000" pacs="12500" total="83500"/>
+    <sector sector_name="Health" sectorid="H" indivs="59770" pacs="11000" total="70770"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="37500" pacs="12500" total="50000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="59925" pacs="2500" total="62425"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="104000" total="104000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2050" pacs="62716" total="64766"/>
+    <sector sector_name="Other" sectorid="W" indivs="62025" pacs="0" total="62025"/>
+  </sectors>
+</response>

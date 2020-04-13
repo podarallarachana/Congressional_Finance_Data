@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Sam Graves (R)" cid="N00013323" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00013323&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="M01" industry_name="Air Transport" indivs="500" pacs="83200" total="83700"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="2500" pacs="60500" total="63000"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="27750" pacs="30000" total="57750"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="2000" pacs="49750" total="51750"/>
+    <industry industry_code="M03" industry_name="Trucking" indivs="7500" pacs="39488" total="46988"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="18900" pacs="25499" total="44399"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="0" pacs="38500" total="38500"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="6430" pacs="32000" total="38430"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="2250" pacs="34700" total="36950"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="36500" total="36500"/>
+  </industries>
+</response>

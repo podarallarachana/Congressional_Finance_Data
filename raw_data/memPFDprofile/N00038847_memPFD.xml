@@ -1,0 +1,7 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00038847" net_low="-499999" net_high="-30003" positions_held_count="0" asset_count="1" asset_low="100001" asset_high="250000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00038847" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="United Self Defense Law" holdings_low="100001" holdings_high="250000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

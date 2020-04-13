@@ -1,0 +1,15 @@
+<response>
+  <industries cand_name="Mike Doyle (D)" cid="N00001373" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001373&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="88500" total="88500"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="1000" pacs="65000" total="66000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="59000" total="59000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="54500" total="54500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="21350" pacs="32000" total="53350"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="14750" pacs="18000" total="32750"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="7750" pacs="24000" total="31750"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="31500" total="31500"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="0" pacs="31000" total="31000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="29000" total="29000"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="2500" pacs="26500" total="29000"/>
+  </industries>
+</response>

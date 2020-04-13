@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John A Barrasso (R)" cid="N00006236" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00006236&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="27450" pacs="84000" total="111450"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="66050" pacs="159000" total="225050"/>
+    <sector sector_name="Construction" sectorid="C" indivs="96333" pacs="98750" total="195083"/>
+    <sector sector_name="Defense" sectorid="D" indivs="10500" pacs="71000" total="81500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="370722" pacs="567150" total="937872"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="351816" pacs="335445" total="687261"/>
+    <sector sector_name="Health" sectorid="H" indivs="452826" pacs="551250" total="1004076"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="263007" pacs="68500" total="331507"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="54666" pacs="132499" total="187165"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="195367" pacs="260498" total="455865"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="27500" total="27500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="81559" pacs="273832" total="355391"/>
+    <sector sector_name="Other" sectorid="W" indivs="141349" pacs="12000" total="153349"/>
+  </sectors>
+</response>

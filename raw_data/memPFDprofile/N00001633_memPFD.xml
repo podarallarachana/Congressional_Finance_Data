@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Pitts, Joe" data_year="2016" member_id="N00001633" net_low="869010" net_high="1811000" positions_held_count="0" asset_count="10" asset_low="869010" asset_high="1811000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00001633" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="FERS Govt Mmkt Cap Res IRA" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Mass Mutal MML Am Funds" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="CREF Stock Retire" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Truist Financial" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="TIAA Traditional Retire Annuity" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Board of Reference" organization="China Outreach Ministries"/>
+      <position title="Advisory Board Member" organization="Congressional Youth Leadership Council"/>
+      <position title="Advisory Board Member" organization="Free North Korea Radio USA"/>
+      <position title="Advisory Board Member" organization="International Health Services Board"/>
+      <position title="Advisory Board Member" organization="Matthew J Ryan Project at Villanova University"/>
+    </positions>
+  </member_profile>
+</response>

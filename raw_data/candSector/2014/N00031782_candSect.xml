@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tim Scott (R)" cid="N00031782" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031782&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="84600" pacs="118000" total="202600"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="84774" pacs="174000" total="258774"/>
+    <sector sector_name="Construction" sectorid="C" indivs="143300" pacs="50250" total="193550"/>
+    <sector sector_name="Defense" sectorid="D" indivs="18699" pacs="25500" total="44199"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="248651" pacs="328850" total="577501"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="930605" pacs="503549" total="1434154"/>
+    <sector sector_name="Health" sectorid="H" indivs="204027" pacs="335950" total="539977"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="328916" pacs="54100" total="383016"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="104971" pacs="258000" total="362971"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="401983" pacs="271000" total="672983"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="20500" total="20500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="176336" pacs="348917" total="525253"/>
+    <sector sector_name="Other" sectorid="W" indivs="318950" pacs="13000" total="331950"/>
+  </sectors>
+</response>

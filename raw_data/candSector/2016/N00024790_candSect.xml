@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jeanne Shaheen (D)" cid="N00024790" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00024790&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="45054" pacs="44750" total="89804"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="426566" pacs="162434" total="589000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="55400" pacs="66000" total="121400"/>
+    <sector sector_name="Defense" sectorid="D" indivs="11650" pacs="139700" total="151350"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="39399" pacs="98000" total="137399"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="734581" pacs="265423" total="1000004"/>
+    <sector sector_name="Health" sectorid="H" indivs="225703" pacs="255700" total="481403"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="929980" pacs="114575" total="1044555"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="88088" pacs="90100" total="178188"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="423530" pacs="215700" total="639230"/>
+    <sector sector_name="Labor" sectorid="P" indivs="3017" pacs="312500" total="315517"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1383623" pacs="721796" total="2105419"/>
+    <sector sector_name="Other" sectorid="W" indivs="997803" pacs="1000" total="998803"/>
+  </sectors>
+</response>

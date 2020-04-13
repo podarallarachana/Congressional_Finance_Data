@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Gus Bilirakis (R)" cid="N00027462" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027462&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="7500" pacs="12000" total="19500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2950" pacs="90000" total="92950"/>
+    <sector sector_name="Construction" sectorid="C" indivs="18750" pacs="16000" total="34750"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="20000" total="20000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3200" pacs="66000" total="69200"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="89131" pacs="75500" total="164631"/>
+    <sector sector_name="Health" sectorid="H" indivs="64574" pacs="318100" total="382674"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="62159" pacs="21750" total="83909"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="8300" pacs="34500" total="42800"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="81617" pacs="111250" total="192867"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="8950" pacs="16600" total="25550"/>
+    <sector sector_name="Other" sectorid="W" indivs="81155" pacs="1000" total="82155"/>
+  </sectors>
+</response>

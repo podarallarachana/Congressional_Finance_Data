@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Glenn Thompson (R)" cid="N00029736" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029736&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="33375" pacs="99350" total="132725"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="500" pacs="18000" total="18500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="39600" pacs="26500" total="66100"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="6000" total="6000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="45750" pacs="97200" total="142950"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="86856" pacs="45250" total="132106"/>
+    <sector sector_name="Health" sectorid="H" indivs="50805" pacs="51000" total="101805"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="55750" pacs="8050" total="63800"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="16150" pacs="21250" total="37400"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="89276" pacs="22000" total="111276"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="19500" total="19500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="6899" pacs="42250" total="49149"/>
+    <sector sector_name="Other" sectorid="W" indivs="90505" pacs="9000" total="99505"/>
+  </sectors>
+</response>

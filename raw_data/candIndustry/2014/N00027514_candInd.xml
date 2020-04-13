@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Kathy Castor (D)" cid="N00027514" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027514&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="9950" pacs="64000" total="73950"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="23450" pacs="17000" total="40450"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="500" pacs="37500" total="38000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="9250" pacs="18000" total="27250"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="10000" pacs="14000" total="24000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="20800" pacs="0" total="20800"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="20500" total="20500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="11200" pacs="8000" total="19200"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="500" pacs="15000" total="15500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="15500" total="15500"/>
+  </industries>
+</response>

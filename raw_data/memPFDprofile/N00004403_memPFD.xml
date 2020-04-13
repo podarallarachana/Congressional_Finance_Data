@@ -1,0 +1,17 @@
+<response>
+  <member_profile name="Kind, Ron" data_year="2016" member_id="N00004403" net_low="817021" net_high="2406998" positions_held_count="0" asset_count="13" asset_low="1167021" asset_high="2557000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00004403" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Fidelity Contrafund Fund" holdings_low="550002" holdings_high="1100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="N2711 Buckholz Rd/Ettrick, WI" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="N2680 Buckholz Rd/Ettrick, WI" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Aggressive Growth Fund" holdings_low="100002" holdings_high="200000" industry="" sector="" subsidiary_of=""/>
+      <asset name="219 Pearl St/La Crosse, WI" holdings_low="50001" holdings_high="100000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="NC 529 Plan (II)" tx_date="Jan  3 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="NC 529 Plan" tx_date="Jan  3 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Mass Investors 6-8 Year Fund" tx_date="Jan  3 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Mass Investors 6-8 Year Fund" tx_date="Jan  3 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

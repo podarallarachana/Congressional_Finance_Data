@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Joyce Beatty (D)" cid="N00033904" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033904&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="33650" pacs="146500" total="180150"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="3000" pacs="68100" total="71100"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="11300" pacs="56300" total="67600"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="23052" pacs="28750" total="51802"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="8050" pacs="39000" total="47050"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="500" pacs="44000" total="44500"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="41500" total="41500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="37500" total="37500"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="13900" pacs="23000" total="36900"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="1000" pacs="32000" total="33000"/>
+  </industries>
+</response>

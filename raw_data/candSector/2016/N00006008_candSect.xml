@@ -1,0 +1,15 @@
+<response>
+  <sectors cand_name="Ruben Hinojosa (D)" cid="N00006008" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00006008&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1500" pacs="500" total="2000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2700" pacs="3000" total="5700"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5200" pacs="0" total="5200"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="1500" total="1500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="5200" pacs="10000" total="15200"/>
+    <sector sector_name="Health" sectorid="H" indivs="76200" pacs="7000" total="83200"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="2600" pacs="6000" total="8600"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="3500" total="3500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="2600" pacs="5000" total="7600"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="6000" total="6000"/>
+  </sectors>
+</response>

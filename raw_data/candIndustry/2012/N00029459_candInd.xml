@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Rob Wittman (R)" cid="N00029459" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029459&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="200" pacs="64500" total="64700"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="26650" pacs="37000" total="63650"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="54950" pacs="0" total="54950"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="250" pacs="43500" total="43750"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="8000" pacs="32000" total="40000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="25950" pacs="8000" total="33950"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="750" pacs="21000" total="21750"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="2750" pacs="15000" total="17750"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="1000" pacs="16500" total="17500"/>
+    <industry industry_code="M03" industry_name="Trucking" indivs="13000" pacs="4000" total="17000"/>
+  </industries>
+</response>

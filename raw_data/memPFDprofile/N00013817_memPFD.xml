@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="Pingree, Chellie" data_year="2016" member_id="N00013817" net_low="3550005" net_high="16100000" positions_held_count="1" asset_count="5" asset_low="3550005" asset_high="16100000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00013817" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Vanguard Federal Money Market" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Nebo Lodge Inc Inn &amp; Restaurant" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Paloma Partners" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Portland Maine rental property" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Camden National Bank" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Cathay Capital Holdings III LP" tx_date="Sep 10 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Sequentia Diversified US Fund" tx_date="Sep 24 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Commercial Street Capital LLC/Kite Pharma Inc" tx_date="May  7 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="First Capital Advisors Sequentia Limited" tx_date="Oct  1 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Sequentia Diversified US Fund" tx_date="Oct 29 2013" tx_action="Purchased" value_low="250001" value_high="500000"/>
+    </transactions>
+    <positions>
+      <position title="Officer" organization="Nebo Lodge Inc"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Daniel Milton Newhouse (R)" cid="N00036403" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00036403&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="66793" pacs="53500" total="120293"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1429" pacs="74335" total="75764"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="9150" pacs="58000" total="67150"/>
+    <industry industry_code="A04" industry_name="Dairy" indivs="45005" pacs="14500" total="59505"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="2600" pacs="44850" total="47450"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="44770" pacs="0" total="44770"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="5250" pacs="33250" total="38500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="28360" pacs="10000" total="38360"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="4150" pacs="28000" total="32150"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="12750" pacs="18500" total="31250"/>
+  </industries>
+</response>

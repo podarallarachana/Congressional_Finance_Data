@@ -1,0 +1,15 @@
+<response>
+  <industries cand_name="Madeleine Z Bordallo (D)" cid="N00024866" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00024866&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="12000" total="12000"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="9400" pacs="0" total="9400"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="8500" pacs="0" total="8500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="7400" pacs="0" total="7400"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="1800" pacs="4000" total="5800"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="2500" pacs="2000" total="4500"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="4000" total="4000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="3250" pacs="0" total="3250"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="3090" pacs="0" total="3090"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="3000" pacs="0" total="3000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="1000" pacs="2000" total="3000"/>
+  </industries>
+</response>

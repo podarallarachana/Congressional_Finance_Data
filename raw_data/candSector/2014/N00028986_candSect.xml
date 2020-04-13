@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Paul Broun (R)" cid="N00028986" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00028986&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="38199" pacs="0" total="38199"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="18250" pacs="3000" total="21250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="34751" pacs="0" total="34751"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1000" pacs="0" total="1000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="39800" pacs="7000" total="46800"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="149213" pacs="7000" total="156213"/>
+    <sector sector_name="Health" sectorid="H" indivs="74056" pacs="8000" total="82056"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="23700" pacs="5000" total="28700"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="24900" pacs="0" total="24900"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="100001" pacs="5000" total="105001"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="124304" pacs="39186" total="163490"/>
+    <sector sector_name="Other" sectorid="W" indivs="165100" pacs="0" total="165100"/>
+  </sectors>
+</response>

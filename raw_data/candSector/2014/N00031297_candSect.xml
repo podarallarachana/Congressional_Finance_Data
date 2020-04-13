@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Tim Griffin (R)" cid="N00031297" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031297&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="10600" pacs="11500" total="22100"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="0" pacs="13000" total="13000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="6250" pacs="11500" total="17750"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="15000" total="15000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="12450" pacs="45000" total="57450"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="48150" pacs="87500" total="135650"/>
+    <sector sector_name="Health" sectorid="H" indivs="16425" pacs="68500" total="84925"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="24400" pacs="4750" total="29150"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="8000" pacs="14100" total="22100"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="12560" pacs="36419" total="48979"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1250" pacs="43017" total="44267"/>
+    <sector sector_name="Other" sectorid="W" indivs="14965" pacs="0" total="14965"/>
+  </sectors>
+</response>

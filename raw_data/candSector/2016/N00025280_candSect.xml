@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tim Ryan (D)" cid="N00025280" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00025280&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="15100" pacs="12000" total="27100"/>
+    <sector sector_name="Construction" sectorid="C" indivs="16400" pacs="15200" total="31600"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1000" pacs="64000" total="65000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="11050" pacs="44000" total="55050"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="44490" pacs="31500" total="75990"/>
+    <sector sector_name="Health" sectorid="H" indivs="21700" pacs="12000" total="33700"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="38166" pacs="12000" total="50166"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="4700" pacs="58000" total="62700"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="78425" pacs="71000" total="149425"/>
+    <sector sector_name="Labor" sectorid="P" indivs="2918" pacs="207200" total="210118"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="8800" pacs="7500" total="16300"/>
+    <sector sector_name="Other" sectorid="W" indivs="41275" pacs="1000" total="42275"/>
+  </sectors>
+</response>

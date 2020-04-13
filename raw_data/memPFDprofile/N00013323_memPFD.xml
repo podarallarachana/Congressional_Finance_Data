@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Graves, Sam" data_year="2016" member_id="N00013323" net_low="-3453491" net_high="5500496" positions_held_count="0" asset_count="10" asset_low="1761509" asset_high="6590500" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00013323" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Residence &amp; Adjoining Unit in Washington" holdings_low="1000001" holdings_high="5000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Sam Graves Farms: Clark Township &amp; Tarkio Township" holdings_low="500001" holdings_high="1000000" industry="Crop Production &amp; Basic Processing" sector="Agribusiness" subsidiary_of=""/>
+      <asset name="Airport Farms Aviation LLC" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Promissory note" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Graves Brothers Farms" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Member" organization="Airport Farms Aviation LLC"/>
+      <position title="Member" organization="Archer Aviation LLC"/>
+      <position title="Class 2 Director" organization="EAA Warbirds Over America"/>
+      <position title="Partner (together with brothers and spouses and Lesley Graves)" organization="Graves Brothers Farms"/>
+      <position title="Member" organization="Rockin Hord LLC"/>
+    </positions>
+  </member_profile>
+</response>

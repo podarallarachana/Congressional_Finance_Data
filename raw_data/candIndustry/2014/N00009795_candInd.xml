@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Candice S Miller (R)" cid="N00009795" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009795&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="M01" industry_name="Air Transport" indivs="1250" pacs="58000" total="59250"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="33550" pacs="16555" total="50105"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="24650" pacs="23000" total="47650"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="32000" total="32000"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="32000" total="32000"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="3000" pacs="27500" total="30500"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="29000" total="29000"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="25553" total="25553"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="0" pacs="25100" total="25100"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="10589" pacs="13250" total="23839"/>
+  </industries>
+</response>

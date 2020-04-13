@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bob Goodlatte (R)" cid="N00009154" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009154&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="87672" pacs="0" total="87672"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="5000" pacs="75093" total="80093"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="19000" pacs="60000" total="79000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="28793" pacs="35250" total="64043"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="6500" pacs="45566" total="52066"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="48400" pacs="2000" total="50400"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="4750" pacs="42400" total="47150"/>
+    <industry industry_code="B13" industry_name="Internet" indivs="18250" pacs="26000" total="44250"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="750" pacs="40760" total="41510"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="1750" pacs="32762" total="34512"/>
+  </industries>
+</response>

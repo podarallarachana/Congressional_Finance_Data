@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Donna Edwards (D)" cid="N00028249" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00028249&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="450754" pacs="19000" total="469754"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="140483" pacs="8466" total="148949"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="133129" pacs="0" total="133129"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="105639" pacs="1000" total="106639"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="63927" pacs="31999" total="95926"/>
+    <industry industry_code="W04" industry_name="Education" indivs="92598" pacs="0" total="92598"/>
+    <industry industry_code="W02" industry_name="Non-Profit Institutions" indivs="85465" pacs="0" total="85465"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="66447" pacs="0" total="66447"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="62775" pacs="0" total="62775"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="60850" pacs="0" total="60850"/>
+  </industries>
+</response>

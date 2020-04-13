@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Raul Ruiz (D)" cid="N00033510" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033510&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="21500" pacs="0" total="21500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="43275" pacs="4500" total="47775"/>
+    <sector sector_name="Construction" sectorid="C" indivs="42025" pacs="0" total="42025"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="0" total="500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1750" pacs="0" total="1750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="75900" pacs="1000" total="76900"/>
+    <sector sector_name="Health" sectorid="H" indivs="197243" pacs="59000" total="256243"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="83650" pacs="10000" total="93650"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="10050" pacs="0" total="10050"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="64405" pacs="2500" total="66905"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="190000" total="190250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="67889" pacs="218242" total="286131"/>
+    <sector sector_name="Other" sectorid="W" indivs="230857" pacs="0" total="230857"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ruben Hinojosa (D)" cid="N00006008" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006008&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="67000" pacs="8800" total="75800"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="21800" pacs="12000" total="33800"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="24100" pacs="8000" total="32100"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="28500" total="28500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="1550" pacs="24000" total="25550"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="25000" total="25000"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="13350" pacs="10000" total="23350"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="500" pacs="21500" total="22000"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="2500" pacs="18000" total="20500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="2950" pacs="17000" total="19950"/>
+  </industries>
+</response>

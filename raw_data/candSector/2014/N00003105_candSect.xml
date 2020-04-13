@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Marsha Blackburn (R)" cid="N00003105" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00003105&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="12000" pacs="29500" total="41500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="27500" pacs="149600" total="177100"/>
+    <sector sector_name="Construction" sectorid="C" indivs="19050" pacs="26500" total="45550"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="38000" total="38500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="23600" pacs="121500" total="145100"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="86576" pacs="124750" total="211326"/>
+    <sector sector_name="Health" sectorid="H" indivs="64700" pacs="452750" total="517450"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="57950" pacs="40291" total="98241"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="39650" pacs="72700" total="112350"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="79834" pacs="135346" total="215180"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="7000" total="7000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="13400" pacs="29500" total="42900"/>
+    <sector sector_name="Other" sectorid="W" indivs="45100" pacs="3000" total="48100"/>
+  </sectors>
+</response>

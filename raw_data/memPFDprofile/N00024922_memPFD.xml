@@ -1,0 +1,16 @@
+<response>
+  <member_profile name="Hensarling, Jeb" data_year="2016" member_id="N00024922" net_low="-572938" net_high="1531998" positions_held_count="0" asset_count="61" asset_low="677062" asset_high="2132000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00024922" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Fidelity VIP Index 500" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="PIMCO Total Return Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity 500 Index Premium" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Strategic Income Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Cash Reserves" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Vanguard S&amp;P 500 Fund" tx_date="Nov 25 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Fidelity Inflation Protected Bond" tx_date="Dec 20 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Fidelity Contra Fund" tx_date="Dec 13 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

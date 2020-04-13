@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="Grijalva, Raul M" data_year="2016" member_id="N00025284" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00025284" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Alliance Value Mark IV Annuity" tx_date="May 28 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Amgen Inc" tx_date="Oct 14 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="American Express" tx_date="Jul 30 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Alcoa Inc" tx_date="Aug 16 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Alcoa Inc" tx_date="Aug  5 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Advisory Council Member" organization="Congressional Hispanic Caucus Institute"/>
+      <position title="Board Member" organization="Progressive Congress.org"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="George Miller (D)" cid="N00007390" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007390&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="41100" total="41100"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="31500" total="31500"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="375" pacs="27000" total="27375"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="19675" pacs="5622" total="25297"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="16050" pacs="4000" total="20050"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="18575" pacs="0" total="18575"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="14000" total="14000"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="11500" total="11500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="2000" pacs="9000" total="11000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="9500" pacs="0" total="9500"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Dan Kildee (D)" cid="N00033395" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033395&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="500" pacs="62750" total="63250"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="43301" pacs="13000" total="56301"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="250" pacs="52650" total="52900"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="52500" pacs="0" total="52500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="29810" pacs="20000" total="49810"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="40500" total="40500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="6900" pacs="32750" total="39650"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="1750" pacs="35750" total="37500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="900" pacs="32500" total="33400"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="500" pacs="30500" total="31000"/>
+  </industries>
+</response>

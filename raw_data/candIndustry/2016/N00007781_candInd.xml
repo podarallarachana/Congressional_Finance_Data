@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Peter DeFazio (D)" cid="N00007781" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007781&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="M01" industry_name="Air Transport" indivs="20010" pacs="114000" total="134010"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="500" pacs="119255" total="119755"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="4502" pacs="63500" total="68002"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="61728" pacs="0" total="61728"/>
+    <industry industry_code="M03" industry_name="Trucking" indivs="0" pacs="47500" total="47500"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="3000" pacs="44000" total="47000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="33380" pacs="2000" total="35380"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="17679" pacs="17000" total="34679"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="35" pacs="34500" total="34535"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="16800" pacs="17700" total="34500"/>
+  </industries>
+</response>

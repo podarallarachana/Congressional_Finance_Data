@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Kerry (D)" cid="N00000245" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000245&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="516340" pacs="125278" total="641618"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="399400" pacs="37500" total="436900"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="228924" pacs="41010" total="269934"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="187893" pacs="5000" total="192893"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="74300" pacs="118300" total="192600"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="60680" pacs="102200" total="162880"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="96125" pacs="59496" total="155621"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="108000" pacs="26500" total="134500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="42275" pacs="81000" total="123275"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="116425" pacs="3500" total="119925"/>
+  </industries>
+</response>

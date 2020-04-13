@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mike Coffman (R)" cid="N00024753" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00024753&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="451059" pacs="0" total="451059"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="353900" total="353900"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="173293" pacs="30000" total="203293"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="125100" pacs="20500" total="145600"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="51394" pacs="84500" total="135894"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="76635" pacs="14000" total="90635"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="48040" pacs="39000" total="87040"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="30075" pacs="47500" total="77575"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="3950" pacs="72500" total="76450"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="51750" pacs="18200" total="69950"/>
+  </industries>
+</response>

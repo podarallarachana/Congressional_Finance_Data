@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Cornyn (R)" cid="N00024852" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00024852&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="1006193" pacs="181000" total="1187193"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="807956" pacs="293500" total="1101456"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="615200" pacs="222949" total="838149"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="470857" pacs="188050" total="658907"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="494249" pacs="87000" total="581249"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="562799" pacs="0" total="562799"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="162750" pacs="255853" total="418603"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="229215" pacs="124000" total="353215"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="332358" total="332358"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="102350" pacs="224250" total="326600"/>
+  </industries>
+</response>

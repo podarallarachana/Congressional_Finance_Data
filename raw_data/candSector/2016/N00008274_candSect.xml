@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Loretta Sanchez (D)" cid="N00008274" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00008274&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="110249" pacs="56600" total="166849"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="92650" pacs="13500" total="106150"/>
+    <sector sector_name="Construction" sectorid="C" indivs="50703" pacs="13500" total="64203"/>
+    <sector sector_name="Defense" sectorid="D" indivs="6400" pacs="50700" total="57100"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="17200" pacs="11500" total="28700"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="179751" pacs="23000" total="202751"/>
+    <sector sector_name="Health" sectorid="H" indivs="161209" pacs="57200" total="218409"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="222277" pacs="31000" total="253277"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="42629" pacs="43000" total="85629"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="103351" pacs="27700" total="131051"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1100" pacs="102550" total="103650"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="167426" pacs="76939" total="244365"/>
+    <sector sector_name="Other" sectorid="W" indivs="269285" pacs="11500" total="280785"/>
+  </sectors>
+</response>

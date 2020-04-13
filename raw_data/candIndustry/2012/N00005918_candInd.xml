@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Steve Stockman (R)" cid="N00005918" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00005918&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="38250" total="38250"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="4000" pacs="16500" total="20500"/>
+    <industry industry_code="Q13" industry_name="Gun Rights" indivs="0" pacs="20449" total="20449"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="250" pacs="11300" total="11550"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="4000" pacs="6000" total="10000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="9000" pacs="1000" total="10000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="4500" pacs="5000" total="9500"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="8700" pacs="0" total="8700"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="8000" pacs="0" total="8000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="7750" pacs="0" total="7750"/>
+  </industries>
+</response>

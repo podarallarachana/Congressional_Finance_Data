@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mike Pompeo (R)" cid="N00030744" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030744&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="16500" pacs="93100" total="109600"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="12477" pacs="155250" total="167727"/>
+    <sector sector_name="Construction" sectorid="C" indivs="67400" pacs="17000" total="84400"/>
+    <sector sector_name="Defense" sectorid="D" indivs="750" pacs="74100" total="74850"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="259750" pacs="259750" total="519500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="128150" pacs="92500" total="220650"/>
+    <sector sector_name="Health" sectorid="H" indivs="79000" pacs="229750" total="308750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="96077" pacs="21500" total="117577"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="26100" pacs="86498" total="112598"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="105400" pacs="142750" total="248150"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="2500" total="2500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="71167" pacs="85632" total="156799"/>
+    <sector sector_name="Other" sectorid="W" indivs="82150" pacs="1000" total="83150"/>
+  </sectors>
+</response>

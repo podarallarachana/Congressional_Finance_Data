@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Joe Heck (R)" cid="N00031244" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031244&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="5100" pacs="6000" total="11100"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="27550" pacs="40640" total="68190"/>
+    <sector sector_name="Construction" sectorid="C" indivs="62009" pacs="36500" total="98509"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5250" pacs="84498" total="89748"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="17000" pacs="63000" total="80000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="148048" pacs="127890" total="275938"/>
+    <sector sector_name="Health" sectorid="H" indivs="181295" pacs="233349" total="414644"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="45960" pacs="27100" total="73060"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="28059" pacs="35199" total="63258"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="235377" pacs="133722" total="369099"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="30500" total="30500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="78650" pacs="250594" total="329244"/>
+    <sector sector_name="Other" sectorid="W" indivs="120585" pacs="8000" total="128585"/>
+  </sectors>
+</response>

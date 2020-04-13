@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Pete Aguilar (D)" cid="N00033997" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033997&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="164325" pacs="12000" total="176325"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="175500" total="175500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="113157" pacs="23500" total="136657"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="99908" pacs="24000" total="123908"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="82105" pacs="0" total="82105"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="44655" pacs="30100" total="74755"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="30850" pacs="33500" total="64350"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="64000" total="64000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="50" pacs="63500" total="63550"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="50600" pacs="5000" total="55600"/>
+  </industries>
+</response>

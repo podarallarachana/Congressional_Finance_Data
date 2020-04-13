@@ -1,0 +1,20 @@
+<response>
+  <member_profile name="Levin, Sander" data_year="2016" member_id="N00003950" net_low="3363493" net_high="3398492" positions_held_count="0" asset_count="20" asset_low="3363493" asset_high="3398492" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00003950" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="House, Lot 4, West Tisbury, MA" holdings_low="1325400" holdings_high="1325400" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="CREF Global Equities Fund" holdings_low="310809" holdings_high="310809" industry="" sector="" subsidiary_of=""/>
+      <asset name="TIAA Traditional Fund" holdings_low="303352" holdings_high="303352" industry="" sector="" subsidiary_of=""/>
+      <asset name="CREF Social Choice Fund" holdings_low="210859" holdings_high="210859" industry="" sector="" subsidiary_of=""/>
+      <asset name="Levinson-Levin Properties" holdings_low="204960" holdings_high="204960" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="American Bond Fund of America" tx_date="Jan  7 2013" tx_action="Sold" value_low="25030" value_high="25030"/>
+      <transaction asset_name="American Funds Income Fund of America" tx_date="Sep  4 2013" tx_action="Sold" value_low="13330" value_high="13330"/>
+      <transaction asset_name="American Bond Fund of America" tx_date="Sep  4 2013" tx_action="Sold" value_low="13330" value_high="13330"/>
+      <transaction asset_name="American Funds Capital Income Builder Fund" tx_date="Sep  4 2013" tx_action="Sold" value_low="13303" value_high="13303"/>
+    </transactions>
+    <positions>
+      <position title="Member" organization="Levinson-Levin Properties"/>
+    </positions>
+  </member_profile>
+</response>

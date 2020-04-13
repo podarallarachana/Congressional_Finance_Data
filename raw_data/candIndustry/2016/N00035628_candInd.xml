@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Cresent Hardy (R)" cid="N00035628" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035628&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="267300" total="267300"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="77384" pacs="35000" total="112384"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="108435" pacs="0" total="108435"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="65010" pacs="17500" total="82510"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="57250" pacs="23000" total="80250"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="500" pacs="62500" total="63000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="42471" pacs="19500" total="61971"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="20150" pacs="26500" total="46650"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="17500" pacs="27500" total="45000"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="21300" pacs="18995" total="40295"/>
+  </industries>
+</response>

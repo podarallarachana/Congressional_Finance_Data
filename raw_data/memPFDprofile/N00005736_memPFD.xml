@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00005736" net_low="1017092" net_high="3387000" positions_held_count="0" asset_count="90" asset_low="1017092" asset_high="3387000" transaction_count="16" tx_low="16" tx_high="16000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00005736" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="land parcel" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Education First Bank Account" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Community Bank of Texas" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="TD Ameritrade Bank Account" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Brian Babin DDS Dental Practice" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

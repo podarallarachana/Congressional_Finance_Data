@@ -1,0 +1,22 @@
+<response>
+  <member_profile name="Blumenauer, Earl" data_year="2016" member_id="N00007727" net_low="3972045" net_high="15927995" positions_held_count="0" asset_count="42" asset_low="4922045" asset_high="16358000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00007727" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Northwest Natural Gas" holdings_low="1000001" holdings_high="5000000" industry="Oil &amp; Gas" sector="Energy/Nat Resource" subsidiary_of=""/>
+      <asset name="Thrift Savings Plan" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Duplex - 6th Street SE" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Schwab S&amp;P 500 Index Fund" holdings_low="265002" holdings_high="550000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Joinery Holding Company" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="The Joinery" tx_date="Nov  1 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Nordel TIC/2166 NW Irving" tx_date="Dec 31 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Parnessus Equity Income" tx_date="Sep 16 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Portfolio 21" tx_date="Sep 16 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Westcott LLC" tx_date="Dec 31 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+    <positions>
+      <position title="Member of the Board of Directors" organization="Joinery Holding Company"/>
+      <position title="Member of the Board of Directors" organization="Rail-Volution"/>
+    </positions>
+  </member_profile>
+</response>

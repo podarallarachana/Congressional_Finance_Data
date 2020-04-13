@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bill Cassidy (R)" cid="N00030245" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030245&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="861265" pacs="343100" total="1204365"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="1145288" pacs="0" total="1145288"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="976976" pacs="8500" total="985476"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="709170" pacs="132000" total="841170"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="607794" total="607794"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="444395" pacs="6400" total="450795"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="197826" pacs="104714" total="302540"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="256485" pacs="21500" total="277985"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="226000" pacs="38500" total="264500"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="243067" pacs="5000" total="248067"/>
+  </industries>
+</response>

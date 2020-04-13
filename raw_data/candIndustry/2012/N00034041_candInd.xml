@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Thomas Massie (R)" cid="N00034041" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034041&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="137057" pacs="4400" total="141457"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="80500" total="80500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="54715" pacs="0" total="54715"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="6451" pacs="22000" total="28451"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="0" pacs="27000" total="27000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="24350" pacs="1000" total="25350"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="3201" pacs="21500" total="24701"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="11751" pacs="12000" total="23751"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="12000" pacs="5000" total="17000"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="8000" pacs="8000" total="16000"/>
+  </industries>
+</response>

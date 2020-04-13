@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00035544" net_low="729045" net_high="2163000" positions_held_count="0" asset_count="35" asset_low="729045" asset_high="2163000" transaction_count="56" tx_low="84056" tx_high="910000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00035544" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="350002" holdings_high="750000" industry="" sector="" subsidiary_of=""/>
+      <asset name="VTV - Vanguard Value ETF" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="iShares MBS" holdings_low="30002" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="iShares 1-3 Year Treasury Bond ETF" holdings_low="30002" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Emerging Markets Fund" holdings_low="30002" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Director" organization="Association of Independent Colleges of Nebraska"/>
+      <position title="Director" organization="Great Plains Athletic Conference"/>
+      <position title="(President)" organization="Midland University"/>
+      <position title="Director" organization="MyTelehealthSolutions LLC"/>
+      <position title="Director" organization="Nebraska Independent College Fund"/>
+    </positions>
+  </member_profile>
+</response>

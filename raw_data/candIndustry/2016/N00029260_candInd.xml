@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ann Kirkpatrick (D)" cid="N00029260" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029260&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="785280" pacs="28092" total="813372"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="768933" pacs="31605" total="800538"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="618705" pacs="0" total="618705"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="433151" pacs="15750" total="448901"/>
+    <industry industry_code="W04" industry_name="Education" indivs="227028" pacs="0" total="227028"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="218700" total="218700"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="145598" pacs="1000" total="146598"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="144731" pacs="0" total="144731"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="104707" pacs="27500" total="132207"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="121710" pacs="0" total="121710"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Hoeven (R)" cid="N00031688" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031688&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="198389" pacs="143998" total="342387"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="240160" pacs="0" total="240160"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1000" pacs="212521" total="213521"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="124881" pacs="71875" total="196756"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="62800" pacs="113050" total="175850"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="114900" pacs="31500" total="146400"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="126300" pacs="16000" total="142300"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="96310" pacs="32000" total="128310"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="50500" pacs="73000" total="123500"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="40126" pacs="79500" total="119626"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="James E Risch (R)" cid="N00029441" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029441&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="196109" total="196109"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="20850" pacs="103750" total="124600"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="5750" pacs="91250" total="97000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="90166" pacs="0" total="90166"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="46860" pacs="32200" total="79060"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="43900" pacs="28750" total="72650"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="42000" pacs="27000" total="69000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="43550" pacs="24500" total="68050"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="34511" pacs="30000" total="64511"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="8750" pacs="52750" total="61500"/>
+  </industries>
+</response>

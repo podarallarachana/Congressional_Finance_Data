@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jay Rockefeller (D)" cid="N00001685" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001685&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="M01" industry_name="Air Transport" indivs="11000" pacs="67500" total="78500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="49700" pacs="24000" total="73700"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="24849" pacs="41500" total="66349"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="9000" pacs="55000" total="64000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="51825" pacs="-1500" total="50325"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="8000" pacs="28500" total="36500"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="11500" pacs="24000" total="35500"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="11925" pacs="21311" total="33236"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="28875" total="28875"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="0" pacs="25000" total="25000"/>
+  </industries>
+</response>

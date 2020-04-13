@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Gerry Connolly (D)" cid="N00029891" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029891&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="30550" pacs="79500" total="110050"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="250" pacs="108500" total="108750"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="84221" pacs="0" total="84221"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="62250" pacs="14000" total="76250"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="55450" pacs="15500" total="70950"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="58151" pacs="1000" total="59151"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="28866" pacs="24750" total="53616"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="5330" pacs="46000" total="51330"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="8650" pacs="40000" total="48650"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="250" pacs="47000" total="47250"/>
+  </industries>
+</response>

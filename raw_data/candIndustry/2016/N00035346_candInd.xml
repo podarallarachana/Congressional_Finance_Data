@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Buddy Carter (R)" cid="N00035346" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035346&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="51600" pacs="133700" total="185300"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="78000" pacs="32500" total="110500"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="9900" pacs="42900" total="52800"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="45445" pacs="0" total="45445"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="7900" pacs="33998" total="41898"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="5500" pacs="33000" total="38500"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="1625" pacs="31500" total="33125"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="9700" pacs="19500" total="29200"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="27000" total="27000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="12032" pacs="13500" total="25532"/>
+  </industries>
+</response>

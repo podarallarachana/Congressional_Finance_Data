@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Kirsten Gillibrand (D)" cid="N00027658" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027658&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="2294052" pacs="174700" total="2468752"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="1518237" pacs="189500" total="1707737"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="696158" pacs="76500" total="772658"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="756913" pacs="0" total="756913"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="571105" pacs="14500" total="585605"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="473914" pacs="57500" total="531414"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="389130" pacs="17845" total="406975"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="369108" pacs="31000" total="400108"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="173741" pacs="213116" total="386857"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="338828" pacs="10100" total="348928"/>
+  </industries>
+</response>

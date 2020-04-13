@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Gus Bilirakis (R)" cid="N00027462" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027462&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="56474" pacs="162500" total="218974"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="2350" pacs="78500" total="80850"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="54531" pacs="20000" total="74531"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="66930" pacs="0" total="66930"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="700" pacs="58100" total="58800"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="36461" pacs="19750" total="56211"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="0" pacs="49500" total="49500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="10600" pacs="32500" total="43100"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="41000" total="41000"/>
+    <industry industry_code="N08" industry_name="Lodging/Tourism" indivs="850" pacs="38500" total="39350"/>
+  </industries>
+</response>

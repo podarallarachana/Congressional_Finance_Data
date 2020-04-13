@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Johanns, Mike" data_year="2016" member_id="N00029444" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00029444" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Public Pwr Generation Agy NE Whelan" tx_date="Aug 21 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="American Century Short Term Govt" tx_date="Mar 11 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Fidelity Small Cap Growth" tx_date="Mar 11 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="US Small Co Fund" tx_date="" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="US Large Co Fund" tx_date="" tx_action="Purchased" value_low="15001" value_high="50000"/>
+    </transactions>
+    <positions>
+      <position title="Co-Trustee - uncompensated" organization="Mike &amp; Stephanie Johanns Family Trust Agreement"/>
+    </positions>
+  </member_profile>
+</response>

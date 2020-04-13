@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mark Takai (D)" cid="N00035535" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035535&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="121483" pacs="0" total="121483"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1000" pacs="84750" total="85750"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="65525" pacs="7700" total="73225"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="44950" pacs="27500" total="72450"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="200" pacs="61500" total="61700"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="250" pacs="58500" total="58750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="46117" pacs="9477" total="55594"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="40975" pacs="13500" total="54475"/>
+    <industry industry_code="W04" industry_name="Education" indivs="48700" pacs="0" total="48700"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="3700" pacs="40500" total="44200"/>
+  </industries>
+</response>

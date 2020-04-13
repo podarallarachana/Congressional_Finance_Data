@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Sean P Duffy (R)" cid="N00030967" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030967&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="201831" total="201831"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="131248" pacs="0" total="131248"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="12450" pacs="117062" total="129512"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="89410" pacs="24750" total="114160"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="50400" pacs="59650" total="110050"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="27783" pacs="59250" total="87033"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="32850" pacs="52000" total="84850"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="58300" pacs="17884" total="76184"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="28140" pacs="29250" total="57390"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="38750" pacs="10500" total="49250"/>
+  </industries>
+</response>

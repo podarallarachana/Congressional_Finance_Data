@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Buchanan, Vernon" data_year="2016" member_id="N00027626" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00027626" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="130 Tamiami Tr LLC" tx_date="May 30 2013" tx_action="Sold" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Lyrical Multi Manager Fund QP LP" tx_date="Feb  1 2013" tx_action="Sold" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Lyrical Multi Manager Fund QP LP" tx_date="Jul  1 2013" tx_action="Sold" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="SBE LLC" tx_date="May 16 2013" tx_action="Sold" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Multi Manager" tx_date="Jul  1 2013" tx_action="Sold" value_low="250001" value_high="500000"/>
+    </transactions>
+    <positions>
+      <position title="Managing Member" organization="1099 Management Co"/>
+      <position title="Partner" organization="130 North Tamiami Trail LLC"/>
+      <position title="Partner" organization="301 Oxford LLC"/>
+      <position title="Partner" organization="600 LC dba Space Coast Honda"/>
+      <position title="Managing Member" organization="6430 Hollywood Blvd LLC"/>
+    </positions>
+  </member_profile>
+</response>

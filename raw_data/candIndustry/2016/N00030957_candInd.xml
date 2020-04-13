@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Scott Desjarlais (R)" cid="N00030957" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030957&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="52000" total="52000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="31300" pacs="5500" total="36800"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="35284" pacs="0" total="35284"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="20550" pacs="9000" total="29550"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="28900" pacs="0" total="28900"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="21200" pacs="5000" total="26200"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="21000" total="21000"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="19700" pacs="0" total="19700"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="3700" pacs="15000" total="18700"/>
+    <industry industry_code="Q13" industry_name="Gun Rights" indivs="5550" pacs="10500" total="16050"/>
+  </industries>
+</response>

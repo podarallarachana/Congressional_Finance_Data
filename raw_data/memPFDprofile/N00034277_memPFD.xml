@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00034277" net_low="568006" net_high="1195000" positions_held_count="0" asset_count="6" asset_low="568006" asset_high="1195000" transaction_count="3" tx_low="315003" tx_high="650000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00034277" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="James F &amp; Joan D Maloney Trust" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="46 Corkscrew" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="57 Old Taylor" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="The Rural Connection" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Citibank" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Orrick, Herrington &amp; Sutcliffe" tx_date="Jan 25 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="283 E Hill Road" tx_date="Nov 25 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="1441 Lincoln Road" tx_date="Apr 19 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Orrick, Herrington &amp; Sutcliffe" tx_date="Jan 13 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="East Hill Road (Land)" tx_date="May 14 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

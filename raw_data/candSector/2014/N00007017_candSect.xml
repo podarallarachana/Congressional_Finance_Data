@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Darrell Issa (R)" cid="N00007017" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00007017&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="44325" pacs="20500" total="64825"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="53970" pacs="119460" total="173430"/>
+    <sector sector_name="Construction" sectorid="C" indivs="77725" pacs="46500" total="124225"/>
+    <sector sector_name="Defense" sectorid="D" indivs="13875" pacs="40500" total="54375"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="36700" pacs="86000" total="122700"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="198575" pacs="154352" total="352927"/>
+    <sector sector_name="Health" sectorid="H" indivs="96048" pacs="58000" total="154048"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="88625" pacs="35750" total="124375"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="26275" pacs="47500" total="73775"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="157330" pacs="87989" total="245319"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="168512" pacs="19250" total="187762"/>
+    <sector sector_name="Other" sectorid="W" indivs="269410" pacs="9000" total="278410"/>
+  </sectors>
+</response>

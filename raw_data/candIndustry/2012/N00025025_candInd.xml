@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jim Gerlach (R)" cid="N00025025" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00025025&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F09" industry_name="Insurance" indivs="33900" pacs="155778" total="189678"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="10500" pacs="151000" total="161500"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="25450" pacs="122500" total="147950"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="63300" pacs="47250" total="110550"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="35500" pacs="49500" total="85000"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="27250" pacs="43245" total="70495"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="65199" pacs="1000" total="66199"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="750" pacs="51500" total="52250"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="11250" pacs="38500" total="49750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="11200" pacs="37500" total="48700"/>
+  </industries>
+</response>

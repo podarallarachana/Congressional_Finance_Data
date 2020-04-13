@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ruben Gallego (D)" cid="N00036097" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00036097&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="69750" pacs="6000" total="75750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="40025" pacs="7500" total="47525"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="43500" total="43500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="34000" total="34000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="26741" pacs="0" total="26741"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="26000" total="26000"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="23410" pacs="0" total="23410"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="22950" pacs="0" total="22950"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="22500" total="22500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="21339" pacs="0" total="21339"/>
+  </industries>
+</response>

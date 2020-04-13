@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Edwin G Perlmutter (D)" cid="N00027510" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027510&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="6100" pacs="38000" total="44100"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="23654" pacs="39500" total="63154"/>
+    <sector sector_name="Construction" sectorid="C" indivs="30200" pacs="15000" total="45200"/>
+    <sector sector_name="Defense" sectorid="D" indivs="8700" pacs="37500" total="46200"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="14900" pacs="46500" total="61400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="101731" pacs="610499" total="712230"/>
+    <sector sector_name="Health" sectorid="H" indivs="29250" pacs="65500" total="94750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="138359" pacs="45500" total="183859"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="12700" pacs="17000" total="29700"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="53023" pacs="64000" total="117023"/>
+    <sector sector_name="Labor" sectorid="P" indivs="450" pacs="183572" total="184022"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="14450" pacs="35000" total="49450"/>
+    <sector sector_name="Other" sectorid="W" indivs="112738" pacs="0" total="112738"/>
+  </sectors>
+</response>

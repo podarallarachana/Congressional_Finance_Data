@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bobby Scott (D)" cid="N00002147" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002147&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="850" pacs="77000" total="77850"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="56000" total="56000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="13700" pacs="37250" total="50950"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="37500" total="37500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="12300" pacs="18000" total="30300"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="27000" total="27000"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="25000" total="25000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="520" pacs="23500" total="24020"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="500" pacs="22000" total="22500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="9700" pacs="10000" total="19700"/>
+  </industries>
+</response>

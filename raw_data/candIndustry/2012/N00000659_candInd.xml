@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Frank R Lautenberg (D)" cid="N00000659" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000659&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="669538" pacs="131679" total="801217"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="687290" pacs="14000" total="701290"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="573108" pacs="30000" total="603108"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="209015" pacs="70518" total="279533"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="258133" pacs="0" total="258133"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="212466" pacs="21200" total="233666"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="214600" total="214600"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="34400" pacs="135800" total="170200"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="112350" pacs="34000" total="146350"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="127007" pacs="1000" total="128007"/>
+  </industries>
+</response>

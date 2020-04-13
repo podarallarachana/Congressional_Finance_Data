@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Robert Pittenger (R)" cid="N00034416" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00034416&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="8400" pacs="22500" total="30900"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="9400" pacs="20500" total="29900"/>
+    <sector sector_name="Construction" sectorid="C" indivs="25400" pacs="8000" total="33400"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="6000" total="6500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="15000" pacs="28000" total="43000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="128170" pacs="307250" total="435420"/>
+    <sector sector_name="Health" sectorid="H" indivs="41050" pacs="22000" total="63050"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="24300" pacs="4500" total="28800"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="15300" pacs="27500" total="42800"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="119500" pacs="34500" total="154000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="5550" pacs="87155" total="92705"/>
+    <sector sector_name="Other" sectorid="W" indivs="92350" pacs="5000" total="97350"/>
+  </sectors>
+</response>

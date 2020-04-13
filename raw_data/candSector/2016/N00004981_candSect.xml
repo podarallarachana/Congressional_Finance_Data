@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Dick Durbin (D)" cid="N00004981" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00004981&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="47480" pacs="96250" total="143730"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="179420" pacs="140550" total="319970"/>
+    <sector sector_name="Construction" sectorid="C" indivs="116065" pacs="64450" total="180515"/>
+    <sector sector_name="Defense" sectorid="D" indivs="254803" pacs="131999" total="386802"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="64674" pacs="107100" total="171774"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="816014" pacs="241340" total="1057354"/>
+    <sector sector_name="Health" sectorid="H" indivs="252652" pacs="343960" total="596612"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1510983" pacs="125170" total="1636153"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="122183" pacs="175509" total="297692"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="346002" pacs="374805" total="720807"/>
+    <sector sector_name="Labor" sectorid="P" indivs="24055" pacs="278000" total="302055"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="319435" pacs="268169" total="587604"/>
+    <sector sector_name="Other" sectorid="W" indivs="697754" pacs="6000" total="703754"/>
+  </sectors>
+</response>

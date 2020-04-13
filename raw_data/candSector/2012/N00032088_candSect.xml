@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Bill Johnson (R)" cid="N00032088" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00032088&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="16650" pacs="38000" total="54650"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="22289" pacs="21500" total="43789"/>
+    <sector sector_name="Construction" sectorid="C" indivs="73062" pacs="29500" total="102562"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="22000" total="22000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="122350" pacs="177000" total="299350"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="54950" pacs="87500" total="142450"/>
+    <sector sector_name="Health" sectorid="H" indivs="42600" pacs="98700" total="141300"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="34000" pacs="14250" total="48250"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="18150" pacs="32900" total="51050"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="142523" pacs="99999" total="242522"/>
+    <sector sector_name="Labor" sectorid="P" indivs="300" pacs="19000" total="19300"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="19650" pacs="259632" total="279282"/>
+    <sector sector_name="Other" sectorid="W" indivs="68575" pacs="0" total="68575"/>
+  </sectors>
+</response>

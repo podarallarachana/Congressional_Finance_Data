@@ -1,0 +1,16 @@
+<response>
+  <member_profile name="Hinojosa, Ruben" data_year="2016" member_id="N00006008" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00006008" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="342 S Texas Ave/Ruben's Rental Building" tx_date="May 29 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Capital Income Builder-529A" tx_date="Sep 16 2013" tx_action="Exchanged" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Intermediate Bond Fund of America" tx_date="Sep 16 2013" tx_action="Exchanged" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Short Term Bond Fund of America 529" tx_date="Sep 16 2013" tx_action="Exchanged" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Washington Mutual Investors Fund-529A" tx_date="Sep 16 2013" tx_action="Exchanged" value_low="1001" value_high="15000"/>
+    </transactions>
+    <positions>
+      <position title="Chairman" organization="Congressional Hispanic Caucus Institute"/>
+      <position title="Partner" organization="Hinojosa Development"/>
+      <position title="Partner" organization="Hinojosa Enterprises"/>
+    </positions>
+  </member_profile>
+</response>

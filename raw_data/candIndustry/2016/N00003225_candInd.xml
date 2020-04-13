@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Steve Cohen (D)" cid="N00003225" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00003225&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="38350" pacs="9500" total="47850"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="45500" total="45500"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="38500" total="38500"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="31000" total="31000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="10170" pacs="19750" total="29920"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="3950" pacs="25500" total="29450"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="3000" pacs="23000" total="26000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="5750" pacs="17500" total="23250"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="23000" total="23000"/>
+    <industry industry_code="N08" industry_name="Lodging/Tourism" indivs="500" pacs="20000" total="20500"/>
+  </industries>
+</response>

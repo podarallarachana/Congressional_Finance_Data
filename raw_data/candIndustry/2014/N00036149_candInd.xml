@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Debbie Dingell (D)" cid="N00036149" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00036149&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="91198" pacs="0" total="91198"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="43150" pacs="44241" total="87391"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="64134" pacs="22108" total="86242"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="47750" pacs="17500" total="65250"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="62550" pacs="1500" total="64050"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="51700" pacs="11000" total="62700"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="60500" total="60500"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="5500" pacs="43498" total="48998"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="250" pacs="42500" total="42750"/>
+    <industry industry_code="W04" industry_name="Education" indivs="38850" pacs="707" total="39557"/>
+  </industries>
+</response>

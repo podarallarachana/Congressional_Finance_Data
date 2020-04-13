@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033640" net_low="10017" net_high="1124999" positions_held_count="0" asset_count="16" asset_low="510017" asset_high="1375000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033640" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="HSBC Accounts" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Bank of America Account" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Lord Abbett Floating Rate Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="NY 529 Direct Plan Dependent Child 2 Moderate ag" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="NY 529 Direct Plan Dependent Child 1 Moderate ag" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

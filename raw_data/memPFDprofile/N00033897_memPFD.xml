@@ -1,0 +1,25 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033897" net_low="92656173" net_high="345858003" positions_held_count="31" asset_count="25" asset_low="94671173" asset_high="346868005" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033897" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="76975148" holdings_high="275053002" industry="" sector="" subsidiary_of=""/>
+      <asset name="Rehoboth Beach, DE residential rental property" holdings_low="5000001" holdings_high="25000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Goldman Sachs/Cash &amp; Money Market Account" holdings_low="5000001" holdings_high="25000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Oakmark International Fund - mutual fund (Trust)" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Wells Fargo Bank Account" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="CapitalSource Inc" tx_date="Oct  4 2013" tx_action="Sold" value_low="50000001" value_high="50000001"/>
+      <transaction asset_name="CapitalSource Inc" tx_date="Jul 23 2013" tx_action="Sold" value_low="1000001" value_high="5000000"/>
+      <transaction asset_name="CapitalSource Inc" tx_date="Apr 11 2013" tx_action="Sold" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="CapitalSource Inc" tx_date="May  6 2013" tx_action="Sold" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="CapitalSource Inc" tx_date="Jul 24 2013" tx_action="Sold" value_low="500001" value_high="1000000"/>
+    </transactions>
+    <positions>
+      <position title="Limited partner" organization="Acacia Partners LP"/>
+      <position title="Co-Founder, Director and Member of LLC" organization="Alliance Partners LLC"/>
+      <position title="LLC Member" organization="Alliance Partners Management"/>
+      <position title="Limited partner" organization="American Steadfast LP"/>
+      <position title="Founder and Chairman" organization="Blueprint Maryland"/>
+    </positions>
+  </member_profile>
+</response>

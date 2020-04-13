@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Conyers Jr (D)" cid="N00004029" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004029&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="39878" pacs="15000" total="54878"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="6675" pacs="47500" total="54175"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="2000" pacs="37000" total="39000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="36000" total="36000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="31500" total="31500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="30000" total="30000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="1010" pacs="19500" total="20510"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="33" pacs="20000" total="20033"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="1755" pacs="14000" total="15755"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="15500" total="15500"/>
+  </industries>
+</response>

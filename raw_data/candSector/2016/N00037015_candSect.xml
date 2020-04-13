@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Salud Carbajal (D)" cid="N00037015" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00037015&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="49250" pacs="6000" total="55250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="119788" pacs="4500" total="124288"/>
+    <sector sector_name="Construction" sectorid="C" indivs="92381" pacs="2000" total="94381"/>
+    <sector sector_name="Defense" sectorid="D" indivs="375" pacs="5000" total="5375"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="2850" pacs="2700" total="5550"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="255707" pacs="18000" total="273707"/>
+    <sector sector_name="Health" sectorid="H" indivs="48095" pacs="32000" total="80095"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="136980" pacs="6000" total="142980"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="9600" pacs="2500" total="12100"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="197567" pacs="6000" total="203567"/>
+    <sector sector_name="Labor" sectorid="P" indivs="3600" pacs="193000" total="196600"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="265001" pacs="327106" total="592107"/>
+    <sector sector_name="Other" sectorid="W" indivs="665813" pacs="0" total="665813"/>
+  </sectors>
+</response>

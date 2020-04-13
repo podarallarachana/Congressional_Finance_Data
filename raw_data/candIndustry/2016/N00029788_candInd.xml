@@ -1,0 +1,17 @@
+<response>
+  <industries cand_name="Cynthia Lummis (R)" cid="N00029788" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029788&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="E04" industry_name="Mining" indivs="0" pacs="20500" total="20500"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="2700" pacs="16000" total="18700"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="5450" pacs="0" total="5450"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="5000" total="5000"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="0" pacs="5000" total="5000"/>
+    <industry industry_code="E07" industry_name="Misc Energy" indivs="2000" pacs="1000" total="3000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="2500" pacs="500" total="3000"/>
+    <industry industry_code="B13" industry_name="Internet" indivs="2700" pacs="0" total="2700"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="0" pacs="2500" total="2500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="2000" pacs="0" total="2000"/>
+    <industry industry_code="E11" industry_name="Fisheries &amp; Wildlife" indivs="0" pacs="2000" total="2000"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="2000" total="2000"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="0" pacs="2000" total="2000"/>
+  </industries>
+</response>

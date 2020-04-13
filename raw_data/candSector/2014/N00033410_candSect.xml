@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Markwayne Mullin (R)" cid="N00033410" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033410&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="13150" pacs="66500" total="79650"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2250" pacs="25090" total="27340"/>
+    <sector sector_name="Construction" sectorid="C" indivs="49700" pacs="44000" total="93700"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="58700" pacs="112700" total="171400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="102724" pacs="67000" total="169724"/>
+    <sector sector_name="Health" sectorid="H" indivs="36850" pacs="18000" total="54850"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="33250" pacs="5000" total="38250"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="23100" pacs="87055" total="110155"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="56001" pacs="42173" total="98174"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="4000" total="4000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="97300" pacs="70139" total="167439"/>
+    <sector sector_name="Other" sectorid="W" indivs="46150" pacs="0" total="46150"/>
+  </sectors>
+</response>

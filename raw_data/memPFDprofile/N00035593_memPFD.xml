@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00035593" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00035593" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <positions>
+      <position title="Managing Member &amp; Director" organization="LATX Mgmt LLC"/>
+      <position title="Proprietor (President until Nov. 17, 2013)" organization="Legacy Contractors"/>
+      <position title="Proprietor" organization="Louisiana Batteries Plus LLC"/>
+      <position title="Proprietor" organization="Mc's Group"/>
+      <position title="Proprietor" organization="McAllister Promotions"/>
+    </positions>
+  </member_profile>
+</response>

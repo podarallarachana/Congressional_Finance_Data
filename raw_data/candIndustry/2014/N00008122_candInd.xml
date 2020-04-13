@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Eddie Bernice Johnson (D)" cid="N00008122" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00008122&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="47500" total="47500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="27702" pacs="14250" total="41952"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="0" pacs="40500" total="40500"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="36500" total="36500"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="32000" total="32000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="3300" pacs="21000" total="24300"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="22500" total="22500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="19500" total="19500"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="6700" pacs="7000" total="13700"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="0" pacs="13000" total="13000"/>
+  </industries>
+</response>

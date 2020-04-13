@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Beto O'Rourke (D)" cid="N00033540" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033540&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="2000" pacs="0" total="2000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="30100" pacs="0" total="30100"/>
+    <sector sector_name="Construction" sectorid="C" indivs="33900" pacs="0" total="33900"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="0" total="0"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="250" pacs="0" total="250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="145325" pacs="1500" total="146825"/>
+    <sector sector_name="Health" sectorid="H" indivs="45280" pacs="-1000" total="44280"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="27140" pacs="0" total="27140"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="15095" pacs="-500" total="14595"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="34750" pacs="-2500" total="32250"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="21901" pacs="1000" total="22901"/>
+    <sector sector_name="Other" sectorid="W" indivs="48514" pacs="0" total="48514"/>
+  </sectors>
+</response>

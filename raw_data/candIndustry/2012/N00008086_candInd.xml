@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Dave Camp (R)" cid="N00008086" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00008086&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="43273" pacs="295500" total="338773"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="147800" pacs="153750" total="301550"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="38000" pacs="252508" total="290508"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="82300" pacs="156300" total="238600"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="25400" pacs="212500" total="237900"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="181350" pacs="14001" total="195351"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="16950" pacs="151400" total="168350"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="1500" pacs="162500" total="164000"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="50572" pacs="105000" total="155572"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="30150" pacs="104500" total="134650"/>
+  </industries>
+</response>

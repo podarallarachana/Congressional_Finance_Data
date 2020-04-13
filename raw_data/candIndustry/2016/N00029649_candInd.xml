@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jackie Speier (D)" cid="N00029649" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029649&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="27900" pacs="40500" total="68400"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="66263" pacs="0" total="66263"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="12600" pacs="42200" total="54800"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="32450" pacs="13250" total="45700"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="41700" pacs="1000" total="42700"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="1500" pacs="38500" total="40000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="22350" pacs="7000" total="29350"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="27500" total="27500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="0" pacs="22000" total="22000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="20500" total="20500"/>
+  </industries>
+</response>

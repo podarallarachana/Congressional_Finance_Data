@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Steve Fincher (R)" cid="N00031141" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031141&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="247350" pacs="182715" total="430065"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="13700" pacs="10500" total="24200"/>
+    <sector sector_name="Construction" sectorid="C" indivs="96550" pacs="42500" total="139050"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="33200" pacs="33000" total="66200"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="215594" pacs="315150" total="530744"/>
+    <sector sector_name="Health" sectorid="H" indivs="60300" pacs="30500" total="90800"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="53259" pacs="7254" total="60513"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="18250" pacs="72749" total="90999"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="64050" pacs="94447" total="158497"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="8000" total="8000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2000" pacs="98410" total="100410"/>
+    <sector sector_name="Other" sectorid="W" indivs="142550" pacs="0" total="142550"/>
+  </sectors>
+</response>

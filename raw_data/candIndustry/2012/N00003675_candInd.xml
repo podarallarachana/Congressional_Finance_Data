@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Boehner (R)" cid="N00003675" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00003675&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="1393575" pacs="143250" total="1536825"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="1215279" pacs="0" total="1215279"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="413997" pacs="183500" total="597497"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="540076" pacs="45500" total="585576"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="406837" pacs="83500" total="490337"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="333099" pacs="146500" total="479599"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="389952" pacs="80106" total="470058"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="272051" pacs="187800" total="459851"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="444836" pacs="13500" total="458336"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="411450" pacs="7300" total="418750"/>
+  </industries>
+</response>

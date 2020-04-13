@@ -1,0 +1,24 @@
+<response>
+  <member_profile name="Scott, Austin" data_year="2016" member_id="N00032457" net_low="663047" net_high="3449996" positions_held_count="3" asset_count="38" asset_low="1613047" asset_high="3900000" transaction_count="198" tx_low="24198" tx_high="534000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00032457" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Shell Point" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="A-C Scott LLLP" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="JW Scott Family LP/JW Scott" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Rental Property" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Sco Jac" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Locket Station Group" tx_date="Dec  4 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Ballard Power Systems Inc" tx_date="Dec  6 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Aruba Networks" tx_date="May 20 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Aruba Networks" tx_date="Aug 30 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Aruba Networks" tx_date="Dec  4 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+    <positions>
+      <position title="Limited Partner / General Partner" organization="A-C Scott LLP &amp; Aus Cur Scott LLC"/>
+      <position title="Limited Partner" organization="James W Scott Family LP"/>
+      <position title="Partner" organization="Lockett Station Group"/>
+      <position title="Limited Partner" organization="MCA Family LLC"/>
+    </positions>
+  </member_profile>
+</response>

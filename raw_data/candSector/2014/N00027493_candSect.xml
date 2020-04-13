@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Michele Bachmann (R)" cid="N00027493" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027493&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="7300" pacs="0" total="7300"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3000" pacs="0" total="3000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="9880" pacs="-2500" total="7380"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2300" pacs="0" total="2300"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="12400" pacs="0" total="12400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="20502" pacs="2000" total="22502"/>
+    <sector sector_name="Health" sectorid="H" indivs="6576" pacs="0" total="6576"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="2451" pacs="0" total="2451"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1751" pacs="0" total="1751"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="13432" pacs="0" total="13432"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="16426" pacs="7800" total="24226"/>
+    <sector sector_name="Other" sectorid="W" indivs="88117" pacs="0" total="88117"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Massie, Thomas" data_year="2016" member_id="N00034041" net_low="1754008" net_high="9961999" positions_held_count="0" asset_count="7" asset_low="2004008" asset_high="10062000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00034041" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Howard Massie Farms" holdings_low="1000001" holdings_high="5000000" industry="Crop Production &amp; Basic Processing" sector="Agribusiness" subsidiary_of=""/>
+      <asset name="Howard Massie Farms, LLC, 50% Interest" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Grail's Body shop, Physical Therapy" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Citizen's Deposit Bank" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Citizens Deposit Bank" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Managing Member" organization="Howard Massie Farms"/>
+    </positions>
+  </member_profile>
+</response>

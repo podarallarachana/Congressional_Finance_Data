@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Stacey Plaskett (D)" cid="N00035000" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035000&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="2250" pacs="14500" total="16750"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="5346" pacs="9500" total="14846"/>
+    <sector sector_name="Construction" sectorid="C" indivs="3700" pacs="0" total="3700"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="16000" pacs="9000" total="25000"/>
+    <sector sector_name="Health" sectorid="H" indivs="4000" pacs="24500" total="28500"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="37397" pacs="4500" total="41897"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="750" pacs="4000" total="4750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="15540" pacs="18988" total="34528"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="39250" total="39250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="9550" pacs="50000" total="59550"/>
+    <sector sector_name="Other" sectorid="W" indivs="5800" pacs="0" total="5800"/>
+  </sectors>
+</response>

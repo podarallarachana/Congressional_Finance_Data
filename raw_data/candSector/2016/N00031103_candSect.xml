@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Bob Dold (R)" cid="N00031103" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031103&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="28165" pacs="48885" total="77050"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="36950" pacs="70000" total="106950"/>
+    <sector sector_name="Construction" sectorid="C" indivs="49425" pacs="89000" total="138425"/>
+    <sector sector_name="Defense" sectorid="D" indivs="30860" pacs="34500" total="65360"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="26850" pacs="99250" total="126100"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="845841" pacs="601191" total="1447032"/>
+    <sector sector_name="Health" sectorid="H" indivs="133774" pacs="287450" total="421224"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="299590" pacs="31000" total="330590"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="39925" pacs="99495" total="139420"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="303028" pacs="275504" total="578532"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="71500" total="71500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="172735" pacs="557921" total="730656"/>
+    <sector sector_name="Other" sectorid="W" indivs="493737" pacs="4700" total="498437"/>
+  </sectors>
+</response>

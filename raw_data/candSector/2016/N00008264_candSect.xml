@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Ed Royce (R)" cid="N00008264" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00008264&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="21620" pacs="27200" total="48820"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="47387" pacs="28500" total="75887"/>
+    <sector sector_name="Construction" sectorid="C" indivs="88650" pacs="42000" total="130650"/>
+    <sector sector_name="Defense" sectorid="D" indivs="400" pacs="65500" total="65900"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="25550" pacs="84500" total="110050"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="690874" pacs="726550" total="1417424"/>
+    <sector sector_name="Health" sectorid="H" indivs="178686" pacs="13896" total="192582"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="219149" pacs="46100" total="265249"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="50900" pacs="25500" total="76400"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="239590" pacs="44500" total="284090"/>
+    <sector sector_name="Labor" sectorid="P" indivs="5000" pacs="7500" total="12500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="282377" pacs="163381" total="445758"/>
+    <sector sector_name="Other" sectorid="W" indivs="393575" pacs="0" total="393575"/>
+  </sectors>
+</response>

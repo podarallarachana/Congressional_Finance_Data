@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Heidi Heitkamp (D)" cid="N00033782" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033782&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="117475" pacs="95500" total="212975"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="189123" pacs="67000" total="256123"/>
+    <sector sector_name="Construction" sectorid="C" indivs="31210" pacs="6500" total="37710"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2500" pacs="9000" total="11500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="97774" pacs="212000" total="309774"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="322736" pacs="231688" total="554424"/>
+    <sector sector_name="Health" sectorid="H" indivs="100633" pacs="69500" total="170133"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="732185" pacs="70661" total="802846"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="22785" pacs="28500" total="51285"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="207794" pacs="73833" total="281627"/>
+    <sector sector_name="Labor" sectorid="P" indivs="7550" pacs="276650" total="284200"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="314662" pacs="411309" total="725971"/>
+    <sector sector_name="Other" sectorid="W" indivs="352337" pacs="7500" total="359837"/>
+  </sectors>
+</response>

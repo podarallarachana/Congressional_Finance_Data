@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bill Nelson (D)" cid="N00009926" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009926&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1913872" pacs="187153" total="2101025"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="862348" pacs="0" total="862348"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="416050" pacs="50500" total="466550"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="395024" pacs="55750" total="450774"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="408600" pacs="23000" total="431600"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="390925" pacs="25106" total="416031"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="346500" total="346500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="186758" pacs="152388" total="339146"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="207930" pacs="127382" total="335312"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="179200" pacs="49250" total="228450"/>
+  </industries>
+</response>

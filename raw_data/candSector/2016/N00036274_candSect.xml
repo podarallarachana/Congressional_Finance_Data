@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Paul Mitchell (R)" cid="N00036274" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00036274&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1125" pacs="11000" total="12125"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1250" pacs="18000" total="19250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="10200" pacs="5000" total="15200"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="700" pacs="20500" total="21200"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="30275" pacs="25000" total="55275"/>
+    <sector sector_name="Health" sectorid="H" indivs="7946" pacs="6000" total="13946"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="9200" pacs="5000" total="14200"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="9293" pacs="20000" total="29293"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="29250" pacs="33500" total="62750"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="281" pacs="56000" total="56281"/>
+    <sector sector_name="Other" sectorid="W" indivs="11806" pacs="6500" total="18306"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Linda Sanchez (D)" cid="N00024870" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00024870&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="59500" total="59500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="58500" total="58500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="23100" pacs="29750" total="52850"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="52500" total="52500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="23500" pacs="28500" total="52000"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="15000" pacs="36166" total="51166"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="10350" pacs="37900" total="48250"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="46500" total="46500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="44750" pacs="1000" total="45750"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="39500" total="39500"/>
+  </industries>
+</response>

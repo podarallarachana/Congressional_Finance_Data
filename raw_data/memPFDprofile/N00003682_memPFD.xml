@@ -1,0 +1,22 @@
+<response>
+  <member_profile name="Portman, Rob" data_year="2016" member_id="N00003682" net_low="8581118" net_high="25154000" positions_held_count="2" asset_count="93" asset_low="8581118" asset_high="25154000" transaction_count="100" tx_low="1837100" tx_high="5180000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00003682" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="iShares Russell 1000 Index" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Lebanon House Inc/Land &amp; building" holdings_low="1000001" holdings_high="5000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Vanguard OH Long Term Tax Exempt" holdings_low="800003" holdings_high="1600000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Intermediate Term Tax Exempt Fund" holdings_low="750002" holdings_high="1500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="SPDR S&amp;P 500" holdings_low="350003" holdings_high="700000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Vanguard Short-Term Tx-Ex Adm Fund" tx_date="Oct 11 2013" tx_action="Purchased" value_low="1000001" value_high="5000000"/>
+      <transaction asset_name="Vanguard OH Long Term Tax Exempt" tx_date="Oct 10 2013" tx_action="Sold" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Vanguard Interm-Term Tx-Ex Adm Fund" tx_date="Oct 10 2013" tx_action="Purchased" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Vanguard Ltd-Term Tx-Ex Adm Fund" tx_date="May 17 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Vanguard OH Long Term Tax Exempt" tx_date="May 23 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+    </transactions>
+    <positions>
+      <position title="Trustee" organization="Irrevocable Trust"/>
+      <position title="Other (Member of Board of Advisors )" organization="John Glenn School of Public Affairs at The Ohio St"/>
+    </positions>
+  </member_profile>
+</response>

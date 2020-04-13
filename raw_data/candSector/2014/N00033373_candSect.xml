@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tony Cardenas (D)" cid="N00033373" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033373&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="11950" pacs="14547" total="26497"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="29500" pacs="56333" total="85833"/>
+    <sector sector_name="Construction" sectorid="C" indivs="29850" pacs="11000" total="40850"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="7500" total="7500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="4750" pacs="23000" total="27750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="89750" pacs="75952" total="165702"/>
+    <sector sector_name="Health" sectorid="H" indivs="27700" pacs="70500" total="98200"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="44948" pacs="7000" total="51948"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="7276" pacs="25500" total="32776"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="140300" pacs="43750" total="184050"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="107500" total="107500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="62680" pacs="31631" total="94311"/>
+    <sector sector_name="Other" sectorid="W" indivs="18400" pacs="1500" total="19900"/>
+  </sectors>
+</response>

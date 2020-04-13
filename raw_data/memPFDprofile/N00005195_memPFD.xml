@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Blunt, Roy" data_year="2016" member_id="N00005195" net_low="1598021" net_high="8294998" positions_held_count="0" asset_count="21" asset_low="2698021" asset_high="8845000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00005195" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Lot 32, Sq 1436 Washington, DC 20016" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Kraft Heinz Co" holdings_low="250001" holdings_high="500000" industry="Food Processing &amp; Sales" sector="Agribusiness" subsidiary_of=""/>
+      <asset name="Family Farm" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="401k International Equity Fund" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Interest Income Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Mondelez Int Inc stock options included as part of" tx_date="Jul 31 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Mondelez Int Inc stock options included as part of" tx_date="Apr 12 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Kraft Foods" tx_date="Dec 31 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Kraft Foods" tx_date="Sep 30 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Kraft Foods" tx_date="Jun 30 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

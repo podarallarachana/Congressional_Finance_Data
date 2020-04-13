@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Eliot L Engel (D)" cid="N00001003" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001003&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="30750" pacs="14000" total="44750"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="16950" pacs="61500" total="78450"/>
+    <sector sector_name="Construction" sectorid="C" indivs="29950" pacs="5000" total="34950"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="40000" total="40000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="12700" pacs="31000" total="43700"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="243450" pacs="24500" total="267950"/>
+    <sector sector_name="Health" sectorid="H" indivs="110625" pacs="100500" total="211125"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="96886" pacs="19500" total="116386"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="5700" pacs="12000" total="17700"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="82250" pacs="22000" total="104250"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="102500" total="102500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="158150" pacs="69200" total="227350"/>
+    <sector sector_name="Other" sectorid="W" indivs="156725" pacs="1000" total="157725"/>
+  </sectors>
+</response>

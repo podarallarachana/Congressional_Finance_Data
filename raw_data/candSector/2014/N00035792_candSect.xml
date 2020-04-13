@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="French Hill (R)" cid="N00035792" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035792&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="54850" pacs="16000" total="70850"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="29100" pacs="2000" total="31100"/>
+    <sector sector_name="Construction" sectorid="C" indivs="34519" pacs="26500" total="61019"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1500" pacs="6000" total="7500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="82050" pacs="15500" total="97550"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="404498" pacs="78500" total="482998"/>
+    <sector sector_name="Health" sectorid="H" indivs="93970" pacs="31500" total="125470"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="84263" pacs="3000" total="87263"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="10600" pacs="16000" total="26600"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="108292" pacs="30000" total="138292"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="13250" pacs="215396" total="228646"/>
+    <sector sector_name="Other" sectorid="W" indivs="276619" pacs="0" total="276619"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tom Carper (D)" cid="N00012508" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00012508&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="106920" pacs="295740" total="402660"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="137690" pacs="210500" total="348190"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="184095" pacs="124621" total="308716"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="213812" pacs="9220" total="223032"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="50950" pacs="166410" total="217360"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="76920" pacs="103490" total="180410"/>
+    <industry industry_code="N13" industry_name="Chemical &amp; Related Manufacturing" indivs="58287" pacs="111060" total="169347"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="24950" pacs="138820" total="163770"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="162500" total="162500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="133470" pacs="0" total="133470"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Richard Burr (R)" cid="N00002221" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00002221&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="309752" pacs="346482" total="656234"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="114628" pacs="165500" total="280128"/>
+    <sector sector_name="Construction" sectorid="C" indivs="236295" pacs="89000" total="325295"/>
+    <sector sector_name="Defense" sectorid="D" indivs="29597" pacs="129500" total="159097"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="288797" pacs="406799" total="695596"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1116138" pacs="560649" total="1676787"/>
+    <sector sector_name="Health" sectorid="H" indivs="588369" pacs="721760" total="1310129"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="661591" pacs="153500" total="815091"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="156451" pacs="138000" total="294451"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="738509" pacs="472489" total="1210998"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="14000" total="14000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="124075" pacs="377478" total="501553"/>
+    <sector sector_name="Other" sectorid="W" indivs="745433" pacs="35500" total="780933"/>
+  </sectors>
+</response>

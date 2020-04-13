@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Tom Garrett (R)" cid="N00038847" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00038847&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="25600" pacs="15000" total="40600"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="0" pacs="9000" total="9000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="6050" pacs="11500" total="17550"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="6000" total="6500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="10900" pacs="17000" total="27900"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="16800" pacs="18000" total="34800"/>
+    <sector sector_name="Health" sectorid="H" indivs="14104" pacs="6000" total="20104"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="20800" pacs="500" total="21300"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="4750" pacs="18500" total="23250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="35940" pacs="30043" total="65983"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="14050" pacs="120600" total="134650"/>
+    <sector sector_name="Other" sectorid="W" indivs="61210" pacs="0" total="61210"/>
+  </sectors>
+</response>

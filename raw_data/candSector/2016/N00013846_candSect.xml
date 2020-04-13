@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Jeff Miller (R)" cid="N00013846" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00013846&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1500" pacs="13500" total="15000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2600" pacs="5500" total="8100"/>
+    <sector sector_name="Construction" sectorid="C" indivs="28050" pacs="3500" total="31550"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="79000" total="79000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="4700" pacs="11000" total="15700"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="67350" pacs="36000" total="103350"/>
+    <sector sector_name="Health" sectorid="H" indivs="22350" pacs="57000" total="79350"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="30800" pacs="12963" total="43763"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="3200" pacs="6000" total="9200"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="41356" pacs="13000" total="54356"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="74500" total="74500"/>
+    <sector sector_name="Other" sectorid="W" indivs="24350" pacs="7750" total="32100"/>
+  </sectors>
+</response>

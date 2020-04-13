@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Brian M Higgins (D)" cid="N00027060" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027060&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="100" pacs="7000" total="7100"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="0" pacs="7500" total="7500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="37760" pacs="5000" total="42760"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="16500" total="16500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1050" pacs="14350" total="15400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="56435" pacs="30000" total="86435"/>
+    <sector sector_name="Health" sectorid="H" indivs="19819" pacs="10250" total="30069"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="71852" pacs="8250" total="80102"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="3700" pacs="20500" total="24200"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="31610" pacs="24500" total="56110"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="162575" total="162575"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2720" pacs="3500" total="6220"/>
+    <sector sector_name="Other" sectorid="W" indivs="33585" pacs="0" total="33585"/>
+  </sectors>
+</response>

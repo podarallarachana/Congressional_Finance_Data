@@ -1,0 +1,8 @@
+<response>
+  <member_profile name="Ellison, Keith" data_year="2016" member_id="N00028257" net_low="3006" net_high="48000" positions_held_count="0" asset_count="2" asset_low="3006" asset_high="48000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00028257" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Hartford Funds" holdings_low="2005" holdings_high="33000" industry="" sector="" subsidiary_of=""/>
+      <asset name="SEP IRA" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

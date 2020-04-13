@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mario Diaz-Balart (R)" cid="N00025337" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00025337&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="85125" total="85125"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="36800" pacs="44000" total="80800"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="40000" pacs="39500" total="79500"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="4200" pacs="63000" total="67200"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="2500" pacs="41500" total="44000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="43150" pacs="0" total="43150"/>
+    <industry industry_code="M03" industry_name="Trucking" indivs="3500" pacs="38500" total="42000"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="32465" pacs="6500" total="38965"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="38500" total="38500"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="0" pacs="38000" total="38000"/>
+  </industries>
+</response>

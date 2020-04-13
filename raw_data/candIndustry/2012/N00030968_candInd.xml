@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Reid Ribble (R)" cid="N00030968" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030968&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="160582" total="160582"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="75890" pacs="61100" total="136990"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="116900" pacs="0" total="116900"/>
+    <industry industry_code="A04" industry_name="Dairy" indivs="35750" pacs="38602" total="74352"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="36100" pacs="37000" total="73100"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="33600" pacs="38999" total="72599"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="13824" pacs="54600" total="68424"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="23550" pacs="37000" total="60550"/>
+    <industry industry_code="C03" industry_name="Special Trade Contractors" indivs="34550" pacs="21000" total="55550"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="27360" pacs="26000" total="53360"/>
+  </industries>
+</response>

@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Rockefeller, Jay" data_year="2016" member_id="N00001685" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00001685" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="3411 Woodley Property Sale" tx_date="Jun  7 2013" tx_action="Sold" value_low="1000001" value_high="5000000"/>
+      <transaction asset_name="Rockefeller Global Dividend Growth Fund" tx_date="Apr  1 2013" tx_action="Exchanged" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Carlyle Group LP" tx_date="Jun 26 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Rockefeller Global Dividend Growth Fund" tx_date="Jan  2 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Rockefeller Global Dividend Growth Fund" tx_date="Jul  1 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+    </transactions>
+    <positions>
+      <position title="Other (Honorary Chairman)" organization="Alliance for Health Reform"/>
+      <position title="Trustee" organization="Asia Society"/>
+      <position title="Other (Honorary Board Member )" organization="Beckley Health Right Inc"/>
+      <position title="Other (Honorary Chairman )" organization="Blanchette Rockefeller Neurosciences Institute  Mo"/>
+      <position title="Other (Honorary Chairman)" organization="Chemical Alliance Zone"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Jim Banks (R)" cid="N00037185" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00037185&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="16055" pacs="21000" total="37055"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="6200" pacs="12000" total="18200"/>
+    <sector sector_name="Construction" sectorid="C" indivs="31700" pacs="12500" total="44200"/>
+    <sector sector_name="Defense" sectorid="D" indivs="3000" pacs="3500" total="6500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="9235" pacs="32000" total="41235"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="49285" pacs="42700" total="91985"/>
+    <sector sector_name="Health" sectorid="H" indivs="29575" pacs="30000" total="59575"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="19590" pacs="5500" total="25090"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="7046" pacs="11500" total="18546"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="80233" pacs="17250" total="97483"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="393466" pacs="164291" total="557757"/>
+    <sector sector_name="Other" sectorid="W" indivs="76873" pacs="1000" total="77873"/>
+  </sectors>
+</response>

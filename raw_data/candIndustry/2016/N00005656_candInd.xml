@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Joe Barton (R)" cid="N00005656" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00005656&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="78600" pacs="130650" total="209250"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="8900" pacs="86500" total="95400"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="9280" pacs="47250" total="56530"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="42600" pacs="13000" total="55600"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="0" pacs="40000" total="40000"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="37950" pacs="0" total="37950"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="6600" pacs="29000" total="35600"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="33940" pacs="0" total="33940"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="0" pacs="33500" total="33500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="31450" pacs="2000" total="33450"/>
+  </industries>
+</response>

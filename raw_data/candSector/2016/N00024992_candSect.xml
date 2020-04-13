@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tim Murphy (R)" cid="N00024992" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00024992&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="11882" total="11882"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="500" pacs="48500" total="49000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="41650" pacs="42500" total="84150"/>
+    <sector sector_name="Defense" sectorid="D" indivs="250" pacs="7500" total="7750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="23700" pacs="148500" total="172200"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="66000" pacs="80400" total="146400"/>
+    <sector sector_name="Health" sectorid="H" indivs="43090" pacs="258500" total="301590"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="54404" pacs="20500" total="74904"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="7750" pacs="49750" total="57500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="40550" pacs="107768" total="148318"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="69500" total="69500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="14050" pacs="72250" total="86300"/>
+    <sector sector_name="Other" sectorid="W" indivs="44900" pacs="2500" total="47400"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Ryan, Tim" data_year="2016" member_id="N00025280" net_low="-115990" net_high="396998" positions_held_count="0" asset_count="9" asset_low="184010" asset_high="512000" transaction_count="1" tx_low="50001" tx_high="100000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00025280" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Niles Residential Rental Property 1504" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Ohio State Teacher Retirement System" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Real Food Revolution Book" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="A Mindful Nation - Book" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Funds Capital Builder" holdings_low="1002" holdings_high="16000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Personal Residence" tx_date="May 14 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+    </transactions>
+  </member_profile>
+</response>

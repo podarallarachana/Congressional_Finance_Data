@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tom Udall (D)" cid="N00006561" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006561&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="586912" pacs="89647" total="676559"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="518149" pacs="0" total="518149"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="299100" total="299100"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="240242" pacs="35100" total="275342"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="185597" pacs="22000" total="207597"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="108063" pacs="92000" total="200063"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="183051" pacs="9300" total="192351"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="124654" pacs="61500" total="186154"/>
+    <industry industry_code="W04" industry_name="Education" indivs="176072" pacs="10000" total="186072"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="151353" pacs="20543" total="171896"/>
+  </industries>
+</response>

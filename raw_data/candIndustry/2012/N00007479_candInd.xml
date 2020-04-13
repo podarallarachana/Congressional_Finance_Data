@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Zoe Lofgren (D)" cid="N00007479" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007479&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="79250" pacs="67051" total="146301"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="49200" pacs="26250" total="75450"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="47680" pacs="0" total="47680"/>
+    <industry industry_code="B13" industry_name="Internet" indivs="17000" pacs="26500" total="43500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="29000" pacs="10000" total="39000"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="0" pacs="34500" total="34500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="21500" pacs="9000" total="30500"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="0" pacs="28344" total="28344"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="26750" pacs="500" total="27250"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="0" pacs="26000" total="26000"/>
+  </industries>
+</response>

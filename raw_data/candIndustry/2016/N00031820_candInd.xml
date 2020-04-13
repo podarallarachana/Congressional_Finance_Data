@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Chris Coons (D)" cid="N00031820" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031820&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="973383" pacs="152089" total="1125472"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="323249" pacs="89500" total="412749"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="316000" total="316000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="273797" pacs="22330" total="296127"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="53800" pacs="174000" total="227800"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="74700" pacs="99550" total="174250"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="29852" pacs="141000" total="170852"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="111889" pacs="46000" total="157889"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="92131" pacs="50357" total="142488"/>
+    <industry industry_code="N13" industry_name="Chemical &amp; Related Manufacturing" indivs="61825" pacs="77000" total="138825"/>
+  </industries>
+</response>

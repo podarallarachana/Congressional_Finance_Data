@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Sean Patrick Maloney (D)" cid="N00034277" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034277&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="373298" pacs="26250" total="399548"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="303122" pacs="89000" total="392122"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="6950" pacs="226950" total="233900"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="181875" pacs="40000" total="221875"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="161300" pacs="0" total="161300"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="96076" pacs="500" total="96576"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="94500" total="94500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="65997" pacs="23500" total="89497"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="35100" pacs="52000" total="87100"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="81500" total="81500"/>
+  </industries>
+</response>

@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="Crowley, Joseph" data_year="2016" member_id="N00001127" net_low="265041" net_high="1076000" positions_held_count="0" asset_count="27" asset_low="265041" asset_high="1076000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00001127" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Congressional Federal Credit Union" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="ING ReliaStar Life Insurance Co" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="New York State &amp; Local Retirement Plan" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Aggressive Age Based Growth Portfolio" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Aggressive Age-Based Conservative Growth" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Gold Coins" tx_date="Jul 30 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Microsoft Corp" tx_date="Jul 10 2013" tx_action="Sold" value_low="29" value_high="29"/>
+    </transactions>
+  </member_profile>
+</response>

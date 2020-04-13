@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John Culberson (R)" cid="N00009738" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009738&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="4900" pacs="18147" total="23047"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="6500" pacs="28500" total="35000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="24500" pacs="23000" total="47500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="40500" total="40500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="40400" pacs="79500" total="119900"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="104800" pacs="43000" total="147800"/>
+    <sector sector_name="Health" sectorid="H" indivs="27500" pacs="27000" total="54500"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="34816" pacs="10500" total="45316"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="11050" pacs="55000" total="66050"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="58805" pacs="33000" total="91805"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="7000" total="7000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="500" pacs="3650" total="4150"/>
+    <sector sector_name="Other" sectorid="W" indivs="58050" pacs="2000" total="60050"/>
+  </sectors>
+</response>

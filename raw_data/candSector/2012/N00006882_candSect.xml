@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Buck Mckeon (R)" cid="N00006882" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00006882&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="8250" pacs="3000" total="11250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="17850" pacs="48250" total="66100"/>
+    <sector sector_name="Construction" sectorid="C" indivs="63325" pacs="49500" total="112825"/>
+    <sector sector_name="Defense" sectorid="D" indivs="250450" pacs="324000" total="574450"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="29800" pacs="26000" total="55800"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="116251" pacs="59250" total="175501"/>
+    <sector sector_name="Health" sectorid="H" indivs="40251" pacs="66250" total="106501"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="83584" pacs="25465" total="109049"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="33946" pacs="46900" total="80846"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="87250" pacs="80500" total="167750"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="31500" total="31500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="42900" pacs="55500" total="98400"/>
+    <sector sector_name="Other" sectorid="W" indivs="60275" pacs="31000" total="91275"/>
+  </sectors>
+</response>

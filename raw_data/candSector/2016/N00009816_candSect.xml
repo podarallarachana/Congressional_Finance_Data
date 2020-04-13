@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Chris Smith (R)" cid="N00009816" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009816&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="22300" pacs="4000" total="26300"/>
+    <sector sector_name="Construction" sectorid="C" indivs="2060" pacs="15000" total="17060"/>
+    <sector sector_name="Defense" sectorid="D" indivs="180" pacs="3000" total="3180"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3200" pacs="7500" total="10700"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="30600" pacs="12500" total="43100"/>
+    <sector sector_name="Health" sectorid="H" indivs="26360" pacs="11500" total="37860"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="28960" pacs="11026" total="39986"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="5350" pacs="1900" total="7250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="10680" pacs="12500" total="23180"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="107500" total="107500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="37360" pacs="67000" total="104360"/>
+    <sector sector_name="Other" sectorid="W" indivs="48194" pacs="0" total="48194"/>
+  </sectors>
+</response>

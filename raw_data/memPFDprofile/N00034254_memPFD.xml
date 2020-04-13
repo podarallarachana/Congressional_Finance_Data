@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00034254" net_low="234042" net_high="2887997" positions_held_count="0" asset_count="32" asset_low="1434042" asset_high="3488000" transaction_count="45" tx_low="239045" tx_high="767000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00034254" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Santa Monica, CA" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="SPDR Blumberg Barclays" holdings_low="251002" holdings_high="515000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Funds Washington Mutual Investors Fund" holdings_low="115002" holdings_high="300000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Funds Growth Fund of America" holdings_low="115002" holdings_high="300000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Century High Yield Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Franklin CA Interm Term Tax Free" tx_date="Jul 11 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Franklin California Tax Free Income Fund" tx_date="Jul 11 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Pimco CA Short Duration Fund" tx_date="Monthly" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="American Funds Washington" tx_date="Apr  4 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="American Century Investments" tx_date="Monthly" tx_action="Purchased" value_low="15001" value_high="50000"/>
+    </transactions>
+  </member_profile>
+</response>

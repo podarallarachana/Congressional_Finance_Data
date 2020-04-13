@@ -1,0 +1,25 @@
+<response>
+  <member_profile name="McKinley, David" data_year="2016" member_id="N00031681" net_low="4161131" net_high="14024997" positions_held_count="0" asset_count="118" asset_low="4561131" asset_high="14190000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031681" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="McKinley Assoc" holdings_low="1100002" holdings_high="5250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Rental Property/DEaB LLC" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Artisan International Value Fund" holdings_low="250003" holdings_high="600000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Russell Tax Exmpt Bond Fund" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Mutual of America Tax Deferred Annuity" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Vanguard Limited Term Tax Exempt Fund" tx_date="May  3 2013" tx_action="Sold" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Harding Loevner Intl Equity Port" tx_date="May 28 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="BBH Core Select Fund" tx_date="Aug  6 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="iShares Russell 1000 Growth Index Fund" tx_date="May  3 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Neuberger Berman ABS Return NABIX" tx_date="Dec 27 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+    </transactions>
+    <positions>
+      <position title="Partner, Member" organization="DEAB LLC DEAB LLC II"/>
+      <position title="Partner, Member" organization="DEAB LLC DEAB LLC II"/>
+      <position title="Partner, Member" organization="Maxwell Center LLC/Maxwell Partners LLC"/>
+      <position title="Partner, Member" organization="Maxwell Center LLC/Maxwell Partners LLC"/>
+      <position title="Board Member" organization="Ohio Valley Industrial Building Corp"/>
+    </positions>
+  </member_profile>
+</response>

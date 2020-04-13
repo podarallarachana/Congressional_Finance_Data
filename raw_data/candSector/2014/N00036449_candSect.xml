@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Mike Bishop (R)" cid="N00036449" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00036449&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="9700" pacs="11500" total="21200"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="26400" pacs="11000" total="37400"/>
+    <sector sector_name="Construction" sectorid="C" indivs="20500" pacs="13500" total="34000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="6100" pacs="5500" total="11600"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="9200" pacs="53499" total="62699"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="124600" pacs="92100" total="216700"/>
+    <sector sector_name="Health" sectorid="H" indivs="11400" pacs="54750" total="66150"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="30572" pacs="8200" total="38772"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="50500" pacs="44750" total="95250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="73300" pacs="55500" total="128800"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="33875" pacs="148100" total="181975"/>
+    <sector sector_name="Other" sectorid="W" indivs="24625" pacs="0" total="24625"/>
+  </sectors>
+</response>

@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Eleanor Holmes Norton (D)" cid="N00001692" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001692&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="500" pacs="1000" total="1500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="9750" pacs="5300" total="15050"/>
+    <sector sector_name="Defense" sectorid="D" indivs="750" pacs="0" total="750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1500" pacs="2500" total="4000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="55150" pacs="30750" total="85900"/>
+    <sector sector_name="Health" sectorid="H" indivs="3000" pacs="0" total="3000"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="16000" pacs="8250" total="24250"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1000" pacs="17500" total="18500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="8500" pacs="1000" total="9500"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="103000" total="103250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Other" sectorid="W" indivs="7100" pacs="0" total="7100"/>
+  </sectors>
+</response>

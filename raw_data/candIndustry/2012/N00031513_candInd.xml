@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Renee Ellmers (R)" cid="N00031513" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031513&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="18650" pacs="63750" total="82400"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="70380" total="70380"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="20450" pacs="35500" total="55950"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="22950" pacs="18000" total="40950"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="500" pacs="38000" total="38500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="37850" pacs="0" total="37850"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="6700" pacs="23000" total="29700"/>
+    <industry industry_code="A02" industry_name="Tobacco" indivs="1750" pacs="27500" total="29250"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="4250" pacs="22500" total="26750"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="10673" pacs="14999" total="25672"/>
+  </industries>
+</response>

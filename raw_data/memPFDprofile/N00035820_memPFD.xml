@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00035820" net_low="124017" net_high="1569997" positions_held_count="0" asset_count="13" asset_low="674017" asset_high="1785000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00035820" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Midland National Universal Life" holdings_low="150002" holdings_high="350000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Parcel of Land" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Rental Property" holdings_low="100001" holdings_high="250000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Los Angeles Police &amp; Fire" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Allianz Annuity" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

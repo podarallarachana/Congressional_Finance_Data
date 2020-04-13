@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Markwayne Mullin (R)" cid="N00033410" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033410&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="44400" pacs="92000" total="136400"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="76850" pacs="0" total="76850"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="55224" pacs="10500" total="65724"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="61639" total="61639"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="30900" pacs="15000" total="45900"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="39300" pacs="0" total="39300"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="6750" pacs="29500" total="36250"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="0" pacs="32555" total="32555"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="32000" total="32000"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="13500" pacs="16500" total="30000"/>
+  </industries>
+</response>

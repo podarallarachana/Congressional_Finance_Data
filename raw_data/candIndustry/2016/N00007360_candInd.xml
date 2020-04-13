@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Nancy Pelosi (D)" cid="N00007360" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007360&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="292208" pacs="500" total="292708"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="24961" pacs="204000" total="228961"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="181674" pacs="0" total="181674"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="166194" pacs="5000" total="171194"/>
+    <industry industry_code="Q10" industry_name="Misc Issues" indivs="87723" pacs="15000" total="102723"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="625" pacs="101000" total="101625"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="21687" pacs="69500" total="91187"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="53397" pacs="32000" total="85397"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="38647" pacs="46000" total="84647"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="47365" pacs="34500" total="81865"/>
+  </industries>
+</response>

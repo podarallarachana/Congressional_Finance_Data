@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Liz Cheney (R)" cid="N00035504" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035504&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="302629" pacs="0" total="302629"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="209316" pacs="0" total="209316"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="115882" pacs="6000" total="121882"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="80275" pacs="35200" total="115475"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="83500" total="83500"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="73800" pacs="0" total="73800"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="58700" pacs="3500" total="62200"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="44550" pacs="7500" total="52050"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="38000" pacs="3500" total="41500"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="30928" pacs="5000" total="35928"/>
+  </industries>
+</response>

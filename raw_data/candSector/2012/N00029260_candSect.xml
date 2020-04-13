@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Ann Kirkpatrick (D)" cid="N00029260" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029260&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="26550" pacs="16300" total="42850"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="24874" pacs="1000" total="25874"/>
+    <sector sector_name="Construction" sectorid="C" indivs="10900" pacs="0" total="10900"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="27100" pacs="25750" total="52850"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="77050" pacs="22250" total="99300"/>
+    <sector sector_name="Health" sectorid="H" indivs="38450" pacs="30000" total="68450"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="148792" pacs="13500" total="162292"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="400" pacs="2500" total="2900"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="76112" pacs="3000" total="79112"/>
+    <sector sector_name="Labor" sectorid="P" indivs="200" pacs="203500" total="203700"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="259198" pacs="224912" total="484110"/>
+    <sector sector_name="Other" sectorid="W" indivs="255784" pacs="1500" total="257284"/>
+  </sectors>
+</response>

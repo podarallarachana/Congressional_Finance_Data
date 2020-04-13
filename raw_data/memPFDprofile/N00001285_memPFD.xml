@@ -1,0 +1,25 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00001285" net_low="43520030" net_high="129275000" positions_held_count="19" asset_count="30" asset_low="43520030" asset_high="129275000" transaction_count="7" tx_low="496007" tx_high="1165000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00001285" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Innate Immunotherapeutics" holdings_low="25000001" holdings_high="50000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="ZeptoMetrix Corp" holdings_low="5000001" holdings_high="25000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Volland Electric Corp" holdings_low="5000001" holdings_high="25000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="SSIL II LLC" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Audubon Machinery Co" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Innate Immunotherapeutics" tx_date="Dec 13 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Innate Immunotherapeutics" tx_date="Dec 17 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="TriState Capital" tx_date="Jun  3 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="National Fuel Gas" tx_date="Aug  2 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Total SA" tx_date="Aug  2 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+    </transactions>
+    <positions>
+      <position title="Director-Chairman" organization="Audubon Machinery Corp"/>
+      <position title="Director-Chairman" organization="Bloch Industries"/>
+      <position title="Partner" organization="Bloch Realty LLC"/>
+      <position title="Partner" organization="Cobblestone Realty LLC"/>
+      <position title="Director" organization="Easom Automation Systems"/>
+    </positions>
+  </member_profile>
+</response>

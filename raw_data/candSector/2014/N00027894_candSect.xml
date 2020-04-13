@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Jim Jordan (R)" cid="N00027894" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027894&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="34358" pacs="32500" total="66858"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3205" pacs="55250" total="58455"/>
+    <sector sector_name="Construction" sectorid="C" indivs="26850" pacs="12500" total="39350"/>
+    <sector sector_name="Defense" sectorid="D" indivs="250" pacs="10000" total="10250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="11550" pacs="50500" total="62050"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="43150" pacs="72400" total="115550"/>
+    <sector sector_name="Health" sectorid="H" indivs="23629" pacs="20000" total="43629"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="22700" pacs="9250" total="31950"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="11850" pacs="31500" total="43350"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="46150" pacs="65800" total="111950"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="6350" pacs="28891" total="35241"/>
+    <sector sector_name="Other" sectorid="W" indivs="25000" pacs="0" total="25000"/>
+  </sectors>
+</response>

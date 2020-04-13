@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Brad Ashford (D)" cid="N00005293" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00005293&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1500" pacs="86336" total="87836"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="67485" pacs="16500" total="83985"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="75355" pacs="0" total="75355"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="36097" total="36097"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="250" pacs="35000" total="35250"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="29500" total="29500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="24050" pacs="2500" total="26550"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="25850" pacs="0" total="25850"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="25000" total="25000"/>
+    <industry industry_code="W04" industry_name="Education" indivs="24954" pacs="0" total="24954"/>
+  </industries>
+</response>

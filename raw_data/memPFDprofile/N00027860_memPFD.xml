@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00027860" net_low="96152" net_high="2872995" positions_held_count="2" asset_count="58" asset_low="446152" asset_high="3018000" transaction_count="9" tx_low="9009" tx_high="135000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00027860" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="American Funds New Perspective Fund" holdings_low="66010" holdings_high="290000" industry="" sector="" subsidiary_of=""/>
+      <asset name="" holdings_low="27013" holdings_high="231000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Funds Income Fund of America" holdings_low="38010" holdings_high="220000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Funds Investment Co of America Fund" holdings_low="33005" holdings_high="145000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Funds Invmt Co of America" holdings_low="33005" holdings_high="145000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Cisco Systems" tx_date="Feb 26 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Cisco Systems" tx_date="Feb 26 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Carnival Corp" tx_date="Feb 13 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Cisco Systems" tx_date="Jul 12 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Archer Daniels Midland" tx_date="Apr  5 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Member" organization="Pacific First Health Solutions"/>
+    </positions>
+  </member_profile>
+</response>

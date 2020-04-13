@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Michael McCaul (R)" cid="N00026460" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026460&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="24200" pacs="30810" total="55010"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="34000" pacs="128000" total="162000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="39300" pacs="25500" total="64800"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1250" pacs="72500" total="73750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="59350" pacs="127900" total="187250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="245293" pacs="90000" total="335293"/>
+    <sector sector_name="Health" sectorid="H" indivs="21125" pacs="12750" total="33875"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="90346" pacs="24500" total="114846"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="75750" pacs="97499" total="173249"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="91670" pacs="101500" total="193170"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="15000" total="15000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="52514" pacs="23850" total="76364"/>
+    <sector sector_name="Other" sectorid="W" indivs="87225" pacs="0" total="87225"/>
+  </sectors>
+</response>

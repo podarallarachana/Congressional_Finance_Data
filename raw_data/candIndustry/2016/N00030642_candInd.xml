@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Al Lawson (D)" cid="N00030642" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030642&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="19768" pacs="11000" total="30768"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="22562" pacs="0" total="22562"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="21000" total="21000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="4950" pacs="16000" total="20950"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="7150" pacs="7500" total="14650"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="14500" pacs="0" total="14500"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="14000" total="14000"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="13000" total="13000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="6300" pacs="4000" total="10300"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="4250" pacs="5000" total="9250"/>
+  </industries>
+</response>

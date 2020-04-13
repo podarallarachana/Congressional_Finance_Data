@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mark Amodei (R)" cid="N00031177" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031177&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1000" pacs="103000" total="104000"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="54528" pacs="44101" total="98629"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="21750" pacs="51500" total="73250"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="47060" pacs="19750" total="66810"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="50300" pacs="0" total="50300"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="22849" pacs="18500" total="41349"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="34555" pacs="3000" total="37555"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="12500" pacs="23000" total="35500"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="2500" pacs="33000" total="35500"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="1500" pacs="33500" total="35000"/>
+  </industries>
+</response>

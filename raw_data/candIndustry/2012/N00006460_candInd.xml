@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="David Schweikert (R)" cid="N00006460" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006460&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="105830" pacs="61500" total="167330"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="143745" pacs="0" total="143745"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="19750" pacs="91000" total="110750"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="19450" pacs="90300" total="109750"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="28962" pacs="51000" total="79962"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="9300" pacs="56100" total="65400"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="15900" pacs="34000" total="49900"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="29150" pacs="17550" total="46700"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="45624" total="45624"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="25900" pacs="14500" total="40400"/>
+  </industries>
+</response>

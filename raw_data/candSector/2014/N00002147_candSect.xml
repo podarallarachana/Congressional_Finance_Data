@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Bobby Scott (D)" cid="N00002147" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00002147&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1000" pacs="10500" total="11500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1250" pacs="32500" total="33750"/>
+    <sector sector_name="Construction" sectorid="C" indivs="0" pacs="2500" total="2500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="4500" pacs="20000" total="24500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="4750" pacs="14500" total="19250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="8800" pacs="55000" total="63800"/>
+    <sector sector_name="Health" sectorid="H" indivs="5150" pacs="5000" total="10150"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="25250" pacs="25500" total="50750"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2000" pacs="12000" total="14000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="4500" pacs="36500" total="41000"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="132500" total="132750"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1000" pacs="5690" total="6690"/>
+    <sector sector_name="Other" sectorid="W" indivs="24450" pacs="14000" total="38450"/>
+  </sectors>
+</response>

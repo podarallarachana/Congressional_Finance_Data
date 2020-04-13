@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Joe Barton (R)" cid="N00005656" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00005656&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="6700" pacs="16829" total="23529"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="29950" pacs="78640" total="108590"/>
+    <sector sector_name="Construction" sectorid="C" indivs="15250" pacs="28200" total="43450"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="26500" total="26500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="96900" pacs="239150" total="336050"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="77337" pacs="33100" total="110437"/>
+    <sector sector_name="Health" sectorid="H" indivs="11530" pacs="100750" total="112280"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="42150" pacs="16500" total="58650"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="6600" pacs="48750" total="55350"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="77624" pacs="88500" total="166124"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="3000" total="3000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="10050" pacs="34100" total="44150"/>
+    <sector sector_name="Other" sectorid="W" indivs="37690" pacs="0" total="37690"/>
+  </sectors>
+</response>

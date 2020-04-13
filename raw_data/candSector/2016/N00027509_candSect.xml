@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Scott Tipton (R)" cid="N00027509" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027509&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="66785" pacs="55273" total="122058"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="24540" pacs="28550" total="53090"/>
+    <sector sector_name="Construction" sectorid="C" indivs="38376" pacs="21000" total="59376"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="17500" total="17500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="63350" pacs="139000" total="202350"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="219225" pacs="315999" total="535224"/>
+    <sector sector_name="Health" sectorid="H" indivs="18500" pacs="28000" total="46500"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="40250" pacs="5500" total="45750"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="29725" pacs="36499" total="66224"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="62599" pacs="75000" total="137599"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="36955" pacs="201023" total="237978"/>
+    <sector sector_name="Other" sectorid="W" indivs="166045" pacs="0" total="166045"/>
+  </sectors>
+</response>

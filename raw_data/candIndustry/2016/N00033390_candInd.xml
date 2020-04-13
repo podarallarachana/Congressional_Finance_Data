@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Cheri Bustos (D)" cid="N00033390" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033390&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="189601" pacs="16850" total="206451"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1000" pacs="177850" total="178850"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="147806" pacs="15750" total="163556"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="121702" pacs="0" total="121702"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="93837" pacs="10000" total="103837"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="38831" pacs="39000" total="77831"/>
+    <industry industry_code="W04" industry_name="Education" indivs="69041" pacs="5000" total="74041"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="15544" pacs="58000" total="73544"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="65" pacs="70500" total="70565"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="47760" pacs="22000" total="69760"/>
+  </industries>
+</response>

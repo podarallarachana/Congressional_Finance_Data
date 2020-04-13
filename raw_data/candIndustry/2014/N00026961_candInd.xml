@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Yvette D Clarke (D)" cid="N00026961" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026961&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="54350" total="54350"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="34465" total="34465"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="26000" total="26000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="19500" total="19500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="14200" pacs="4000" total="18200"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="18000" total="18000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="8700" pacs="9250" total="17950"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="12840" pacs="4500" total="17340"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="5500" pacs="11500" total="17000"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="0" pacs="16000" total="16000"/>
+  </industries>
+</response>

@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00030642" net_low="1515043" net_high="3961000" positions_held_count="0" asset_count="33" asset_low="1575043" asset_high="4001000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030642" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Bank of America" holdings_low="215003" holdings_high="550000" industry="Commercial Banks" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="NML Insurance Cash Value Whole Life" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Target Retirement 2015 Trust 2 Fund" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Townhouse" holdings_low="100001" holdings_high="250000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Lawson &amp; Assoc" holdings_low="100001" holdings_high="250000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

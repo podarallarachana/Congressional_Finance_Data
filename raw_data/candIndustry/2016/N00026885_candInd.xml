@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Dave Reichert (R)" cid="N00026885" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026885&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="7450" pacs="120000" total="127450"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="125550" pacs="0" total="125550"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="24750" pacs="47000" total="71750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="27525" pacs="29000" total="56525"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="16800" pacs="34000" total="50800"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="17000" pacs="25500" total="42500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="40500" total="40500"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="200" pacs="40000" total="40200"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="10300" pacs="28500" total="38800"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="0" pacs="38500" total="38500"/>
+  </industries>
+</response>

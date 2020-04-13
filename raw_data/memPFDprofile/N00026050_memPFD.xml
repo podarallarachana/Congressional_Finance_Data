@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="Murkowski, Lisa" data_year="2016" member_id="N00026050" net_low="801022" net_high="2116999" positions_held_count="2" asset_count="16" asset_low="901022" asset_high="2167000" transaction_count="6" tx_low="62006" tx_high="230000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00026050" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Rental income from basement apartment" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="National Capital Bank" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Wells Fargo &amp; Co" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="" holdings_low="83006" holdings_high="246000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Wells Fargo" holdings_low="50001" holdings_high="100000" industry="Commercial Banks" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Invesco Diversified Dividend Fund" tx_date="Aug 19 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Schwab US Broad Market ETF" tx_date="Dec 17 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Schwab US Aggregate Bond ETF" tx_date="Dec 17 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Invesco S&amp;P 500 Index" tx_date="Aug 19 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Schwab US Broad Market ETF" tx_date="Apr  1 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+    <positions>
+      <position title="Other (Memeber)" organization="US-Japan Friendship Commission"/>
+    </positions>
+  </member_profile>
+</response>

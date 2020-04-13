@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Howard Coble (R)" cid="N00002247" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00002247&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="500" pacs="8000" total="8500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="0" pacs="12500" total="12500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="2250" pacs="6000" total="8250"/>
+    <sector sector_name="Health" sectorid="H" indivs="0" pacs="8000" total="8000"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="2250" pacs="1000" total="3250"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="20000" total="20000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="2500" pacs="6000" total="8500"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Other" sectorid="W" indivs="3950" pacs="0" total="3950"/>
+  </sectors>
+</response>

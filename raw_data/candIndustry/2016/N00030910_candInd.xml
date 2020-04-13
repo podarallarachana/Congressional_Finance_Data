@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mo Brooks (R)" cid="N00030910" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030910&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="1000" pacs="44533" total="45533"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="19250" pacs="15300" total="34550"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="4000" pacs="27700" total="31700"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="16850" pacs="14000" total="30850"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="17100" pacs="10000" total="27100"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="5200" pacs="14000" total="19200"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="18550" pacs="0" total="18550"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="0" pacs="17000" total="17000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="0" pacs="16000" total="16000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="15200" pacs="0" total="15200"/>
+  </industries>
+</response>

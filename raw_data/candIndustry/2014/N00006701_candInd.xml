@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mark A Takano (D)" cid="N00006701" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006701&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="97343" pacs="11250" total="108593"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="89234" pacs="0" total="89234"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="49475" pacs="9500" total="58975"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="1500" pacs="56500" total="58000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="56000" total="56000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="37975" pacs="15500" total="53475"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="35000" pacs="0" total="35000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="250" pacs="33000" total="33250"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="12225" pacs="19500" total="31725"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="30175" pacs="704" total="30879"/>
+  </industries>
+</response>

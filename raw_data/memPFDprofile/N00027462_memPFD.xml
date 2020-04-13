@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Bilirakis, Gus" data_year="2016" member_id="N00027462" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00027462" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Total Systems Svc" tx_date="Apr  1 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Wells Fargo" tx_date="Apr  1 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Advisory (honorary chairman)" organization="Greek Children's Fund - All Children's Hospital"/>
+      <position title="Advisory" organization="Lighthouse of Pinellas"/>
+      <position title="Advisory" organization="New Port Riche Merone Institutional"/>
+      <position title="Advisory (honorary chairman)" organization="Veterans Legacy Bilirakis Archives St Pete Colleg"/>
+    </positions>
+  </member_profile>
+</response>

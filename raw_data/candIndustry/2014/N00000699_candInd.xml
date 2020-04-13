@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Robert Menendez (D)" cid="N00000699" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000699&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1570251" pacs="199426" total="1769677"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="956517" pacs="107265" total="1063782"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="603751" pacs="137800" total="741551"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="535860" pacs="139500" total="675360"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="609262" pacs="28360" total="637622"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="557070" pacs="0" total="557070"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="182788" pacs="226750" total="409538"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="229400" pacs="155600" total="385000"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="383244" total="383244"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="291725" pacs="56100" total="347825"/>
+  </industries>
+</response>

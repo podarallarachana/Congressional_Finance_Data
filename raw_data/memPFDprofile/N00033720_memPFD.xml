@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033720" net_low="10843027" net_high="60769997" positions_held_count="0" asset_count="27" asset_low="12593027" asset_high="61620000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033720" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="RW Allen &amp; Assoc" holdings_low="5000001" holdings_high="25000000" industry="Construction Services" sector="Construction" subsidiary_of=""/>
+      <asset name="RW Allen LLC" holdings_low="5000001" holdings_high="25000000" industry="General Contractors" sector="Construction" subsidiary_of=""/>
+      <asset name="Residential Rental Property" holdings_low="1000001" holdings_high="5000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="1015 Broad Street LLC" holdings_low="1000001" holdings_high="5000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Atlas Enhanced Access Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Director" organization="Associated General Contractors of America"/>
+      <position title="Director/Officer" organization="Augusta Harrisburg Fuller Center for Housing"/>
+      <position title="Director" organization="Augusta Tomorrow"/>
+      <position title="Director" organization="Downtown Development Authority"/>
+      <position title="Director" organization="First Tee of Augusta"/>
+    </positions>
+  </member_profile>
+</response>

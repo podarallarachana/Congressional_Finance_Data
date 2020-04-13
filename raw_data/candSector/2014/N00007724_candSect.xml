@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Ron Wyden (D)" cid="N00007724" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00007724&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="79300" pacs="157400" total="236700"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="292358" pacs="257593" total="549951"/>
+    <sector sector_name="Construction" sectorid="C" indivs="103050" pacs="112335" total="215385"/>
+    <sector sector_name="Defense" sectorid="D" indivs="9400" pacs="61000" total="70400"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="204341" pacs="399730" total="604071"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1136555" pacs="585510" total="1722065"/>
+    <sector sector_name="Health" sectorid="H" indivs="719821" pacs="1027122" total="1746943"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="968069" pacs="216435" total="1184504"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="149449" pacs="166349" total="315798"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="616893" pacs="409857" total="1026750"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="189000" total="189250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="222491" pacs="168900" total="391391"/>
+    <sector sector_name="Other" sectorid="W" indivs="410084" pacs="3000" total="413084"/>
+  </sectors>
+</response>

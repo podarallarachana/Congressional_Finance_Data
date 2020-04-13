@@ -1,0 +1,15 @@
+<response>
+  <industries cand_name="Mike Rounds (R)" cid="N00035187" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035187&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="318226" pacs="0" total="318226"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="291308" pacs="4500" total="295808"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="282500" total="282500"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="124060" pacs="89600" total="213660"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="80900" pacs="119000" total="199900"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="161400" pacs="36500" total="197900"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="71800" pacs="118750" total="190550"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="89800" pacs="60100" total="149900"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="102660" pacs="12000" total="114660"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="92750" pacs="4500" total="97250"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="55750" pacs="41500" total="97250"/>
+  </industries>
+</response>

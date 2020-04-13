@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mark Kirk (R)" cid="N00012539" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00012539&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="2146636" pacs="129900" total="2276536"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="1434530" pacs="0" total="1434530"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="803945" pacs="83639" total="887584"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="748492" pacs="127004" total="875496"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="355288" pacs="357150" total="712438"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="601494" pacs="28300" total="629794"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="493827" pacs="40000" total="533827"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="182989" pacs="234000" total="416989"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="350688" pacs="26500" total="377188"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="284299" pacs="83900" total="368199"/>
+  </industries>
+</response>

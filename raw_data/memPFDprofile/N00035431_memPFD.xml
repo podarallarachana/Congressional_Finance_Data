@@ -1,0 +1,17 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00035431" net_low="-82980" net_high="227998" positions_held_count="0" asset_count="20" asset_low="17020" asset_high="258000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00035431" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Fidelity Small Cap Value Fund" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="AQR Long-Short Equity Fund" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Oakmark Select Investor Fund" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Oppenheimer Developing Market" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Parnassus Core Equity Fund" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Vice President" organization="Andover Alumni Council"/>
+      <position title="Chairman" organization="Andover Military Cmte"/>
+      <position title="Director" organization="Millennium Train Project"/>
+      <position title="Board Member" organization="Salem YMCA"/>
+    </positions>
+  </member_profile>
+</response>

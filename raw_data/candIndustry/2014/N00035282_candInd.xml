@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jason Smith (R)" cid="N00035282" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035282&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="129516" total="129516"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="71000" pacs="35000" total="106000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="49250" pacs="46000" total="95250"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="42350" pacs="20500" total="62850"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="21900" pacs="31000" total="52900"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="36350" pacs="12000" total="48350"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="25750" pacs="18500" total="44250"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="36750" pacs="7000" total="43750"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="11465" pacs="26200" total="37665"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="18750" pacs="17000" total="35750"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Doug Collins (R)" cid="N00033518" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033518&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="27050" pacs="25500" total="52550"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="27200" pacs="130700" total="157900"/>
+    <sector sector_name="Construction" sectorid="C" indivs="22900" pacs="20000" total="42900"/>
+    <sector sector_name="Defense" sectorid="D" indivs="100" pacs="21000" total="21100"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="15650" pacs="28500" total="44150"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="41785" pacs="87500" total="129285"/>
+    <sector sector_name="Health" sectorid="H" indivs="25950" pacs="75200" total="101150"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="69403" pacs="26000" total="95403"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="5750" pacs="34500" total="40250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="58796" pacs="79385" total="138181"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="2500" total="2500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="13011" pacs="157148" total="170159"/>
+    <sector sector_name="Other" sectorid="W" indivs="33047" pacs="2000" total="35047"/>
+  </sectors>
+</response>

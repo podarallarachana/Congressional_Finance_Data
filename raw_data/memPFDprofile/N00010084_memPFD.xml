@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Johnson, Tim" data_year="2016" member_id="N00010084" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00010084" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Pimco All Asset All Authority Fund" tx_date="Apr 17 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Pimco All Asset All Authority Fund" tx_date="Jul 26 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="AllianzGI Income &amp; Growth D Fund" tx_date="Jul 26 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Pimco All Asset All Authority Fund" tx_date="Oct 25 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Federated High Yield Trust Service Fund" tx_date="Oct 25 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+    </transactions>
+  </member_profile>
+</response>

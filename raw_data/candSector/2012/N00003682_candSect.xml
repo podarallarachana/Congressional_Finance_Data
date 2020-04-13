@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Rob Portman (R)" cid="N00003682" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00003682&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="239550" pacs="204190" total="443740"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="303673" pacs="135600" total="439273"/>
+    <sector sector_name="Construction" sectorid="C" indivs="405450" pacs="120950" total="526400"/>
+    <sector sector_name="Defense" sectorid="D" indivs="30800" pacs="77500" total="108300"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="557854" pacs="310400" total="868254"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="2870736" pacs="672599" total="3543335"/>
+    <sector sector_name="Health" sectorid="H" indivs="506014" pacs="424850" total="930864"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1257900" pacs="122048" total="1379948"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="297775" pacs="108400" total="406175"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="1554920" pacs="551475" total="2106395"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="19000" total="19000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="223370" pacs="453486" total="676856"/>
+    <sector sector_name="Other" sectorid="W" indivs="1325333" pacs="1000" total="1326333"/>
+  </sectors>
+</response>

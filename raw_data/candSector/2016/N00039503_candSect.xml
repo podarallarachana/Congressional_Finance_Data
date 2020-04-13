@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Matt Gaetz (R)" cid="N00039503" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00039503&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="27050" pacs="17500" total="44550"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="8650" pacs="8818" total="17468"/>
+    <sector sector_name="Construction" sectorid="C" indivs="17300" pacs="7000" total="24300"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5700" pacs="16500" total="22200"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="14050" pacs="17500" total="31550"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="91006" pacs="35818" total="126824"/>
+    <sector sector_name="Health" sectorid="H" indivs="53750" pacs="19500" total="73250"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="40300" pacs="3000" total="43300"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="5900" pacs="9500" total="15400"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="121206" pacs="16000" total="137206"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="6400" pacs="79250" total="85650"/>
+    <sector sector_name="Other" sectorid="W" indivs="79213" pacs="0" total="79213"/>
+  </sectors>
+</response>

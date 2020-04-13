@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mike Rogers (R)" cid="N00009668" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009668&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="8150" pacs="160750" total="168900"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="10000" pacs="135749" total="145749"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="14940" pacs="105000" total="119940"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="8500" pacs="68500" total="77000"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="41500" pacs="27500" total="69000"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="2000" pacs="57250" total="59250"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="250" pacs="51000" total="51250"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="13500" pacs="37000" total="50500"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="1850" pacs="48500" total="50350"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="27550" pacs="18877" total="46427"/>
+  </industries>
+</response>

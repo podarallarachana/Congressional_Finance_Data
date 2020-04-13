@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Roger Williams (R)" cid="N00030602" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030602&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="105676" pacs="13858" total="119534"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="26000" pacs="15500" total="41500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="139350" pacs="21000" total="160350"/>
+    <sector sector_name="Defense" sectorid="D" indivs="17200" pacs="7000" total="24200"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="358408" pacs="39500" total="397908"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="677259" pacs="37800" total="715059"/>
+    <sector sector_name="Health" sectorid="H" indivs="155664" pacs="17500" total="173164"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="223913" pacs="2000" total="225913"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="286100" pacs="45700" total="331800"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="284770" pacs="19000" total="303770"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="20400" pacs="60499" total="80899"/>
+    <sector sector_name="Other" sectorid="W" indivs="377006" pacs="0" total="377006"/>
+  </sectors>
+</response>

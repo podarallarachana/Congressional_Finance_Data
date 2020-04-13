@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Flake, Jeff" data_year="2016" member_id="N00009573" net_low="-117992" net_high="981998" positions_held_count="2" asset_count="8" asset_low="632008" asset_high="1332000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00009573" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Rental Unit - Provo, UT" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Rental Unit/Provo, UT" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Apple Inc" holdings_low="100002" holdings_high="200000" industry="Electronics Mfg &amp; Equip" sector="Communic/Electronics" subsidiary_of=""/>
+      <asset name="Amazon.com" holdings_low="30002" holdings_high="100000" industry="Internet" sector="Communic/Electronics" subsidiary_of=""/>
+      <asset name="Bank of America" holdings_low="1001" holdings_high="15000" industry="Commercial Banks" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Apple Inc" tx_date="Apr  5 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Apple Inc" tx_date="Mar 22 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+    </transactions>
+    <positions>
+      <position title="Other (Member)" organization="National Advisory Board for the College of Family"/>
+    </positions>
+  </member_profile>
+</response>

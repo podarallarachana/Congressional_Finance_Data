@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Peter DeFazio (D)" cid="N00007781" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007781&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="M01" industry_name="Air Transport" indivs="9750" pacs="70000" total="79750"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="79000" total="79000"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="58800" pacs="0" total="58800"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="10700" pacs="41500" total="52200"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="5950" pacs="44000" total="49950"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="47000" total="47000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="46965" pacs="0" total="46965"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="40500" total="40500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="30250" pacs="4500" total="34750"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="12487" pacs="21888" total="34375"/>
+  </industries>
+</response>

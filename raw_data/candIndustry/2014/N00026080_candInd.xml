@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Barrow (D)" cid="N00026080" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026080&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="371330" pacs="46750" total="418080"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="9300" pacs="211700" total="221000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="34650" pacs="182500" total="217150"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="1750" pacs="133500" total="135250"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="11150" pacs="120500" total="131650"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="25650" pacs="102000" total="127650"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="11300" pacs="105500" total="116800"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="95998" pacs="0" total="95998"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="33555" pacs="50000" total="83555"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="80000" total="80000"/>
+  </industries>
+</response>

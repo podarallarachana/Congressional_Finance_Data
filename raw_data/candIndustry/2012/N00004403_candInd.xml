@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ron Kind (D)" cid="N00004403" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004403&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F09" industry_name="Insurance" indivs="26600" pacs="192300" total="218900"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="15626" pacs="135400" total="151026"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="2500" pacs="130649" total="133149"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="10700" pacs="79000" total="89700"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="25200" pacs="38806" total="64006"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="54603" pacs="806" total="55409"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="7750" pacs="44000" total="51750"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="2000" pacs="46750" total="48750"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="4200" pacs="41500" total="45700"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="2400" pacs="42000" total="44400"/>
+  </industries>
+</response>

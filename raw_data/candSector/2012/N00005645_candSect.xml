@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Ralph Hall (R)" cid="N00005645" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00005645&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="8250" pacs="17147" total="25397"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="16000" pacs="22000" total="38000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5500" pacs="14000" total="19500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="3000" pacs="43500" total="46500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="26750" pacs="67000" total="93750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="37500" pacs="19010" total="56510"/>
+    <sector sector_name="Health" sectorid="H" indivs="25750" pacs="27000" total="52750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="25000" pacs="13500" total="38500"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="8304" pacs="27500" total="35804"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="12500" pacs="35500" total="48000"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="2500" total="2500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2500" pacs="45100" total="47600"/>
+    <sector sector_name="Other" sectorid="W" indivs="19750" pacs="0" total="19750"/>
+  </sectors>
+</response>

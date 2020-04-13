@@ -1,0 +1,19 @@
+<response>
+  <member_profile name="Reed, Tom" data_year="2016" member_id="N00030949" net_low="-497995" net_high="279998" positions_held_count="0" asset_count="5" asset_low="252005" asset_high="630000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030949" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="R&amp;R Properties" holdings_low="100001" holdings_high="250000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="R&amp;R Resource Recovery" holdings_low="100001" holdings_high="250000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="M&amp;T Bank accounts" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Corning Inc" holdings_low="1001" holdings_high="15000" industry="Electronics Mfg &amp; Equip" sector="Communic/Electronics" subsidiary_of=""/>
+      <asset name="Level 3 Communications" holdings_low="1001" holdings_high="15000" industry="Telecom Services" sector="Communic/Electronics" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Baty St/Elmira, NY" tx_date="Jun 18 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+    <positions>
+      <position title="Former Member (Closed Pending Formal Dissolution)" organization="Law Office of Thomas W Reed"/>
+      <position title="Former Member" organization="R&amp;R Properties"/>
+      <position title="Former member" organization="R&amp;R Resource Recovery"/>
+    </positions>
+  </member_profile>
+</response>

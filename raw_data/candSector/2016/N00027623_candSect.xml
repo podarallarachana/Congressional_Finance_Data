@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Adrian Smith (R)" cid="N00027623" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027623&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="19260" pacs="179500" total="198760"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1250" pacs="36590" total="37840"/>
+    <sector sector_name="Construction" sectorid="C" indivs="15300" pacs="23500" total="38800"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="22000" total="22000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="500" pacs="51750" total="52250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="28425" pacs="276300" total="304725"/>
+    <sector sector_name="Health" sectorid="H" indivs="8900" pacs="121700" total="130600"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="45650" pacs="19500" total="65150"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="7350" pacs="58500" total="65850"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="27900" pacs="95500" total="123400"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="2500" total="2500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="4700" pacs="28547" total="33247"/>
+    <sector sector_name="Other" sectorid="W" indivs="14065" pacs="0" total="14065"/>
+  </sectors>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <industries cand_name="Howard Coble (R)" cid="N00002247" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002247&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="M01" industry_name="Air Transport" indivs="0" pacs="6500" total="6500"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="0" pacs="5000" total="5000"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="0" pacs="4500" total="4500"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="500" pacs="3500" total="4000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="3600" pacs="0" total="3600"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="0" pacs="3500" total="3500"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="0" pacs="3000" total="3000"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="3000" total="3000"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="0" pacs="3000" total="3000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="1000" pacs="2000" total="3000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="0" pacs="3000" total="3000"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="0" pacs="3000" total="3000"/>
+    <industry industry_code="M03" industry_name="Trucking" indivs="0" pacs="3000" total="3000"/>
+  </industries>
+</response>

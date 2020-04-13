@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Larsen, Rick" data_year="2016" member_id="N00009759" net_low="-439981" net_high="209998" positions_held_count="0" asset_count="17" asset_low="110019" asset_high="475000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00009759" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="S&amp;P 500 Indexed Account" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="John Hancock College" holdings_low="16002" holdings_high="65000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Industrial Property Trust" holdings_low="15001" holdings_high="50000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Ameriprise One Financial Account/Wells Fargo" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Franklin Square Investment Corp" holdings_low="2002" holdings_high="30000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Legg Mason Western Asset Intermediate Term Municip" tx_date="May 30 2014" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="WF Wealthbuilder Growth Allocation" tx_date="Nov 19 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Wells Fargo Adv Wealthbuilder Growth Balanced" tx_date="Nov 19 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Legg Mason Western Asset Immediate" tx_date="Nov 19 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Corporate Property Assoc 18 Global Inc" tx_date="Dec 30 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

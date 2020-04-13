@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Michael E Capuano (D)" cid="N00000267" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000267&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="2750" pacs="88750" total="91500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="14850" pacs="49500" total="64350"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="48500" total="48500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="9000" pacs="35500" total="44500"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="42000" total="42000"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="2000" pacs="31500" total="33500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="32500" total="32500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="17500" pacs="14750" total="32250"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="27000" pacs="2000" total="29000"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="0" pacs="26500" total="26500"/>
+  </industries>
+</response>

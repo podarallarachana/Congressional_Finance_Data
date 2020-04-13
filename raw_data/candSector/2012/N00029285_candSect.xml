@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Pete Olson (R)" cid="N00029285" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029285&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="250" pacs="29047" total="29297"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2250" pacs="59000" total="61250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="62831" pacs="6000" total="68831"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1300" pacs="35500" total="36800"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="97900" pacs="168000" total="265900"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="127340" pacs="74000" total="201340"/>
+    <sector sector_name="Health" sectorid="H" indivs="70424" pacs="113000" total="183424"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="59466" pacs="28999" total="88465"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="16799" pacs="61000" total="77799"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="59800" pacs="111999" total="171799"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2250" pacs="26100" total="28350"/>
+    <sector sector_name="Other" sectorid="W" indivs="36300" pacs="0" total="36300"/>
+  </sectors>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Ted Deutch (D)" cid="N00031317" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031317&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="9600" pacs="5000" total="14600"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="33122" pacs="86000" total="119122"/>
+    <sector sector_name="Construction" sectorid="C" indivs="16475" pacs="4000" total="20475"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="6500" total="6500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="6500" pacs="5000" total="11500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="346030" pacs="40500" total="386530"/>
+    <sector sector_name="Health" sectorid="H" indivs="38845" pacs="34000" total="72845"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="127410" pacs="28000" total="155410"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="7900" pacs="10500" total="18400"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="90775" pacs="40500" total="131275"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="87500" total="87500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="128080" pacs="67700" total="195780"/>
+    <sector sector_name="Other" sectorid="W" indivs="86967" pacs="-500" total="86467"/>
+  </sectors>
+</response>

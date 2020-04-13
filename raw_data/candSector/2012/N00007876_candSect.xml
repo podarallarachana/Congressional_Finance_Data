@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Patty Murray (D)" cid="N00007876" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00007876&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="127434" pacs="152140" total="279574"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="532079" pacs="218858" total="750937"/>
+    <sector sector_name="Construction" sectorid="C" indivs="162086" pacs="171108" total="333194"/>
+    <sector sector_name="Defense" sectorid="D" indivs="148310" pacs="118000" total="266310"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="220566" pacs="127550" total="348116"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="807956" pacs="251000" total="1058956"/>
+    <sector sector_name="Health" sectorid="H" indivs="458388" pacs="574498" total="1032886"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1418207" pacs="189998" total="1608205"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="238783" pacs="391799" total="630582"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="867787" pacs="240400" total="1108187"/>
+    <sector sector_name="Labor" sectorid="P" indivs="6075" pacs="474075" total="480150"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="837496" pacs="593936" total="1431432"/>
+    <sector sector_name="Other" sectorid="W" indivs="1383177" pacs="36000" total="1419177"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Kamala D Harris (D)" cid="N00036915" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00036915&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="2137201" pacs="64000" total="2201201"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="973403" pacs="8500" total="981903"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="764047" pacs="30487" total="794534"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="792646" pacs="0" total="792646"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="722674" pacs="5000" total="727674"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="497868" pacs="500" total="498368"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="406543" pacs="21436" total="427979"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="379408" pacs="8200" total="387608"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="263638" pacs="17000" total="280638"/>
+    <industry industry_code="W04" industry_name="Education" indivs="244070" pacs="0" total="244070"/>
+  </industries>
+</response>

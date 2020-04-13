@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mike Gallagher (R)" cid="N00039330" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00039330&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="293592" pacs="0" total="293592"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="267397" pacs="0" total="267397"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="184500" total="184500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="119290" pacs="11000" total="130290"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="107530" pacs="18500" total="126030"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="91884" pacs="2000" total="93884"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="44591" pacs="30500" total="75091"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="69000" pacs="2000" total="71000"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="45850" pacs="12900" total="58750"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="58500" total="58500"/>
+  </industries>
+</response>

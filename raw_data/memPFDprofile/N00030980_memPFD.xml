@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Ayotte, Kelly" data_year="2016" member_id="N00030980" net_low="771015" net_high="1790000" positions_held_count="0" asset_count="13" asset_low="771015" asset_high="1790000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030980" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Daley Outdoor Services LLC" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="TD Bank(Lewiston, Maine)/Checking" holdings_low="150002" holdings_high="350000" industry="" sector="" subsidiary_of=""/>
+      <asset name="T Rowe Price Health Sciences" holdings_low="101002" holdings_high="265000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Century Ultra Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="NH Retirement System" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Federated Kaufmann R Fund" tx_date="Dec 27 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="American Century Ultra Fund" tx_date="Dec 17 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="T Rowe Price Health Sciences" tx_date="Dec 16 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="American Century Ultra Fund" tx_date="Apr 16 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="T Rowe Price Health Sciences" tx_date="Apr 16 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

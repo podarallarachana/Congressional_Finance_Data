@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Brian Fitzpatrick (R)" cid="N00038779" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00038779&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="202950" total="202950"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="116041" pacs="0" total="116041"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="85656" pacs="8000" total="93656"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="21975" pacs="50000" total="71975"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="48350" pacs="18000" total="66350"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="62575" pacs="2700" total="65275"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="55000" total="55000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="20350" pacs="30700" total="51050"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="5100" pacs="37000" total="42100"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="18647" pacs="22500" total="41147"/>
+  </industries>
+</response>

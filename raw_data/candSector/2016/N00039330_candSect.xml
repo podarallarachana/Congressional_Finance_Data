@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mike Gallagher (R)" cid="N00039330" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00039330&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="73740" pacs="24250" total="97990"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="66175" pacs="20000" total="86175"/>
+    <sector sector_name="Construction" sectorid="C" indivs="68684" pacs="37400" total="106084"/>
+    <sector sector_name="Defense" sectorid="D" indivs="125" pacs="12500" total="12625"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="19950" pacs="32000" total="51950"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="497697" pacs="65850" total="563547"/>
+    <sector sector_name="Health" sectorid="H" indivs="148088" pacs="37005" total="185093"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="122359" pacs="2000" total="124359"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="35335" pacs="34995" total="70330"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="136089" pacs="39499" total="175588"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="100" total="100"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="72731" pacs="297581" total="370312"/>
+    <sector sector_name="Other" sectorid="W" indivs="364037" pacs="0" total="364037"/>
+  </sectors>
+</response>

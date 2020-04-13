@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Sanchez, Linda" data_year="2016" member_id="N00024870" net_low="-170971" net_high="1287997" positions_held_count="0" asset_count="26" asset_low="679029" asset_high="1688000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00024870" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Real property/Whittier, CA" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="AMR Growth Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="HLS Total Return Bond Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Money Market" holdings_low="16002" holdings_high="65000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Peoples United Bank CDs" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="HLS Total Return Bond Fund" tx_date="Quarterly" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="AMR Growth Fund" tx_date="Quarterly" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Board Member (uncompensated)" organization="Congressional Hispanic Caucus Institute"/>
+    </positions>
+  </member_profile>
+</response>

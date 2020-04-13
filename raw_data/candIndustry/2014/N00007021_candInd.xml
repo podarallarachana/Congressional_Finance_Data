@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Juan Vargas (D)" cid="N00007021" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007021&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="1000" pacs="89700" total="90700"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="9200" pacs="32250" total="41450"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="10650" pacs="28000" total="38650"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="20900" pacs="12000" total="32900"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="4300" pacs="27000" total="31300"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="31000" total="31000"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="0" pacs="28500" total="28500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="28500" total="28500"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="500" pacs="25500" total="26000"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="23400" pacs="1000" total="24400"/>
+  </industries>
+</response>

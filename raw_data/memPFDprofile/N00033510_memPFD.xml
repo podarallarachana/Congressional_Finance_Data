@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033510" net_low="-414987" net_high="559997" positions_held_count="0" asset_count="13" asset_low="385013" asset_high="925000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033510" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="FID Freedom K 2035 Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Microsoft Corp" holdings_low="50001" holdings_high="100000" industry="Electronics Mfg &amp; Equip" sector="Communic/Electronics" subsidiary_of=""/>
+      <asset name="Berkshire Hathaway" holdings_low="50001" holdings_high="100000" industry="Securities &amp; Investment" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Apple Inc" holdings_low="50001" holdings_high="100000" industry="Electronics Mfg &amp; Equip" sector="Communic/Electronics" subsidiary_of=""/>
+      <asset name="Visa Inc" holdings_low="50001" holdings_high="100000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Director" organization="Coachella Valley Healthcare Initiative"/>
+      <position title="Director" organization="Coachella Valley Healthcare Initiative"/>
+      <position title="Board Member" organization="Dr Carreon Foundation"/>
+      <position title="Board Member" organization="Dr Carreon Foundation"/>
+      <position title="Senior Advisor / Mentor" organization="Future Physician Leaders"/>
+    </positions>
+  </member_profile>
+</response>

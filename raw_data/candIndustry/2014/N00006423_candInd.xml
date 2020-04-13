@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Trent Franks (R)" cid="N00006423" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006423&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="750" pacs="35600" total="36350"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="2750" pacs="22600" total="25350"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="16650" pacs="4000" total="20650"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="11450" pacs="7100" total="18550"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="3000" pacs="15500" total="18500"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="0" pacs="16000" total="16000"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="6750" pacs="8000" total="14750"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="13850" pacs="0" total="13850"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="10750" pacs="2500" total="13250"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="7850" pacs="5000" total="12850"/>
+  </industries>
+</response>

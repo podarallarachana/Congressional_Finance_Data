@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Lloyd Doggett (D)" cid="N00006023" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00006023&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="14000" pacs="1000" total="15000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="48550" pacs="9000" total="57550"/>
+    <sector sector_name="Construction" sectorid="C" indivs="32518" pacs="3500" total="36018"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="21750" pacs="12750" total="34500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="92500" pacs="38500" total="131000"/>
+    <sector sector_name="Health" sectorid="H" indivs="47818" pacs="74800" total="122618"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="363309" pacs="30750" total="394059"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2000" pacs="7750" total="9750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="85100" pacs="8000" total="93100"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="198500" total="198500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="12900" pacs="15887" total="28787"/>
+    <sector sector_name="Other" sectorid="W" indivs="157879" pacs="0" total="157879"/>
+  </sectors>
+</response>

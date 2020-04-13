@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="John Conyers Jr (D)" cid="N00004029" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00004029&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="9500" total="9500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="30250" pacs="150590" total="180840"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1000" pacs="15000" total="16000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="13400" pacs="6000" total="19400"/>
+    <sector sector_name="Health" sectorid="H" indivs="8800" pacs="26400" total="35200"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="41350" pacs="46392" total="87742"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="24500" total="24500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="17650" pacs="68500" total="86150"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="161500" total="161500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1250" pacs="57595" total="58845"/>
+    <sector sector_name="Other" sectorid="W" indivs="8450" pacs="1000" total="9450"/>
+  </sectors>
+</response>

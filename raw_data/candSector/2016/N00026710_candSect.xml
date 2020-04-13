@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Kenny Marchant (R)" cid="N00026710" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026710&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="5400" pacs="42810" total="48210"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1000" pacs="16000" total="17000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="3250" pacs="29500" total="32750"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="22500" total="22500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="25900" pacs="79750" total="105650"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="44850" pacs="294800" total="339650"/>
+    <sector sector_name="Health" sectorid="H" indivs="13950" pacs="52000" total="65950"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="23450" pacs="13500" total="36950"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="7150" pacs="55999" total="63149"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="15900" pacs="69000" total="84900"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="4500" total="4500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="29302" total="29302"/>
+    <sector sector_name="Other" sectorid="W" indivs="6750" pacs="0" total="6750"/>
+  </sectors>
+</response>

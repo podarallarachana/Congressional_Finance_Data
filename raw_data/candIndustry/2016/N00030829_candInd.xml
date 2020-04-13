@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Kenneth R Buck (R)" cid="N00030829" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030829&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="64726" pacs="0" total="64726"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="13950" pacs="49000" total="62950"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="38617" pacs="8500" total="47117"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="34000" pacs="0" total="34000"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="21000" pacs="9000" total="30000"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="14600" pacs="15000" total="29600"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="29500" total="29500"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="12250" pacs="16000" total="28250"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="9400" pacs="13000" total="22400"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="8100" pacs="10500" total="18600"/>
+  </industries>
+</response>

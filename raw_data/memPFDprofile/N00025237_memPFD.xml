@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="King, Steven A" data_year="2016" member_id="N00025237" net_low="210030" net_high="802000" positions_held_count="0" asset_count="18" asset_low="210030" asset_high="802000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00025237" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Fidelity Government Money Market Capital Reserves" holdings_low="100002" holdings_high="200000" industry="" sector="" subsidiary_of=""/>
+      <asset name="New York Life Insurance Whole Life" holdings_low="30002" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="New York Life Insurance/Whole Life" holdings_low="30002" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Funds Income Fund of America" holdings_low="30002" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="DNP Select Income Fund" holdings_low="2002" holdings_high="30000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="King Construction" tx_date="Jun  1 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Bank of America" tx_date="Aug  1 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Conaway, Mike" data_year="2016" member_id="N00026041" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00026041" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Mizuho Corporate Bank CD" tx_date="Jan 25 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Mizuho Corporate Bank CD" tx_date="Jul 30 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Sovereign Bank/CD" tx_date="Jan 28 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Sovereign Bank/CD" tx_date="Jul 30 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Unit Trust First Trust Diversified Equity" tx_date="Nov 11 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+    </transactions>
+    <positions>
+      <position title="Board of Directors - President" organization="Conabain Corp"/>
+      <position title="Board of Directors - President" organization="Conawell Corp"/>
+      <position title="Sole Proprietor" organization="K Michael Conaway CPA"/>
+      <position title="Board of Directors - Vice President" organization="Kidwell Exploration"/>
+      <position title="Board of Directors - President" organization="Kmc Inc"/>
+    </positions>
+  </member_profile>
+</response>

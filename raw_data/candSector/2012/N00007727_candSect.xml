@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Earl Blumenauer (D)" cid="N00007727" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00007727&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="4623" pacs="10250" total="14873"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="14125" pacs="22250" total="36375"/>
+    <sector sector_name="Construction" sectorid="C" indivs="31460" pacs="110000" total="141460"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="7000" total="7000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="17900" pacs="37255" total="55155"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="84869" pacs="85000" total="169869"/>
+    <sector sector_name="Health" sectorid="H" indivs="12815" pacs="141750" total="154565"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="45550" pacs="27500" total="73050"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="20975" pacs="89145" total="110120"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="89895" pacs="66206" total="156101"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="152750" total="152750"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="14900" pacs="27300" total="42200"/>
+    <sector sector_name="Other" sectorid="W" indivs="32345" pacs="0" total="32345"/>
+  </sectors>
+</response>

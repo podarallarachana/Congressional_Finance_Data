@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Chris Stewart (R)" cid="N00033932" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033932&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="55500" total="55500"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="10000" pacs="32000" total="42000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="25600" pacs="0" total="25600"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="3750" pacs="19000" total="22750"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="5500" pacs="10500" total="16000"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="2250" pacs="11000" total="13250"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="3000" pacs="10000" total="13000"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="12250" pacs="0" total="12250"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="10500" total="10500"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="10500" total="10500"/>
+  </industries>
+</response>

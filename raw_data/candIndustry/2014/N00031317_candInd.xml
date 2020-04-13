@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ted Deutch (D)" cid="N00031317" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031317&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="85300" pacs="25333" total="110633"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="75170" pacs="27700" total="102870"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="100110" pacs="2500" total="102610"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="53787" pacs="12000" total="65787"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="23600" pacs="38000" total="61600"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="47518" pacs="0" total="47518"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="32000" total="32000"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="29200" pacs="0" total="29200"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="12000" pacs="11500" total="23500"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="6400" pacs="15500" total="21900"/>
+  </industries>
+</response>

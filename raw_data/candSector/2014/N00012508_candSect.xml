@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tom Carper (D)" cid="N00012508" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00012508&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="20285" pacs="71000" total="91285"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="69016" pacs="192444" total="261460"/>
+    <sector sector_name="Construction" sectorid="C" indivs="23760" pacs="65640" total="89400"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1800" pacs="68160" total="69960"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="30250" pacs="169280" total="199530"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="475520" pacs="831860" total="1307380"/>
+    <sector sector_name="Health" sectorid="H" indivs="108917" pacs="486250" total="595167"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="397907" pacs="133841" total="531748"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="11070" pacs="77410" total="88480"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="187485" pacs="372050" total="559535"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="171440" total="171440"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="53900" pacs="238299" total="292199"/>
+    <sector sector_name="Other" sectorid="W" indivs="190770" pacs="13500" total="204270"/>
+  </sectors>
+</response>

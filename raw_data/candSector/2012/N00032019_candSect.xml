@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="David Cicilline (D)" cid="N00032019" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00032019&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="250" pacs="13000" total="13250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="107400" pacs="24500" total="131900"/>
+    <sector sector_name="Construction" sectorid="C" indivs="51750" pacs="7500" total="59250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5000" pacs="29999" total="34999"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="18200" pacs="5750" total="23950"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="223262" pacs="50250" total="273512"/>
+    <sector sector_name="Health" sectorid="H" indivs="46300" pacs="30500" total="76800"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="246198" pacs="21181" total="267379"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="29450" pacs="7500" total="36950"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="153328" pacs="32000" total="185328"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1100" pacs="184600" total="185700"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="89850" pacs="221265" total="311115"/>
+    <sector sector_name="Other" sectorid="W" indivs="241010" pacs="6500" total="247510"/>
+  </sectors>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John D Dingell (D)" cid="N00001783" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001783&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="21500" total="21500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1300" pacs="46000" total="47300"/>
+    <sector sector_name="Construction" sectorid="C" indivs="600" pacs="0" total="600"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="4000" total="4000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="53600" total="53600"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="600" pacs="20300" total="20900"/>
+    <sector sector_name="Health" sectorid="H" indivs="900" pacs="58850" total="59750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="14375" pacs="17070" total="31445"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1500" pacs="16700" total="18200"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="3400" pacs="23500" total="26900"/>
+    <sector sector_name="Labor" sectorid="P" indivs="300" pacs="69233" total="69533"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1100" pacs="10200" total="11300"/>
+    <sector sector_name="Other" sectorid="W" indivs="9100" pacs="0" total="9100"/>
+  </sectors>
+</response>

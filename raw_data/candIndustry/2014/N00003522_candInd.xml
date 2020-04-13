@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Marcy Kaptur (D)" cid="N00003522" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00003522&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="250" pacs="80000" total="80250"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="5000" pacs="56300" total="61300"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="56100" total="56100"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="51000" total="51000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="45000" total="45000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="17150" pacs="23250" total="40400"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="36500" total="36500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="20600" pacs="10500" total="31100"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="2750" pacs="26200" total="28950"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="1000" pacs="24500" total="25500"/>
+  </industries>
+</response>

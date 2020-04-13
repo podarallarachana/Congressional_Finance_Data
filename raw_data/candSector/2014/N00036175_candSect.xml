@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Steven Russell (R)" cid="N00036175" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00036175&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="6700" pacs="1000" total="7700"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3600" pacs="3500" total="7100"/>
+    <sector sector_name="Construction" sectorid="C" indivs="36300" pacs="7000" total="43300"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1300" pacs="3000" total="4300"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="69200" pacs="23750" total="92950"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="75250" pacs="25600" total="100850"/>
+    <sector sector_name="Health" sectorid="H" indivs="17000" pacs="6500" total="23500"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="46650" pacs="10000" total="56650"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="7850" pacs="13500" total="21350"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="40701" pacs="6000" total="46701"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="7000" total="7000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="20350" pacs="112250" total="132600"/>
+    <sector sector_name="Other" sectorid="W" indivs="87550" pacs="0" total="87550"/>
+  </sectors>
+</response>

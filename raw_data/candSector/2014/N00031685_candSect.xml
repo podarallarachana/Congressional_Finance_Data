@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Richard Blumenthal (D)" cid="N00031685" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031685&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="17000" pacs="14000" total="31000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="313249" pacs="153250" total="466499"/>
+    <sector sector_name="Construction" sectorid="C" indivs="110850" pacs="2000" total="112850"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2052" pacs="38500" total="40552"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="67300" pacs="16000" total="83300"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1429677" pacs="154740" total="1584417"/>
+    <sector sector_name="Health" sectorid="H" indivs="265743" pacs="228250" total="493993"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="838526" pacs="80500" total="919026"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="47600" pacs="29000" total="76600"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="398783" pacs="125433" total="524216"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="321000" total="321000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="173250" pacs="300130" total="473380"/>
+    <sector sector_name="Other" sectorid="W" indivs="995591" pacs="1000" total="996591"/>
+  </sectors>
+</response>

@@ -1,0 +1,15 @@
+<response>
+  <sectors cand_name="Phil Roe (R)" cid="N00028463" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00028463&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="25000" pacs="0" total="25000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3250" pacs="0" total="3250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="113750" pacs="0" total="113750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="55797" pacs="0" total="55797"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="29625" pacs="11500" total="41125"/>
+    <sector sector_name="Health" sectorid="H" indivs="133625" pacs="-6500" total="127125"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="5191" pacs="0" total="5191"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="9750" pacs="0" total="9750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="57196" pacs="0" total="57196"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="-500" total="-500"/>
+    <sector sector_name="Other" sectorid="W" indivs="59065" pacs="0" total="59065"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jim Banks (R)" cid="N00037185" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00037185&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="297108" pacs="42098" total="339206"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="15275" pacs="79700" total="94975"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="68073" pacs="0" total="68073"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="57650" pacs="0" total="57650"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="29685" pacs="13700" total="43385"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="18400" pacs="22000" total="40400"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="7535" pacs="20000" total="27535"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="19900" pacs="1000" total="20900"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="14100" pacs="5000" total="19100"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="18750" pacs="0" total="18750"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Doug Collins (R)" cid="N00033518" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033518&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="109500" total="109500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="22450" pacs="42500" total="64950"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="11900" pacs="45200" total="57100"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="30325" pacs="25000" total="55325"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="24238" pacs="28000" total="52238"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="3100" pacs="38000" total="41100"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="39078" pacs="1000" total="40078"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="6950" pacs="31000" total="37950"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="250" pacs="32500" total="32750"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="4500" pacs="25500" total="30000"/>
+  </industries>
+</response>

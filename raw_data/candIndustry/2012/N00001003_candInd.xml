@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Eliot L Engel (D)" cid="N00001003" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001003&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="13351" pacs="95000" total="108351"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="53150" pacs="41000" total="94150"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="67300" pacs="8000" total="75300"/>
+    <industry industry_code="W04" industry_name="Education" indivs="56125" pacs="0" total="56125"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="45000" total="45000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="22250" pacs="21500" total="43750"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="15360" pacs="17000" total="32360"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="750" pacs="31000" total="31750"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="28000" total="28000"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="17600" pacs="9000" total="26600"/>
+  </industries>
+</response>

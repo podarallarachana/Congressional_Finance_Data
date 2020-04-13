@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Lee Ratcliffe (R)" cid="N00035972" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035972&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="49150" pacs="7000" total="56150"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="30550" pacs="16000" total="46550"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="45000" total="45000"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="17450" pacs="23000" total="40450"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="34225" pacs="4000" total="38225"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="2350" pacs="29000" total="31350"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="5250" pacs="26000" total="31250"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="28150" pacs="0" total="28150"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="2000" pacs="24000" total="26000"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="0" pacs="25500" total="25500"/>
+  </industries>
+</response>

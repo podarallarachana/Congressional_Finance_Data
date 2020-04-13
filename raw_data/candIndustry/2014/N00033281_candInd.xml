@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tulsi Gabbard (D)" cid="N00033281" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033281&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="85057" pacs="0" total="85057"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="60609" pacs="6500" total="67109"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="50435" pacs="14000" total="64435"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="43207" pacs="14500" total="57707"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="56003" pacs="0" total="56003"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="48500" total="48500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="43000" total="43000"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="36050" pacs="3107" total="39157"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="26900" pacs="10000" total="36900"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="34550" pacs="2000" total="36550"/>
+  </industries>
+</response>

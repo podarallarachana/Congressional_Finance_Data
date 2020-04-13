@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Patrick McHenry (R)" cid="N00026627" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026627&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="21600" pacs="42500" total="64100"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="14746" pacs="44590" total="59336"/>
+    <sector sector_name="Construction" sectorid="C" indivs="11600" pacs="11500" total="23100"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="19500" total="19500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="2800" pacs="45000" total="47800"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="201050" pacs="629750" total="830800"/>
+    <sector sector_name="Health" sectorid="H" indivs="36750" pacs="80000" total="116750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="84642" pacs="24900" total="109542"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="16300" pacs="27500" total="43800"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="116100" pacs="75555" total="191655"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="3000" total="3000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1500" pacs="30585" total="32085"/>
+    <sector sector_name="Other" sectorid="W" indivs="29650" pacs="0" total="29650"/>
+  </sectors>
+</response>

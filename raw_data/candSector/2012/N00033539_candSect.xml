@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Randy Weber (R)" cid="N00033539" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033539&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="11700" pacs="20000" total="31700"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1000" pacs="3000" total="4000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="53000" pacs="32542" total="85542"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1500" pacs="4000" total="5500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="13850" pacs="57250" total="71100"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="72211" pacs="31500" total="103711"/>
+    <sector sector_name="Health" sectorid="H" indivs="23200" pacs="4000" total="27200"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="51633" pacs="1500" total="53133"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="21100" pacs="12000" total="33100"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="76105" pacs="43500" total="119605"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="13250" pacs="188250" total="201500"/>
+    <sector sector_name="Other" sectorid="W" indivs="56650" pacs="0" total="56650"/>
+  </sectors>
+</response>

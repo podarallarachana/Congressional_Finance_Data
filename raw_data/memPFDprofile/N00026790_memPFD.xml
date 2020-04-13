@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Cleaver, Emanuel" data_year="2016" member_id="N00026790" net_low="-5073988" net_high="-10003" positions_held_count="0" asset_count="6" asset_low="491012" asset_high="1265000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00026790" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Allianz Life Insurance" holdings_low="150002" holdings_high="350000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Domestic Bond" holdings_low="115002" holdings_high="300000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Extended Term Fixed Income Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="General Board &amp; Health Benefits of the US" holdings_low="60004" holdings_high="200000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Domestic Stock Fund" holdings_low="65002" holdings_high="150000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Cleaver Co" tx_date="Feb 13 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+    </transactions>
+    <positions>
+      <position title="Board Member" organization="Jazz District Renaissance Corp"/>
+      <position title="Board of Trustees" organization="National World War I Museum"/>
+    </positions>
+  </member_profile>
+</response>

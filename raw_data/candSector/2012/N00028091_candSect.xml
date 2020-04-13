@@ -1,0 +1,15 @@
+<response>
+  <sectors cand_name="Carol Shea-Porter (D)" cid="N00028091" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00028091&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="8600" pacs="0" total="8600"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="37425" pacs="0" total="37425"/>
+    <sector sector_name="Construction" sectorid="C" indivs="950" pacs="0" total="950"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="6750" pacs="0" total="6750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="35830" pacs="0" total="35830"/>
+    <sector sector_name="Health" sectorid="H" indivs="22125" pacs="900" total="23025"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="15400" pacs="0" total="15400"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="43260" pacs="2000" total="45260"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="257000" total="257250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="230045" pacs="223721" total="453766"/>
+    <sector sector_name="Other" sectorid="W" indivs="152847" pacs="1000" total="153847"/>
+  </sectors>
+</response>

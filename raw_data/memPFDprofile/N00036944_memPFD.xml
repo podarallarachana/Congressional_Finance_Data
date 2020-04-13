@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00036944" net_low="2095380" net_high="14093998" positions_held_count="2" asset_count="142" asset_low="3360380" asset_high="14704000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00036944" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="1564212" holdings_high="5903000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Microsoft Corp" holdings_low="1004005" holdings_high="5060000" industry="Electronics Mfg &amp; Equip" sector="Communic/Electronics" subsidiary_of=""/>
+      <asset name="Morgan Stanley Bank" holdings_low="156008" holdings_high="440000" industry="" sector="" subsidiary_of=""/>
+      <asset name="TD Ameritrade" holdings_low="150002" holdings_high="350000" industry="Securities &amp; Investment" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Thrift Savings Plan" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

@@ -1,0 +1,8 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00040007" net_low="22567770" net_high="97316000" positions_held_count="33" asset_count="2" asset_low="22567770" asset_high="97316000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00040007" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="22567769" holdings_high="97315000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Morgan Stanley/Money Market Account" holdings_low="1" holdings_high="1000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

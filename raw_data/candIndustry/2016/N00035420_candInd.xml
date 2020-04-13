@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mike Bost (R)" cid="N00035420" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035420&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1429" pacs="223700" total="225129"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="150028" pacs="0" total="150028"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="72650" pacs="40500" total="113150"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="28150" pacs="42700" total="70850"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="2500" pacs="63889" total="66389"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="35770" pacs="28500" total="64270"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="49045" pacs="15000" total="64045"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="42350" pacs="20000" total="62350"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="571" pacs="53116" total="53687"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="24250" pacs="24000" total="48250"/>
+  </industries>
+</response>

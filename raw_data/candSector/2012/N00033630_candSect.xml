@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Richard Hudson (R)" cid="N00033630" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033630&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="42375" pacs="40000" total="82375"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="18000" pacs="13000" total="31000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="24050" pacs="15500" total="39550"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5500" pacs="2000" total="7500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="6450" pacs="52500" total="58950"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="72807" pacs="111500" total="184307"/>
+    <sector sector_name="Health" sectorid="H" indivs="18350" pacs="84000" total="102350"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="125350" pacs="4000" total="129350"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="18200" pacs="27500" total="45700"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="70100" pacs="48000" total="118100"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="9700" pacs="361967" total="371667"/>
+    <sector sector_name="Other" sectorid="W" indivs="63150" pacs="11000" total="74150"/>
+  </sectors>
+</response>

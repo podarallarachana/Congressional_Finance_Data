@@ -1,0 +1,25 @@
+<response>
+  <member_profile name="Risch, James E" data_year="2016" member_id="N00029441" net_low="15083054" net_high="71520997" positions_held_count="8" asset_count="28" asset_low="16183054" asset_high="72071000" transaction_count="3" tx_low="3003" tx_high="45000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00029441" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="40 Acres Land/Canyon County" holdings_low="5000001" holdings_high="25000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="40 Acres Land/Ada County" holdings_low="5000001" holdings_high="25000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="160 Acres Land Ada County" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Agricultural &amp; Commercial Real Property" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="24 Acres Land/Canyon County, ID" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Waddell &amp; Reed High-Income Fund" tx_date="Sep 26 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Nationwide Fixed Fund" tx_date="Sep 26 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="PERSI Short Term Investment Portfolio" tx_date="Aug 28 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="T Rowe Price Summit Cash Reser" tx_date="Aug 26 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="T Rowe Price Prime Reserve Fund" tx_date="Aug 26 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+    <positions>
+      <position title="Trustee" organization="2005 Jordan Risch Irrevocable Life Insurance"/>
+      <position title="Representative" organization="Estate of Helen E Choborda"/>
+      <position title="Trustee" organization="Janeen Street Trust"/>
+      <position title="Trustee" organization="Jordan Risch Trust"/>
+      <position title="Partner" organization="JR &amp; JR Properties LLC"/>
+    </positions>
+  </member_profile>
+</response>

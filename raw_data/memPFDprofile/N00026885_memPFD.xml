@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Reichert, Dave" data_year="2016" member_id="N00026885" net_low="-1203984" net_high="90998" positions_held_count="0" asset_count="13" asset_low="296016" asset_high="841000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00026885" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="WA Dept Of Retirement System" holdings_low="150002" holdings_high="350000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Franklin Equity Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Balanced Fund" holdings_low="16003" holdings_high="66000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Franklin Income Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Hartford Healthcare Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Sale Of Property - Chelan WA" tx_date="Jun 30 2014" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

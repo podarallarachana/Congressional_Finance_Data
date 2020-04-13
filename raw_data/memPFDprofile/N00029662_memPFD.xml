@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="Posey, Bill" data_year="2016" member_id="N00029662" net_low="232009" net_high="831999" positions_held_count="2" asset_count="6" asset_low="332009" asset_high="882000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00029662" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="215004" holdings_high="551000" industry="" sector="" subsidiary_of=""/>
+      <asset name="1803 Hensley Dr Rockledge, FL" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Wells Fargo Bank" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Community Educators Credit Union" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Suntrust Bank" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="President" organization="Posey &amp; Co Realtors"/>
+      <position title="President" organization="Rockledge Realty Corp"/>
+    </positions>
+  </member_profile>
+</response>

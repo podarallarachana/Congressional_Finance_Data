@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tim Kaine (D)" cid="N00033177" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033177&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="136151" pacs="22500" total="158651"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1042616" pacs="68000" total="1110616"/>
+    <sector sector_name="Construction" sectorid="C" indivs="238894" pacs="18750" total="257644"/>
+    <sector sector_name="Defense" sectorid="D" indivs="148076" pacs="122785" total="270861"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="188402" pacs="127200" total="315602"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="2536523" pacs="172700" total="2709223"/>
+    <sector sector_name="Health" sectorid="H" indivs="636821" pacs="165650" total="802471"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="3144968" pacs="158311" total="3303279"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="123048" pacs="53000" total="176048"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="1178457" pacs="103578" total="1282035"/>
+    <sector sector_name="Labor" sectorid="P" indivs="11700" pacs="401150" total="412850"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1467566" pacs="515841" total="1983407"/>
+    <sector sector_name="Other" sectorid="W" indivs="3442551" pacs="500" total="3443051"/>
+  </sectors>
+</response>

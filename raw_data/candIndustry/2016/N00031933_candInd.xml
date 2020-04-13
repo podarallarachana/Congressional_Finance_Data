@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bill Keating (D)" cid="N00031933" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031933&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="58882" pacs="20750" total="79632"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="67500" total="67500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="53500" total="53500"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="48500" total="48500"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="47000" total="47000"/>
+    <industry industry_code="Q10" industry_name="Misc Issues" indivs="44535" pacs="1000" total="45535"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="30749" pacs="13500" total="44249"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="5750" pacs="33750" total="39500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="38665" pacs="0" total="38665"/>
+    <industry industry_code="C03" industry_name="Special Trade Contractors" indivs="23975" pacs="7500" total="31475"/>
+  </industries>
+</response>

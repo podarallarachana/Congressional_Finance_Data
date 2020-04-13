@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tom Coburn (R)" cid="N00005601" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00005601&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="93572" pacs="117500" total="211072"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="68300" pacs="106050" total="174350"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="7452" pacs="122000" total="129452"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="200" pacs="125043" total="125243"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="8150" pacs="106500" total="114650"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="90900" pacs="9193" total="100093"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="89100" pacs="9303" total="98403"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="98150" pacs="0" total="98150"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="66050" pacs="29000" total="95050"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="43350" pacs="45315" total="88665"/>
+  </industries>
+</response>

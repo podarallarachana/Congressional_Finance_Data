@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Patrick Leahy (D)" cid="N00009918" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009918&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="19500" pacs="68350" total="87850"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="501706" pacs="244470" total="746176"/>
+    <sector sector_name="Construction" sectorid="C" indivs="2450" pacs="5500" total="7950"/>
+    <sector sector_name="Defense" sectorid="D" indivs="11550" pacs="102750" total="114300"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="18200" pacs="16500" total="34700"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="229350" pacs="62250" total="291600"/>
+    <sector sector_name="Health" sectorid="H" indivs="28250" pacs="91375" total="119625"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="800645" pacs="112280" total="912925"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="7850" pacs="19800" total="27650"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="143700" pacs="83550" total="227250"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="206800" total="206800"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="135726" pacs="213311" total="349037"/>
+    <sector sector_name="Other" sectorid="W" indivs="183825" pacs="0" total="183825"/>
+  </sectors>
+</response>

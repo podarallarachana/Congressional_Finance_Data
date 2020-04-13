@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Gwen Graham (D)" cid="N00035688" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035688&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="399730" pacs="12341" total="412071"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="337368" pacs="0" total="337368"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="17100" pacs="203163" total="220263"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="163340" pacs="20000" total="183340"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="145663" pacs="0" total="145663"/>
+    <industry industry_code="W04" industry_name="Education" indivs="96776" pacs="0" total="96776"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="48075" pacs="20000" total="68075"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="250" pacs="66000" total="66250"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="64500" total="64500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="63150" pacs="0" total="63150"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Pedro Pierluisi (D)" cid="N00029168" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029168&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="182551" pacs="37250" total="219801"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="81050" pacs="0" total="81050"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="68610" pacs="0" total="68610"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="67600" pacs="1000" total="68600"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="60049" pacs="5000" total="65049"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="64300" pacs="0" total="64300"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="46804" pacs="500" total="47304"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="43450" pacs="0" total="43450"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="42400" pacs="0" total="42400"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="37700" pacs="0" total="37700"/>
+  </industries>
+</response>

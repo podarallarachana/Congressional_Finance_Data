@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Glenn S Grothman (R)" cid="N00036409" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00036409&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="140896" pacs="0" total="140896"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="17275" pacs="19998" total="37273"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="6994" pacs="27500" total="34494"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="25225" pacs="7000" total="32225"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="22970" pacs="4000" total="26970"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="22660" pacs="3000" total="25660"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="25500" total="25500"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="20883" pacs="2500" total="23383"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="8700" pacs="14500" total="23200"/>
+    <industry industry_code="M03" industry_name="Trucking" indivs="4450" pacs="16000" total="20450"/>
+  </industries>
+</response>

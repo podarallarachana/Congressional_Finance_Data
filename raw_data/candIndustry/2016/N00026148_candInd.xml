@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Louis B Gohmert Jr (R)" cid="N00026148" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026148&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="110703" pacs="0" total="110703"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="29450" pacs="250" total="29700"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="21200" pacs="6500" total="27700"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="19090" pacs="6000" total="25090"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="9300" pacs="14390" total="23690"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="21750" pacs="0" total="21750"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="8600" pacs="12000" total="20600"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="14000" pacs="0" total="14000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="10600" pacs="2500" total="13100"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="10700" pacs="500" total="11200"/>
+  </industries>
+</response>

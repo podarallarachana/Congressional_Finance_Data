@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Ileana Ros-Lehtinen (R)" cid="N00002858" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00002858&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="3000" pacs="7500" total="10500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="28800" pacs="45000" total="73800"/>
+    <sector sector_name="Construction" sectorid="C" indivs="14850" pacs="19500" total="34350"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1200" pacs="26000" total="27200"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="5500" total="5500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="106300" pacs="22000" total="128300"/>
+    <sector sector_name="Health" sectorid="H" indivs="27450" pacs="25500" total="52950"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="53100" pacs="4720" total="57820"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="15600" pacs="15500" total="31100"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="59450" pacs="35346" total="94796"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="97500" total="97500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="84450" pacs="80868" total="165318"/>
+    <sector sector_name="Other" sectorid="W" indivs="54670" pacs="1000" total="55670"/>
+  </sectors>
+</response>

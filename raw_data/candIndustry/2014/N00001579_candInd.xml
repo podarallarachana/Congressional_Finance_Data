@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Allyson Schwartz (D)" cid="N00001579" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001579&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="40589" pacs="20964" total="61553"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="3500" pacs="51799" total="55299"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="750" pacs="35000" total="35750"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="30000" total="30000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="16150" pacs="13500" total="29650"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="500" pacs="26000" total="26500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="26250" pacs="0" total="26250"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="9250" pacs="9000" total="18250"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="15000" total="15000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="7600" pacs="6000" total="13600"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="David Loebsack (D)" cid="N00027741" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027741&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1000" pacs="153858" total="154858"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="94400" pacs="0" total="94400"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="17067" pacs="68500" total="85567"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="66900" pacs="13750" total="80650"/>
+    <industry industry_code="W04" industry_name="Education" indivs="74050" pacs="4000" total="78050"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="500" pacs="69500" total="70000"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="63500" total="63500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="57000" total="57000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="250" pacs="53000" total="53250"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="3750" pacs="45000" total="48750"/>
+  </industries>
+</response>

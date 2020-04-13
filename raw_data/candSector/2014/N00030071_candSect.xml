@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Kurt Schrader (D)" cid="N00030071" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030071&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="68900" pacs="196000" total="264900"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="12900" pacs="61500" total="74400"/>
+    <sector sector_name="Construction" sectorid="C" indivs="17950" pacs="38000" total="55950"/>
+    <sector sector_name="Defense" sectorid="D" indivs="750" pacs="5000" total="5750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="750" pacs="45000" total="45750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="42733" pacs="111000" total="153733"/>
+    <sector sector_name="Health" sectorid="H" indivs="31200" pacs="180000" total="211200"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="51395" pacs="12000" total="63395"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="8190" pacs="31500" total="39690"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="65620" pacs="112200" total="177820"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="159500" total="159500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="11850" pacs="55892" total="67742"/>
+    <sector sector_name="Other" sectorid="W" indivs="109534" pacs="0" total="109534"/>
+  </sectors>
+</response>

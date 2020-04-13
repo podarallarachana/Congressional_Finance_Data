@@ -1,0 +1,16 @@
+<response>
+  <member_profile name="Upton, Fred" data_year="2016" member_id="N00004133" net_low="14009182" net_high="52349998" positions_held_count="8" asset_count="28" asset_low="14374182" asset_high="52510000" transaction_count="28" tx_low="1001" tx_high="15000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00004133" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="11907155" holdings_high="44130000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Whirlpool Corp" holdings_low="1000001" holdings_high="5000000" industry="Misc Manufacturing &amp; Distributing" sector="Misc Business" subsidiary_of=""/>
+      <asset name="PepsiCo Inc" holdings_low="500001" holdings_high="1000000" industry="Food &amp; Beverage" sector="Misc Business" subsidiary_of=""/>
+      <asset name="Stryker Corp" holdings_low="250001" holdings_high="500000" industry="Pharmaceuticals/Health Products" sector="Health" subsidiary_of=""/>
+      <asset name="Massachusetts Mutual Life Insurance" holdings_low="250001" holdings_high="500000" industry="Insurance" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Advisory Bd Member" organization="Aspen Institute"/>
+      <position title="Limited Partner" organization="SEU LP"/>
+      <position title="Board Member" organization="SW Michigan First"/>
+    </positions>
+  </member_profile>
+</response>

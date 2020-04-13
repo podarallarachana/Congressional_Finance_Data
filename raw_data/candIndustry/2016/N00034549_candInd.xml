@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Adriano Espaillat (D)" cid="N00034549" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034549&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="34000" pacs="12500" total="46500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="39870" pacs="1000" total="40870"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="34550" pacs="6000" total="40550"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="31900" total="31900"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="31000" total="31000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="29000" pacs="0" total="29000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="27650" pacs="0" total="27650"/>
+    <industry industry_code="W04" industry_name="Education" indivs="23675" pacs="0" total="23675"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="22775" pacs="0" total="22775"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="22000" total="22000"/>
+  </industries>
+</response>

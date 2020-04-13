@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jon Runyan (R)" cid="N00031988" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031988&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="300" pacs="29000" total="29300"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="10250" pacs="10000" total="20250"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="18000" total="18000"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="900" pacs="16500" total="17400"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="15300" total="15300"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="4600" pacs="10500" total="15100"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="12400" pacs="1000" total="13400"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="4600" pacs="8000" total="12600"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="9350" pacs="2500" total="11850"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="0" pacs="11500" total="11500"/>
+  </industries>
+</response>

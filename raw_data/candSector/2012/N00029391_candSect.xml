@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Erik Paulsen (R)" cid="N00029391" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029391&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="41900" pacs="63250" total="105150"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="63050" pacs="45621" total="108671"/>
+    <sector sector_name="Construction" sectorid="C" indivs="53600" pacs="60000" total="113600"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="10500" total="10500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="18050" pacs="41600" total="59650"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="333802" pacs="344408" total="678210"/>
+    <sector sector_name="Health" sectorid="H" indivs="170775" pacs="317500" total="488275"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="103100" pacs="42438" total="145538"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="53400" pacs="42999" total="96399"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="224225" pacs="173500" total="397725"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="48900" pacs="72000" total="120900"/>
+    <sector sector_name="Other" sectorid="W" indivs="238009" pacs="500" total="238509"/>
+  </sectors>
+</response>

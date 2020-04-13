@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Rodney Alexander (R)" cid="N00025464" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00025464&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="16799" pacs="0" total="16799"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2000" pacs="4500" total="6500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="25850" pacs="2500" total="28350"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="13500" pacs="10500" total="24000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="24400" pacs="6500" total="30900"/>
+    <sector sector_name="Health" sectorid="H" indivs="13500" pacs="4500" total="18000"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="14860" pacs="2500" total="17360"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="18350" pacs="6000" total="24350"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="8900" pacs="1000" total="9900"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="-5000" total="-5000"/>
+    <sector sector_name="Other" sectorid="W" indivs="10750" pacs="0" total="10750"/>
+  </sectors>
+</response>

@@ -1,0 +1,12 @@
+<response>
+  <industries cand_name="Eni F H Faleomavaega (D)" cid="N00007632" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007632&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="6500" pacs="0" total="6500"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="5000" total="5000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="3000" pacs="1500" total="4500"/>
+    <industry industry_code="W03" industry_name="Civil Servants/Public Officials" indivs="3000" pacs="0" total="3000"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="2600" pacs="0" total="2600"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="2500" pacs="0" total="2500"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="2000" pacs="0" total="2000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="1000" pacs="0" total="1000"/>
+  </industries>
+</response>

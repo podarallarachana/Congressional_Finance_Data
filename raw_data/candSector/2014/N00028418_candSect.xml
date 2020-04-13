@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Alan Grayson (D)" cid="N00028418" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00028418&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="5500" pacs="14500" total="20000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="39177" pacs="14500" total="53677"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5600" pacs="0" total="5600"/>
+    <sector sector_name="Defense" sectorid="D" indivs="200" pacs="8500" total="8700"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="2500" pacs="0" total="2500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="55017" pacs="19000" total="74017"/>
+    <sector sector_name="Health" sectorid="H" indivs="15349" pacs="7500" total="22849"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="29800" pacs="21500" total="51300"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="6300" pacs="2000" total="8300"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="30750" pacs="13000" total="43750"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="186000" total="186000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="43322" pacs="22900" total="66222"/>
+    <sector sector_name="Other" sectorid="W" indivs="153782" pacs="1000" total="154782"/>
+  </sectors>
+</response>

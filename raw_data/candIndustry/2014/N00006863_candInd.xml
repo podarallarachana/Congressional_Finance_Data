@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tom McClintock (R)" cid="N00006863" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006863&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="167875" pacs="0" total="167875"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="70657" pacs="13600" total="84257"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="58024" pacs="2000" total="60024"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="14000" pacs="37000" total="51000"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="26450" pacs="0" total="26450"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="25000" pacs="0" total="25000"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="24250" pacs="0" total="24250"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="14200" pacs="10000" total="24200"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="22450" pacs="0" total="22450"/>
+    <industry industry_code="B01" industry_name="Printing &amp; Publishing" indivs="22100" pacs="0" total="22100"/>
+  </industries>
+</response>

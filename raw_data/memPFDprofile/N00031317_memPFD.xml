@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Deutch, Ted" data_year="2016" member_id="N00031317" net_low="-175955" net_high="1062999" positions_held_count="0" asset_count="35" asset_low="324045" asset_high="1313000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031317" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Russell 3000 Index" holdings_low="101002" holdings_high="265000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Income (Moderate)" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="DFA Emerging Market Core" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="LN Special Opportunities" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="DFA International Core Equity Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tom Price (R)" cid="N00026160" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026160&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="171177" pacs="218693" total="389870"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="21900" pacs="143000" total="164900"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="33300" pacs="116250" total="149550"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="83000" pacs="41500" total="124500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="103352" pacs="0" total="103352"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="15550" pacs="64700" total="80250"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="16150" pacs="45000" total="61150"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="2250" pacs="58500" total="60750"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="18550" pacs="33250" total="51800"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="10750" pacs="26000" total="36750"/>
+  </industries>
+</response>

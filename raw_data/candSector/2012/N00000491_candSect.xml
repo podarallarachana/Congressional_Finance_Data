@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Susan Collins (R)" cid="N00000491" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00000491&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="86538" pacs="130400" total="216938"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="211350" pacs="238832" total="450182"/>
+    <sector sector_name="Construction" sectorid="C" indivs="139496" pacs="133000" total="272496"/>
+    <sector sector_name="Defense" sectorid="D" indivs="103701" pacs="219300" total="323001"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="96750" pacs="120750" total="217500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="997629" pacs="446534" total="1444163"/>
+    <sector sector_name="Health" sectorid="H" indivs="249269" pacs="574723" total="823992"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="687573" pacs="151447" total="839020"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="55294" pacs="175500" total="230794"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="518420" pacs="482000" total="1000420"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="134500" total="134500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="248566" pacs="538443" total="787009"/>
+    <sector sector_name="Other" sectorid="W" indivs="630847" pacs="1000" total="631847"/>
+  </sectors>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Joe Manchin (D)" cid="N00032838" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00032838&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="59700" pacs="105500" total="165200"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="103266" pacs="157500" total="260766"/>
+    <sector sector_name="Construction" sectorid="C" indivs="273554" pacs="83500" total="357054"/>
+    <sector sector_name="Defense" sectorid="D" indivs="18900" pacs="104400" total="123300"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="950400" pacs="454248" total="1404648"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="524300" pacs="366399" total="890699"/>
+    <sector sector_name="Health" sectorid="H" indivs="453800" pacs="378248" total="832048"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="797422" pacs="87620" total="885042"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="93150" pacs="152500" total="245650"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="504280" pacs="281000" total="785280"/>
+    <sector sector_name="Labor" sectorid="P" indivs="750" pacs="462000" total="462750"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="153375" pacs="473700" total="627075"/>
+    <sector sector_name="Other" sectorid="W" indivs="441888" pacs="16250" total="458138"/>
+  </sectors>
+</response>

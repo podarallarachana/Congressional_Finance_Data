@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bill Johnson (R)" cid="N00032088" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00032088&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="78316" pacs="124000" total="202316"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="153500" total="153500"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="94319" pacs="36500" total="130819"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="18912" pacs="104500" total="123412"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="11327" pacs="97500" total="108827"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="79100" pacs="13846" total="92946"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="16600" pacs="48000" total="64600"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="0" pacs="40327" total="40327"/>
+    <industry industry_code="C03" industry_name="Special Trade Contractors" indivs="26963" pacs="9000" total="35963"/>
+    <industry industry_code="E07" industry_name="Misc Energy" indivs="15900" pacs="20000" total="35900"/>
+  </industries>
+</response>

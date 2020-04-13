@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John M Shimkus (R)" cid="N00004961" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004961&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="3800" pacs="194050" total="197850"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="2750" pacs="141550" total="144300"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="1500" pacs="134000" total="135500"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="3500" pacs="117500" total="121000"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="45659" pacs="37500" total="83159"/>
+    <industry industry_code="E07" industry_name="Misc Energy" indivs="13750" pacs="52750" total="66500"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="3000" pacs="62000" total="65000"/>
+    <industry industry_code="N13" industry_name="Chemical &amp; Related Manufacturing" indivs="6750" pacs="57499" total="64249"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="5510" pacs="57500" total="63010"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="8550" pacs="42000" total="50550"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Andy Harris (R)" cid="N00029147" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029147&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="278085" pacs="130500" total="408585"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="87481" pacs="0" total="87481"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="46655" pacs="5000" total="51655"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="6760" pacs="35000" total="41760"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="29300" pacs="11000" total="40300"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="36250" pacs="1000" total="37250"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="27795" pacs="0" total="27795"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="750" pacs="25499" total="26249"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="12250" pacs="12500" total="24750"/>
+    <industry industry_code="W04" industry_name="Education" indivs="24450" pacs="0" total="24450"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Morgan Griffith (R)" cid="N00032029" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00032029&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="10735" pacs="65399" total="76134"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="7500" pacs="65500" total="73000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="46850" pacs="10000" total="56850"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="24000" total="24000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="111638" pacs="162250" total="273888"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="53570" pacs="43000" total="96570"/>
+    <sector sector_name="Health" sectorid="H" indivs="35158" pacs="81250" total="116408"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="37400" pacs="16500" total="53900"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="22350" pacs="33000" total="55350"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="89200" pacs="82469" total="171669"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="20850" pacs="46225" total="67075"/>
+    <sector sector_name="Other" sectorid="W" indivs="77054" pacs="1000" total="78054"/>
+  </sectors>
+</response>

@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Pompeo, Mike" data_year="2016" member_id="N00030744" net_low="77021" net_high="456000" positions_held_count="2" asset_count="21" asset_low="77021" asset_high="456000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030744" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="US bank account #1" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="JP Morgan Large Cap Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Delaware Value" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Growth Index" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Prime Money Market Fund" holdings_low="2002" holdings_high="30000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Pimco Ttl Rtn" tx_date="Oct 22 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Baron Small Cap Fund" tx_date="Oct 22 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Dodge &amp; Cox Inc Fund" tx_date="Oct 22 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Emprise Bank IRA" tx_date="Oct 22 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="SPDR Gold Shares" tx_date="Jun 10 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

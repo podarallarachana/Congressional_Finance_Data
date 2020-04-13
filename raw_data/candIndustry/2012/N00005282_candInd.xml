@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jerry Moran (R)" cid="N00005282" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00005282&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="163613" pacs="138367" total="301980"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="111350" pacs="90647" total="201997"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="43300" pacs="141949" total="185249"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="99350" pacs="64600" total="163950"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="114590" pacs="47500" total="162090"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="107750" pacs="52500" total="160250"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="153480" pacs="0" total="153480"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="58616" pacs="93300" total="151916"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="110441" pacs="32500" total="142941"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="72660" pacs="69476" total="142136"/>
+  </industries>
+</response>

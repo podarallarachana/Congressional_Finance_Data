@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Joaquin Castro (D)" cid="N00033316" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033316&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="93730" pacs="33082" total="126812"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="27800" pacs="26000" total="53800"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="40000" total="40000"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="15785" pacs="23500" total="39285"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="37000" total="37000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="2250" pacs="34250" total="36500"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="36000" total="36000"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="10650" pacs="23000" total="33650"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="31000" total="31000"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="1500" pacs="26500" total="28000"/>
+  </industries>
+</response>

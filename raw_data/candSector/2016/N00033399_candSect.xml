@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="George Holding (R)" cid="N00033399" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033399&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="48800" pacs="87550" total="136350"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="56150" pacs="89000" total="145150"/>
+    <sector sector_name="Construction" sectorid="C" indivs="58250" pacs="31000" total="89250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="4000" pacs="28500" total="32500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="18849" pacs="91333" total="110182"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="223895" pacs="456300" total="680195"/>
+    <sector sector_name="Health" sectorid="H" indivs="78901" pacs="228700" total="307601"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="272305" pacs="38250" total="310555"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="28087" pacs="45500" total="73587"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="104797" pacs="172467" total="277264"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="15248" pacs="209758" total="225006"/>
+    <sector sector_name="Other" sectorid="W" indivs="79877" pacs="6500" total="86377"/>
+  </sectors>
+</response>

@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00036409" net_low="600015" net_high="1525000" positions_held_count="0" asset_count="15" asset_low="600015" asset_high="1525000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00036409" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="BMO Harris Bank" holdings_low="100001" holdings_high="250000" industry="Savings &amp; Loans" sector="Finance/Insur/RealEst" subsidiary_of="Bank of Montreal"/>
+      <asset name="Fidelity Contrafund Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Institutional Insititutional Index Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Growth Fund of America" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Capital Income Builder Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Board Member" organization="Citizens Advocacy"/>
+      <position title="Board Member" organization="Keale Maritine Symphony"/>
+    </positions>
+  </member_profile>
+</response>

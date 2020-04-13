@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jim Cooper (D)" cid="N00003132" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00003132&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="3750" pacs="16250" total="20000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="28800" pacs="24750" total="53550"/>
+    <sector sector_name="Construction" sectorid="C" indivs="9250" pacs="19000" total="28250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="23000" total="23000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="8525" pacs="3000" total="11525"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="153681" pacs="74344" total="228025"/>
+    <sector sector_name="Health" sectorid="H" indivs="52032" pacs="23500" total="75532"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="123400" pacs="11250" total="134650"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="8550" pacs="26500" total="35050"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="76997" pacs="49000" total="125997"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="42500" total="42500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="8950" pacs="29000" total="37950"/>
+    <sector sector_name="Other" sectorid="W" indivs="115550" pacs="6000" total="121550"/>
+  </sectors>
+</response>

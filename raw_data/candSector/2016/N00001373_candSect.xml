@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mike Doyle (D)" cid="N00001373" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001373&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="25000" total="25000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1775" pacs="74000" total="75775"/>
+    <sector sector_name="Construction" sectorid="C" indivs="14060" pacs="5500" total="19560"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1000" pacs="15500" total="16500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1000" pacs="124500" total="125500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="32150" pacs="53000" total="85150"/>
+    <sector sector_name="Health" sectorid="H" indivs="2535" pacs="41500" total="44035"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="28700" pacs="23000" total="51700"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1750" pacs="34011" total="35761"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="9500" pacs="65500" total="75000"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="193000" total="193000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="16200" pacs="13956" total="30156"/>
+    <sector sector_name="Other" sectorid="W" indivs="14302" pacs="1500" total="15802"/>
+  </sectors>
+</response>

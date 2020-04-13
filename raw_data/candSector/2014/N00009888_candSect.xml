@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Lamar Alexander (R)" cid="N00009888" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009888&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="102250" pacs="153436" total="255686"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="94300" pacs="122000" total="216300"/>
+    <sector sector_name="Construction" sectorid="C" indivs="186067" pacs="87950" total="274017"/>
+    <sector sector_name="Defense" sectorid="D" indivs="14450" pacs="107500" total="121950"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="149260" pacs="304683" total="453943"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="602450" pacs="422500" total="1024950"/>
+    <sector sector_name="Health" sectorid="H" indivs="256200" pacs="657467" total="913667"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="250882" pacs="116988" total="367870"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="77083" pacs="180000" total="257083"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="326660" pacs="365728" total="692388"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="10000" total="10000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="60600" pacs="358515" total="419115"/>
+    <sector sector_name="Other" sectorid="W" indivs="412653" pacs="64400" total="477053"/>
+  </sectors>
+</response>

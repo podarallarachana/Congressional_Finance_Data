@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Cheri Bustos (D)" cid="N00033390" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033390&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="17073" pacs="132417" total="149490"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="27968" pacs="43000" total="70968"/>
+    <sector sector_name="Construction" sectorid="C" indivs="25110" pacs="25250" total="50360"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2887" pacs="3500" total="6387"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="37090" pacs="69000" total="106090"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="122405" pacs="175000" total="297405"/>
+    <sector sector_name="Health" sectorid="H" indivs="79272" pacs="116500" total="195772"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="208732" pacs="15750" total="224482"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="17824" pacs="125250" total="143074"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="83007" pacs="74000" total="157007"/>
+    <sector sector_name="Labor" sectorid="P" indivs="2315" pacs="235500" total="237815"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="410926" pacs="325900" total="736826"/>
+    <sector sector_name="Other" sectorid="W" indivs="256950" pacs="7000" total="263950"/>
+  </sectors>
+</response>

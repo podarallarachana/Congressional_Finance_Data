@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Mike Coffman (R)" cid="N00024753" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00024753&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="20205" pacs="31250" total="51455"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="67754" pacs="52000" total="119754"/>
+    <sector sector_name="Construction" sectorid="C" indivs="37850" pacs="47000" total="84850"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2900" pacs="95500" total="98400"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="166756" pacs="140250" total="307006"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="300777" pacs="96500" total="397277"/>
+    <sector sector_name="Health" sectorid="H" indivs="44325" pacs="60500" total="104825"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="107353" pacs="8750" total="116103"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="51980" pacs="29500" total="81480"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="133662" pacs="72000" total="205662"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="63985" pacs="365577" total="429562"/>
+    <sector sector_name="Other" sectorid="W" indivs="270465" pacs="4250" total="274715"/>
+  </sectors>
+</response>

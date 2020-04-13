@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John F Tierney (D)" cid="N00000226" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00000226&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="2450" pacs="3000" total="5450"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="29821" pacs="16000" total="45821"/>
+    <sector sector_name="Construction" sectorid="C" indivs="27850" pacs="5000" total="32850"/>
+    <sector sector_name="Defense" sectorid="D" indivs="6000" pacs="24500" total="30500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="8550" pacs="3000" total="11550"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="96775" pacs="17000" total="113775"/>
+    <sector sector_name="Health" sectorid="H" indivs="50450" pacs="41000" total="91450"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="170821" pacs="19500" total="190321"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="5350" pacs="7000" total="12350"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="80715" pacs="20032" total="100747"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="184500" total="184500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="29280" pacs="246215" total="275495"/>
+    <sector sector_name="Other" sectorid="W" indivs="148006" pacs="7500" total="155506"/>
+  </sectors>
+</response>

@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00028418" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00028418" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="American Capital" tx_date="Jun 24 2013" tx_action="Sold" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Diversion Daily 20+ Year ETF" tx_date="Jun 21 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="iPath S&amp;P 500 VIX ST ETF" tx_date="Oct  7 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="iPath S&amp;P 500 VIX ST ETF" tx_date="Nov 18 2013" tx_action="Sold" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="iPath S&amp;P 500 VIX ST ETF" tx_date="Nov 26 2013" tx_action="Sold" value_low="500001" value_high="1000000"/>
+    </transactions>
+    <positions>
+      <position title="Officer/Director" organization="38296 Yukon Inc"/>
+      <position title="Director" organization="AMG Tr"/>
+      <position title="Officer/Director" organization="GCCPC"/>
+      <position title="Officer/Director" organization="Grayson Consulting"/>
+      <position title="Trustee" organization="Grayson Foundation"/>
+    </positions>
+  </member_profile>
+</response>

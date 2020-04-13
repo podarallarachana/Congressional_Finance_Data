@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Elizabeth Esty (D)" cid="N00033217" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033217&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="270736" pacs="12886" total="283622"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="191585" pacs="0" total="191585"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="143059" pacs="20500" total="163559"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="143150" pacs="500" total="143650"/>
+    <industry industry_code="W04" industry_name="Education" indivs="140652" pacs="0" total="140652"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="100832" pacs="0" total="100832"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="81683" pacs="0" total="81683"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="250" pacs="71000" total="71250"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="64500" total="64500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="34154" pacs="28500" total="62654"/>
+  </industries>
+</response>

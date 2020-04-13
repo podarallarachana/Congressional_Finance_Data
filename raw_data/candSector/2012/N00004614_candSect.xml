@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Kevin Cramer (R)" cid="N00004614" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00004614&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="93740" pacs="31800" total="125540"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="10800" pacs="12500" total="23300"/>
+    <sector sector_name="Construction" sectorid="C" indivs="65650" pacs="10500" total="76150"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="6000" total="6000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="181550" pacs="68500" total="250050"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="91705" pacs="25000" total="116705"/>
+    <sector sector_name="Health" sectorid="H" indivs="14500" pacs="2500" total="17000"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="23753" pacs="500" total="24253"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="20831" pacs="10500" total="31331"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="75550" pacs="22000" total="97550"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="24129" pacs="116000" total="140129"/>
+    <sector sector_name="Other" sectorid="W" indivs="117720" pacs="0" total="117720"/>
+  </sectors>
+</response>

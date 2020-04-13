@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Will Hurd (R)" cid="N00031417" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031417&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="27800" pacs="7000" total="34800"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="28150" pacs="2500" total="30650"/>
+    <sector sector_name="Construction" sectorid="C" indivs="58450" pacs="11000" total="69450"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1500" pacs="1000" total="2500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="113523" pacs="30000" total="143523"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="222911" pacs="13850" total="236761"/>
+    <sector sector_name="Health" sectorid="H" indivs="36650" pacs="3500" total="40150"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="40150" pacs="1000" total="41150"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="20600" pacs="2500" total="23100"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="41450" pacs="6500" total="47950"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="0" total="250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="32025" pacs="206249" total="238274"/>
+    <sector sector_name="Other" sectorid="W" indivs="99339" pacs="0" total="99339"/>
+  </sectors>
+</response>

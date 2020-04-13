@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Thomas Massie (R)" cid="N00034041" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00034041&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="9801" pacs="17000" total="26801"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="12251" pacs="10750" total="23001"/>
+    <sector sector_name="Construction" sectorid="C" indivs="22355" pacs="9000" total="31355"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="3000" total="3000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="20951" pacs="53500" total="74451"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="30450" pacs="24000" total="54450"/>
+    <sector sector_name="Health" sectorid="H" indivs="18202" pacs="39500" total="57702"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="38350" pacs="1000" total="39350"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="24500" pacs="13000" total="37500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="29902" pacs="22250" total="52152"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="137557" pacs="117617" total="255174"/>
+    <sector sector_name="Other" sectorid="W" indivs="66917" pacs="0" total="66917"/>
+  </sectors>
+</response>

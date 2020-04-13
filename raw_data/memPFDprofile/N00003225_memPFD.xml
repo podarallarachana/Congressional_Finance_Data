@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="Cohen, Steve" data_year="2016" member_id="N00003225" net_low="3050107" net_high="7877000" positions_held_count="0" asset_count="89" asset_low="3050107" asset_high="7877000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00003225" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="IBM Corp" holdings_low="300002" holdings_high="600000" industry="Electronics Mfg &amp; Equip" sector="Communic/Electronics" subsidiary_of=""/>
+      <asset name="Fidelity Contrafund Fund" holdings_low="265002" holdings_high="550000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Puritan Fund" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Berkshire Hathaway" holdings_low="165003" holdings_high="400000" industry="Securities &amp; Investment" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Federated Treasury Obligations AS" holdings_low="101002" holdings_high="265000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Coventry Health Care" tx_date="May  7 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="JP Morgan Chase Cap X Div" tx_date="May  8 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Nexen Inc" tx_date="Mar 28 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Shelby Cnty TN Ref-Cabs G/O Unltd Zero Cpn Bond" tx_date="Aug  1 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Shelby Co TN Hlth Eductnl &amp; Hsg Facs Brd Rev Metho" tx_date="Dec 16 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+    <positions>
+      <position title="Board Member" organization="Circuit Playhouse"/>
+    </positions>
+  </member_profile>
+</response>

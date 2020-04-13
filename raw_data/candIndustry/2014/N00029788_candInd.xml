@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Cynthia Marie Lummis (R)" cid="N00029788" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029788&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="11800" pacs="79000" total="90800"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="0" pacs="29500" total="29500"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="22250" total="22250"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="500" pacs="17000" total="17500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="6750" pacs="7000" total="13750"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="13500" total="13500"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="500" pacs="12000" total="12500"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="0" pacs="12000" total="12000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="7750" pacs="4000" total="11750"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="11500" total="11500"/>
+  </industries>
+</response>

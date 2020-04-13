@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00031064" net_low="-80986" net_high="484999" positions_held_count="0" asset_count="14" asset_low="169014" asset_high="585000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031064" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Residential Real Estate - East Vincent" holdings_low="100001" holdings_high="250000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Columbus Circle Investors Large Cap" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard midCap Growth Index" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Small Cap Growth Index" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Principal Global Investors Div Int Sep" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Board Member" organization="Chester County Industrial Development Authorit"/>
+      <position title="Board Member" organization="County Commissioners Assoc of Pennsylvania (1) Hum"/>
+      <position title="Board Member" organization="Phoenixville Hospital Board of Directors"/>
+      <position title="Managing Member" organization="Sheeder Properties"/>
+      <position title="Co - Chairman" organization="Vista 2025 Cmte"/>
+    </positions>
+  </member_profile>
+</response>

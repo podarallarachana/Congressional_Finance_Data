@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Elijah E Cummings (D)" cid="N00001971" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001971&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="750" pacs="93300" total="94050"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="81700" total="81700"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="30850" pacs="25500" total="56350"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="40100" pacs="10000" total="50100"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="20425" pacs="26900" total="47325"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="2500" pacs="32000" total="34500"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="28000" pacs="4000" total="32000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="31000" total="31000"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="1250" pacs="29000" total="30250"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="0" pacs="27500" total="27500"/>
+  </industries>
+</response>

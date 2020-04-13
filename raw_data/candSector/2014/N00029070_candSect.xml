@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jim Himes (D)" cid="N00029070" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029070&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="5200" pacs="6500" total="11700"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="35750" pacs="36500" total="72250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="17650" pacs="7500" total="25150"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="29000" total="29000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="8100" pacs="23500" total="31600"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="504838" pacs="639000" total="1143838"/>
+    <sector sector_name="Health" sectorid="H" indivs="28350" pacs="84000" total="112350"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="126536" pacs="26000" total="152536"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="15500" pacs="8000" total="23500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="142300" pacs="71647" total="213947"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="100000" total="100250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="22000" pacs="21000" total="43000"/>
+    <sector sector_name="Other" sectorid="W" indivs="279820" pacs="0" total="279820"/>
+  </sectors>
+</response>

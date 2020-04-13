@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Steve Southerland (R)" cid="N00031204" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031204&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="34641" pacs="140005" total="174646"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2050" pacs="13000" total="15050"/>
+    <sector sector_name="Construction" sectorid="C" indivs="43785" pacs="25923" total="69708"/>
+    <sector sector_name="Defense" sectorid="D" indivs="9786" pacs="6500" total="16286"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="28712" pacs="39250" total="67962"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="63251" pacs="68300" total="131551"/>
+    <sector sector_name="Health" sectorid="H" indivs="138967" pacs="48000" total="186967"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="30550" pacs="4600" total="35150"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="46192" pacs="68000" total="114192"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="115308" pacs="80500" total="195808"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="4000" total="4000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="22529" pacs="137910" total="160439"/>
+    <sector sector_name="Other" sectorid="W" indivs="105119" pacs="0" total="105119"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tim Griffin (R)" cid="N00031297" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031297&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="12450" pacs="34000" total="46450"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="13825" pacs="30000" total="43825"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="22850" pacs="19500" total="42350"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="13800" pacs="17000" total="30800"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="25588" total="25588"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="2750" pacs="22000" total="24750"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="7600" pacs="11500" total="19100"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="5000" pacs="13500" total="18500"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="0" pacs="18000" total="18000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="17900" pacs="0" total="17900"/>
+  </industries>
+</response>

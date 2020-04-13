@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Orrin G Hatch (R)" cid="N00009869" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009869&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="51683" pacs="169500" total="221183"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="287081" pacs="341631" total="628712"/>
+    <sector sector_name="Construction" sectorid="C" indivs="103286" pacs="129250" total="232536"/>
+    <sector sector_name="Defense" sectorid="D" indivs="12250" pacs="98500" total="110750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="255368" pacs="470600" total="725968"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1819797" pacs="968145" total="2787942"/>
+    <sector sector_name="Health" sectorid="H" indivs="721157" pacs="1392641" total="2113798"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="755632" pacs="236285" total="991917"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="47466" pacs="170100" total="217566"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="630309" pacs="566545" total="1196854"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="34500" total="34500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="145800" pacs="442878" total="588678"/>
+    <sector sector_name="Other" sectorid="W" indivs="237490" pacs="13500" total="250990"/>
+  </sectors>
+</response>

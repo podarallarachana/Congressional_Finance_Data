@@ -1,0 +1,22 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033399" net_low="1276034" net_high="8434996" positions_held_count="0" asset_count="33" asset_low="2876034" asset_high="9215000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033399" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="First Citizens Bancshares" holdings_low="1001002" holdings_high="5015000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Cape Fear LLP" holdings_low="500001" holdings_high="1000000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="BB&amp;T Corp" holdings_low="250001" holdings_high="500000" industry="Commercial Banks" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Sterling Capital NC Intermediate Tax-Free" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Chapel Hill Bond" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Sterling Cap Tax Free Fund" tx_date="Jan 30 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Johnson County Bond" tx_date="Jan 30 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Chatham County Bond" tx_date="Jan 30 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Forsyth County Bond" tx_date="Jan 15 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Northrop Grumman" tx_date="Jan  9 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+    <positions>
+      <position title="Partner" organization="Boyle Investment Group - Which Nich Sandwich Shop"/>
+      <position title="Partner" organization="Cape Fear LLP - Family Real Estate - Undeveloped L"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Marcy Kaptur (D)" cid="N00003522" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00003522&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="31000" total="31000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="538" pacs="8000" total="8538"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1801" pacs="31500" total="33301"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="61500" total="61500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1750" pacs="81200" total="82950"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="37955" pacs="19500" total="57455"/>
+    <sector sector_name="Health" sectorid="H" indivs="12025" pacs="18250" total="30275"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="34800" pacs="22250" total="57050"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="4502" pacs="42499" total="47001"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="18411" pacs="60400" total="78811"/>
+    <sector sector_name="Labor" sectorid="P" indivs="101" pacs="198700" total="198801"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="3334" pacs="12057" total="15391"/>
+    <sector sector_name="Other" sectorid="W" indivs="34045" pacs="2500" total="36545"/>
+  </sectors>
+</response>

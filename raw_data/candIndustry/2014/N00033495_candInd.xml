@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Susan Brooks (R)" cid="N00033495" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033495&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="75850" pacs="20500" total="96350"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="37925" pacs="35000" total="72925"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="32250" pacs="33200" total="65450"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="27050" pacs="37500" total="64550"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="63698" total="63698"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="10550" pacs="44600" total="55150"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="26900" pacs="24500" total="51400"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="47350" pacs="0" total="47350"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="31975" pacs="9500" total="41475"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="8500" pacs="30500" total="39000"/>
+  </industries>
+</response>

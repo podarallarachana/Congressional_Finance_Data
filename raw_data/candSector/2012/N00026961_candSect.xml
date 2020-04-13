@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Yvette D Clarke (D)" cid="N00026961" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026961&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1300" pacs="2000" total="3300"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3350" pacs="56500" total="59850"/>
+    <sector sector_name="Construction" sectorid="C" indivs="12560" pacs="1500" total="14060"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="29500" total="29500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="500" pacs="1500" total="2000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="43315" pacs="44500" total="87815"/>
+    <sector sector_name="Health" sectorid="H" indivs="51947" pacs="19500" total="71447"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="19150" pacs="8000" total="27150"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="14500" total="14500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="22450" pacs="19700" total="42150"/>
+    <sector sector_name="Labor" sectorid="P" indivs="200" pacs="150700" total="150900"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="450" pacs="22850" total="23300"/>
+    <sector sector_name="Other" sectorid="W" indivs="43130" pacs="2000" total="45130"/>
+  </sectors>
+</response>

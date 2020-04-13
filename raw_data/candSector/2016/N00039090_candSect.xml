@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Drew Ferguson (R)" cid="N00039090" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00039090&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="6450" pacs="34000" total="40450"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="11300" pacs="21000" total="32300"/>
+    <sector sector_name="Construction" sectorid="C" indivs="42900" pacs="28000" total="70900"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="16500" total="16500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="11550" pacs="13000" total="24550"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="74250" pacs="75000" total="149250"/>
+    <sector sector_name="Health" sectorid="H" indivs="218080" pacs="95000" total="313080"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="32934" pacs="4000" total="36934"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="11900" pacs="29000" total="40900"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="58050" pacs="49000" total="107050"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="8000" total="8000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="9200" pacs="145366" total="154566"/>
+    <sector sector_name="Other" sectorid="W" indivs="97705" pacs="1000" total="98705"/>
+  </sectors>
+</response>

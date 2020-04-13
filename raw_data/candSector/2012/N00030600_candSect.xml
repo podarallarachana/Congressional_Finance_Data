@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Judy Chu (D)" cid="N00030600" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030600&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="23100" pacs="0" total="23100"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="45500" pacs="43500" total="89000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="19300" pacs="3850" total="23150"/>
+    <sector sector_name="Defense" sectorid="D" indivs="3000" pacs="5000" total="8000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="4350" pacs="11000" total="15350"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="85360" pacs="22000" total="107360"/>
+    <sector sector_name="Health" sectorid="H" indivs="58176" pacs="21600" total="79776"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="61033" pacs="18535" total="79568"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="10850" pacs="500" total="11350"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="65750" pacs="16500" total="82250"/>
+    <sector sector_name="Labor" sectorid="P" indivs="500" pacs="187450" total="187950"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="37066" pacs="17500" total="54566"/>
+    <sector sector_name="Other" sectorid="W" indivs="69940" pacs="1000" total="70940"/>
+  </sectors>
+</response>

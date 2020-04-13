@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="James Comer (R)" cid="N00038260" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00038260&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="93640" pacs="39000" total="132640"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="12650" pacs="16500" total="29150"/>
+    <sector sector_name="Construction" sectorid="C" indivs="44250" pacs="24000" total="68250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="12500" total="12500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="21151" pacs="19500" total="40651"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="75225" pacs="44500" total="119725"/>
+    <sector sector_name="Health" sectorid="H" indivs="41166" pacs="45500" total="86666"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="54965" pacs="2700" total="57665"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="21790" pacs="14500" total="36290"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="52793" pacs="22132" total="74925"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1000" pacs="91200" total="92200"/>
+    <sector sector_name="Other" sectorid="W" indivs="88700" pacs="1500" total="90200"/>
+  </sectors>
+</response>

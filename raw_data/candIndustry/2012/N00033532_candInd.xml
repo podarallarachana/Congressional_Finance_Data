@@ -1,0 +1,15 @@
+<response>
+  <industries cand_name="James Bridenstine (R)" cid="N00033532" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033532&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="97415" pacs="18000" total="115415"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="26000" pacs="49000" total="75000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="68050" pacs="0" total="68050"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="46000" total="46000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="20800" pacs="0" total="20800"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="12750" pacs="1000" total="13750"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="5250" pacs="7000" total="12250"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="9250" pacs="2000" total="11250"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="11250" pacs="0" total="11250"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="2500" pacs="8500" total="11000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="2500" pacs="8500" total="11000"/>
+  </industries>
+</response>

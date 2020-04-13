@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Xavier Becerra (D)" cid="N00009774" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009774&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="14600" pacs="173000" total="187600"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="60600" pacs="59500" total="120100"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="12500" pacs="98500" total="111000"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="43673" pacs="52000" total="95673"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="63774" pacs="29500" total="93274"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="17049" pacs="63992" total="81041"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="31250" pacs="38285" total="69535"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="69000" total="69000"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="7300" pacs="58000" total="65300"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="57005" pacs="2500" total="59505"/>
+  </industries>
+</response>

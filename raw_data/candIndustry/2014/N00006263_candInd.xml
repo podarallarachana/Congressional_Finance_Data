@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mike Simpson (R)" cid="N00006263" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006263&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="181384" total="181384"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="28044" pacs="135000" total="163044"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="52100" pacs="91500" total="143600"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="43050" pacs="69500" total="112550"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="63100" pacs="44490" total="107590"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="100096" pacs="3000" total="103096"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="13500" pacs="76000" total="89500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="29900" pacs="42350" total="72250"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="64800" pacs="1000" total="65800"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="16442" pacs="42000" total="58442"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Terri A Sewell (D)" cid="N00030622" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030622&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="105850" pacs="36750" total="142600"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="22750" pacs="37500" total="60250"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="11250" pacs="37500" total="48750"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="9500" pacs="38500" total="48000"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="2300" pacs="39000" total="41300"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="39000" total="39000"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="6250" pacs="31000" total="37250"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="27500" total="27500"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="1000" pacs="25000" total="26000"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="1000" pacs="24500" total="25500"/>
+  </industries>
+</response>

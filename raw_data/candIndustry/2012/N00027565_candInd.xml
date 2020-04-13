@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Campbell (R)" cid="N00027565" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027565&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="75489" pacs="66850" total="142339"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="3750" pacs="101000" total="104750"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="57000" pacs="34500" total="91500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="18550" pacs="65500" total="84050"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="62177" pacs="0" total="62177"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="750" pacs="58500" total="59250"/>
+    <industry industry_code="Q10" industry_name="Misc Issues" indivs="44000" pacs="7000" total="51000"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="4500" pacs="39500" total="44000"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="2500" pacs="36500" total="39000"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="16280" pacs="17000" total="33280"/>
+  </industries>
+</response>

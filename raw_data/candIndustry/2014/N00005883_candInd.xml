@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Kevin Brady (R)" cid="N00005883" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00005883&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="144150" pacs="166100" total="310250"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="54567" pacs="210500" total="265067"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="37378" pacs="121700" total="159078"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="10200" pacs="135000" total="145200"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="70374" pacs="59500" total="129874"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="23200" pacs="103132" total="126332"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="43100" pacs="68100" total="111200"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="28050" pacs="56900" total="84950"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="30232" pacs="49500" total="79732"/>
+    <industry industry_code="Q10" industry_name="Misc Issues" indivs="74875" pacs="500" total="75375"/>
+  </industries>
+</response>

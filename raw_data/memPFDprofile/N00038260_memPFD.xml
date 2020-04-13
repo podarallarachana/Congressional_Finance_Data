@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00038260" net_low="1770022" net_high="8299998" positions_held_count="1" asset_count="22" asset_low="2770022" asset_high="8800000" transaction_count="7" tx_low="15007" tx_high="56000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00038260" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Comer Land &amp; Cattle" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Kirkpatrick Farm" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Graham Farm" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Frankfort House" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Lee Farm Receivable" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Scott Rigell (R)" cid="N00030962" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030962&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="4000" pacs="2000" total="6000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="11000" pacs="5000" total="16000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="31962" pacs="8500" total="40462"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2950" pacs="54000" total="56950"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="-250" pacs="13950" total="13700"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="66162" pacs="13500" total="79662"/>
+    <sector sector_name="Health" sectorid="H" indivs="12950" pacs="15500" total="28450"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="8000" pacs="0" total="8000"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="41200" pacs="33500" total="74700"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="21525" pacs="14500" total="36025"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="2500" total="2500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2575" pacs="2000" total="4575"/>
+    <sector sector_name="Other" sectorid="W" indivs="82680" pacs="0" total="82680"/>
+  </sectors>
+</response>

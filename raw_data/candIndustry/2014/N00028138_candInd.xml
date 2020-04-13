@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Brian Schatz (D)" cid="N00028138" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00028138&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="599827" pacs="55676" total="655503"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="339678" pacs="29500" total="369178"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="260700" total="260700"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="214870" pacs="11500" total="226370"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="130950" pacs="58650" total="189600"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="150209" pacs="0" total="150209"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="144049" pacs="0" total="144049"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="104550" pacs="35200" total="139750"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="109450" pacs="25254" total="134704"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="114600" pacs="13050" total="127650"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Harry Reid (D)" cid="N00009922" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009922&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="3428207" pacs="384745" total="3812952"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="1205618" pacs="192000" total="1397618"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="1127110" pacs="34170" total="1161280"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="843895" pacs="102176" total="946071"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="512706" pacs="350400" total="863106"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="791798" pacs="0" total="791798"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="719450" pacs="66422" total="785872"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="543840" pacs="48000" total="591840"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="531449" total="531449"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="270750" pacs="259500" total="530250"/>
+  </industries>
+</response>

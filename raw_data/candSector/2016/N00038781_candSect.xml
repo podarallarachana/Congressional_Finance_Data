@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Lloyd Smucker (R)" cid="N00038781" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00038781&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="51900" pacs="20750" total="72650"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="750" pacs="20000" total="20750"/>
+    <sector sector_name="Construction" sectorid="C" indivs="88200" pacs="26000" total="114200"/>
+    <sector sector_name="Defense" sectorid="D" indivs="250" pacs="1000" total="1250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="6900" pacs="34500" total="41400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="37700" pacs="54500" total="92200"/>
+    <sector sector_name="Health" sectorid="H" indivs="6600" pacs="82200" total="88800"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="18000" pacs="11500" total="29500"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="20250" pacs="15500" total="35750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="38700" pacs="36000" total="74700"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="8700" pacs="198550" total="207250"/>
+    <sector sector_name="Other" sectorid="W" indivs="107100" pacs="0" total="107100"/>
+  </sectors>
+</response>

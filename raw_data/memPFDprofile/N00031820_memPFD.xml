@@ -1,0 +1,24 @@
+<response>
+  <member_profile name="Coons, Chris" data_year="2016" member_id="N00031820" net_low="5950056" net_high="11731003" positions_held_count="25" asset_count="39" asset_low="6050056" asset_high="11781004" transaction_count="40" tx_low="280040" tx_high="1175000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031820" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="WL Gore Assoc" holdings_low="5000005" holdings_high="9000004" industry="" sector="" subsidiary_of=""/>
+      <asset name="Ages 15-17 Years Portfolio C (1104)" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="PNC Bank" holdings_low="150003" holdings_high="303000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Lord Abbett Multi-Asset Growth C" holdings_low="150003" holdings_high="300000" industry="" sector="" subsidiary_of=""/>
+      <asset name="WSFS Bank" holdings_low="102003" holdings_high="280000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Scholar's Edge Ages 9-11 Years Portfolio C (1098)" tx_date="Mar 12 2013" tx_action="Exchanged" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Lord Abbett Multi-Asset Growth C Fund" tx_date="Jan 10 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Lord Abbett Multi-Asset Growth C Fund" tx_date="Jan 10 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Lord Abbett Multi-Asset Growth C Fund" tx_date="Jan 10 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+    <positions>
+      <position title="Trustee" organization="2001 Coons Family Delaware Trust"/>
+      <position title="Trustee" organization="Grandma Sally's Expand Your Horizon Trust John C C"/>
+      <position title="Trustee" organization="Grandma Sally's Expand Your Horizon Trust Margaret"/>
+      <position title="Trustee" organization="Grandma Sally's Expand Your Horizon Trust Michael "/>
+      <position title="Other (Co-Trustee)" organization="Irrevocable Trust FBO Grandchildren of Robert W Go"/>
+    </positions>
+  </member_profile>
+</response>

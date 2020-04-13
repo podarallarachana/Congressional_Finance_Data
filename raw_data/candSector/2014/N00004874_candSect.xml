@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Luis V Gutierrez (D)" cid="N00004874" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00004874&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3100" pacs="31000" total="34100"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5200" pacs="5500" total="10700"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="500" pacs="2500" total="3000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="2500" pacs="49440" total="51940"/>
+    <sector sector_name="Health" sectorid="H" indivs="0" pacs="15500" total="15500"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="9250" pacs="8000" total="17250"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="1500" total="1500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="2300" pacs="19000" total="21300"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="54500" total="54500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1950" pacs="19250" total="21200"/>
+    <sector sector_name="Other" sectorid="W" indivs="0" pacs="1500" total="1500"/>
+  </sectors>
+</response>

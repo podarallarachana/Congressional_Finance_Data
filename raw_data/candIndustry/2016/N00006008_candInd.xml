@@ -1,0 +1,15 @@
+<response>
+  <industries cand_name="Ruben Hinojosa (D)" cid="N00006008" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006008&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="76200" pacs="1000" total="77200"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="2600" pacs="6000" total="8600"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="0" pacs="6500" total="6500"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="5200" pacs="0" total="5200"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="5000" total="5000"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="0" pacs="5000" total="5000"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="0" pacs="5000" total="5000"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="2700" pacs="1000" total="3700"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="2600" pacs="1000" total="3600"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="2600" pacs="0" total="2600"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="2600" pacs="0" total="2600"/>
+  </industries>
+</response>

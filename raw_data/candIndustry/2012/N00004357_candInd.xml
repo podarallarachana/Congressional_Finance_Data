@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Paul Ryan (R)" cid="N00004357" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004357&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="467104" pacs="0" total="467104"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="259000" pacs="87000" total="346000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="57825" pacs="143000" total="200825"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="46000" pacs="107500" total="153500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="75700" pacs="50000" total="125700"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="122010" pacs="2500" total="124510"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="22300" pacs="92150" total="114450"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="63225" pacs="28000" total="91225"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="69000" pacs="17000" total="86000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="46375" pacs="27250" total="73625"/>
+  </industries>
+</response>

@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Steve Cohen (D)" cid="N00003225" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00003225&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="2500" pacs="30500" total="33000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="6350" pacs="53000" total="59350"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5750" pacs="9000" total="14750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="250" pacs="3500" total="3750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="70150" pacs="17500" total="87650"/>
+    <sector sector_name="Health" sectorid="H" indivs="23750" pacs="37500" total="61250"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="50000" pacs="19500" total="69500"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="7000" pacs="82250" total="89250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="25550" pacs="58521" total="84071"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="141000" total="141000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="9150" pacs="23600" total="32750"/>
+    <sector sector_name="Other" sectorid="W" indivs="39593" pacs="0" total="39593"/>
+  </sectors>
+</response>

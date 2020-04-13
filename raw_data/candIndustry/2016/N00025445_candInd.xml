@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="David Kustoff (R)" cid="N00025445" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00025445&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="102550" pacs="0" total="102550"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="82075" pacs="0" total="82075"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="58925" pacs="10000" total="68925"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="58400" pacs="0" total="58400"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="29050" pacs="17200" total="46250"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="37000" total="37000"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="21050" pacs="11500" total="32550"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="20650" pacs="7500" total="28150"/>
+    <industry industry_code="W03" industry_name="Civil Servants/Public Officials" indivs="26800" pacs="0" total="26800"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="23050" pacs="2500" total="25550"/>
+  </industries>
+</response>

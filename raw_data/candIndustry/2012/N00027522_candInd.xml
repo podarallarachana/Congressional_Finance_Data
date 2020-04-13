@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Dean Heller (R)" cid="N00027522" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027522&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="517342" pacs="0" total="517342"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="500" pacs="433092" total="433592"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="320865" pacs="74500" total="395365"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="82405" pacs="181500" total="263905"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="237990" pacs="25500" total="263490"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="162775" pacs="99825" total="262600"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="105700" pacs="145750" total="251450"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="171132" pacs="73500" total="244632"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="124934" pacs="98500" total="223434"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="175312" pacs="9000" total="184312"/>
+  </industries>
+</response>

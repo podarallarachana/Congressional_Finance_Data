@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Trey Radel (R)" cid="N00034017" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00034017&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="17250" pacs="13000" total="30250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2500" pacs="14500" total="17000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="14500" pacs="6500" total="21000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="4500" pacs="22000" total="26500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="66465" pacs="25500" total="91965"/>
+    <sector sector_name="Health" sectorid="H" indivs="45095" pacs="19500" total="64595"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="42723" pacs="1000" total="43723"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="12250" pacs="12000" total="24250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="43275" pacs="29500" total="72775"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="19250" pacs="62000" total="81250"/>
+    <sector sector_name="Other" sectorid="W" indivs="161429" pacs="2000" total="163429"/>
+  </sectors>
+</response>

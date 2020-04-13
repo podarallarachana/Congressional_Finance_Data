@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jim Himes (D)" cid="N00029070" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029070&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="324238" pacs="178000" total="502238"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="10750" pacs="187500" total="198250"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="195100" pacs="0" total="195100"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="110761" pacs="22000" total="132761"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="71000" pacs="58000" total="129000"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="36450" pacs="86000" total="122450"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="68100" pacs="2500" total="70600"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="52400" pacs="16500" total="68900"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="9000" pacs="50000" total="59000"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="27800" pacs="28500" total="56300"/>
+  </industries>
+</response>

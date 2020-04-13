@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Olson, Pete" data_year="2016" member_id="N00029285" net_low="925041" net_high="2500000" positions_held_count="0" asset_count="36" asset_low="925041" asset_high="2500000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00029285" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="529 Excepted Trust" holdings_low="500002" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Euro Stock Index" holdings_low="101002" holdings_high="265000" industry="" sector="" subsidiary_of=""/>
+      <asset name="iShares Core S&amp;P Small Cap ETF" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard REIT ETF" holdings_low="16002" holdings_high="65000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="T Rowe Price New Era Fund" holdings_low="16002" holdings_high="65000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Janus Triton" tx_date="Jul 24 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Lord Abbett Mid Cap Stock Fund" tx_date="Jul 23 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="SPDR S&amp;P 500 ETF" tx_date="Nov 27 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="SPDR S&amp;P 500 ETF" tx_date="Apr 22 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Vanguard Mid-Cap Index Signal Fund" tx_date="Nov 27 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

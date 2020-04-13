@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John Sarbanes (D)" cid="N00027751" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027751&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="11900" pacs="1000" total="12900"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="16230" pacs="0" total="16230"/>
+    <sector sector_name="Construction" sectorid="C" indivs="12535" pacs="0" total="12535"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5520" pacs="0" total="5520"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5200" pacs="0" total="5200"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="179870" pacs="0" total="179870"/>
+    <sector sector_name="Health" sectorid="H" indivs="36191" pacs="-1000" total="35191"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="139718" pacs="0" total="139718"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="675" pacs="0" total="675"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="77582" pacs="0" total="77582"/>
+    <sector sector_name="Labor" sectorid="P" indivs="30" pacs="0" total="30"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="4220" pacs="0" total="4220"/>
+    <sector sector_name="Other" sectorid="W" indivs="293121" pacs="0" total="293121"/>
+  </sectors>
+</response>

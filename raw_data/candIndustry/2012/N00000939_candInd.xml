@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jerrold Nadler (D)" cid="N00000939" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000939&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="125511" pacs="21500" total="147011"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="87710" pacs="11500" total="99210"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="73305" pacs="5000" total="78305"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="30100" pacs="36000" total="66100"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="52000" total="52000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="45000" total="45000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="42500" total="42500"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="13500" pacs="18000" total="31500"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="24865" pacs="2500" total="27365"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="13500" pacs="11000" total="24500"/>
+  </industries>
+</response>

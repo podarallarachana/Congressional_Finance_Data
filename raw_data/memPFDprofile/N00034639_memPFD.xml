@@ -1,0 +1,17 @@
+<response>
+  <member_profile name="Payne, Donald M Jr" data_year="2016" member_id="N00034639" net_low="117005" net_high="331000" positions_held_count="0" asset_count="5" asset_low="117005" asset_high="331000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00034639" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Morgan Stanley-All Money Market Cash Account" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Prudential Financial Services" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Metropolitan Life Insurance" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Bank of America" holdings_low="1001" holdings_high="15000" industry="Commercial Banks" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Chase Group" holdings_low="1" holdings_high="1000" industry="Business Services" sector="Misc Business" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Morgan Stanley-All Cash Money Market Account IRA" tx_date="Dec 31 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="FFCB Bond" tx_date="Sep 21 2012" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="CT State Taxable G/O Bond" tx_date="Nov 16 2012" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Vanguard Windsor II Fund" tx_date="Feb 19 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

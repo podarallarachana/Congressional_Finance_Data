@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mick Mulvaney (R)" cid="N00031412" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031412&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="2250" pacs="109500" total="111750"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="28800" pacs="71000" total="99800"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="4600" pacs="86000" total="90600"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="8750" pacs="53500" total="62250"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="22400" pacs="39260" total="61660"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="58400" pacs="0" total="58400"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="0" pacs="49000" total="49000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="15701" pacs="18500" total="34201"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="26850" pacs="6250" total="33100"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="22450" pacs="10500" total="32950"/>
+  </industries>
+</response>

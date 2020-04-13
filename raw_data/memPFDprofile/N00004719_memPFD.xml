@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Roskam, Peter" data_year="2016" member_id="N00004719" net_low="285047" net_high="1225000" positions_held_count="0" asset_count="26" asset_low="285047" asset_high="1225000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00004719" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="American Funds College Enrollment Fund" holdings_low="130004" holdings_high="300000" industry="" sector="" subsidiary_of=""/>
+      <asset name="iShares Core S&amp;P Small Cap ETF" holdings_low="32004" holdings_high="130000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard FTSE All World Ex US ETF" holdings_low="16002" holdings_high="65000" industry="" sector="" subsidiary_of=""/>
+      <asset name="FlexShares iBoxx 3 Year Target Duration TIPS Index" holdings_low="16002" holdings_high="65000" industry="" sector="" subsidiary_of=""/>
+      <asset name="iShares S&amp;P 500 Value Index" holdings_low="16002" holdings_high="65000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Short-Term Bond Fund of America - 529A" tx_date="Aug  6 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Short-Term Bond Fund of America - 529A" tx_date="Aug  6 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="iShares Tips Bond ETF" tx_date="Mar 12 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="FlexShares iBoxx 3 Year Target Duration TIPS Index" tx_date="Mar 12 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="First Trust BICK Index Fund" tx_date="Jan 28 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

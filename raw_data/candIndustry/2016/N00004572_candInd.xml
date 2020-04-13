@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Thune (R)" cid="N00004572" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004572&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="739596" pacs="0" total="739596"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="322288" pacs="122000" total="444288"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="110722" pacs="290200" total="400922"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="370298" pacs="9000" total="379298"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="223627" pacs="78000" total="301627"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="287115" total="287115"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="166059" pacs="106700" total="272759"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="43690" pacs="210000" total="253690"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="68200" pacs="157000" total="225200"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="75567" pacs="141500" total="217067"/>
+  </industries>
+</response>

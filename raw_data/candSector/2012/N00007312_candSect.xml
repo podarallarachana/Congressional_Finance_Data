@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Sam Farr (D)" cid="N00007312" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00007312&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="37991" pacs="109773" total="147764"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="800" pacs="2500" total="3300"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1250" pacs="3000" total="4250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="6000" total="6000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="800" pacs="27500" total="28300"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="8170" pacs="21000" total="29170"/>
+    <sector sector_name="Health" sectorid="H" indivs="15650" pacs="41500" total="57150"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="16910" pacs="17500" total="34410"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="3000" pacs="27499" total="30499"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="22453" pacs="44800" total="67253"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="79500" total="79500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="16950" pacs="16000" total="32950"/>
+    <sector sector_name="Other" sectorid="W" indivs="58115" pacs="4000" total="62115"/>
+  </sectors>
+</response>

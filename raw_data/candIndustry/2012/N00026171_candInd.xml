@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Charlie Dent (R)" cid="N00026171" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026171&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="23750" pacs="97500" total="121250"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="106000" pacs="0" total="106000"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="11406" pacs="69500" total="80906"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="36600" pacs="44000" total="80600"/>
+    <industry industry_code="N13" industry_name="Chemical &amp; Related Manufacturing" indivs="17500" pacs="44500" total="62000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="46350" pacs="15000" total="61350"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="41000" pacs="17650" total="58650"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="39000" pacs="18000" total="57000"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="6000" pacs="44500" total="50500"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="33750" pacs="14500" total="48250"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="William L Clay Jr (D)" cid="N00012460" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00012460&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="3350" pacs="6500" total="9850"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="0" pacs="34000" total="34000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1000" pacs="1000" total="2000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="250" pacs="14500" total="14750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="20500" total="20500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="2773" pacs="191100" total="193873"/>
+    <sector sector_name="Health" sectorid="H" indivs="2750" pacs="60000" total="62750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="16710" pacs="23248" total="39958"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="250" pacs="26000" total="26250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="9050" pacs="39000" total="48050"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="165075" total="165075"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="300" pacs="23500" total="23800"/>
+    <sector sector_name="Other" sectorid="W" indivs="11250" pacs="1000" total="12250"/>
+  </sectors>
+</response>

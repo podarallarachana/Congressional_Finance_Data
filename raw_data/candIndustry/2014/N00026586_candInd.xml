@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Joe Donnelly (D)" cid="N00026586" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026586&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="719995" pacs="39500" total="759495"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="2750" pacs="347750" total="350500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="294618" pacs="0" total="294618"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="182005" pacs="50000" total="232005"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="150391" pacs="26000" total="176391"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="63612" pacs="97571" total="161183"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="121118" pacs="30000" total="151118"/>
+    <industry industry_code="W04" industry_name="Education" indivs="139113" pacs="2500" total="141613"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="3690" pacs="107000" total="110690"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="87688" pacs="20000" total="107688"/>
+  </industries>
+</response>

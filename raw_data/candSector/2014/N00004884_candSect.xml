@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Danny K Davis (D)" cid="N00004884" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00004884&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="250" pacs="20000" total="20250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="0" pacs="24400" total="24400"/>
+    <sector sector_name="Construction" sectorid="C" indivs="2250" pacs="6000" total="8250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="11000" total="11000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="22500" total="22500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="550" pacs="105500" total="106050"/>
+    <sector sector_name="Health" sectorid="H" indivs="5850" pacs="70500" total="76350"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="8750" pacs="15000" total="23750"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1500" pacs="19500" total="21000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="2700" pacs="59000" total="61700"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="84000" total="84000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="7000" total="7000"/>
+    <sector sector_name="Other" sectorid="W" indivs="7320" pacs="1000" total="8320"/>
+  </sectors>
+</response>

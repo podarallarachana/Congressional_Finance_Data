@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="David Cicilline (D)" cid="N00032019" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00032019&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="175050" pacs="21000" total="196050"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="133245" pacs="0" total="133245"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="90262" pacs="12000" total="102262"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1000" pacs="100050" total="101050"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="63200" pacs="9500" total="72700"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="44500" pacs="26996" total="71496"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="71148" pacs="181" total="71329"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="50350" pacs="6000" total="56350"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="350" pacs="55500" total="55850"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="54900" total="54900"/>
+  </industries>
+</response>

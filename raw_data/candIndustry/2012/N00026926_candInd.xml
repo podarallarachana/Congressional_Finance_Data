@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jerry McNerney (D)" cid="N00026926" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026926&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="186637" pacs="0" total="186637"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="157375" pacs="22750" total="180125"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="500" pacs="135792" total="136292"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="76750" total="76750"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="76500" total="76500"/>
+    <industry industry_code="W04" industry_name="Education" indivs="74750" pacs="0" total="74750"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="73500" total="73500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="33019" pacs="32400" total="65419"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="57650" pacs="6172" total="63822"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="48600" pacs="8500" total="57100"/>
+  </industries>
+</response>

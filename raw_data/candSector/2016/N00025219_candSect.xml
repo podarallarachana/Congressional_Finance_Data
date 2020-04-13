@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Michael Burgess (R)" cid="N00025219" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00025219&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="8000" pacs="16529" total="24529"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2500" pacs="95500" total="98000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5400" pacs="11000" total="16400"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="18500" total="18500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="8100" pacs="51500" total="59600"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="24594" pacs="98500" total="123094"/>
+    <sector sector_name="Health" sectorid="H" indivs="105265" pacs="486516" total="591781"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="50379" pacs="23500" total="73879"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1725" pacs="68000" total="69725"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="10675" pacs="88000" total="98675"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="7000" total="7000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="10350" pacs="21500" total="31850"/>
+    <sector sector_name="Other" sectorid="W" indivs="33550" pacs="0" total="33550"/>
+  </sectors>
+</response>

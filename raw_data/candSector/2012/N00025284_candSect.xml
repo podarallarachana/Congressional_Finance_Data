@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Raul M Grijalva (D)" cid="N00025284" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00025284&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="12750" pacs="5500" total="18250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1750" pacs="6000" total="7750"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5630" pacs="2000" total="7630"/>
+    <sector sector_name="Defense" sectorid="D" indivs="3500" pacs="3000" total="6500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3200" pacs="12603" total="15803"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="15750" pacs="12500" total="28250"/>
+    <sector sector_name="Health" sectorid="H" indivs="3750" pacs="11500" total="15250"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="51700" pacs="10500" total="62200"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="3500" total="3500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="62675" pacs="10541" total="73216"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1745" pacs="180000" total="181745"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="34603" pacs="75022" total="109625"/>
+    <sector sector_name="Other" sectorid="W" indivs="64725" pacs="0" total="64725"/>
+  </sectors>
+</response>

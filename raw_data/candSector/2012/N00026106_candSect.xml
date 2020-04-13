@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Debbie Wasserman Schultz (D)" cid="N00026106" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026106&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="38550" pacs="13000" total="51550"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="76500" pacs="72500" total="149000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="81550" pacs="1000" total="82550"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2400" pacs="40000" total="42400"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="7750" pacs="11000" total="18750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="290626" pacs="167000" total="457626"/>
+    <sector sector_name="Health" sectorid="H" indivs="159675" pacs="98500" total="258175"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="368282" pacs="29000" total="397282"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="27550" pacs="19000" total="46550"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="215700" pacs="67000" total="282700"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1000" pacs="212500" total="213500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="139130" pacs="55500" total="194630"/>
+    <sector sector_name="Other" sectorid="W" indivs="276483" pacs="0" total="276483"/>
+  </sectors>
+</response>

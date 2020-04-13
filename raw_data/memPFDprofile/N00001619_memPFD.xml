@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Brady, Robert A" data_year="2016" member_id="N00001619" net_low="1550006" net_high="3101000" positions_held_count="0" asset_count="5" asset_low="1550006" asset_high="3101000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00001619" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Philadelphia Federal Credit Union" holdings_low="750002" holdings_high="1500000" industry="Credit Unions" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Brigadoon Motel" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Carpenters Pension" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="City of Philadelphia, PA" holdings_low="50001" holdings_high="100000" industry="Civil Servants/Public Officials" sector="Other" subsidiary_of=""/>
+      <asset name="D&amp;B Investment" holdings_low="1" holdings_high="1000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

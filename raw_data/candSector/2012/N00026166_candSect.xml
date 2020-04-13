@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Virginia Foxx (R)" cid="N00026166" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026166&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="15200" pacs="29500" total="44700"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="7690" pacs="16000" total="23690"/>
+    <sector sector_name="Construction" sectorid="C" indivs="18725" pacs="16500" total="35225"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="3000" total="3000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3750" pacs="18000" total="21750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="51635" pacs="44249" total="95884"/>
+    <sector sector_name="Health" sectorid="H" indivs="36958" pacs="23500" total="60458"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="17040" pacs="11500" total="28540"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="11500" pacs="28000" total="39500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="76916" pacs="53500" total="130416"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="17450" pacs="30752" total="48202"/>
+    <sector sector_name="Other" sectorid="W" indivs="161393" pacs="35584" total="196977"/>
+  </sectors>
+</response>

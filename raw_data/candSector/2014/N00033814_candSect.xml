@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Alex Mooney (R)" cid="N00033814" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033814&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="11857" pacs="8150" total="20007"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="19100" pacs="15000" total="34100"/>
+    <sector sector_name="Construction" sectorid="C" indivs="67220" pacs="10000" total="77220"/>
+    <sector sector_name="Defense" sectorid="D" indivs="3400" pacs="1000" total="4400"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="89752" pacs="66000" total="155752"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="137391" pacs="23500" total="160891"/>
+    <sector sector_name="Health" sectorid="H" indivs="40633" pacs="25000" total="65633"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="83451" pacs="3483" total="86934"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="28269" pacs="24500" total="52769"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="133139" pacs="38100" total="171239"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="107392" pacs="398688" total="506080"/>
+    <sector sector_name="Other" sectorid="W" indivs="174246" pacs="0" total="174246"/>
+  </sectors>
+</response>

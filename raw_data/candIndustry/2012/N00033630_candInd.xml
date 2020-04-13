@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Richard Hudson (R)" cid="N00033630" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033630&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="263282" total="263282"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="76050" pacs="0" total="76050"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="75685" total="75685"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="5750" pacs="50000" total="55750"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="49300" pacs="4000" total="53300"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="4000" pacs="46500" total="50500"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="3200" pacs="46500" total="49700"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="11900" pacs="30000" total="41900"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="29175" pacs="8500" total="37675"/>
+    <industry industry_code="W03" industry_name="Civil Servants/Public Officials" indivs="34000" pacs="0" total="34000"/>
+  </industries>
+</response>

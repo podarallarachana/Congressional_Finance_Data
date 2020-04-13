@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00037260" net_low="1751040" net_high="6216998" positions_held_count="0" asset_count="37" asset_low="3251040" asset_high="6967000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00037260" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Correa Reynoso Family Trust - Real Property" holdings_low="750002" holdings_high="1500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Emilia Holding Co" holdings_low="500002" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="savings Plus Large Cap Index Fund" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Emilia Holding Co. LLC" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Hotchkis &amp; Wiley Mid-Cap Value" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

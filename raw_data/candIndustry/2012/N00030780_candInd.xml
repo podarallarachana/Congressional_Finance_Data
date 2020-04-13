@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Cory Gardner (R)" cid="N00030780" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030780&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="71550" pacs="128000" total="199550"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="110901" pacs="0" total="110901"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="55356" pacs="30500" total="85856"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="30480" pacs="41000" total="71480"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="8000" pacs="62500" total="70500"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="2500" pacs="67000" total="69500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="4150" pacs="63500" total="67650"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="45139" pacs="18750" total="63889"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="32450" pacs="21250" total="53700"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="33900" pacs="19500" total="53400"/>
+  </industries>
+</response>

@@ -1,0 +1,25 @@
+<response>
+  <member_profile name="Lofgren, Zoe" data_year="2016" member_id="N00007479" net_low="1105041" net_high="4324998" positions_held_count="0" asset_count="40" asset_low="2105041" asset_high="4825000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00007479" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Residential Rental Property" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="California Public Emplys Retirement System" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="John Marshall Collins PC" holdings_low="250001" holdings_high="500000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="VantageTrust PLUS Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Templeton Global Investment Trust Global Bond Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="ICMARC Am Funds Inv Co of America" tx_date="Mar 22 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Vanguard Institutional Index Fund" tx_date="Mar 22 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Alger Spectra Fund" tx_date="Mar 14 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Yacktman Fund Service" tx_date="Mar 14 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="ICMARC Victory Established Value I" tx_date="Mar 22 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Advisory Board Member" organization="Pacific Community Ventures"/>
+      <position title="Advisory Board Member" organization="Santa Clara Computer &amp; High Technology Law Journal"/>
+      <position title="Advisory Board Member" organization="Santa Clara County Superior Court - Project Adviso"/>
+      <position title="Board Member" organization="Santa Clara University School of Law Board of Visi"/>
+      <position title="Board Member" organization="Santa Clara University School of Law Dean's High T"/>
+    </positions>
+  </member_profile>
+</response>

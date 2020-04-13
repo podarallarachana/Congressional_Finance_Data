@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Lindsey Graham (R)" cid="N00009975" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009975&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="882639" pacs="82250" total="964889"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="844678" pacs="47982" total="892660"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="649413" pacs="0" total="649413"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="530316" pacs="31750" total="562066"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="309500" total="309500"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="228550" pacs="61700" total="290250"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="201930" pacs="33000" total="234930"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="123784" pacs="100000" total="223784"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="207310" pacs="8000" total="215310"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="196988" pacs="9500" total="206488"/>
+  </industries>
+</response>

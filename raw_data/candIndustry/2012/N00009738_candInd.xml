@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Culberson (R)" cid="N00009738" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009738&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="29850" pacs="71000" total="100850"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="52200" pacs="15500" total="67700"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="50900" pacs="0" total="50900"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="22000" pacs="21000" total="43000"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="21000" pacs="15000" total="36000"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="32500" total="32500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="21316" pacs="10500" total="31816"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="12900" pacs="12000" total="24900"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="22700" pacs="0" total="22700"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="2500" pacs="20000" total="22500"/>
+  </industries>
+</response>

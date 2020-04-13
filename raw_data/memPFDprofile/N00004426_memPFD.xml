@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="Petri, Tom" data_year="2016" member_id="N00004426" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00004426" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Lloyds of London" tx_date="Dec 31 2013" tx_action="Exchanged" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Piper Jaffary Cos" tx_date="Nov  8 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Plum Creek Timber Co" tx_date="Mar 13 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Eaton Vance Enhanced Income Fund" tx_date="Mar  4 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Integrys Energy Gnp" tx_date="Dec 11 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Partner" organization="Lloyd's Underwriting Insurance Risks"/>
+      <position title="Trustee" organization="Marian University"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Ryan Costello (R)" cid="N00031064" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031064&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="17150" pacs="20500" total="37650"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="21550" pacs="58500" total="80050"/>
+    <sector sector_name="Construction" sectorid="C" indivs="61040" pacs="73442" total="134482"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="9750" pacs="84000" total="93750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="162040" pacs="161950" total="323990"/>
+    <sector sector_name="Health" sectorid="H" indivs="64300" pacs="262600" total="326900"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="136664" pacs="35733" total="172397"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="40450" pacs="128998" total="169448"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="53950" pacs="150367" total="204317"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="102239" total="102239"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="47950" pacs="323452" total="371402"/>
+    <sector sector_name="Other" sectorid="W" indivs="82050" pacs="0" total="82050"/>
+  </sectors>
+</response>

@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00035007" net_low="-127917" net_high="4529996" positions_held_count="0" asset_count="74" asset_low="2072083" asset_high="5630000" transaction_count="49" tx_low="301049" tx_high="893000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00035007" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Touchstone Sands Cap Growth CISGX" holdings_low="115002" holdings_high="300000" industry="" sector="" subsidiary_of=""/>
+      <asset name="FDRXX Fidelity government cash reserves" holdings_low="130004" holdings_high="300000" industry="" sector="" subsidiary_of=""/>
+      <asset name="FFRHX Fidelity Floating Rate High Income Fund" holdings_low="101002" holdings_high="265000" industry="" sector="" subsidiary_of=""/>
+      <asset name="SPY Spyder S&amp;P 500" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Windsor Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Sale of Personal residence 2434 19th Ave Vero Beac" tx_date="Apr  1 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Deutsche Bank Autocall Bond" tx_date="Dec 10 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Harbor International Fund" tx_date="Dec 17 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Google Inc" tx_date="140231" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="GNC Holdings" tx_date="Sep 18 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

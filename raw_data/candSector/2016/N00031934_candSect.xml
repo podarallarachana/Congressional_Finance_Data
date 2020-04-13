@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Dan Benishek (R)" cid="N00031934" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031934&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="4100" pacs="50160" total="54260"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1000" pacs="6500" total="7500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1500" pacs="9500" total="11000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="3000" total="3000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5975" pacs="34750" total="40725"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="10000" pacs="35000" total="45000"/>
+    <sector sector_name="Health" sectorid="H" indivs="16950" pacs="76500" total="93450"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="6500" pacs="5750" total="12250"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="10000" pacs="8500" total="18500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="33050" pacs="5000" total="38050"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="11195" pacs="93500" total="104695"/>
+    <sector sector_name="Other" sectorid="W" indivs="15284" pacs="0" total="15284"/>
+  </sectors>
+</response>

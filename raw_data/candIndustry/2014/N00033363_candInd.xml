@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tom Cotton (R)" cid="N00033363" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033363&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="1044900" pacs="58750" total="1103650"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="1032476" pacs="0" total="1032476"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="817817" pacs="80433" total="898250"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="22300" pacs="416671" total="438971"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="348005" pacs="84600" total="432605"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="392855" pacs="25000" total="417855"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="331422" pacs="40365" total="371787"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="263001" pacs="53000" total="316001"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="163735" pacs="139000" total="302735"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="269750" pacs="7000" total="276750"/>
+  </industries>
+</response>

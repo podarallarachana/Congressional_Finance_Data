@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Derek Kilmer (D)" cid="N00034453" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034453&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="121950" pacs="0" total="121950"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="57225" pacs="19500" total="76725"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="67000" total="67000"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="58600" pacs="5500" total="64100"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="1250" pacs="60000" total="61250"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="21050" pacs="36000" total="57050"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="54500" total="54500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="39800" pacs="12000" total="51800"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="2600" pacs="46000" total="48600"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="23050" pacs="25000" total="48050"/>
+  </industries>
+</response>

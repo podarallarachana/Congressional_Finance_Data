@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Dennis Ross (R)" cid="N00030645" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030645&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="8300" pacs="173000" total="181300"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="73958" pacs="64250" total="138208"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="2850" pacs="87500" total="90350"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="2250" pacs="78250" total="80500"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="4850" pacs="47500" total="52350"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="6700" pacs="42000" total="48700"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="5650" pacs="39000" total="44650"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="17600" pacs="15500" total="33100"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="17133" pacs="15500" total="32633"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="1000" pacs="31500" total="32500"/>
+  </industries>
+</response>

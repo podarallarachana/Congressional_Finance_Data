@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Chris Van Hollen (D)" cid="N00013820" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00013820&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="18450" pacs="90500" total="108950"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="30900" pacs="68000" total="98900"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="65300" pacs="24318" total="89618"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="82000" total="82000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="67325" pacs="0" total="67325"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="18700" pacs="28500" total="47200"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="500" pacs="34500" total="35000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="9000" pacs="21000" total="30000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="28500" total="28500"/>
+    <industry industry_code="N08" industry_name="Lodging/Tourism" indivs="11400" pacs="16000" total="27400"/>
+  </industries>
+</response>

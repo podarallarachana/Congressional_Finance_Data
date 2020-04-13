@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tom Marino (R)" cid="N00031777" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031777&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="7100" pacs="14500" total="21600"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="8500" pacs="108689" total="117189"/>
+    <sector sector_name="Construction" sectorid="C" indivs="20950" pacs="17500" total="38450"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="25000" total="25000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="6250" pacs="66750" total="73000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="63250" pacs="37000" total="100250"/>
+    <sector sector_name="Health" sectorid="H" indivs="21000" pacs="99150" total="120150"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="43820" pacs="13750" total="57570"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="27498" pacs="34500" total="61998"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="92050" pacs="46000" total="138050"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="11000" total="11000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="5300" pacs="44000" total="49300"/>
+    <sector sector_name="Other" sectorid="W" indivs="53924" pacs="0" total="53924"/>
+  </sectors>
+</response>

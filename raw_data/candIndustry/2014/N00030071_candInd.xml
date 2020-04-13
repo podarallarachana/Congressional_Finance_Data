@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Kurt Schrader (D)" cid="N00030071" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030071&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="18400" pacs="86500" total="104900"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="15300" pacs="72000" total="87300"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="38800" pacs="47000" total="85800"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="69390" pacs="0" total="69390"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="0" pacs="66000" total="66000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="51000" total="51000"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="19900" pacs="29500" total="49400"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="5400" pacs="43500" total="48900"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="35523" pacs="12000" total="47523"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="43000" total="43000"/>
+  </industries>
+</response>

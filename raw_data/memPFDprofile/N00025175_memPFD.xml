@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Turner, Michael R" data_year="2016" member_id="N00025175" net_low="1409112" net_high="9975996" positions_held_count="0" asset_count="73" asset_low="3209112" asset_high="10841000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00025175" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Cheniere Energy" holdings_low="1000001" holdings_high="5000000" industry="Oil &amp; Gas" sector="Energy/Nat Resource" subsidiary_of=""/>
+      <asset name="ML Bank Deposit Program Money Market" holdings_low="350002" holdings_high="750000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard REIT ETF" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="iShares 7-10 Year Treasury Bond Fund" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="SPDR Barclays 1-3 Month T-Bill ETF" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Scout Mid Cap Fund" tx_date="Feb 28 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Columbia Dividend Income Fund" tx_date="Feb 28 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Scout Mid Cap Fund" tx_date="Oct 14 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="MFS International Value Fund" tx_date="Oct 14 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="MFS International Value Fund" tx_date="Feb 28 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

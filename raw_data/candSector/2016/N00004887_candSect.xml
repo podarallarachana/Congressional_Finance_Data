@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Bobby L Rush (D)" cid="N00004887" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00004887&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="2500" total="2500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2000" pacs="86500" total="88500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1000" pacs="4500" total="5500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="1500" total="1500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5400" pacs="71500" total="76900"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="56000" pacs="23000" total="79000"/>
+    <sector sector_name="Health" sectorid="H" indivs="0" pacs="55000" total="55000"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="18600" pacs="10000" total="28600"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2700" pacs="34500" total="37200"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="3950" pacs="30000" total="33950"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="124500" total="124500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="39000" total="39000"/>
+    <sector sector_name="Other" sectorid="W" indivs="16000" pacs="1500" total="17500"/>
+  </sectors>
+</response>

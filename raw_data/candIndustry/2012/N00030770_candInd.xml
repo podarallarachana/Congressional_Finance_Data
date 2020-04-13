@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Rick Crawford (R)" cid="N00030770" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030770&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="68850" pacs="52000" total="120850"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="101500" total="101500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="47766" pacs="14000" total="61766"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="40600" pacs="20000" total="60600"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="43014" pacs="0" total="43014"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="12500" pacs="20000" total="32500"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="4250" pacs="27000" total="31250"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="31000" total="31000"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="14772" pacs="15000" total="29772"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="13111" pacs="16500" total="29611"/>
+  </industries>
+</response>

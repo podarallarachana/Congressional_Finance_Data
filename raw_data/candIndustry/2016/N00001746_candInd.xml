@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Chaka Fattah (D)" cid="N00001746" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001746&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="21000" total="21000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="500" pacs="18500" total="19000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="15000" total="15000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="8500" total="8500"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="8500" total="8500"/>
+    <industry industry_code="W03" industry_name="Civil Servants/Public Officials" indivs="8400" pacs="0" total="8400"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="8100" pacs="0" total="8100"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="6500" pacs="1000" total="7500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="2400" pacs="5000" total="7400"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="3600" pacs="2500" total="6100"/>
+  </industries>
+</response>

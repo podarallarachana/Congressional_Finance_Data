@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Chabot, Steve" data_year="2016" member_id="N00003689" net_low="559027" net_high="1486000" positions_held_count="0" asset_count="27" asset_low="559027" asset_high="1486000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00003689" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="PNC Bank Account" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Stable Value Option" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Institutional Index" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Cintas Corp" holdings_low="50001" holdings_high="100000" industry="Misc Manufacturing &amp; Distributing" sector="Misc Business" subsidiary_of=""/>
+      <asset name="Multi-Color Corp" holdings_low="50001" holdings_high="100000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="K-Swiss" tx_date="May  1 2013" tx_action="Exchanged" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bill Shuster (R)" cid="N00013770" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00013770&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="M01" industry_name="Air Transport" indivs="145400" pacs="144499" total="289899"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="58600" pacs="180812" total="239412"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="200099" total="200099"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="97450" pacs="86500" total="183950"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="73500" pacs="105000" total="178500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="72638" pacs="103750" total="176388"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="63200" pacs="84500" total="147700"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="79150" pacs="39500" total="118650"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="2500" pacs="116000" total="118500"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="33900" pacs="79900" total="113800"/>
+  </industries>
+</response>

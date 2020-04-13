@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Brian M Higgins (D)" cid="N00027060" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027060&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="83790" pacs="12500" total="96290"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="500" pacs="63500" total="64000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="47750" total="47750"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="250" pacs="46500" total="46750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="23149" pacs="14000" total="37149"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="35500" total="35500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="28000" pacs="1000" total="29000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="18750" pacs="8500" total="27250"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="7750" pacs="19500" total="27250"/>
+    <industry industry_code="C03" industry_name="Special Trade Contractors" indivs="26000" pacs="0" total="26000"/>
+  </industries>
+</response>

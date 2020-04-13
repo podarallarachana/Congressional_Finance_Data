@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="David Rouzer (R)" cid="N00033527" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033527&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="167599" pacs="53100" total="220699"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="103292" total="103292"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="84035" pacs="0" total="84035"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="49813" pacs="13500" total="63313"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="39150" pacs="19625" total="58775"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="10700" pacs="41500" total="52200"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="27688" pacs="22000" total="49688"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="36670" pacs="0" total="36670"/>
+    <industry industry_code="A02" industry_name="Tobacco" indivs="16513" pacs="17500" total="34013"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="7100" pacs="22000" total="29100"/>
+  </industries>
+</response>

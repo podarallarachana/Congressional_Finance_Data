@@ -1,0 +1,17 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00035492" net_low="6246105" net_high="28974995" positions_held_count="2" asset_count="65" asset_low="8046105" asset_high="29840000" transaction_count="23" tx_low="535023" tx_high="1425000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00035492" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Variable Group Universal Life" holdings_low="2000002" holdings_high="10000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Real Estate Personal Residence" holdings_low="1000001" holdings_high="5000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Personal Residence" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Harbor Capital Appreciation Institutional" holdings_low="650004" holdings_high="1350000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Real Estate Condo" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Representative" organization="North Carolina General Assembly"/>
+      <position title="Representative" organization="North Carolina General Assembly"/>
+      <position title="Partner" organization="TRT Holdings"/>
+      <position title="Partner" organization="TRT Holdings LLC"/>
+    </positions>
+  </member_profile>
+</response>

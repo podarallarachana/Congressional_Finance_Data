@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Seth Moulton (D)" cid="N00035431" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035431&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="1179719" pacs="4790" total="1184509"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="266750" pacs="4500" total="271250"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="94300" pacs="18500" total="112800"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1100" pacs="94150" total="95250"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="93897" pacs="0" total="93897"/>
+    <industry industry_code="W04" industry_name="Education" indivs="82578" pacs="0" total="82578"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="62983" pacs="2500" total="65483"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="53600" total="53600"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="51934" pacs="0" total="51934"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="38007" pacs="0" total="38007"/>
+  </industries>
+</response>

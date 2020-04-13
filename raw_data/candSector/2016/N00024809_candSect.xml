@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Joe Wilson (R)" cid="N00024809" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00024809&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="12650" pacs="13000" total="25650"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1000" pacs="15500" total="16500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="28250" pacs="42000" total="70250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="12650" pacs="162500" total="175150"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="4000" pacs="53200" total="57200"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="62550" pacs="110500" total="173050"/>
+    <sector sector_name="Health" sectorid="H" indivs="25850" pacs="45500" total="71350"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="47100" pacs="17000" total="64100"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="24150" pacs="41499" total="65649"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="40925" pacs="64000" total="104925"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="2500" total="2500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="8275" pacs="52850" total="61125"/>
+    <sector sector_name="Other" sectorid="W" indivs="46965" pacs="16000" total="62965"/>
+  </sectors>
+</response>

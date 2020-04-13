@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="James Comer (R)" cid="N00038260" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00038260&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="63390" pacs="10500" total="73890"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="66000" total="66000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="64150" pacs="0" total="64150"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="42800" pacs="15000" total="57800"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="28250" pacs="8500" total="36750"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="25800" pacs="7000" total="32800"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="31300" pacs="0" total="31300"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="23665" pacs="2700" total="26365"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="15700" pacs="6000" total="21700"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="13600" pacs="6000" total="19600"/>
+  </industries>
+</response>

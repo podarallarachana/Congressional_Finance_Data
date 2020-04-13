@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Elizabeth Esty (D)" cid="N00033217" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033217&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="4955" pacs="4750" total="9705"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="54044" pacs="26010" total="80054"/>
+    <sector sector_name="Construction" sectorid="C" indivs="25017" pacs="27500" total="52517"/>
+    <sector sector_name="Defense" sectorid="D" indivs="856" pacs="3500" total="4356"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5528" pacs="13000" total="18528"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="174079" pacs="89500" total="263579"/>
+    <sector sector_name="Health" sectorid="H" indivs="52372" pacs="60500" total="112872"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="170160" pacs="17000" total="187160"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="13367" pacs="81000" total="94367"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="88523" pacs="47491" total="136014"/>
+    <sector sector_name="Labor" sectorid="P" indivs="2000" pacs="175000" total="177000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="177312" pacs="102843" total="280155"/>
+    <sector sector_name="Other" sectorid="W" indivs="257279" pacs="2500" total="259779"/>
+  </sectors>
+</response>

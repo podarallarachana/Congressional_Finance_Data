@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Rodney Alexander (R)" cid="N00025464" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00025464&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="31638" pacs="41000" total="72638"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="47000" pacs="23000" total="70000"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="36950" pacs="32500" total="69450"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="37133" pacs="25750" total="62883"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="45516" pacs="16000" total="61516"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="55448" pacs="1979" total="57427"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="33890" pacs="16000" total="49890"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="25750" pacs="20500" total="46250"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="33106" pacs="8000" total="41106"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="38900" pacs="0" total="38900"/>
+  </industries>
+</response>

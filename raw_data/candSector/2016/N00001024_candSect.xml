@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Nita M Lowey (D)" cid="N00001024" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001024&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="10400" pacs="3000" total="13400"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="42200" pacs="23000" total="65200"/>
+    <sector sector_name="Construction" sectorid="C" indivs="6250" pacs="7000" total="13250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="53500" total="53500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="382300" pacs="52000" total="434300"/>
+    <sector sector_name="Health" sectorid="H" indivs="51438" pacs="58900" total="110338"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="119100" pacs="28050" total="147150"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="24500" total="24500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="58780" pacs="41500" total="100280"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="125000" total="125000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="111348" pacs="47425" total="158773"/>
+    <sector sector_name="Other" sectorid="W" indivs="271458" pacs="4000" total="275458"/>
+  </sectors>
+</response>

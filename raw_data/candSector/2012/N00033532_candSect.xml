@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="James Bridenstine (R)" cid="N00033532" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033532&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="2400" pacs="1500" total="3900"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="13325" pacs="1000" total="14325"/>
+    <sector sector_name="Construction" sectorid="C" indivs="8500" pacs="10500" total="19000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1000" pacs="4000" total="5000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="27500" pacs="53500" total="81000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="25800" pacs="24500" total="50300"/>
+    <sector sector_name="Health" sectorid="H" indivs="103665" pacs="18000" total="121665"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="25300" pacs="0" total="25300"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="10250" pacs="18000" total="28250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="38739" pacs="9500" total="48239"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="4000" total="4000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="13750" pacs="54546" total="68296"/>
+    <sector sector_name="Other" sectorid="W" indivs="81250" pacs="0" total="81250"/>
+  </sectors>
+</response>

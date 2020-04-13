@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Alan Lowenthal (D)" cid="N00033274" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033274&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="61375" total="61375"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="49200" total="49200"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="46500" total="46500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="8650" pacs="29600" total="38250"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="19900" pacs="14750" total="34650"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="32985" pacs="0" total="32985"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="32000" total="32000"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="23500" total="23500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="19400" pacs="4000" total="23400"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="0" pacs="19700" total="19700"/>
+  </industries>
+</response>

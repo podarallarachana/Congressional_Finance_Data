@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="Moran, Jerry" data_year="2016" member_id="N00005282" net_low="1796056" net_high="4643999" positions_held_count="4" asset_count="44" asset_low="1896056" asset_high="4694000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00005282" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Hanston Insurance Agency" holdings_low="500002" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Midwest Community Bank" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Midwest Community Bank Money Market Account" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Capital Income Builder A" holdings_low="101002" holdings_high="265000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Funds Capital Income Builder Fund" holdings_low="101002" holdings_high="265000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Trustee" organization="Fort Hays State University Foundation"/>
+      <position title="Other (Governor)" organization="University of Kansas Law School"/>
+    </positions>
+  </member_profile>
+</response>

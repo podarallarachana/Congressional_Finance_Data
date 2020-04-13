@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Michaud, Mike" data_year="2016" member_id="N00024770" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00024770" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Columbia Midcap Opportunity" tx_date="Oct 22 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Columbia Marisco" tx_date="Oct 22 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="111 Main Street/East Millinocket, ME" tx_date="Nov 30 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="109 Main Street/East Millinocket, ME" tx_date="Nov 30 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Mid Cap Value Fund" tx_date="Oct 22 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Partner" organization="M&amp;M Partnership"/>
+    </positions>
+  </member_profile>
+</response>

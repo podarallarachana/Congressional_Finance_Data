@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Roger Williams (R)" cid="N00030602" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030602&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="308808" pacs="33500" total="342308"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="331726" pacs="0" total="331726"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="251050" pacs="32000" total="283050"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="230226" pacs="11300" total="241526"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="200200" pacs="2000" total="202200"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="144950" pacs="7500" total="152450"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="117879" pacs="500" total="118379"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="98250" pacs="9500" total="107750"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="85830" pacs="5000" total="90830"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="61374" pacs="5000" total="66374"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Joni Ernst (R)" cid="N00035483" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035483&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="2000" pacs="354100" total="356100"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="182537" pacs="0" total="182537"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="87041" pacs="84900" total="171941"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="134020" pacs="5000" total="139020"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="43900" pacs="91500" total="135400"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="16850" pacs="57000" total="73850"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="26515" pacs="44500" total="71015"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="10200" pacs="60100" total="70300"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="49190" pacs="15000" total="64190"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="24900" pacs="34200" total="59100"/>
+  </industries>
+</response>

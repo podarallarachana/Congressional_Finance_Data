@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Kevin McCarthy (R)" cid="N00028152" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00028152&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="520450" pacs="167614" total="688064"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="451225" pacs="98250" total="549475"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="143900" pacs="287300" total="431200"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="340100" pacs="6809" total="346909"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="228300" pacs="115450" total="343750"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="148350" pacs="189500" total="337850"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="116235" pacs="220500" total="336735"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="113500" pacs="219500" total="333000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="219317" pacs="51900" total="271217"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="224806" pacs="0" total="224806"/>
+  </industries>
+</response>

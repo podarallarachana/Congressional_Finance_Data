@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Matheson, Jim" data_year="2016" member_id="N00009753" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00009753" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Fidelity Export &amp; Multinational Fund" tx_date="Oct  4 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Fidelity Spartan US Equity Index Fund" tx_date="Oct  4 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Fidelity Freedom Fund 2035" tx_date="Oct  4 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Fidelity Small Cap Discovery Fund" tx_date="Oct  4 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Fidelity Value Discovery Fund" tx_date="Oct  4 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

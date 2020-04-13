@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Robert B Aderholt (R)" cid="N00003028" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00003028&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="26585" pacs="209000" total="235585"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="14997" pacs="38600" total="53597"/>
+    <sector sector_name="Construction" sectorid="C" indivs="32397" pacs="17500" total="49897"/>
+    <sector sector_name="Defense" sectorid="D" indivs="36145" pacs="96000" total="132145"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="11244" pacs="59000" total="70244"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="21847" pacs="111500" total="133347"/>
+    <sector sector_name="Health" sectorid="H" indivs="16544" pacs="43000" total="59544"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="50365" pacs="30119" total="80484"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="26946" pacs="49000" total="75946"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="25596" pacs="55000" total="80596"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="22000" total="22000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="3048" pacs="23000" total="26048"/>
+    <sector sector_name="Other" sectorid="W" indivs="15445" pacs="2000" total="17445"/>
+  </sectors>
+</response>

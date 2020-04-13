@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Rogers, Hal" data_year="2016" member_id="N00003473" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00003473" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="KY State Ppty &amp; Bldgs Commn Rev" tx_date="2013-10-17 00:00:00.000" tx_action="Sold" value_low="11537" value_high="11537"/>
+      <transaction asset_name="City &amp; County of San Francisco, CA" tx_date="2013-10-03 00:00:00.000" tx_action="Sold" value_low="10919" value_high="10919"/>
+      <transaction asset_name="JPMorgan Core Bond Fund" tx_date="2013-10-31 00:00:00.000" tx_action="Sold" value_low="8381" value_high="8381"/>
+      <transaction asset_name="Bridge Builder Bond Fund" tx_date="2013-10-31 00:00:00.000" tx_action="Purchased" value_low="8381" value_high="8381"/>
+      <transaction asset_name="Bridge Builder Bond Fund" tx_date="2013-11-20 00:00:00.000" tx_action="Purchased" value_low="6324" value_high="6324"/>
+    </transactions>
+  </member_profile>
+</response>

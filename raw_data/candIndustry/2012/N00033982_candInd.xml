@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Martha McSally (R)" cid="N00033982" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033982&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="181333" pacs="0" total="181333"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="149750" total="149750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="72594" pacs="0" total="72594"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="53000" total="53000"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="45333" pacs="7500" total="52833"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="35333" pacs="0" total="35333"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="19500" pacs="13280" total="32780"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="25440" pacs="2500" total="27940"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="26083" pacs="0" total="26083"/>
+    <industry industry_code="C02" industry_name="Home Builders" indivs="21000" pacs="2500" total="23500"/>
+  </industries>
+</response>

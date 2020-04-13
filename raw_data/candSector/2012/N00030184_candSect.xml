@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Cedric Richmond (D)" cid="N00030184" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030184&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="250" pacs="28000" total="28250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="5150" pacs="33500" total="38650"/>
+    <sector sector_name="Construction" sectorid="C" indivs="19200" pacs="21000" total="40200"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="23500" total="23500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="12050" pacs="41250" total="53300"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="23650" pacs="56500" total="80150"/>
+    <sector sector_name="Health" sectorid="H" indivs="10200" pacs="44000" total="54200"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="125750" pacs="33044" total="158794"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="12011" pacs="65684" total="77695"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="28650" pacs="79500" total="108150"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="148671" total="148671"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="250" pacs="36750" total="37000"/>
+    <sector sector_name="Other" sectorid="W" indivs="7200" pacs="0" total="7200"/>
+  </sectors>
+</response>

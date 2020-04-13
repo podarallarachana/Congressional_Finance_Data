@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Michael Burgess (R)" cid="N00025219" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00025219&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="53396" pacs="322093" total="375489"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="1500" pacs="122550" total="124050"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="10750" pacs="74500" total="85250"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="1650" pacs="63500" total="65150"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="1750" pacs="38250" total="40000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="6450" pacs="26000" total="32450"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="30000" total="30000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="23925" pacs="1000" total="24925"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="3050" pacs="19500" total="22550"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="0" pacs="20000" total="20000"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Sean Patrick Maloney (D)" cid="N00034277" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00034277&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="9250" pacs="49250" total="58500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="158950" pacs="48500" total="207450"/>
+    <sector sector_name="Construction" sectorid="C" indivs="49150" pacs="30500" total="79650"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5200" pacs="0" total="5200"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="17950" pacs="9750" total="27700"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="609747" pacs="251500" total="861247"/>
+    <sector sector_name="Health" sectorid="H" indivs="106196" pacs="46000" total="152196"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="418398" pacs="26250" total="444648"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1750" pacs="84998" total="86748"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="242737" pacs="42832" total="285569"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="297250" total="297250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="156115" pacs="394452" total="550567"/>
+    <sector sector_name="Other" sectorid="W" indivs="275099" pacs="0" total="275099"/>
+  </sectors>
+</response>

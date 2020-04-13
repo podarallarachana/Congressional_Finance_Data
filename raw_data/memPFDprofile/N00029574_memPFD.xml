@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Stivers, Steve" data_year="2016" member_id="N00029574" net_low="28051" net_high="1676998" positions_held_count="0" asset_count="43" asset_low="628051" asset_high="1977000" transaction_count="18" tx_low="1018" tx_high="32000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00029574" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Procter &amp; Gamble" holdings_low="101002" holdings_high="265000" industry="Misc Manufacturing &amp; Distributing" sector="Misc Business" subsidiary_of=""/>
+      <asset name="S&amp;P 500 Index" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Farmland in Crawford &amp; Marion County, OH" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="" holdings_low="52004" holdings_high="131000" industry="" sector="" subsidiary_of=""/>
+      <asset name="JP Morgan Chase Retirement Plan Account" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="First Eagle Global Fund" tx_date="Oct 31 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Wells Fargo Mutual Fund" tx_date="Jun 24 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="AJ Stivers Trust Blackrock Liquidity Fund" tx_date="Dec 31 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="AJ Stivers Trust Blackrock Liquidity Fund" tx_date="Sep 30 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="AJ Stivers Trust Blackrock Liquidity Fund" tx_date="Jun 30 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

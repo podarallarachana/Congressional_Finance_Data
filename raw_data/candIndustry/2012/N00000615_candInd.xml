@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Rosa L DeLauro (D)" cid="N00000615" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000615&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="18196" pacs="95000" total="113196"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="77043" pacs="1175" total="78218"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="73000" total="73000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="42652" pacs="30000" total="72652"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="47250" pacs="2050" total="49300"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="48000" total="48000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="43000" total="43000"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="36500" total="36500"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="1500" pacs="33000" total="34500"/>
+    <industry industry_code="Q10" industry_name="Misc Issues" indivs="2900" pacs="30000" total="32900"/>
+  </industries>
+</response>

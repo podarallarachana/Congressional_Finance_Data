@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Tipton, Scott" data_year="2016" member_id="N00027509" net_low="2978071" net_high="10170000" positions_held_count="0" asset_count="57" asset_low="2978071" asset_high="10170000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00027509" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Hidden Valley CRM" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="27601 Highway 160" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="110 Whistlepig Way Site 87" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="701 3rd Street" holdings_low="100001" holdings_high="250000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="702 Arbor Street" holdings_low="100001" holdings_high="250000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="4 Way Construction Airport Circle" tx_date="Feb 28 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+    </transactions>
+  </member_profile>
+</response>

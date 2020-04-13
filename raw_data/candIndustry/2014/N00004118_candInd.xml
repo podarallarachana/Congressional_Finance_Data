@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Debbie Stabenow (D)" cid="N00004118" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004118&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="493546" pacs="153035" total="646581"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="436120" pacs="169250" total="605370"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="228833" pacs="289710" total="518543"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="447039" pacs="0" total="447039"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="112861" pacs="244565" total="357426"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="143300" pacs="192545" total="335845"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="316555" pacs="12000" total="328555"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="307767" pacs="14893" total="322660"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="210647" pacs="79000" total="289647"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="287500" total="287500"/>
+  </industries>
+</response>

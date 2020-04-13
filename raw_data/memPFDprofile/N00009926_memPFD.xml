@@ -1,0 +1,17 @@
+<response>
+  <member_profile name="Nelson, Bill" data_year="2016" member_id="N00009926" net_low="1309033" net_high="6035000" positions_held_count="1" asset_count="25" asset_low="1309033" asset_high="6035000" transaction_count="32" tx_low="32032" tx_high="480000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00009926" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Real Property Pasture &amp; Undeveloped" holdings_low="1000001" holdings_high="5000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Real Property Undeveloped Land" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="SunAmerica Focused Dividend Strategy Fund" holdings_low="16002" holdings_high="65000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard 500 Index Admiral Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Swan Defined Risk I" holdings_low="3003" holdings_high="45000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="SunAmerica Focused Dividend Strategy Fund" tx_date="Oct 17 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="SunAmerica Focused Dividend Strategy Fund" tx_date="Sep 30 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="SunAmerica Focused Dividend Strategy Fund" tx_date="Aug  5 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="SunAmerica Focused Dividend Strategy Fund" tx_date="Jun  4 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

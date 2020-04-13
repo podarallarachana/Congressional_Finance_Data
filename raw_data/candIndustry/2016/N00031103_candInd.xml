@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bob Dold (R)" cid="N00031103" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031103&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="507300" pacs="104500" total="611800"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="442912" pacs="0" total="442912"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="387500" total="387500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="44470" pacs="219100" total="263570"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="225540" pacs="30000" total="255540"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="130100" pacs="61000" total="191100"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="60100" pacs="130700" total="190800"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="123473" pacs="26290" total="149763"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="46974" pacs="99750" total="146724"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="86721" pacs="22000" total="108721"/>
+  </industries>
+</response>

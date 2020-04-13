@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Rand Paul (R)" cid="N00030836" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030836&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="944975" pacs="0" total="944975"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="640832" pacs="79000" total="719832"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="434615" pacs="55005" total="489620"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="432347" pacs="10500" total="442847"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="228010" pacs="22350" total="250360"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="231650" pacs="2000" total="233650"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="212405" pacs="20550" total="232955"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="227452" pacs="5000" total="232452"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="32085" pacs="182720" total="214805"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="141152" pacs="11000" total="152152"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jim McDermott (D)" cid="N00009829" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009829&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="14500" total="14500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3200" pacs="2000" total="5200"/>
+    <sector sector_name="Construction" sectorid="C" indivs="750" pacs="0" total="750"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="6750" pacs="7250" total="14000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="3250" pacs="61000" total="64250"/>
+    <sector sector_name="Health" sectorid="H" indivs="11350" pacs="145600" total="156950"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="10750" pacs="13100" total="23850"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="3950" pacs="7000" total="10950"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="9350" pacs="27000" total="36350"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="139500" total="139750"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2750" pacs="9500" total="12250"/>
+    <sector sector_name="Other" sectorid="W" indivs="39043" pacs="0" total="39043"/>
+  </sectors>
+</response>

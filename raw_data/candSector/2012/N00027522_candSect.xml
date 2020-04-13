@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Dean Heller (R)" cid="N00027522" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027522&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="54840" pacs="116000" total="170840"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="131200" pacs="211500" total="342700"/>
+    <sector sector_name="Construction" sectorid="C" indivs="184807" pacs="87500" total="272307"/>
+    <sector sector_name="Defense" sectorid="D" indivs="7250" pacs="22500" total="29750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="300501" pacs="348075" total="648576"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="862678" pacs="486900" total="1349578"/>
+    <sector sector_name="Health" sectorid="H" indivs="188129" pacs="246350" total="434479"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="280932" pacs="61645" total="342577"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="138360" pacs="171499" total="309859"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="606467" pacs="380924" total="987391"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="149879" pacs="545783" total="695662"/>
+    <sector sector_name="Other" sectorid="W" indivs="585432" pacs="12000" total="597432"/>
+  </sectors>
+</response>

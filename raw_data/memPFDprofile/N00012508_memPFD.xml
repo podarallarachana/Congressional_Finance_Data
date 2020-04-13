@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Carper, Tom" data_year="2016" member_id="N00012508" net_low="7840438" net_high="22480999" positions_held_count="0" asset_count="248" asset_low="8090438" asset_high="22581000" transaction_count="72" tx_low="464072" tx_high="2060000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00012508" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Unimproved Land" holdings_low="1500004" holdings_high="3000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="EI du Pont de Nemours &amp; Co" holdings_low="502004" holdings_high="1030000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Unimproved LandDescription: Undeveloped farm land" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Lincoln National Corp" holdings_low="345006" holdings_high="900000" industry="Insurance" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Morgan Stanley Bank NA" holdings_low="230004" holdings_high="600000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="DuPont Co" tx_date="Jan 24 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="DuPont Co" tx_date="Jan 24 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Lincoln National Corp" tx_date="Mar  5 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Metropolitan Edison Bond" tx_date="Mar 15 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="DuPont Co" tx_date="May 30 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+    </transactions>
+  </member_profile>
+</response>

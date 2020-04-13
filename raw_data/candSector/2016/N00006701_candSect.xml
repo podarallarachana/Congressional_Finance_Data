@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mark A Takano (D)" cid="N00006701" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00006701&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="12200" pacs="12000" total="24200"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="47464" pacs="9000" total="56464"/>
+    <sector sector_name="Construction" sectorid="C" indivs="12400" pacs="0" total="12400"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="3500" total="3500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="50380" pacs="44500" total="94880"/>
+    <sector sector_name="Health" sectorid="H" indivs="47699" pacs="34000" total="81699"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="70175" pacs="7750" total="77925"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1750" pacs="9500" total="11250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="29181" pacs="9000" total="38181"/>
+    <sector sector_name="Labor" sectorid="P" indivs="425" pacs="174250" total="174675"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="92033" pacs="21100" total="113133"/>
+    <sector sector_name="Other" sectorid="W" indivs="145597" pacs="0" total="145597"/>
+  </sectors>
+</response>

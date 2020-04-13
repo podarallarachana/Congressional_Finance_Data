@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Garamendi (D)" cid="N00030856" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030856&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="96500" total="96500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="36512" pacs="30500" total="67012"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="45417" pacs="15500" total="60917"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="60800" total="60800"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="33805" pacs="25933" total="59738"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="5700" pacs="46500" total="52200"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="1080" pacs="41500" total="42580"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="16300" pacs="25500" total="41800"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="34500" total="34500"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="29500" total="29500"/>
+  </industries>
+</response>

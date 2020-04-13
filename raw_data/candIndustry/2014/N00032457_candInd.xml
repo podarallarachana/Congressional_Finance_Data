@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Austin Scott (R)" cid="N00032457" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00032457&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="20200" pacs="53000" total="73200"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="33000" pacs="30500" total="63500"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="5100" pacs="55000" total="60100"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="2800" pacs="53500" total="56300"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="500" pacs="45000" total="45500"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="5750" pacs="34000" total="39750"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="37450" pacs="0" total="37450"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="21550" pacs="11890" total="33440"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="8200" pacs="18000" total="26200"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="0" pacs="24500" total="24500"/>
+  </industries>
+</response>

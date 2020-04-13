@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mia Love (R)" cid="N00033842" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033842&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="40115" pacs="29000" total="69115"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="19939" pacs="36500" total="56439"/>
+    <sector sector_name="Construction" sectorid="C" indivs="17467" pacs="25000" total="42467"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2186" pacs="15500" total="17686"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="38278" pacs="53000" total="91278"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="291216" pacs="430347" total="721563"/>
+    <sector sector_name="Health" sectorid="H" indivs="44916" pacs="49800" total="94716"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="44689" pacs="2750" total="47439"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="26394" pacs="44000" total="70394"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="97844" pacs="69998" total="167842"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="6500" total="6500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="581680" pacs="294743" total="876423"/>
+    <sector sector_name="Other" sectorid="W" indivs="501824" pacs="600" total="502424"/>
+  </sectors>
+</response>

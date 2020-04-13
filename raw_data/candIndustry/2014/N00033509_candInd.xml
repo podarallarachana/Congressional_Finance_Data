@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Gloria McLeod (D)" cid="N00033509" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033509&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="12500" total="12500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="12000" total="12000"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="500" pacs="9000" total="9500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="300" pacs="8000" total="8300"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="1500" pacs="5000" total="6500"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="250" pacs="6000" total="6250"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="5500" pacs="0" total="5500"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="5000" total="5000"/>
+    <industry industry_code="N06" industry_name="Recreation/Live Entertainment" indivs="4000" pacs="0" total="4000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="3750" pacs="0" total="3750"/>
+  </industries>
+</response>

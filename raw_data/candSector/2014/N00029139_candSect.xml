@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Bill Foster (D)" cid="N00029139" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029139&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="250" pacs="26441" total="26691"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="51600" pacs="25090" total="76690"/>
+    <sector sector_name="Construction" sectorid="C" indivs="13250" pacs="3000" total="16250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="16500" pacs="9000" total="25500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="32200" pacs="24000" total="56200"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="193450" pacs="301400" total="494850"/>
+    <sector sector_name="Health" sectorid="H" indivs="65950" pacs="29500" total="95450"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="175312" pacs="27499" total="202811"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="3750" pacs="10000" total="13750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="84126" pacs="30104" total="114230"/>
+    <sector sector_name="Labor" sectorid="P" indivs="2300" pacs="186500" total="188800"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="189063" pacs="113838" total="302901"/>
+    <sector sector_name="Other" sectorid="W" indivs="629917" pacs="0" total="629917"/>
+  </sectors>
+</response>

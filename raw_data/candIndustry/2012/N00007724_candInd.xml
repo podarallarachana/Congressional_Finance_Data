@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ron Wyden (D)" cid="N00007724" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007724&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="469118" pacs="120809" total="589927"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="465150" pacs="57579" total="522729"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="269010" pacs="224215" total="493225"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="288730" pacs="35010" total="323740"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="173000" pacs="127900" total="300900"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="235035" pacs="0" total="235035"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="161391" pacs="72900" total="234291"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="81800" pacs="136999" total="218799"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="152485" pacs="59500" total="211985"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="191952" pacs="6500" total="198452"/>
+  </industries>
+</response>

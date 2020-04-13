@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Hal Rogers (R)" cid="N00003473" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00003473&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="9750" pacs="61500" total="71250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="16200" pacs="35000" total="51200"/>
+    <sector sector_name="Construction" sectorid="C" indivs="34000" pacs="52500" total="86500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5000" pacs="135000" total="140000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="8200" pacs="109400" total="117600"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="43450" pacs="92750" total="136200"/>
+    <sector sector_name="Health" sectorid="H" indivs="21450" pacs="79300" total="100750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="56650" pacs="36150" total="92800"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="21400" pacs="149500" total="170900"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="20900" pacs="139300" total="160200"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="42000" total="42000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="400" pacs="16000" total="16400"/>
+    <sector sector_name="Other" sectorid="W" indivs="31650" pacs="4000" total="35650"/>
+  </sectors>
+</response>

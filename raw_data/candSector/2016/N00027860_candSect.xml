@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tammy Duckworth (D)" cid="N00027860" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027860&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="49948" pacs="46000" total="95948"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="436384" pacs="20000" total="456384"/>
+    <sector sector_name="Construction" sectorid="C" indivs="86720" pacs="1000" total="87720"/>
+    <sector sector_name="Defense" sectorid="D" indivs="22122" pacs="69000" total="91122"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="49580" pacs="30500" total="80080"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="985913" pacs="78500" total="1064413"/>
+    <sector sector_name="Health" sectorid="H" indivs="290077" pacs="129100" total="419177"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1360217" pacs="25900" total="1386117"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="22493" pacs="35500" total="57993"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="516359" pacs="44000" total="560359"/>
+    <sector sector_name="Labor" sectorid="P" indivs="6662" pacs="393500" total="400162"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2904797" pacs="610195" total="3514992"/>
+    <sector sector_name="Other" sectorid="W" indivs="1762428" pacs="10000" total="1772428"/>
+  </sectors>
+</response>

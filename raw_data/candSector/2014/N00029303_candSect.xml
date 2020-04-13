@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jeff Merkley (D)" cid="N00029303" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029303&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="65921" pacs="88500" total="154421"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="215578" pacs="111004" total="326582"/>
+    <sector sector_name="Construction" sectorid="C" indivs="45065" pacs="60000" total="105065"/>
+    <sector sector_name="Defense" sectorid="D" indivs="4000" pacs="34500" total="38500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="35085" pacs="93850" total="128935"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="450420" pacs="340400" total="790820"/>
+    <sector sector_name="Health" sectorid="H" indivs="170085" pacs="197500" total="367585"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="533030" pacs="95698" total="628728"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="26334" pacs="82200" total="108534"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="277238" pacs="134500" total="411738"/>
+    <sector sector_name="Labor" sectorid="P" indivs="2950" pacs="410800" total="413750"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="400223" pacs="556903" total="957126"/>
+    <sector sector_name="Other" sectorid="W" indivs="724215" pacs="12000" total="736215"/>
+  </sectors>
+</response>

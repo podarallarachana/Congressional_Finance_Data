@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Betty McCollum (D)" cid="N00012942" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00012942&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1750" pacs="43000" total="44750"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2750" pacs="11500" total="14250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1000" pacs="5500" total="6500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="41000" total="41000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="750" pacs="7000" total="7750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="31200" pacs="24750" total="55950"/>
+    <sector sector_name="Health" sectorid="H" indivs="18200" pacs="57000" total="75200"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="34712" pacs="30850" total="65562"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="5100" pacs="21000" total="26100"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="101700" pacs="40000" total="141700"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="169250" total="169250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="11250" pacs="13577" total="24827"/>
+    <sector sector_name="Other" sectorid="W" indivs="59341" pacs="12500" total="71841"/>
+  </sectors>
+</response>

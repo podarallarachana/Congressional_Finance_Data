@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Dan Maffei (D)" cid="N00027891" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027891&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1500" pacs="26250" total="27750"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="46675" pacs="55000" total="101675"/>
+    <sector sector_name="Construction" sectorid="C" indivs="20450" pacs="10000" total="30450"/>
+    <sector sector_name="Defense" sectorid="D" indivs="16850" pacs="95500" total="112350"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="4200" pacs="46500" total="50700"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="192457" pacs="230500" total="422957"/>
+    <sector sector_name="Health" sectorid="H" indivs="40901" pacs="178000" total="218901"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="246055" pacs="46700" total="292755"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="500" pacs="23500" total="24000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="58700" pacs="71309" total="130009"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="274250" total="274500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="48881" pacs="336468" total="385349"/>
+    <sector sector_name="Other" sectorid="W" indivs="180594" pacs="8500" total="189094"/>
+  </sectors>
+</response>

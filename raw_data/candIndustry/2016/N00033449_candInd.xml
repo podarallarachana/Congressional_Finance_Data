@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Val Demings (D)" cid="N00033449" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033449&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="71992" pacs="8100" total="80092"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="68411" pacs="0" total="68411"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="4000" pacs="45014" total="49014"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="48338" pacs="0" total="48338"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="44000" total="44000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="30975" pacs="2000" total="32975"/>
+    <industry industry_code="W04" industry_name="Education" indivs="30856" pacs="0" total="30856"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="29560" pacs="0" total="29560"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="27600" pacs="0" total="27600"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="23945" pacs="2000" total="25945"/>
+  </industries>
+</response>

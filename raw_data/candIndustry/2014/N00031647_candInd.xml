@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mike Kelly (R)" cid="N00031647" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031647&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="13100" pacs="89250" total="102350"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="3900" pacs="85950" total="89850"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="17850" pacs="54000" total="71850"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="18150" pacs="44554" total="62704"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="250" pacs="62000" total="62250"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="60450" pacs="0" total="60450"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="9800" pacs="43000" total="52800"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="25250" pacs="24500" total="49750"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="23650" pacs="24500" total="48150"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="11400" pacs="34500" total="45900"/>
+  </industries>
+</response>

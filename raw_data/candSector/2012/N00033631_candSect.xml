@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Mark R Meadows (R)" cid="N00033631" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033631&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="20200" pacs="10500" total="30700"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3350" pacs="2000" total="5350"/>
+    <sector sector_name="Construction" sectorid="C" indivs="13950" pacs="6000" total="19950"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="8800" pacs="21500" total="30300"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="56450" pacs="29500" total="85950"/>
+    <sector sector_name="Health" sectorid="H" indivs="14400" pacs="18500" total="32900"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="20250" pacs="0" total="20250"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="5500" pacs="7500" total="13000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="34750" pacs="10500" total="45250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2150" pacs="153136" total="155286"/>
+    <sector sector_name="Other" sectorid="W" indivs="185100" pacs="0" total="185100"/>
+  </sectors>
+</response>

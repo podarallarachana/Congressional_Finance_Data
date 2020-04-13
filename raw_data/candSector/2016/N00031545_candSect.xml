@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Bill Flores (R)" cid="N00031545" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031545&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="17750" pacs="65829" total="83579"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="27200" pacs="100000" total="127200"/>
+    <sector sector_name="Construction" sectorid="C" indivs="23500" pacs="26750" total="50250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="250" pacs="30500" total="30750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="83550" pacs="196809" total="280359"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="95900" pacs="192000" total="287900"/>
+    <sector sector_name="Health" sectorid="H" indivs="18450" pacs="190000" total="208450"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="63250" pacs="14750" total="78000"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="13121" pacs="95000" total="108121"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="46950" pacs="109000" total="155950"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="11500" total="11500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="7100" pacs="61648" total="68748"/>
+    <sector sector_name="Other" sectorid="W" indivs="82661" pacs="2000" total="84661"/>
+  </sectors>
+</response>

@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Doggett, Lloyd" data_year="2016" member_id="N00006023" net_low="12827059" net_high="36529999" positions_held_count="0" asset_count="57" asset_low="13327059" asset_high="36780000" transaction_count="40" tx_low="608040" tx_high="1493000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00006023" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="6734 Spicewood Springs" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Convertible Securities Fund" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Prime Cap Fund" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Whole Foods Market" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Oakmark International (OAKIX)" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Weitz Value Fund" tx_date="Mar 11 2013" tx_action="Sold" value_low="250001" value_high="500000"/>
+      <transaction asset_name="First Eagle Overseas Fund" tx_date="Mar 14 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Invesco Small Cap Growth Fund" tx_date="Mar 11 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Perkins Mid Cap Value Fund" tx_date="Mar 11 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Apache Corp" tx_date="Mar 11 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+    </transactions>
+  </member_profile>
+</response>

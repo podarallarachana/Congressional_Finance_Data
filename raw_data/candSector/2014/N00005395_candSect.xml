@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mary L Landrieu (D)" cid="N00005395" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00005395&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="195555" pacs="187500" total="383055"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="414027" pacs="218109" total="632136"/>
+    <sector sector_name="Construction" sectorid="C" indivs="431547" pacs="67750" total="499297"/>
+    <sector sector_name="Defense" sectorid="D" indivs="35050" pacs="172500" total="207550"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="980382" pacs="886466" total="1866848"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1386971" pacs="422683" total="1809654"/>
+    <sector sector_name="Health" sectorid="H" indivs="429615" pacs="304649" total="734264"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="2109305" pacs="319475" total="2428780"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="252625" pacs="235650" total="488275"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="728736" pacs="419698" total="1148434"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1800" pacs="441210" total="443010"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="751908" pacs="1119574" total="1871482"/>
+    <sector sector_name="Other" sectorid="W" indivs="1276632" pacs="19000" total="1295632"/>
+  </sectors>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Keith Ellison (D)" cid="N00028257" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00028257&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="10700" pacs="30000" total="40700"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="48276" pacs="2000" total="50276"/>
+    <sector sector_name="Construction" sectorid="C" indivs="26800" pacs="0" total="26800"/>
+    <sector sector_name="Defense" sectorid="D" indivs="750" pacs="2000" total="2750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="13100" pacs="1000" total="14100"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="109162" pacs="56700" total="165862"/>
+    <sector sector_name="Health" sectorid="H" indivs="232150" pacs="14550" total="246700"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="52135" pacs="28763" total="80898"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="12000" pacs="2000" total="14000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="75120" pacs="26000" total="101120"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="173500" total="173750"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="46650" pacs="39723" total="86373"/>
+    <sector sector_name="Other" sectorid="W" indivs="112150" pacs="500" total="112650"/>
+  </sectors>
+</response>

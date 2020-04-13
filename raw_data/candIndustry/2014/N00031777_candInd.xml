@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tom Marino (R)" cid="N00031777" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031777&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="1750" pacs="53500" total="55250"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="46650" pacs="6000" total="52650"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="51874" pacs="0" total="51874"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="20100" pacs="21000" total="41100"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="14500" pacs="25500" total="40000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="24800" pacs="12500" total="37300"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="6750" pacs="29000" total="35750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="27150" pacs="8000" total="35150"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="19298" pacs="13500" total="32798"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="500" pacs="31750" total="32250"/>
+  </industries>
+</response>

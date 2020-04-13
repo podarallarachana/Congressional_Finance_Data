@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Bucshon, Larry" data_year="2016" member_id="N00031227" net_low="931341" net_high="1002338" positions_held_count="0" asset_count="29" asset_low="931341" asset_high="1002338" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031227" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="418786" holdings_high="418786" industry="" sector="" subsidiary_of=""/>
+      <asset name="Doubline Shiller Enhanced Cape Fund" holdings_low="73969" holdings_high="73969" industry="" sector="" subsidiary_of=""/>
+      <asset name="Old National Bank Account" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="USAA Federal Savings Bank" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Powershare FTSE RAFI US" holdings_low="43802" holdings_high="43802" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Schwab Advantage Cash Reserve" tx_date="2013-03-08 00:00:00.000" tx_action="Purchased" value_low="338713" value_high="338713"/>
+      <transaction asset_name="Schwab Advantage Cash Reserve" tx_date="2013-03-13 00:00:00.000" tx_action="Sold" value_low="175359" value_high="175359"/>
+      <transaction asset_name="Schwab Advantage Cash Reserve" tx_date="2013-03-11 00:00:00.000" tx_action="Sold" value_low="161867" value_high="161867"/>
+      <transaction asset_name="Schwab Muni Money Fund Sweep Shares" tx_date="2013-06-26 00:00:00.000" tx_action="Purchased" value_low="133140" value_high="133140"/>
+      <transaction asset_name="Schwab Muni Money Fund Sweep Shares" tx_date="2013-06-27 00:00:00.000" tx_action="Purchased" value_low="94487" value_high="94487"/>
+    </transactions>
+  </member_profile>
+</response>

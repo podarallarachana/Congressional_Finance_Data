@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Kyrsten Sinema (D)" cid="N00033983" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033983&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="224110" pacs="43500" total="267610"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="115600" pacs="148500" total="264100"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="14533" pacs="202500" total="217033"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="128431" pacs="58050" total="186481"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="153704" pacs="31000" total="184704"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="16200" pacs="149150" total="165350"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="147221" pacs="0" total="147221"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="49886" pacs="82500" total="132386"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="12410" pacs="94000" total="106410"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="6476" pacs="85500" total="91976"/>
+  </industries>
+</response>

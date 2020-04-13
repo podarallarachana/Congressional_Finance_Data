@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Dan Newhouse (R)" cid="N00036403" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00036403&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="177851" pacs="17500" total="195351"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="69890" pacs="0" total="69890"/>
+    <industry industry_code="A04" industry_name="Dairy" indivs="27900" pacs="9000" total="36900"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="6000" pacs="27900" total="33900"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="27600" total="27600"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="15450" pacs="9500" total="24950"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="9932" pacs="10500" total="20432"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="250" pacs="20000" total="20250"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="7200" pacs="12000" total="19200"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="14950" pacs="1000" total="15950"/>
+  </industries>
+</response>

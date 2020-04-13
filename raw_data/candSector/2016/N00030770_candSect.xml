@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Rick Crawford (R)" cid="N00030770" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030770&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="77250" pacs="172500" total="249750"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="250" pacs="16000" total="16250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="19800" pacs="22500" total="42300"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="2250" pacs="12000" total="14250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="18700" pacs="34000" total="52700"/>
+    <sector sector_name="Health" sectorid="H" indivs="20400" pacs="21500" total="41900"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="7700" pacs="4000" total="11700"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="6500" pacs="54500" total="61000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="13100" pacs="32000" total="45100"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="23100" total="23100"/>
+    <sector sector_name="Other" sectorid="W" indivs="21049" pacs="500" total="21549"/>
+  </sectors>
+</response>

@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Frank Guinta (R)" cid="N00030801" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030801&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="9100" pacs="5250" total="14350"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="17050" pacs="8000" total="25050"/>
+    <sector sector_name="Construction" sectorid="C" indivs="16750" pacs="21500" total="38250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2600" pacs="22000" total="24600"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="14200" pacs="23000" total="37200"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="165400" pacs="64000" total="229400"/>
+    <sector sector_name="Health" sectorid="H" indivs="18550" pacs="26500" total="45050"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="39425" pacs="1000" total="40425"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="13500" pacs="13500" total="27000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="90408" pacs="24500" total="114908"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="20000" pacs="340293" total="360293"/>
+    <sector sector_name="Other" sectorid="W" indivs="85900" pacs="0" total="85900"/>
+  </sectors>
+</response>

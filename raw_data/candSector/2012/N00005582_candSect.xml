@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="James M Inhofe (R)" cid="N00005582" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00005582&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="167463" pacs="170358" total="337821"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="60800" pacs="47000" total="107800"/>
+    <sector sector_name="Construction" sectorid="C" indivs="188878" pacs="196900" total="385778"/>
+    <sector sector_name="Defense" sectorid="D" indivs="32350" pacs="150550" total="182900"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="575933" pacs="510200" total="1086133"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="475389" pacs="127650" total="603039"/>
+    <sector sector_name="Health" sectorid="H" indivs="140263" pacs="54750" total="195013"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="306023" pacs="83858" total="389881"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="74250" pacs="204800" total="279050"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="246419" pacs="165918" total="412337"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="31000" total="31000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="98700" pacs="445957" total="544657"/>
+    <sector sector_name="Other" sectorid="W" indivs="397476" pacs="1000" total="398476"/>
+  </sectors>
+</response>

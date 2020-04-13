@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Michele Bachmann (R)" cid="N00027493" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027493&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="895856" pacs="0" total="895856"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="530331" pacs="55350" total="585681"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="93869" pacs="1500" total="95369"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="73352" pacs="10010" total="83362"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="73700" pacs="2000" total="75700"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="61925" pacs="0" total="61925"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="55750" pacs="0" total="55750"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="37723" pacs="17500" total="55223"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="51452" pacs="0" total="51452"/>
+    <industry industry_code="Q14" industry_name="Abortion Policy/Anti-Abortion" indivs="25742" pacs="23166" total="48908"/>
+  </industries>
+</response>

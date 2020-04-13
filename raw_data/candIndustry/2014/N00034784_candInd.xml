@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Rodney Davis (R)" cid="N00034784" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034784&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="278986" total="278986"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="56700" pacs="90750" total="147450"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="48450" pacs="89500" total="137950"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="25949" pacs="101908" total="127857"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="77100" pacs="38500" total="115600"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="64945" pacs="37867" total="102812"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="39500" pacs="60000" total="99500"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="33450" pacs="60500" total="93950"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="55609" pacs="31500" total="87109"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="21090" pacs="59500" total="80590"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tom Graves (R)" cid="N00030788" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030788&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="40900" pacs="33500" total="74400"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="32849" pacs="25500" total="58349"/>
+    <industry industry_code="N16" industry_name="Textiles" indivs="41408" pacs="6000" total="47408"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="43710" pacs="0" total="43710"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="18500" pacs="19184" total="37684"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="3750" pacs="30000" total="33750"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="20333" pacs="10500" total="30833"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="29122" total="29122"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="5000" pacs="20250" total="25250"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="11000" pacs="13000" total="24000"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Nanette Barragan (D)" cid="N00037019" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00037019&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="3495" pacs="0" total="3495"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="52720" pacs="7500" total="60220"/>
+    <sector sector_name="Construction" sectorid="C" indivs="19640" pacs="500" total="20140"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2183" pacs="0" total="2183"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="2703" pacs="1000" total="3703"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="121677" pacs="3500" total="125177"/>
+    <sector sector_name="Health" sectorid="H" indivs="33681" pacs="19000" total="52681"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="246346" pacs="9816" total="256162"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="4460" pacs="1000" total="5460"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="56042" pacs="3500" total="59542"/>
+    <sector sector_name="Labor" sectorid="P" indivs="3215" pacs="30500" total="33715"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="367278" pacs="165185" total="532463"/>
+    <sector sector_name="Other" sectorid="W" indivs="130628" pacs="0" total="130628"/>
+  </sectors>
+</response>

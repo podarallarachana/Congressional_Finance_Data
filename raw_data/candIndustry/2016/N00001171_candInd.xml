@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Gregory W Meeks (D)" cid="N00001171" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001171&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="49950" pacs="110000" total="159950"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="0" pacs="114300" total="114300"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="10850" pacs="57000" total="67850"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="3000" pacs="61000" total="64000"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="750" pacs="46000" total="46750"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="0" pacs="37000" total="37000"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="14100" pacs="19000" total="33100"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="0" pacs="30500" total="30500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="8750" pacs="17000" total="25750"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="20727" pacs="500" total="21227"/>
+  </industries>
+</response>

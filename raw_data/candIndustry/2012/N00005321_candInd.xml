@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Lee Terry (R)" cid="N00005321" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00005321&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="24430" pacs="95350" total="119780"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="8200" pacs="108100" total="116300"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="3250" pacs="98750" total="102000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="21326" pacs="72500" total="93826"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="44650" pacs="46250" total="90900"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="5500" pacs="85000" total="90500"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="16850" pacs="67000" total="83850"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="48500" total="48500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="31550" pacs="16000" total="47550"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="5500" pacs="41222" total="46722"/>
+  </industries>
+</response>

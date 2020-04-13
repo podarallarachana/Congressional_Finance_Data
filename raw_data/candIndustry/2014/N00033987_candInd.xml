@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Doug LaMalfa (R)" cid="N00033987" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033987&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="99575" pacs="70356" total="169931"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="48300" pacs="5000" total="53300"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="5500" pacs="33500" total="39000"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="30500" total="30500"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="2500" pacs="24357" total="26857"/>
+    <industry industry_code="A04" industry_name="Dairy" indivs="4000" pacs="18481" total="22481"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="0" pacs="21000" total="21000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="13700" pacs="7000" total="20700"/>
+    <industry industry_code="A06" industry_name="Livestock" indivs="6850" pacs="10000" total="16850"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="2250" pacs="14500" total="16750"/>
+  </industries>
+</response>

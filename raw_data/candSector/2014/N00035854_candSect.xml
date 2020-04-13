@@ -1,0 +1,15 @@
+<response>
+  <sectors cand_name="Curt Clawson (R)" cid="N00035854" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035854&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="2000" pacs="2000" total="4000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="4600" pacs="0" total="4600"/>
+    <sector sector_name="Construction" sectorid="C" indivs="12148" pacs="0" total="12148"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1750" pacs="0" total="1750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="82993" pacs="4000" total="86993"/>
+    <sector sector_name="Health" sectorid="H" indivs="20710" pacs="0" total="20710"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="56518" pacs="0" total="56518"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="9021" pacs="0" total="9021"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="38800" pacs="0" total="38800"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="34246" pacs="36500" total="70746"/>
+    <sector sector_name="Other" sectorid="W" indivs="180327" pacs="0" total="180327"/>
+  </sectors>
+</response>

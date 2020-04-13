@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mark Kirk (R)" cid="N00012539" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00012539&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="136516" pacs="105499" total="242015"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="126708" pacs="75500" total="202208"/>
+    <sector sector_name="Construction" sectorid="C" indivs="203691" pacs="84500" total="288191"/>
+    <sector sector_name="Defense" sectorid="D" indivs="27348" pacs="128500" total="155848"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="212941" pacs="203000" total="415941"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="2071573" pacs="729700" total="2801273"/>
+    <sector sector_name="Health" sectorid="H" indivs="344230" pacs="475850" total="820080"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="551081" pacs="97450" total="648531"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="141247" pacs="148699" total="289946"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="738740" pacs="289692" total="1028432"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="48000" total="48000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="784735" pacs="649051" total="1433786"/>
+    <sector sector_name="Other" sectorid="W" indivs="1462177" pacs="19000" total="1481177"/>
+  </sectors>
+</response>

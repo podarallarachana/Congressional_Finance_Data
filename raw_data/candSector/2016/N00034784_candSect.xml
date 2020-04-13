@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Rodney Davis (R)" cid="N00034784" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00034784&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="43905" pacs="336806" total="380711"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3875" pacs="54500" total="58375"/>
+    <sector sector_name="Construction" sectorid="C" indivs="33850" pacs="98750" total="132600"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="2600" pacs="123500" total="126100"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="109371" pacs="229500" total="338871"/>
+    <sector sector_name="Health" sectorid="H" indivs="31475" pacs="131950" total="163425"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="78557" pacs="28500" total="107057"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="18450" pacs="196499" total="214949"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="79312" pacs="187489" total="266801"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="148700" total="148700"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="29923" pacs="221876" total="251799"/>
+    <sector sector_name="Other" sectorid="W" indivs="52586" pacs="5500" total="58086"/>
+  </sectors>
+</response>

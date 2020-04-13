@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Todd Rokita (R)" cid="N00031741" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031741&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="65050" pacs="7500" total="72550"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="37939" pacs="26500" total="64439"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="20300" pacs="30000" total="50300"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="39264" pacs="10500" total="49764"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="20015" pacs="22500" total="42515"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="26750" pacs="11000" total="37750"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="8600" pacs="28500" total="37100"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="9000" pacs="25500" total="34500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="33932" pacs="0" total="33932"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="13000" pacs="20884" total="33884"/>
+  </industries>
+</response>

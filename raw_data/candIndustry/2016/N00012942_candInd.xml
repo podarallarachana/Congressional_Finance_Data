@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Betty McCollum (D)" cid="N00012942" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00012942&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="114050" pacs="2000" total="116050"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="50477" pacs="0" total="50477"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="15375" pacs="27165" total="42540"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="2000" pacs="38550" total="40550"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="29550" pacs="10000" total="39550"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="10725" pacs="28000" total="38725"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="36500" total="36500"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="35000" total="35000"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="2700" pacs="28000" total="30700"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="29000" total="29000"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Vicky Hartzler (R)" cid="N00031005" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031005&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="93879" total="93879"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="36462" pacs="41240" total="77702"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="73950" pacs="0" total="73950"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="24500" pacs="35500" total="60000"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="46600" pacs="5000" total="51600"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="34450" pacs="14500" total="48950"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="38800" pacs="7000" total="45800"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="29650" pacs="15500" total="45150"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="45134" total="45134"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="31150" pacs="10500" total="41650"/>
+  </industries>
+</response>

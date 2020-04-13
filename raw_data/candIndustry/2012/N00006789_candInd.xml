@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Grace Napolitano (D)" cid="N00006789" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006789&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="34450" pacs="1000" total="35450"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="3750" pacs="28500" total="32250"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="30500" total="30500"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="6750" pacs="20000" total="26750"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="24500" total="24500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="23000" total="23000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="23000" total="23000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="4000" pacs="16650" total="20650"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="6650" pacs="13250" total="19900"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="11700" pacs="8000" total="19700"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="James E Clyburn (D)" cid="N00002408" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00002408&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="4500" pacs="77500" total="82000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="9000" pacs="155500" total="164500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="14600" pacs="78250" total="92850"/>
+    <sector sector_name="Defense" sectorid="D" indivs="750" pacs="66500" total="67250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="6250" pacs="137500" total="143750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="51050" pacs="347411" total="398461"/>
+    <sector sector_name="Health" sectorid="H" indivs="30700" pacs="255210" total="285910"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="104443" pacs="61699" total="166142"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1000" pacs="117600" total="118600"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="23300" pacs="173338" total="196638"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="295500" total="295500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="14200" pacs="29440" total="43640"/>
+    <sector sector_name="Other" sectorid="W" indivs="35309" pacs="3500" total="38809"/>
+  </sectors>
+</response>

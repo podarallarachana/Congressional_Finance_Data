@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="McCaul, Michael" data_year="2016" member_id="N00026460" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00026460" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Aberdeen Funds Emerging Markets Fund" tx_date="Jul  8 2013" tx_action="Purchased" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Aberdeen Funds Emerging Markets Fund" tx_date="Jul  8 2013" tx_action="Purchased" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Aberdeen Funds Emerging Markets Fund" tx_date="Oct 16 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Penn Va Corp" tx_date="Jan  9 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Aberdeen Funds Emerging Markets Fund" tx_date="Oct 16 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+    </transactions>
+  </member_profile>
+</response>

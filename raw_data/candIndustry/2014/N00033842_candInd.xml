@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mia Love (R)" cid="N00033842" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033842&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="289406" pacs="27699" total="317105"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="221183" pacs="0" total="221183"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="89500" total="89500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="77900" pacs="2000" total="79900"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="61895" pacs="15500" total="77395"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="19500" pacs="36500" total="56000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="27782" pacs="13500" total="41282"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="38276" pacs="1000" total="39276"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="25300" pacs="12500" total="37800"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="28900" pacs="8000" total="36900"/>
+  </industries>
+</response>

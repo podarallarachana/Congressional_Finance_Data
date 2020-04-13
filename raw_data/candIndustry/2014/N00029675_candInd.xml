@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Brett Guthrie (R)" cid="N00029675" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029675&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="19950" pacs="210500" total="230450"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="18382" pacs="152700" total="171082"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="2250" pacs="65000" total="67250"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="2250" pacs="62500" total="64750"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="6250" pacs="55000" total="61250"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="59700" pacs="500" total="60200"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="5250" pacs="54500" total="59750"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="21250" pacs="29500" total="50750"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="50230" pacs="0" total="50230"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="1500" pacs="39000" total="40500"/>
+  </industries>
+</response>

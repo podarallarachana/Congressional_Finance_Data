@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Susan A Davis (D)" cid="N00009604" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009604&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="10900" pacs="36500" total="47400"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="0" pacs="29500" total="29500"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="29500" total="29500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="6750" pacs="21000" total="27750"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="11200" pacs="12000" total="23200"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="3900" pacs="17500" total="21400"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="0" pacs="18000" total="18000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="17750" total="17750"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="17425" pacs="0" total="17425"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="5700" pacs="10000" total="15700"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Dan Sullivan (R)" cid="N00035774" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035774&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="102741" pacs="48700" total="151441"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="166050" pacs="11500" total="177550"/>
+    <sector sector_name="Construction" sectorid="C" indivs="194860" pacs="52100" total="246960"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5850" pacs="6300" total="12150"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="479433" pacs="112200" total="591633"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1928479" pacs="73375" total="2001854"/>
+    <sector sector_name="Health" sectorid="H" indivs="182691" pacs="9666" total="192357"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="342711" pacs="250" total="342961"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="199665" pacs="11000" total="210665"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="712289" pacs="141599" total="853888"/>
+    <sector sector_name="Labor" sectorid="P" indivs="500" pacs="0" total="500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="611084" pacs="369272" total="980356"/>
+    <sector sector_name="Other" sectorid="W" indivs="842154" pacs="3000" total="845154"/>
+  </sectors>
+</response>

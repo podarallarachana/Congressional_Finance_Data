@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Terri A Sewell (D)" cid="N00030622" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030622&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="6350" pacs="178250" total="184600"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="17800" pacs="120500" total="138300"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="68680" pacs="44850" total="113530"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="13550" pacs="89500" total="103050"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="14850" pacs="58500" total="73350"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="1000" pacs="49000" total="50000"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="11113" pacs="35700" total="46813"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="1000" pacs="37000" total="38000"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="37500" total="37500"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="0" pacs="35000" total="35000"/>
+  </industries>
+</response>

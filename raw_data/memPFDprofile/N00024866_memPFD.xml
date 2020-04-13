@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="Bordallo, Madeleine Z" data_year="2016" member_id="N00024866" net_low="3166008" net_high="12415000" positions_held_count="0" asset_count="7" asset_low="3166008" asset_high="12415000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00024866" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Rental 1" holdings_low="1000001" holdings_high="5000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Certificate of Deposits" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Rental 2" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Rental 3" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Money Market Account" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="added to existing account from money market" tx_date="Oct  7 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="C/D" tx_date="Oct  7 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="added to existing account from money market" tx_date="Mar  7 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+    </transactions>
+    <positions>
+      <position title="(Unpaid) Board of Directors" organization="Latte of Freedom Foundation"/>
+      <position title="(Unpaid) Board of Directors" organization="RJ Bordallo Foundation"/>
+      <position title="(Unpaid) Advisor" organization="Salvation Army of Guam"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John Carter (R)" cid="N00025095" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00025095&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="30500" pacs="37647" total="68147"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="7750" pacs="64000" total="71750"/>
+    <sector sector_name="Construction" sectorid="C" indivs="61550" pacs="30000" total="91550"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="45000" total="45500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="14150" pacs="64300" total="78450"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="97759" pacs="49000" total="146759"/>
+    <sector sector_name="Health" sectorid="H" indivs="34275" pacs="22500" total="56775"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="39769" pacs="8500" total="48269"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="10500" pacs="43000" total="53500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="38250" pacs="42000" total="80250"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="7500" total="7500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="4000" pacs="18950" total="22950"/>
+    <sector sector_name="Other" sectorid="W" indivs="38500" pacs="0" total="38500"/>
+  </sectors>
+</response>

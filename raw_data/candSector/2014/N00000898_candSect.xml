@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Leonard Lance (R)" cid="N00000898" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00000898&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="15865" pacs="7250" total="23115"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="11450" pacs="68000" total="79450"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5100" pacs="14000" total="19100"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="3000" total="3000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3000" pacs="57998" total="60998"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="46475" pacs="65500" total="111975"/>
+    <sector sector_name="Health" sectorid="H" indivs="37325" pacs="215950" total="253275"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="66800" pacs="7000" total="73800"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="6250" pacs="11000" total="17250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="45400" pacs="46500" total="91900"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="45600" total="45600"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="8475" pacs="67500" total="75975"/>
+    <sector sector_name="Other" sectorid="W" indivs="54560" pacs="1000" total="55560"/>
+  </sectors>
+</response>

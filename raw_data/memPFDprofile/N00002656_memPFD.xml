@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Kingston, Jack" data_year="2016" member_id="N00002656" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00002656" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Mainstay Marketfield Fund" tx_date="2013-07-11 00:00:00.000" tx_action="Purchased" value_low="38000" value_high="38000"/>
+      <transaction asset_name="S&amp;P US PFD Stock Index Fund" tx_date="2013-06-05 00:00:00.000" tx_action="Sold" value_low="32548" value_high="32548"/>
+      <transaction asset_name="Blackrock Real Asset Equity Trust" tx_date="2013-06-05 00:00:00.000" tx_action="Sold" value_low="31885" value_high="31885"/>
+      <transaction asset_name="Metropolitan West Tot Return Bond Fund" tx_date="2013-10-29 00:00:00.000" tx_action="Sold" value_low="25528" value_high="25528"/>
+      <transaction asset_name="PowerShares S&amp;P 500 High Dividend Portfolio" tx_date="2013-01-25 00:00:00.000" tx_action="Purchased" value_low="25387" value_high="25387"/>
+    </transactions>
+  </member_profile>
+</response>

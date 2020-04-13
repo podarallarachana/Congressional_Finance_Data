@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Smith, Chris" data_year="2016" member_id="N00009816" net_low="-40416" net_high="109583" positions_held_count="0" asset_count="2" asset_low="209584" asset_high="209584" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00009816" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="JT Capital One 360" holdings_low="175299" holdings_high="175299" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Money Market Fund/ IRA" holdings_low="34285" holdings_high="34285" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Vanguard Money Market Fund IRA" tx_date="Dec  6 2013" tx_action="Sold" value_low="1800" value_high="1800"/>
+    </transactions>
+  </member_profile>
+</response>

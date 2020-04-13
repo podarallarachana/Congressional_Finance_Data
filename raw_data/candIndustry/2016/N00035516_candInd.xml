@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="David Perdue (R)" cid="N00035516" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035516&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="1707902" pacs="0" total="1707902"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="641082" pacs="42000" total="683082"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="419362" pacs="20000" total="439362"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="311200" total="311200"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="255542" pacs="52000" total="307542"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="195795" pacs="75500" total="271295"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="212700" pacs="1000" total="213700"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="178640" pacs="29500" total="208140"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="166552" pacs="37576" total="204128"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="133000" pacs="57100" total="190100"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Michael McCaul (R)" cid="N00026460" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026460&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="45050" pacs="72900" total="117950"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="97791" pacs="15000" total="112791"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="79825" pacs="0" total="79825"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="13700" pacs="62500" total="76200"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="32450" pacs="38499" total="70949"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="45500" pacs="24500" total="70000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="53100" pacs="9500" total="62600"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="56600" pacs="3500" total="60100"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="2700" pacs="48500" total="51200"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="26800" pacs="18500" total="45300"/>
+  </industries>
+</response>

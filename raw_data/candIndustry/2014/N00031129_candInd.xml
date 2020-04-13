@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="James Lankford (R)" cid="N00031129" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031129&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="280235" pacs="179000" total="459235"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="307610" pacs="0" total="307610"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="153925" pacs="46500" total="200425"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="150303" total="150303"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="85403" pacs="21500" total="106903"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="73127" pacs="31000" total="104127"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="89600" pacs="7250" total="96850"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="42085" pacs="53600" total="95685"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="60130" pacs="18500" total="78630"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="47800" pacs="28500" total="76300"/>
+  </industries>
+</response>

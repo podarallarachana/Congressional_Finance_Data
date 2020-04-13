@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Frank Wolf (R)" cid="N00002073" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002073&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="93100" pacs="0" total="93100"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="9950" pacs="41000" total="50950"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="38950" pacs="10000" total="48950"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="4750" pacs="34500" total="39250"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="36600" total="36600"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="18350" pacs="16250" total="34600"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="1700" pacs="32000" total="33700"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="31250" pacs="1000" total="32250"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="6700" pacs="20000" total="26700"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="5600" pacs="19900" total="25500"/>
+  </industries>
+</response>

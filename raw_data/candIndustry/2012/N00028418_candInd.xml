@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Alan Grayson (D)" cid="N00028418" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00028418&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="100525" pacs="5890" total="106415"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="99010" pacs="0" total="99010"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="63500" total="63500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="33980" pacs="10000" total="43980"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="33000" total="33000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="32500" total="32500"/>
+    <industry industry_code="W04" industry_name="Education" indivs="30529" pacs="0" total="30529"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="21500" total="21500"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="21200" pacs="0" total="21200"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="20075" pacs="0" total="20075"/>
+  </industries>
+</response>

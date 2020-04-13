@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Douglas L Lamborn (R)" cid="N00028133" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00028133&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="5127" pacs="61250" total="66377"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="52000" total="52000"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="47200" total="47200"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="250" pacs="45000" total="45250"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="0" pacs="38000" total="38000"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="11300" pacs="19000" total="30300"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="26600" pacs="3500" total="30100"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="3550" pacs="18000" total="21550"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="0" pacs="21500" total="21500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="13000" pacs="6250" total="19250"/>
+  </industries>
+</response>

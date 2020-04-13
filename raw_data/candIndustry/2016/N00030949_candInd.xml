@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tom Reed (R)" cid="N00030949" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030949&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="15000" pacs="203200" total="218200"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="98450" pacs="77500" total="175950"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="125897" total="125897"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="88953" pacs="33600" total="122553"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="19070" pacs="98000" total="117070"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="26900" pacs="86250" total="113150"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="106376" pacs="0" total="106376"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="47070" pacs="53000" total="100070"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="1750" pacs="93900" total="95650"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="52500" pacs="40000" total="92500"/>
+  </industries>
+</response>

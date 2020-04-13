@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Carney (D)" cid="N00030736" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030736&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="22820" pacs="134000" total="156820"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="4070" pacs="151200" total="155270"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="89385" pacs="21750" total="111135"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="11850" pacs="96250" total="108100"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="15869" pacs="52000" total="67869"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="7750" pacs="51500" total="59250"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="1550" pacs="51448" total="52998"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="1750" pacs="47499" total="49249"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="15800" pacs="4000" total="19800"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="275" pacs="19000" total="19275"/>
+  </industries>
+</response>

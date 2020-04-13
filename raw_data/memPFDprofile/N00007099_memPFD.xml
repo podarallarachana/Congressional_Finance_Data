@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Calvert, Ken" data_year="2016" member_id="N00007099" net_low="-1799985" net_high="10599993" positions_held_count="0" asset_count="15" asset_low="4400015" asset_high="12100000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00007099" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Commercial Rental/1065 E 3rd/Corona, CA" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="624 E Grand Commercial Rental" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="901 E 3rd St Commercial Rental" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="330 Sherman Way Commercial Rental" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Limonite" holdings_low="500001" holdings_high="1000000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

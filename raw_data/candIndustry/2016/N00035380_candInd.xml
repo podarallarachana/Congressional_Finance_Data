@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bradley Byrne (R)" cid="N00035380" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035380&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="36800" pacs="33750" total="70550"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="1250" pacs="62500" total="63750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="33803" pacs="29000" total="62803"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="8700" pacs="51500" total="60200"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="54150" total="54150"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="23639" pacs="25500" total="49139"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="8100" pacs="40500" total="48600"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="16672" pacs="28200" total="44872"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="12450" pacs="24000" total="36450"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="22850" pacs="13500" total="36350"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Daniel Milton Newhouse (R)" cid="N00036403" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00036403&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="136302" pacs="221100" total="357402"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3750" pacs="19500" total="23250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="11703" pacs="52000" total="63703"/>
+    <sector sector_name="Defense" sectorid="D" indivs="4000" pacs="31500" total="35500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="16200" pacs="76750" total="92950"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="40360" pacs="53000" total="93360"/>
+    <sector sector_name="Health" sectorid="H" indivs="18850" pacs="21500" total="40350"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="34486" pacs="11000" total="45486"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="4200" pacs="45000" total="49200"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="33650" pacs="72904" total="106554"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="24500" total="24500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="5200" pacs="107485" total="112685"/>
+    <sector sector_name="Other" sectorid="W" indivs="52270" pacs="2500" total="54770"/>
+  </sectors>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tom Udall (D)" cid="N00006561" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00006561&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="127380" pacs="18750" total="146130"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="368997" pacs="100250" total="469247"/>
+    <sector sector_name="Construction" sectorid="C" indivs="117774" pacs="12500" total="130274"/>
+    <sector sector_name="Defense" sectorid="D" indivs="4900" pacs="14800" total="19700"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="165650" pacs="91689" total="257339"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="900009" pacs="80760" total="980769"/>
+    <sector sector_name="Health" sectorid="H" indivs="246283" pacs="137800" total="384083"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1063816" pacs="66133" total="1129949"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="20950" pacs="61000" total="81950"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="598996" pacs="46500" total="645496"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1250" pacs="428833" total="430083"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="443273" pacs="523610" total="966883"/>
+    <sector sector_name="Other" sectorid="W" indivs="1090818" pacs="11500" total="1102318"/>
+  </sectors>
+</response>

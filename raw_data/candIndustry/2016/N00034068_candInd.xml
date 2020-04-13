@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Brenda Lawrence (D)" cid="N00034068" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034068&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="M02" industry_name="Automotive" indivs="21233" pacs="44500" total="65733"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="56000" total="56000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="500" pacs="50500" total="51000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="38400" pacs="12500" total="50900"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="28200" pacs="15500" total="43700"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="125" pacs="42000" total="42125"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="28500" total="28500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="8750" pacs="16500" total="25250"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="6200" pacs="17000" total="23200"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="2275" pacs="20500" total="22775"/>
+  </industries>
+</response>

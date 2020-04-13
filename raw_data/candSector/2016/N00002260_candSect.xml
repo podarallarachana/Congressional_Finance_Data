@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="David Price (D)" cid="N00002260" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00002260&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="2250" pacs="26000" total="28250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="16050" pacs="17000" total="33050"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1200" pacs="9500" total="10700"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="60500" total="60500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1100" pacs="13500" total="14600"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="20650" pacs="31500" total="52150"/>
+    <sector sector_name="Health" sectorid="H" indivs="7550" pacs="66000" total="73550"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="30200" pacs="14000" total="44200"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="49000" total="49000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="9550" pacs="48500" total="58050"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="122500" total="122500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="11200" pacs="15929" total="27129"/>
+    <sector sector_name="Other" sectorid="W" indivs="119950" pacs="1000" total="120950"/>
+  </sectors>
+</response>

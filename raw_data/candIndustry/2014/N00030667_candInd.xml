@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Adam Kinzinger (R)" cid="N00030667" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030667&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="40100" pacs="54000" total="94100"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="16000" pacs="76150" total="92150"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="22350" pacs="64000" total="86350"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="16100" pacs="64500" total="80600"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="3000" pacs="71500" total="74500"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="72457" total="72457"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="59472" pacs="8000" total="67472"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="60306" pacs="0" total="60306"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="5083" pacs="53000" total="58083"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="33852" pacs="21273" total="55125"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Brendan Boyle (D)" cid="N00035307" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035307&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="73669" pacs="28613" total="102282"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1000" pacs="58100" total="59100"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="51000" total="51000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="1000" pacs="50000" total="51000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="1000" pacs="49875" total="50875"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="47000" total="47000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="5000" pacs="34500" total="39500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="25650" pacs="8500" total="34150"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="21279" pacs="6750" total="28029"/>
+    <industry industry_code="W04" industry_name="Education" indivs="25101" pacs="0" total="25101"/>
+  </industries>
+</response>

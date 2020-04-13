@@ -1,0 +1,12 @@
+<response>
+  <member_profile name="Scott, David" data_year="2016" member_id="N00024871" net_low="401004" net_high="5014998" positions_held_count="0" asset_count="3" asset_low="1151004" asset_high="5365000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00024871" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Washington, DC home" holdings_low="1000001" holdings_high="5000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="NY Life Insurance - Whole" holdings_low="150002" holdings_high="350000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Southern Co" holdings_low="1001" holdings_high="15000" industry="Electric Utilities" sector="Energy/Nat Resource" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Board of Advisors unpaid" organization="Dean Rusk Center UGA School of Law"/>
+    </positions>
+  </member_profile>
+</response>

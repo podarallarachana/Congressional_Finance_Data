@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ann Mclane Kuster (D)" cid="N00030875" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030875&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="319192" pacs="0" total="319192"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="20950" pacs="252480" total="273430"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="165800" pacs="24250" total="190050"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="150598" pacs="16250" total="166848"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="102941" pacs="38500" total="141441"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="121000" total="121000"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="79905" pacs="16000" total="95905"/>
+    <industry industry_code="W04" industry_name="Education" indivs="82500" pacs="0" total="82500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="80000" total="80000"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="55725" pacs="16520" total="72245"/>
+  </industries>
+</response>

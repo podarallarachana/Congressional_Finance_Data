@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Cory Gardner (R)" cid="N00030780" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030780&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="1410171" pacs="0" total="1410171"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="793145" pacs="26000" total="819145"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="444199" pacs="269700" total="713899"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="498956" pacs="30500" total="529456"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="406194" total="406194"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="309033" pacs="64622" total="373655"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="257211" pacs="12100" total="269311"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="225648" pacs="20838" total="246486"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="151956" pacs="87500" total="239456"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="202150" pacs="19602" total="221752"/>
+  </industries>
+</response>

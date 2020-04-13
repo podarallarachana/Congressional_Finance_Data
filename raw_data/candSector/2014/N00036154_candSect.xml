@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Don Norcross (D)" cid="N00036154" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00036154&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="28516" pacs="22500" total="51016"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="16300" pacs="13000" total="29300"/>
+    <sector sector_name="Construction" sectorid="C" indivs="104300" pacs="29900" total="134200"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2600" pacs="9000" total="11600"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="21700" pacs="35000" total="56700"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="199422" pacs="56100" total="255522"/>
+    <sector sector_name="Health" sectorid="H" indivs="68750" pacs="68850" total="137600"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="151061" pacs="29140" total="180201"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="18000" pacs="17500" total="35500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="39381" pacs="18500" total="57881"/>
+    <sector sector_name="Labor" sectorid="P" indivs="3150" pacs="380999" total="384149"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="3000" pacs="88100" total="91100"/>
+    <sector sector_name="Other" sectorid="W" indivs="78199" pacs="0" total="78199"/>
+  </sectors>
+</response>

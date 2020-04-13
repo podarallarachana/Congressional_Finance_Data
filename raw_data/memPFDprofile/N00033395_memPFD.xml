@@ -1,0 +1,17 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033395" net_low="145006" net_high="434999" positions_held_count="0" asset_count="6" asset_low="195006" asset_high="450000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033395" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="America Funds 2025 TDRF R3" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Federal Retirement Thrift Savings Plan G Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Target Retirement Fund 2025" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="First Merit Bank Savings account" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Sun America Adjustable Life Insurance Po" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Nationwide International Index" tx_date="Jan  7 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="JP Morgan Mid Cap Value Fund" tx_date="Jan  7 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Fidelity Contrafund" tx_date="Jan  7 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="American Funds Investment Co of America" tx_date="Jan  7 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

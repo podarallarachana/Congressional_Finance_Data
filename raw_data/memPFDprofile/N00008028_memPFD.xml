@@ -1,0 +1,12 @@
+<response>
+  <member_profile name="Johnson, Sam" data_year="2016" member_id="N00008028" net_low="-82997" net_high="49998" positions_held_count="0" asset_count="3" asset_low="17003" asset_high="80000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00008028" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Franklin Gold &amp; Precious Metals Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Legacy Bank" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Congressional Federal Credit Union" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Board of Regents" organization="Smithsonian Institution"/>
+    </positions>
+  </member_profile>
+</response>

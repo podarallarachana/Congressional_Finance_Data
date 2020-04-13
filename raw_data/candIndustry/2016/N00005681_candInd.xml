@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Pete Sessions (R)" cid="N00005681" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00005681&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="76850" pacs="124250" total="201100"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="103893" pacs="45000" total="148893"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="59250" pacs="68500" total="127750"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="21000" pacs="106500" total="127500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="86775" pacs="30250" total="117025"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="76100" pacs="39500" total="115600"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="56350" pacs="20200" total="76550"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="6850" pacs="63500" total="70350"/>
+    <industry industry_code="Q10" industry_name="Misc Issues" indivs="56000" pacs="2152" total="58152"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="3250" pacs="50000" total="53250"/>
+  </industries>
+</response>

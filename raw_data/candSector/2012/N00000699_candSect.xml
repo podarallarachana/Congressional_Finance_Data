@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Robert Menendez (D)" cid="N00000699" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00000699&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="224450" pacs="46500" total="270950"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="490385" pacs="196522" total="686907"/>
+    <sector sector_name="Construction" sectorid="C" indivs="866100" pacs="122000" total="988100"/>
+    <sector sector_name="Defense" sectorid="D" indivs="12500" pacs="47500" total="60000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="191850" pacs="131000" total="322850"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="2438526" pacs="533365" total="2971891"/>
+    <sector sector_name="Health" sectorid="H" indivs="1119623" pacs="548049" total="1667672"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="2283316" pacs="236086" total="2519402"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="176750" pacs="87000" total="263750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="1149859" pacs="223525" total="1373384"/>
+    <sector sector_name="Labor" sectorid="P" indivs="5300" pacs="307000" total="312300"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="456520" pacs="608093" total="1064613"/>
+    <sector sector_name="Other" sectorid="W" indivs="932270" pacs="10000" total="942270"/>
+  </sectors>
+</response>

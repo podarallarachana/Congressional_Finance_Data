@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Gwen Moore (D)" cid="N00026914" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026914&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="18" pacs="13000" total="13018"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5500" pacs="11000" total="16500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="21000" total="21000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1000" pacs="9000" total="10000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="24187" pacs="493250" total="517437"/>
+    <sector sector_name="Health" sectorid="H" indivs="2400" pacs="26000" total="28400"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="16603" pacs="14500" total="31103"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="800" pacs="8250" total="9050"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="75200" pacs="25500" total="100700"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="140125" total="140375"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="12200" pacs="13500" total="25700"/>
+    <sector sector_name="Other" sectorid="W" indivs="35429" pacs="0" total="35429"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Dana Rohrabacher (R)" cid="N00007151" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007151&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="84675" pacs="0" total="84675"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="50320" pacs="3000" total="53320"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="28650" pacs="0" total="28650"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="22150" pacs="0" total="22150"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="15750" pacs="5750" total="21500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="20047" pacs="1000" total="21047"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="20250" pacs="0" total="20250"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="20150" pacs="0" total="20150"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="12600" pacs="3000" total="15600"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="12600" pacs="2000" total="14600"/>
+  </industries>
+</response>

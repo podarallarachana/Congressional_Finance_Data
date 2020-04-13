@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Pete Visclosky (D)" cid="N00003813" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00003813&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="4800" pacs="6250" total="11050"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2000" pacs="8000" total="10000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="18700" pacs="36000" total="54700"/>
+    <sector sector_name="Defense" sectorid="D" indivs="12500" pacs="93000" total="105500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="14250" pacs="89500" total="103750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="18050" pacs="11000" total="29050"/>
+    <sector sector_name="Health" sectorid="H" indivs="22000" pacs="4500" total="26500"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="36020" pacs="31373" total="67393"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1999" pacs="44000" total="45999"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="8200" pacs="63000" total="71200"/>
+    <sector sector_name="Labor" sectorid="P" indivs="500" pacs="161542" total="162042"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="4000" total="4000"/>
+    <sector sector_name="Other" sectorid="W" indivs="20350" pacs="2000" total="22350"/>
+  </sectors>
+</response>

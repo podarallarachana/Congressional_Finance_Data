@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Andy Harris (R)" cid="N00029147" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029147&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="23250" pacs="25700" total="48950"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1950" pacs="9500" total="11450"/>
+    <sector sector_name="Construction" sectorid="C" indivs="16600" pacs="18000" total="34600"/>
+    <sector sector_name="Defense" sectorid="D" indivs="7000" pacs="29019" total="36019"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="8450" pacs="61000" total="69450"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="72943" pacs="27000" total="99943"/>
+    <sector sector_name="Health" sectorid="H" indivs="223954" pacs="149500" total="373454"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="30850" pacs="4500" total="35350"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="7400" pacs="39500" total="46900"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="45585" pacs="48776" total="94361"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="3500" total="3500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="15950" pacs="36756" total="52706"/>
+    <sector sector_name="Other" sectorid="W" indivs="103815" pacs="1000" total="104815"/>
+  </sectors>
+</response>

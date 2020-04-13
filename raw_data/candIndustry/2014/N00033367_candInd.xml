@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="David Valadao (R)" cid="N00033367" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033367&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="297383" pacs="99599" total="396982"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="244877" total="244877"/>
+    <industry industry_code="A04" industry_name="Dairy" indivs="171603" pacs="43054" total="214657"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="16400" pacs="67410" total="83810"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="23850" pacs="42600" total="66450"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="10400" pacs="49300" total="59700"/>
+    <industry industry_code="A06" industry_name="Livestock" indivs="45150" pacs="11500" total="56650"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="13017" pacs="42000" total="55017"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="10100" pacs="42500" total="52600"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="51500" total="51500"/>
+  </industries>
+</response>

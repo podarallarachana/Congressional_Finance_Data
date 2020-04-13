@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jim Costa (D)" cid="N00026341" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026341&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="111000" pacs="82100" total="193100"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="3000" pacs="92525" total="95525"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="2750" pacs="80500" total="83250"/>
+    <industry industry_code="A06" industry_name="Livestock" indivs="34999" pacs="26700" total="61699"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="49000" pacs="12500" total="61500"/>
+    <industry industry_code="Q10" industry_name="Misc Issues" indivs="53000" pacs="2500" total="55500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="43700" pacs="7500" total="51200"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="34250" pacs="13000" total="47250"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="47250" total="47250"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="2650" pacs="42250" total="44900"/>
+  </industries>
+</response>

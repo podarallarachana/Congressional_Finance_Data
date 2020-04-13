@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Ed Whitfield (R)" cid="N00003467" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00003467&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="30050" pacs="105500" total="135550"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3500" pacs="77500" total="81000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1100" pacs="47000" total="48100"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="27500" total="27500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="11200" pacs="443250" total="454450"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="7000" pacs="91500" total="98500"/>
+    <sector sector_name="Health" sectorid="H" indivs="54900" pacs="279000" total="333900"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="59400" pacs="55151" total="114551"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="14700" pacs="104500" total="119200"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="11250" pacs="153910" total="165160"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="24000" total="24000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="15200" pacs="32074" total="47274"/>
+    <sector sector_name="Other" sectorid="W" indivs="17550" pacs="1000" total="18550"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Frank Lautenberg (D)" cid="N00000659" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000659&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="42357" pacs="8500" total="50857"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="0" pacs="44500" total="44500"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="34000" total="34000"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="3012" pacs="22500" total="25512"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="-650" pacs="25500" total="24850"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="500" pacs="22500" total="23000"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="21000" total="21000"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="2500" pacs="11500" total="14000"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="0" pacs="12000" total="12000"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="1000" pacs="8000" total="9000"/>
+  </industries>
+</response>

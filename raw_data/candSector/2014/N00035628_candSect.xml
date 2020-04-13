@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Cresent Hardy (R)" cid="N00035628" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035628&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="10200" pacs="0" total="10200"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="8400" pacs="0" total="8400"/>
+    <sector sector_name="Construction" sectorid="C" indivs="48836" pacs="4500" total="53336"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="6000" total="6000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="10650" pacs="14500" total="25150"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="26350" pacs="0" total="26350"/>
+    <sector sector_name="Health" sectorid="H" indivs="11650" pacs="6000" total="17650"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="15250" pacs="2000" total="17250"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="8800" pacs="0" total="8800"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="47400" pacs="18500" total="65900"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="42000" total="42000"/>
+    <sector sector_name="Other" sectorid="W" indivs="13300" pacs="0" total="13300"/>
+  </sectors>
+</response>

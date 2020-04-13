@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Dina Titus (D)" cid="N00030191" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030191&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="48750" pacs="22550" total="71300"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="38100" pacs="20500" total="58600"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="26350" pacs="25000" total="51350"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="46000" total="46000"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="42500" total="42500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="38650" pacs="0" total="38650"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="34500" total="34500"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="31000" total="31000"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="22450" pacs="7000" total="29450"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="24000" total="24000"/>
+  </industries>
+</response>

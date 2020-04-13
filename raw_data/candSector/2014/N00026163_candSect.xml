@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Lynn A Westmoreland (R)" cid="N00026163" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026163&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="16800" pacs="19500" total="36300"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="250" pacs="30500" total="30750"/>
+    <sector sector_name="Construction" sectorid="C" indivs="31200" pacs="27000" total="58200"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="37000" total="37500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1550" pacs="34500" total="36050"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="63400" pacs="272890" total="336290"/>
+    <sector sector_name="Health" sectorid="H" indivs="11350" pacs="26500" total="37850"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="24165" pacs="13500" total="37665"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="20850" pacs="39499" total="60349"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="71950" pacs="69255" total="141205"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="20000" total="20000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="-7000" pacs="20600" total="13600"/>
+    <sector sector_name="Other" sectorid="W" indivs="37850" pacs="0" total="37850"/>
+  </sectors>
+</response>

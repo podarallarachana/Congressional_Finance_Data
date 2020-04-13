@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Drew Ferguson (R)" cid="N00039090" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00039090&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="210880" pacs="83500" total="294380"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="103866" total="103866"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="84205" pacs="0" total="84205"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="21200" pacs="20500" total="41700"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="27450" pacs="5000" total="32450"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="10650" pacs="21000" total="31650"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="22150" pacs="7500" total="29650"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="1000" pacs="27500" total="28500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="23434" pacs="4000" total="27434"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="14750" pacs="10500" total="25250"/>
+  </industries>
+</response>

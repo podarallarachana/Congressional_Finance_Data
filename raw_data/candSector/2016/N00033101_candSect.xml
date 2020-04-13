@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Brad Schneider (D)" cid="N00033101" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033101&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="26555" pacs="0" total="26555"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="82542" pacs="12500" total="95042"/>
+    <sector sector_name="Construction" sectorid="C" indivs="22756" pacs="0" total="22756"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5235" pacs="5000" total="10235"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="7075" pacs="0" total="7075"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="472752" pacs="28000" total="500752"/>
+    <sector sector_name="Health" sectorid="H" indivs="112379" pacs="17500" total="129879"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="365717" pacs="11500" total="377217"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="14233" pacs="0" total="14233"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="218894" pacs="14500" total="233394"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1506" pacs="218750" total="220256"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="843018" pacs="483224" total="1326242"/>
+    <sector sector_name="Other" sectorid="W" indivs="431680" pacs="3000" total="434680"/>
+  </sectors>
+</response>

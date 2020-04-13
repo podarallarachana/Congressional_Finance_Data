@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Eleanor Holmes Norton (D)" cid="N00001692" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001692&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="56818" pacs="11000" total="67818"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="41000" total="41000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="37000" total="37000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="14500" pacs="14500" total="29000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="27500" total="27500"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="15000" total="15000"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="10100" pacs="4500" total="14600"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="12250" total="12250"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="0" pacs="11500" total="11500"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="11000" total="11000"/>
+  </industries>
+</response>

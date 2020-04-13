@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Randy Hultgren (R)" cid="N00031104" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031104&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="54500" pacs="98000" total="152500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="3950" pacs="115500" total="119450"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="9220" pacs="74500" total="83720"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="16907" pacs="40000" total="56907"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="250" pacs="40000" total="40250"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="15600" pacs="24500" total="40100"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="36788" total="36788"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="36000" total="36000"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="2500" pacs="27500" total="30000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="29400" pacs="0" total="29400"/>
+  </industries>
+</response>

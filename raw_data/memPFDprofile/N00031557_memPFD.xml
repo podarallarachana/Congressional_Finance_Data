@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00031557" net_low="3779062" net_high="9494998" positions_held_count="0" asset_count="54" asset_low="4329062" asset_high="9760000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031557" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Fruci Family LLC" holdings_low="1000002" holdings_high="2000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Money Market Fund/Cash" holdings_low="550003" holdings_high="1100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Washington State Employees CU Checking" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Heritage Financial Corp" holdings_low="250001" holdings_high="500000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="Bruin Development LLC" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="RealNetworks Inc" tx_date="Jan 18 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="PT Seattle Revenue BE 5200 Redemption" tx_date="Dec 18 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Morgan Stanley Clark Co Nev BE 5000" tx_date="Dec 27 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="PTLD Hsg-A BE 6000 Redemption" tx_date="Jan  2 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="King Co WA BE 6100 - Redemption" tx_date="Dec 27 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+    </transactions>
+  </member_profile>
+</response>

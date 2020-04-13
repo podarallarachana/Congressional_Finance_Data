@@ -1,0 +1,20 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033177" net_low="789039" net_high="2112000" positions_held_count="2" asset_count="37" asset_low="789039" asset_high="2112000" transaction_count="15" tx_low="127015" tx_high="505000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033177" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Coca-Cola Co" holdings_low="100001" holdings_high="250000" industry="Food &amp; Beverage" sector="Misc Business" subsidiary_of=""/>
+      <asset name="Virginia Retirement System" holdings_low="100002" holdings_high="200000" industry="" sector="" subsidiary_of=""/>
+      <asset name="General Electric" holdings_low="65002" holdings_high="150000" industry="Misc Manufacturing &amp; Distributing" sector="Misc Business" subsidiary_of=""/>
+      <asset name="First Eagle Global Fund" holdings_low="51002" holdings_high="115000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Exxon Mobil" holdings_low="50001" holdings_high="100000" industry="Oil &amp; Gas" sector="Energy/Nat Resource" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="MFS Diversified Income Fund" tx_date="Jan 16 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+    </transactions>
+    <positions>
+      <position title="Other (Board Member)" organization="Housing Opportunities Made Equal"/>
+      <position title="Other (Board Member)" organization="Myotonic Dystrophy Foundation"/>
+      <position title="Other (Teacher)" organization="University of Richmond"/>
+      <position title="Other (Honorary Chairman)" organization="US Spain Council"/>
+    </positions>
+  </member_profile>
+</response>

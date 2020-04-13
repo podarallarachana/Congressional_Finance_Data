@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Dan Benishek (R)" cid="N00031934" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031934&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="500" pacs="220447" total="220947"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="58800" pacs="144500" total="203300"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="42200" pacs="59500" total="101700"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="46250" pacs="16600" total="62850"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="60100" pacs="0" total="60100"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="57681" pacs="0" total="57681"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="10877" pacs="46500" total="57377"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="45050" pacs="11000" total="56050"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="1500" pacs="48200" total="49700"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="35050" pacs="9000" total="44050"/>
+  </industries>
+</response>

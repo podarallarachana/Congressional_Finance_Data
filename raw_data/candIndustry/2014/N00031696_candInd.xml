@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mike Lee (R)" cid="N00031696" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031696&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="158462" pacs="15500" total="173962"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="162014" pacs="0" total="162014"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="103402" pacs="49850" total="153252"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="127805" pacs="2500" total="130305"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="63265" pacs="47000" total="110265"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="71500" pacs="34650" total="106150"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="79300" pacs="25570" total="104870"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="63995" pacs="18250" total="82245"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="77030" pacs="3500" total="80530"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="76100" pacs="1000" total="77100"/>
+  </industries>
+</response>

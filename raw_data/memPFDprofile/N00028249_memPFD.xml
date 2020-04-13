@@ -1,0 +1,10 @@
+<response>
+  <member_profile name="Edwards, Donna" data_year="2016" member_id="N00028249" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00028249" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Cash" tx_date="Jan 31 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Profiles in Courage Awards Selection Committee" organization="John F Kennedy Presidential Library"/>
+    </positions>
+  </member_profile>
+</response>

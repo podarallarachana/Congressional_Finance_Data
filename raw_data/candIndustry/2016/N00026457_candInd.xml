@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ted Poe (R)" cid="N00026457" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026457&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="23500" pacs="44200" total="67700"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="39400" pacs="10500" total="49900"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="27505" pacs="19750" total="47255"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="44475" pacs="0" total="44475"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="2000" pacs="30500" total="32500"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="20850" pacs="8000" total="28850"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="2750" pacs="23500" total="26250"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="7400" pacs="14000" total="21400"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="3200" pacs="17500" total="20700"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="20050" pacs="0" total="20050"/>
+  </industries>
+</response>

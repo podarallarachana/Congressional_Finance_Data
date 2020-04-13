@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Kathleen Rice (D)" cid="N00035927" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035927&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="342086" pacs="17500" total="359586"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="322260" pacs="12000" total="334260"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="261457" pacs="14500" total="275957"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="163002" pacs="0" total="163002"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="143226" pacs="0" total="143226"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="8050" pacs="107250" total="115300"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="70600" pacs="2500" total="73100"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="67700" total="67700"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="63500" total="63500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="38050" pacs="24000" total="62050"/>
+  </industries>
+</response>

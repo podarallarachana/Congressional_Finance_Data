@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Claire McCaskill (D)" cid="N00027694" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027694&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="156324" pacs="140500" total="296824"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="775588" pacs="374498" total="1150086"/>
+    <sector sector_name="Construction" sectorid="C" indivs="184581" pacs="64000" total="248581"/>
+    <sector sector_name="Defense" sectorid="D" indivs="55600" pacs="35000" total="90600"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="162908" pacs="139132" total="302040"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1256735" pacs="315750" total="1572485"/>
+    <sector sector_name="Health" sectorid="H" indivs="616739" pacs="300400" total="917139"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="2644525" pacs="182513" total="2827038"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="146284" pacs="236793" total="383077"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="852065" pacs="200025" total="1052090"/>
+    <sector sector_name="Labor" sectorid="P" indivs="6800" pacs="426250" total="433050"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1660374" pacs="524961" total="2185335"/>
+    <sector sector_name="Other" sectorid="W" indivs="2035525" pacs="1000" total="2036525"/>
+  </sectors>
+</response>

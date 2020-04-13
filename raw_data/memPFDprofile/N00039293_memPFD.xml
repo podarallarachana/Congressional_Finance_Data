@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00039293" net_low="968009" net_high="10380996" positions_held_count="0" asset_count="9" asset_low="2518009" asset_high="11096000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00039293" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Sun Trust Bank Fixed Annuity" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Alexandria, VA Residential Property" holdings_low="1000001" holdings_high="5000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Arizona Federal Credit Union Bank Account" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Gilbert, AZ Rental" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Voyager Travel-Draper, Utah" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

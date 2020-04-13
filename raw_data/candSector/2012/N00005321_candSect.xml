@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Lee Terry (R)" cid="N00005321" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00005321&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="14610" pacs="88000" total="102610"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="54030" pacs="234850" total="288880"/>
+    <sector sector_name="Construction" sectorid="C" indivs="40725" pacs="59750" total="100475"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1200" pacs="27100" total="28300"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="8750" pacs="206250" total="215000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="112207" pacs="165500" total="277707"/>
+    <sector sector_name="Health" sectorid="H" indivs="39950" pacs="170722" total="210672"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="82600" pacs="48250" total="130850"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="38500" pacs="65000" total="103500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="66850" pacs="69000" total="135850"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="21500" total="21500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="5690" pacs="94500" total="100190"/>
+    <sector sector_name="Other" sectorid="W" indivs="46100" pacs="0" total="46100"/>
+  </sectors>
+</response>

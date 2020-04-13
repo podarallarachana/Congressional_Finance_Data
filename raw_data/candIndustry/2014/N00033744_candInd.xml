@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Rod Blum (R)" cid="N00033744" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033744&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="93700" total="93700"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="71831" pacs="0" total="71831"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="35637" pacs="5000" total="40637"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="13320" pacs="22000" total="35320"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="19350" pacs="8000" total="27350"/>
+    <industry industry_code="M03" industry_name="Trucking" indivs="25300" pacs="0" total="25300"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="17849" pacs="6000" total="23849"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="20880" pacs="2000" total="22880"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="19050" pacs="0" total="19050"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="19000" pacs="0" total="19000"/>
+  </industries>
+</response>

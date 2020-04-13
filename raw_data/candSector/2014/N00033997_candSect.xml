@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Pete Aguilar (D)" cid="N00033997" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033997&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1750" pacs="6500" total="8250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="46675" pacs="11640" total="58315"/>
+    <sector sector_name="Construction" sectorid="C" indivs="53725" pacs="4000" total="57725"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2600" pacs="2000" total="4600"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5400" pacs="3000" total="8400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="158096" pacs="47500" total="205596"/>
+    <sector sector_name="Health" sectorid="H" indivs="54799" pacs="42500" total="97299"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="142719" pacs="11250" total="153969"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="7875" pacs="23000" total="30875"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="103055" pacs="6034" total="109089"/>
+    <sector sector_name="Labor" sectorid="P" indivs="950" pacs="245000" total="245950"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="150336" pacs="277053" total="427389"/>
+    <sector sector_name="Other" sectorid="W" indivs="107506" pacs="0" total="107506"/>
+  </sectors>
+</response>

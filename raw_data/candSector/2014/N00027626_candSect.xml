@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Vernon Buchanan (R)" cid="N00027626" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027626&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="31100" pacs="38500" total="69600"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="23000" pacs="31090" total="54090"/>
+    <sector sector_name="Construction" sectorid="C" indivs="58352" pacs="25500" total="83852"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="4000" total="4000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="16000" total="16000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="132200" pacs="148500" total="280700"/>
+    <sector sector_name="Health" sectorid="H" indivs="202300" pacs="198918" total="401218"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="50000" pacs="16750" total="66750"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="37350" pacs="53000" total="90350"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="147750" pacs="110202" total="257952"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="2500" total="2500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="500" pacs="18065" total="18565"/>
+    <sector sector_name="Other" sectorid="W" indivs="152625" pacs="1000" total="153625"/>
+  </sectors>
+</response>

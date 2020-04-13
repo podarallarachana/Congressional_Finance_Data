@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jan Schakowsky (D)" cid="N00004724" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004724&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="149270" pacs="25700" total="174970"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="131647" pacs="0" total="131647"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="86014" pacs="3500" total="89514"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="4867" pacs="73300" total="78167"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="46500" total="46500"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="46500" total="46500"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="39093" pacs="1000" total="40093"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="36250" total="36250"/>
+    <industry industry_code="W04" industry_name="Education" indivs="33939" pacs="2000" total="35939"/>
+    <industry industry_code="W03" industry_name="Civil Servants/Public Officials" indivs="30750" pacs="0" total="30750"/>
+  </industries>
+</response>

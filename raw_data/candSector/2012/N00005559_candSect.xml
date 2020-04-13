@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Frank D Lucas (R)" cid="N00005559" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00005559&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="180875" pacs="567867" total="748742"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="7000" pacs="21000" total="28000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="2750" pacs="6000" total="8750"/>
+    <sector sector_name="Defense" sectorid="D" indivs="750" pacs="13500" total="14250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="18000" pacs="122500" total="140500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="48500" pacs="220250" total="268750"/>
+    <sector sector_name="Health" sectorid="H" indivs="8050" pacs="18000" total="26050"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="63244" pacs="20750" total="83994"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="12000" pacs="20000" total="32000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="31000" pacs="76857" total="107857"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="8500" total="8500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="3450" pacs="10404" total="13854"/>
+    <sector sector_name="Other" sectorid="W" indivs="18025" pacs="1000" total="19025"/>
+  </sectors>
+</response>

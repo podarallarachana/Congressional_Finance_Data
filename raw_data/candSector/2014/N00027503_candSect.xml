@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Bob Casey (D)" cid="N00027503" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027503&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="74200" pacs="183500" total="257700"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="310430" pacs="144250" total="454680"/>
+    <sector sector_name="Construction" sectorid="C" indivs="190826" pacs="45000" total="235826"/>
+    <sector sector_name="Defense" sectorid="D" indivs="28925" pacs="106500" total="135425"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="151000" pacs="173400" total="324400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1066178" pacs="458550" total="1524728"/>
+    <sector sector_name="Health" sectorid="H" indivs="649032" pacs="656479" total="1305511"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="2277371" pacs="245308" total="2522679"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="93250" pacs="97897" total="191147"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="533431" pacs="252537" total="785968"/>
+    <sector sector_name="Labor" sectorid="P" indivs="51179" pacs="373449" total="424628"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="182543" pacs="431934" total="614477"/>
+    <sector sector_name="Other" sectorid="W" indivs="716425" pacs="20000" total="736425"/>
+  </sectors>
+</response>

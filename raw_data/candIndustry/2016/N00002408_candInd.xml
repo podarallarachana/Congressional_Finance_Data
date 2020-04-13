@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="James E Clyburn (D)" cid="N00002408" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002408&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="8350" pacs="130500" total="138850"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="7760" pacs="107000" total="114760"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="3200" pacs="106500" total="109700"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="53160" pacs="47500" total="100660"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="3200" pacs="81262" total="84462"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="81000" total="81000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="4700" pacs="74750" total="79450"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="70340" total="70340"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="1250" pacs="59000" total="60250"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="2950" pacs="52000" total="54950"/>
+  </industries>
+</response>

@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00035267" net_low="650004" net_high="1350000" positions_held_count="1" asset_count="3" asset_low="650004" asset_high="1350000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00035267" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Bank of America" holdings_low="350002" holdings_high="750000" industry="Commercial Banks" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Scottrade Brokerage Sweep Account" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="New Jersey Public Employee Retirement System" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Other (Mayor)" organization="City of Newark, NJ"/>
+      <position title="Other (Board member)" organization="Columbia University Teacher's College"/>
+      <position title="Other (Board member)" organization="Foundation for Newark's Future"/>
+      <position title="Other (Co-Founder, Board Member)" organization="Waywire"/>
+    </positions>
+  </member_profile>
+</response>

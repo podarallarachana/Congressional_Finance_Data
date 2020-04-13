@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ed Whitfield (R)" cid="N00003467" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00003467&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="10250" pacs="0" total="10250"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="4700" pacs="0" total="4700"/>
+    <industry industry_code="B01" industry_name="Printing &amp; Publishing" indivs="1500" pacs="0" total="1500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="1400" pacs="0" total="1400"/>
+    <industry industry_code="E07" industry_name="Misc Energy" indivs="1000" pacs="0" total="1000"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="750" pacs="0" total="750"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="500" pacs="0" total="500"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="500" pacs="0" total="500"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="500" pacs="0" total="500"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="500" pacs="0" total="500"/>
+  </industries>
+</response>

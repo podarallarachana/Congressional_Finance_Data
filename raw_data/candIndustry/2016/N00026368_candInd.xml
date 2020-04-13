@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tim Walberg (R)" cid="N00026368" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026368&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="271620" total="271620"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="123555" pacs="0" total="123555"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="42300" pacs="48495" total="90795"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="74200" pacs="16000" total="90200"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="24214" pacs="60500" total="84714"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="52600" pacs="27700" total="80300"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="2834" pacs="58200" total="61034"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="48500" pacs="12000" total="60500"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="23625" pacs="35500" total="59125"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="32922" pacs="25700" total="58622"/>
+  </industries>
+</response>

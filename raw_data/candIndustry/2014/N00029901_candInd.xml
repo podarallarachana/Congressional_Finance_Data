@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mark Begich (D)" cid="N00029901" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029901&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="801884" pacs="180843" total="982727"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="2600" pacs="477200" total="479800"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="417646" pacs="12500" total="430146"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="198597" pacs="196000" total="394597"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="287425" pacs="68471" total="355896"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="345833" pacs="0" total="345833"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="263450" pacs="44000" total="307450"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="137100" pacs="88400" total="225500"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="166650" pacs="43000" total="209650"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="151757" pacs="37313" total="189070"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jim Cooper (D)" cid="N00003132" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00003132&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="111950" pacs="10750" total="122700"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="69925" pacs="0" total="69925"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="49900" pacs="4000" total="53900"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="41531" pacs="6000" total="47531"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="9000" pacs="30344" total="39344"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="18750" pacs="19000" total="37750"/>
+    <industry industry_code="W04" industry_name="Education" indivs="35400" pacs="0" total="35400"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="19847" pacs="11500" total="31347"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="24550" pacs="3000" total="27550"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="26000" pacs="0" total="26000"/>
+  </industries>
+</response>

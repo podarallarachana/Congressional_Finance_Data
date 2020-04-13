@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="David Scott (D)" cid="N00024871" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00024871&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="19600" pacs="87500" total="107100"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="9250" pacs="72500" total="81750"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="10000" pacs="67000" total="77000"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="5000" pacs="62500" total="67500"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="2500" pacs="46860" total="49360"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="35000" total="35000"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="34000" total="34000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="8750" pacs="19500" total="28250"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="27000" total="27000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="10650" pacs="14500" total="25150"/>
+  </industries>
+</response>

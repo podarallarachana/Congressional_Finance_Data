@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Poe, Ted" data_year="2016" member_id="N00026457" net_low="533017" net_high="1719999" positions_held_count="0" asset_count="14" asset_low="783017" asset_high="1820000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00026457" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Driftwood, TX Real Property" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Harris County Federal Credit Union" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Ivy Asset Strategy Fund" holdings_low="31003" holdings_high="115000" industry="" sector="" subsidiary_of=""/>
+      <asset name="TransAmerica Asset Allocation" holdings_low="30002" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Texas County &amp; District Retirement" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Advisory Board Member" organization="Archer Center Fellowship Program"/>
+      <position title="Board Member" organization="Humble ISD Foundation"/>
+      <position title="Board Member" organization="Justice for Children"/>
+      <position title="Board Member, Director" organization="Texas State Society"/>
+      <position title="Board Member" organization="WWI Commission"/>
+    </positions>
+  </member_profile>
+</response>

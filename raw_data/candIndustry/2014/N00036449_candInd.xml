@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mike Bishop (R)" cid="N00036449" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00036449&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="110600" total="110600"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="68850" pacs="19100" total="87950"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="26200" pacs="36000" total="62200"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="4400" pacs="41500" total="45900"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="31525" pacs="14000" total="45525"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="5450" pacs="39000" total="44450"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="32999" total="32999"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="26300" pacs="5000" total="31300"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="22347" pacs="8200" total="30547"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="29050" pacs="0" total="29050"/>
+  </industries>
+</response>

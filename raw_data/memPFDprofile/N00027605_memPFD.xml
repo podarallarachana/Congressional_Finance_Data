@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Tester, Jon" data_year="2016" member_id="N00027605" net_low="1569008" net_high="6210000" positions_held_count="1" asset_count="8" asset_low="1569008" asset_high="6210000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00027605" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Family Farm Land Big Sandy" holdings_low="1000001" holdings_high="5000000" industry="Crop Production &amp; Basic Processing" sector="Agribusiness" subsidiary_of=""/>
+      <asset name="T-Bone Farms Inc" holdings_low="500001" holdings_high="1000000" industry="Livestock" sector="Agribusiness" subsidiary_of=""/>
+      <asset name="Wells Fargo Bank Checking" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="United States Senate Federal Credit Union" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Deutsche Strategic Government Securities Fund" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Officer" organization="T-Bone Farms Inc"/>
+    </positions>
+  </member_profile>
+</response>

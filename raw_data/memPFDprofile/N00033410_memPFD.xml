@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033410" net_low="3152044" net_high="14507999" positions_held_count="0" asset_count="28" asset_low="4152044" asset_high="15008000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033410" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Mullin Plumbing West Division" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Citizens Bancshares" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="" holdings_low="750004" holdings_high="1600000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Mullin Properties" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Mullin Properties West Division" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Residence/Noble, OK" tx_date="May  1 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Land/Westville, OK" tx_date="Mar  1 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

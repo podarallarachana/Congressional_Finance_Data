@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Katherine Clark (D)" cid="N00035278" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035278&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="83785" pacs="19000" total="102785"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="10950" pacs="86000" total="96950"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="80529" pacs="0" total="80529"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="42700" pacs="23000" total="65700"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="52606" pacs="8500" total="61106"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="60000" total="60000"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="49008" pacs="5" total="49013"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="49000" total="49000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="14163" pacs="32000" total="46163"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="9894" pacs="26750" total="36644"/>
+  </industries>
+</response>

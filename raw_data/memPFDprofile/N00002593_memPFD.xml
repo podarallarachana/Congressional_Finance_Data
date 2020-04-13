@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Isakson, Johnny" data_year="2016" member_id="N00002593" net_low="9705023" net_high="40601000" positions_held_count="1" asset_count="24" asset_low="9705023" asset_high="40601000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00002593" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Isakson Blind Trust" holdings_low="5000001" holdings_high="25000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="SunTrust Money Market Account" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Brandon Mill Road" holdings_low="1000001" holdings_high="5000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Residence 5074 Hampton Farms Drive" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Thrift Savings Plan" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Director" organization="Georgian Club"/>
+    </positions>
+  </member_profile>
+</response>

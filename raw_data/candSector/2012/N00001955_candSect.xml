@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Ben Cardin (D)" cid="N00001955" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001955&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="20250" pacs="32000" total="52250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="227674" pacs="122446" total="350120"/>
+    <sector sector_name="Construction" sectorid="C" indivs="83422" pacs="89500" total="172922"/>
+    <sector sector_name="Defense" sectorid="D" indivs="15550" pacs="69500" total="85050"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="65650" pacs="119750" total="185400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="824908" pacs="463999" total="1288907"/>
+    <sector sector_name="Health" sectorid="H" indivs="324440" pacs="555411" total="879851"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="663869" pacs="128266" total="792135"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="35150" pacs="81000" total="116150"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="267929" pacs="222000" total="489929"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1500" pacs="307500" total="309000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="289362" pacs="299280" total="588642"/>
+    <sector sector_name="Other" sectorid="W" indivs="491757" pacs="12000" total="503757"/>
+  </sectors>
+</response>

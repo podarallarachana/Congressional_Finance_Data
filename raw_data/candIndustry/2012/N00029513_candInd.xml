@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Andre Carson (D)" cid="N00029513" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029513&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="73506" pacs="11500" total="85006"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="58550" pacs="21500" total="80050"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="20000" pacs="30500" total="50500"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="46000" total="46000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="750" pacs="44250" total="45000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="18000" pacs="23750" total="41750"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="8000" pacs="29000" total="37000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="37000" total="37000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="5558" pacs="29000" total="34558"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="30700" pacs="2000" total="32700"/>
+  </industries>
+</response>

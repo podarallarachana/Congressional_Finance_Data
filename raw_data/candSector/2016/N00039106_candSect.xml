@@ -1,0 +1,15 @@
+<response>
+  <sectors cand_name="Mike Johnson (R)" cid="N00039106" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00039106&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="23150" pacs="2000" total="25150"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2050" pacs="3000" total="5050"/>
+    <sector sector_name="Construction" sectorid="C" indivs="37950" pacs="13500" total="51450"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="38500" pacs="21500" total="60000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="112979" pacs="19000" total="131979"/>
+    <sector sector_name="Health" sectorid="H" indivs="100854" pacs="500" total="101354"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="35735" pacs="7000" total="42735"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="21200" pacs="7700" total="28900"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="56702" pacs="4500" total="61202"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="102622" pacs="71319" total="173941"/>
+    <sector sector_name="Other" sectorid="W" indivs="81137" pacs="0" total="81137"/>
+  </sectors>
+</response>

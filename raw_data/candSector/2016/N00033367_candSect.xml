@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="David Valadao (R)" cid="N00033367" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033367&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="622988" pacs="286318" total="909306"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3200" pacs="45000" total="48200"/>
+    <sector sector_name="Construction" sectorid="C" indivs="30017" pacs="56000" total="86017"/>
+    <sector sector_name="Defense" sectorid="D" indivs="150" pacs="40000" total="40150"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="35300" pacs="106750" total="142050"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="72751" pacs="165500" total="238251"/>
+    <sector sector_name="Health" sectorid="H" indivs="13450" pacs="104200" total="117650"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="37550" pacs="12500" total="50050"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="22450" pacs="63995" total="86445"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="127100" pacs="139658" total="266758"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="61000" total="61000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="15213" pacs="405900" total="421113"/>
+    <sector sector_name="Other" sectorid="W" indivs="66693" pacs="0" total="66693"/>
+  </sectors>
+</response>

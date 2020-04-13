@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Chuck Fleischmann (R)" cid="N00030815" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030815&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="120499" total="120499"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="68400" pacs="25500" total="93900"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="53200" pacs="9000" total="62200"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="35500" pacs="23000" total="58500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="41000" pacs="16500" total="57500"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="13350" pacs="38000" total="51350"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="11900" pacs="36400" total="48300"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="32200" pacs="10500" total="42700"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="37400" pacs="0" total="37400"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="22450" pacs="12000" total="34450"/>
+  </industries>
+</response>

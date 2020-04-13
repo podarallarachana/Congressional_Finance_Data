@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Sanford Bishop (D)" cid="N00002674" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00002674&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="19584" pacs="160000" total="179584"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="4000" pacs="50230" total="54230"/>
+    <sector sector_name="Construction" sectorid="C" indivs="8250" pacs="12500" total="20750"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="45500" total="46000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="53000" total="53000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="24752" pacs="97000" total="121752"/>
+    <sector sector_name="Health" sectorid="H" indivs="15150" pacs="56000" total="71150"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="40484" pacs="24750" total="65234"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="7500" pacs="38500" total="46000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="43850" pacs="96400" total="140250"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="135000" total="135000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="8530" pacs="40520" total="49050"/>
+    <sector sector_name="Other" sectorid="W" indivs="37100" pacs="0" total="37100"/>
+  </sectors>
+</response>

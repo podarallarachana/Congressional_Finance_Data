@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Juan Vargas (D)" cid="N00007021" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00007021&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="4500" pacs="26000" total="30500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2800" pacs="36000" total="38800"/>
+    <sector sector_name="Construction" sectorid="C" indivs="500" pacs="11500" total="12000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="100" pacs="29000" total="29100"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="13300" pacs="15500" total="28800"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="52150" pacs="384999" total="437149"/>
+    <sector sector_name="Health" sectorid="H" indivs="4550" pacs="64500" total="69050"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="13000" pacs="8750" total="21750"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1000" pacs="13000" total="14000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="32500" pacs="29500" total="62000"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="138000" total="138000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="22710" pacs="37500" total="60210"/>
+    <sector sector_name="Other" sectorid="W" indivs="9930" pacs="0" total="9930"/>
+  </sectors>
+</response>

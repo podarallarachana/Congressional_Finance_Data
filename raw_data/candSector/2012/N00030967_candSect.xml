@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Sean P Duffy (R)" cid="N00030967" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030967&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="101500" pacs="41000" total="142500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="15000" pacs="31250" total="46250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="82473" pacs="43500" total="125973"/>
+    <sector sector_name="Defense" sectorid="D" indivs="3000" pacs="9000" total="12000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="24516" pacs="63500" total="88016"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="153883" pacs="387051" total="540934"/>
+    <sector sector_name="Health" sectorid="H" indivs="99360" pacs="66750" total="166110"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="53554" pacs="7167" total="60721"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="46492" pacs="43500" total="89992"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="141000" pacs="121613" total="262613"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="18500" total="18500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="41140" pacs="298287" total="339427"/>
+    <sector sector_name="Other" sectorid="W" indivs="143498" pacs="1000" total="144498"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Moolenaar (R)" cid="N00036275" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00036275&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="101600" total="101600"/>
+    <industry industry_code="N13" industry_name="Chemical &amp; Related Manufacturing" indivs="69600" pacs="10500" total="80100"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="19024" pacs="41000" total="60024"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="51850" pacs="0" total="51850"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="39450" pacs="11000" total="50450"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="30650" pacs="4000" total="34650"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="32500" total="32500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="6800" pacs="25000" total="31800"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="21350" pacs="6000" total="27350"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="4574" pacs="22500" total="27074"/>
+  </industries>
+</response>

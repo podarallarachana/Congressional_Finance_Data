@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mike Pompeo (R)" cid="N00030744" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030744&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="209800" pacs="87000" total="296800"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="37750" pacs="54500" total="92250"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="28500" pacs="51499" total="79999"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="60650" pacs="0" total="60650"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="43480" pacs="14000" total="57480"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="16500" pacs="33500" total="50000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="37200" pacs="11600" total="48800"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="6000" pacs="40500" total="46500"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="45000" total="45000"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="26750" pacs="16500" total="43250"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Sander Levin (D)" cid="N00003950" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00003950&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1000" pacs="20000" total="21000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="8700" pacs="36230" total="44930"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5400" pacs="16000" total="21400"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="38000" total="38000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1250" pacs="52000" total="53250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="22300" pacs="283000" total="305300"/>
+    <sector sector_name="Health" sectorid="H" indivs="18300" pacs="202000" total="220300"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="52500" pacs="37500" total="90000"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="35000" total="35000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="24800" pacs="99000" total="123800"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="219500" total="219500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="9700" pacs="13500" total="23200"/>
+    <sector sector_name="Other" sectorid="W" indivs="33215" pacs="500" total="33715"/>
+  </sectors>
+</response>

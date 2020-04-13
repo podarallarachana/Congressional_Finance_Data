@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Alan Nunnelee (R)" cid="N00031006" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031006&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="51900" pacs="19500" total="71400"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="40500" pacs="24100" total="64600"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="46500" total="46500"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="8750" pacs="26000" total="34750"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="8000" pacs="26500" total="34500"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="1300" pacs="32000" total="33300"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="14600" pacs="16250" total="30850"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="28850" pacs="0" total="28850"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="28500" total="28500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="25600" pacs="2500" total="28100"/>
+  </industries>
+</response>

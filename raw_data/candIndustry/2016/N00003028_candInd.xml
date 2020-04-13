@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Robert B Aderholt (R)" cid="N00003028" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00003028&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="14053" pacs="81500" total="95553"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="3950" pacs="90000" total="93950"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="25402" pacs="44000" total="69402"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="31200" pacs="27177" total="58377"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="500" pacs="56700" total="57200"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="3651" pacs="45000" total="48651"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="2601" pacs="41500" total="44101"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="28904" pacs="14932" total="43836"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="31500" pacs="12000" total="43500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="1401" pacs="35950" total="37351"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Melvin L Watt (D)" cid="N00002328" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002328&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F09" industry_name="Insurance" indivs="250" pacs="58500" total="58750"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="250" pacs="48500" total="48750"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="0" pacs="47500" total="47500"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="2500" pacs="37000" total="39500"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="6000" pacs="33250" total="39250"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="8450" pacs="29000" total="37450"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="34500" total="34500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="250" pacs="33000" total="33250"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="750" pacs="28000" total="28750"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="0" pacs="27500" total="27500"/>
+  </industries>
+</response>

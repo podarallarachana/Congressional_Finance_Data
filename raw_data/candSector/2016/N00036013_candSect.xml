@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Dave Brat (R)" cid="N00036013" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00036013&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="19375" pacs="13002" total="32377"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="9923" pacs="7000" total="16923"/>
+    <sector sector_name="Construction" sectorid="C" indivs="27300" pacs="8500" total="35800"/>
+    <sector sector_name="Defense" sectorid="D" indivs="25" pacs="5000" total="5025"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="6074" pacs="19000" total="25074"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="200618" pacs="20500" total="221118"/>
+    <sector sector_name="Health" sectorid="H" indivs="40243" pacs="10500" total="50743"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="27664" pacs="1250" total="28914"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="21250" pacs="28000" total="49250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="60693" pacs="8498" total="69191"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="89501" pacs="43483" total="132984"/>
+    <sector sector_name="Other" sectorid="W" indivs="176255" pacs="1500" total="177755"/>
+  </sectors>
+</response>

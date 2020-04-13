@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Cantor, Eric" data_year="2016" member_id="N00013131" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00013131" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Thirteen Capital Assoc" tx_date="Feb 28 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Goldman Sachs Dwight Asset Management Stable Value" tx_date="May 31 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Alternative Investment Management LLC" tx_date="Feb 27 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Vanguard Short Term Treasury Fund" tx_date="Nov 15 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Vanguard Intermediate Term Bond Index" tx_date="Nov 15 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Non-compensated President and Member" organization="CMR LLC"/>
+    </positions>
+  </member_profile>
+</response>

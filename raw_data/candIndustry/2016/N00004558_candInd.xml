@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Collin Peterson (D)" cid="N00004558" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004558&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="37825" pacs="125000" total="162825"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="2000" pacs="157800" total="159800"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="4250" pacs="53525" total="57775"/>
+    <industry industry_code="A04" industry_name="Dairy" indivs="2250" pacs="43750" total="46000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="10550" pacs="29143" total="39693"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="75" pacs="38000" total="38075"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="0" pacs="36000" total="36000"/>
+    <industry industry_code="E07" industry_name="Misc Energy" indivs="5250" pacs="28100" total="33350"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="32500" total="32500"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="0" pacs="28500" total="28500"/>
+  </industries>
+</response>

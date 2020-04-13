@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Buddy Carter (R)" cid="N00035346" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035346&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="13525" pacs="87498" total="101023"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="4350" pacs="24500" total="28850"/>
+    <sector sector_name="Construction" sectorid="C" indivs="20550" pacs="26000" total="46550"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="35000" total="35000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="14850" pacs="26250" total="41100"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="25774" pacs="80000" total="105774"/>
+    <sector sector_name="Health" sectorid="H" indivs="75218" pacs="191100" total="266318"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="30612" pacs="13500" total="44112"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="22250" pacs="37000" total="59250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="104450" pacs="96248" total="200698"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="4500" total="4500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="10725" pacs="43648" total="54373"/>
+    <sector sector_name="Other" sectorid="W" indivs="51585" pacs="3000" total="54585"/>
+  </sectors>
+</response>

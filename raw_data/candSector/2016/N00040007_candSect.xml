@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Francis Rooney (R)" cid="N00040007" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00040007&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="14500" pacs="1000" total="15500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="19950" pacs="0" total="19950"/>
+    <sector sector_name="Construction" sectorid="C" indivs="85595" pacs="1000" total="86595"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5900" pacs="0" total="5900"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="25300" pacs="5000" total="30300"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="151287" pacs="2500" total="153787"/>
+    <sector sector_name="Health" sectorid="H" indivs="29400" pacs="0" total="29400"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="35565" pacs="0" total="35565"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="9400" pacs="0" total="9400"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="38950" pacs="1000" total="39950"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="32100" pacs="8000" total="40100"/>
+    <sector sector_name="Other" sectorid="W" indivs="317380" pacs="0" total="317380"/>
+  </sectors>
+</response>

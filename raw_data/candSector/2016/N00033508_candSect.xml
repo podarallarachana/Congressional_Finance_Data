@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Eric Swalwell (D)" cid="N00033508" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033508&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="6900" pacs="21000" total="27900"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="64562" pacs="78000" total="142562"/>
+    <sector sector_name="Construction" sectorid="C" indivs="29025" pacs="27000" total="56025"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2160" pacs="39000" total="41160"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="23295" pacs="32000" total="55295"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="204750" pacs="96000" total="300750"/>
+    <sector sector_name="Health" sectorid="H" indivs="67457" pacs="160000" total="227457"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="98643" pacs="22921" total="121564"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="15450" pacs="29500" total="44950"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="86042" pacs="86500" total="172542"/>
+    <sector sector_name="Labor" sectorid="P" indivs="75" pacs="180000" total="180075"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="47019" pacs="24099" total="71118"/>
+    <sector sector_name="Other" sectorid="W" indivs="120023" pacs="0" total="120023"/>
+  </sectors>
+</response>

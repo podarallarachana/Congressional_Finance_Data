@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Dennis Heck (D)" cid="N00031557" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031557&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="30650" pacs="75000" total="105650"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="92265" pacs="0" total="92265"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="86393" pacs="2000" total="88393"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="22250" pacs="63000" total="85250"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="53362" pacs="19500" total="72862"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="4800" pacs="60500" total="65300"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="58000" total="58000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="2500" pacs="55500" total="58000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="17401" pacs="37500" total="54901"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="500" pacs="49000" total="49500"/>
+  </industries>
+</response>

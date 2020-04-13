@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="Dent, Charlie" data_year="2016" member_id="N00026171" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00026171" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Van Kempen Govt SEC Fund (Beneficial IRA)" tx_date="Sep  4 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="PIMCO Fund PAC Inv Mgmt/All Asset  Fund" tx_date="Jul 29 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="PIMCO Fund PAC Inv Mgmt/All Asset  Fund" tx_date="May 23 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Nuveen Municipal Value Fund" tx_date="Sep  4 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Legg Mason Partners Equity Fund" tx_date="Apr 11 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Member" organization="Advisory Board of the Minsi Trails Council Boy Sco"/>
+      <position title="Board Member" organization="Crime Victims Council of the Lehigh Valley"/>
+    </positions>
+  </member_profile>
+</response>

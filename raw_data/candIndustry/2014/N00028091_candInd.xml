@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Carol Shea-Porter (D)" cid="N00028091" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00028091&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="5200" pacs="153325" total="158525"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="120150" pacs="20500" total="140650"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="131120" pacs="0" total="131120"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="88350" total="88350"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="70984" total="70984"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="55958" pacs="13958" total="69916"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="32822" pacs="25237" total="58059"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="49900" pacs="0" total="49900"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="49000" total="49000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="41000" total="41000"/>
+  </industries>
+</response>

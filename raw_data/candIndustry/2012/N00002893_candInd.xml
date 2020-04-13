@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Lois J Frankel (D)" cid="N00002893" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002893&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="402104" pacs="14000" total="416104"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="295600" pacs="0" total="295600"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="139686" pacs="26033" total="165719"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="150504" pacs="0" total="150504"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="64550" pacs="5200" total="69750"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="62950" pacs="6000" total="68950"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="61250" total="61250"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="56500" total="56500"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="50790" pacs="4500" total="55290"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="45000" total="45000"/>
+  </industries>
+</response>

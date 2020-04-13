@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Hurt, Robert" data_year="2016" member_id="N00031265" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031265" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Smithfield Foods" tx_date="Sep 30 2013" tx_action="Exchanged" value_low="1" value_high="1000"/>
+      <transaction asset_name="McDonald's" tx_date="Jul 16 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Tyson Foods" tx_date="Jul 16 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Smithfield Foods" tx_date="Jul 16 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Mead Weavaco" tx_date="Jul 16 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

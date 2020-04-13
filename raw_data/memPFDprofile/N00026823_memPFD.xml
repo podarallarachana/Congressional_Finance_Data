@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00026823" net_low="6209132" net_high="18064999" positions_held_count="22" asset_count="94" asset_low="6459132" asset_high="18165000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00026823" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="102 acres, Church Street" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="" holdings_low="578014" holdings_high="1495000" industry="" sector="" subsidiary_of=""/>
+      <asset name="SCHM - Schwab US Mid-Cap ETF" holdings_low="550003" holdings_high="1100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="89 Fort Panic Road, Santa Rosa Beach, Florida 3245" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="RiverNorth Institutional Partners" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

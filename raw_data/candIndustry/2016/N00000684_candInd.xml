@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Rodney Frelinghuysen (R)" cid="N00000684" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000684&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="124400" pacs="52500" total="176900"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="113593" pacs="5764" total="119357"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="19300" pacs="94000" total="113300"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="109414" pacs="0" total="109414"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="69000" pacs="21000" total="90000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="83600" pacs="5000" total="88600"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="2700" pacs="72778" total="75478"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="20700" pacs="48500" total="69200"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="2000" pacs="62500" total="64500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="23475" pacs="34957" total="58432"/>
+  </industries>
+</response>

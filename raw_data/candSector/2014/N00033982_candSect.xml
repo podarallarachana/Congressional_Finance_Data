@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Martha McSally (R)" cid="N00033982" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033982&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="39010" pacs="18000" total="57010"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="27549" pacs="7500" total="35049"/>
+    <sector sector_name="Construction" sectorid="C" indivs="49550" pacs="33000" total="82550"/>
+    <sector sector_name="Defense" sectorid="D" indivs="19950" pacs="0" total="19950"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="29355" pacs="37000" total="66355"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="439779" pacs="22000" total="461779"/>
+    <sector sector_name="Health" sectorid="H" indivs="108983" pacs="9000" total="117983"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="57932" pacs="0" total="57932"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="104250" pacs="25600" total="129850"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="191977" pacs="51000" total="242977"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="180409" pacs="449714" total="630123"/>
+    <sector sector_name="Other" sectorid="W" indivs="558576" pacs="0" total="558576"/>
+  </sectors>
+</response>

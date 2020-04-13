@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Darrell Issa (R)" cid="N00007017" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007017&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="244646" pacs="0" total="244646"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="164387" pacs="7750" total="172137"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="81850" pacs="14000" total="95850"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="59775" pacs="32250" total="92025"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="76325" pacs="15500" total="91825"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="61098" pacs="25000" total="86098"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="18600" pacs="61000" total="79600"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="7500" pacs="45500" total="53000"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="9400" pacs="41860" total="51260"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="18400" pacs="25500" total="43900"/>
+  </industries>
+</response>

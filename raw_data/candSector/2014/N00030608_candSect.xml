@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Michael F Bennet (D)" cid="N00030608" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030608&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="134591" pacs="155270" total="289861"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="818031" pacs="192088" total="1010119"/>
+    <sector sector_name="Construction" sectorid="C" indivs="177965" pacs="22500" total="200465"/>
+    <sector sector_name="Defense" sectorid="D" indivs="10400" pacs="62000" total="72400"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="186761" pacs="162995" total="349756"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="2562186" pacs="650885" total="3213071"/>
+    <sector sector_name="Health" sectorid="H" indivs="385207" pacs="492200" total="877407"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1741020" pacs="215201" total="1956221"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="64300" pacs="78299" total="142599"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="746362" pacs="235021" total="981383"/>
+    <sector sector_name="Labor" sectorid="P" indivs="2100" pacs="268000" total="270100"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="493941" pacs="491983" total="985924"/>
+    <sector sector_name="Other" sectorid="W" indivs="1452593" pacs="42600" total="1495193"/>
+  </sectors>
+</response>

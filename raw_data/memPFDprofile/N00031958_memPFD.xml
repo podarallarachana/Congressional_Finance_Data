@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="Palazzo, Steven" data_year="2016" member_id="N00031958" net_low="-111993" net_high="1155996" positions_held_count="0" asset_count="6" asset_low="753007" asset_high="1546000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031958" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="BancorpSouth Bank" holdings_low="250001" holdings_high="500000" industry="Commercial Banks" sector="Finance/Insur/RealEst" subsidiary_of="BancorpSouth"/>
+      <asset name="Greene Acres LLC" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Federal Employees Retirements" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="BancorpSouth Bank Account" holdings_low="2002" holdings_high="30000" industry="" sector="" subsidiary_of=""/>
+      <asset name="First National Bank Account" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Greene Acres LLC" tx_date="Sep  5 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Muriel Siebert" tx_date="Aug 19 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

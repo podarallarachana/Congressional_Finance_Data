@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Buddy Carter (R)" cid="N00035346" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035346&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="11350" pacs="39500" total="50850"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="12550" pacs="7500" total="20050"/>
+    <sector sector_name="Construction" sectorid="C" indivs="23450" pacs="17500" total="40950"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="10000" total="10000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="34333" pacs="21500" total="55833"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="50693" pacs="70500" total="121193"/>
+    <sector sector_name="Health" sectorid="H" indivs="94200" pacs="119000" total="213200"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="41216" pacs="7500" total="48716"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="23350" pacs="31100" total="54450"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="166234" pacs="46634" total="212868"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="64992" total="64992"/>
+    <sector sector_name="Other" sectorid="W" indivs="63192" pacs="0" total="63192"/>
+  </sectors>
+</response>

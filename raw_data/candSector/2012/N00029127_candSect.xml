@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jared Polis (D)" cid="N00029127" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029127&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="10750" pacs="0" total="10750"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="55245" pacs="4000" total="59245"/>
+    <sector sector_name="Construction" sectorid="C" indivs="10100" pacs="0" total="10100"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2000" pacs="0" total="2000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="12500" pacs="0" total="12500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="182950" pacs="6500" total="189450"/>
+    <sector sector_name="Health" sectorid="H" indivs="26300" pacs="-2250" total="24050"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="67410" pacs="2000" total="69410"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="0" total="0"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="63705" pacs="-919" total="62786"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="-2000" total="-2000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="15750" pacs="2750" total="18500"/>
+    <sector sector_name="Other" sectorid="W" indivs="103850" pacs="0" total="103850"/>
+  </sectors>
+</response>

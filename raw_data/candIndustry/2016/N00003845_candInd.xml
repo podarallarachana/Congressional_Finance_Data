@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Dan Coats (R)" cid="N00003845" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00003845&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="48800" pacs="23350" total="72150"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="65000" total="65000"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="11850" pacs="43950" total="55800"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="22000" pacs="31750" total="53750"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="10350" pacs="36500" total="46850"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="41650" pacs="3500" total="45150"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="43450" pacs="0" total="43450"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="29050" pacs="8500" total="37550"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="9850" pacs="24500" total="34350"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="3750" pacs="30000" total="33750"/>
+  </industries>
+</response>

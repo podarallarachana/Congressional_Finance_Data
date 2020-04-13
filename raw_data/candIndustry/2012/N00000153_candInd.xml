@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Richard E Neal (D)" cid="N00000153" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000153&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F09" industry_name="Insurance" indivs="52400" pacs="177500" total="229900"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="52800" pacs="126250" total="179050"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="4850" pacs="129000" total="133850"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="2000" pacs="100573" total="102573"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="21800" pacs="46000" total="67800"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="59993" pacs="2500" total="62493"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="16000" pacs="40500" total="56500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="27050" pacs="28968" total="56018"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="4000" pacs="42500" total="46500"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="10750" pacs="29000" total="39750"/>
+  </industries>
+</response>

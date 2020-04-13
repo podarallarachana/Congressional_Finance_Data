@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Matt Salmon (R)" cid="N00006446" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006446&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="79400" pacs="0" total="79400"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="66835" pacs="10000" total="76835"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="51701" pacs="18000" total="69701"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="40353" pacs="9000" total="49353"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="26050" pacs="17089" total="43139"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="16525" pacs="22500" total="39025"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="14050" pacs="23500" total="37550"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="35799" pacs="0" total="35799"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="31500" total="31500"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="28053" pacs="0" total="28053"/>
+  </industries>
+</response>

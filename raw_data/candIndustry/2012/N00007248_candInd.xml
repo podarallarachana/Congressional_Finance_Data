@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Devin Nunes (R)" cid="N00007248" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007248&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="208600" pacs="52250" total="260850"/>
+    <industry industry_code="A04" industry_name="Dairy" indivs="58250" pacs="31000" total="89250"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="9750" pacs="75000" total="84750"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="3000" pacs="75500" total="78500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="17050" pacs="56500" total="73550"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="8500" pacs="55000" total="63500"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="31250" pacs="22500" total="53750"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="38450" pacs="12500" total="50950"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="250" pacs="48250" total="48500"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="0" pacs="41248" total="41248"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John McCain (R)" cid="N00006424" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00006424&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="106047" pacs="36500" total="142547"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="305957" pacs="176690" total="482647"/>
+    <sector sector_name="Construction" sectorid="C" indivs="231845" pacs="43700" total="275545"/>
+    <sector sector_name="Defense" sectorid="D" indivs="127765" pacs="211900" total="339665"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="311635" pacs="216000" total="527635"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="2046759" pacs="277850" total="2324609"/>
+    <sector sector_name="Health" sectorid="H" indivs="290985" pacs="106900" total="397885"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="664600" pacs="106051" total="770651"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="276885" pacs="116100" total="392985"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="997889" pacs="210200" total="1208089"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="13000" total="13250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="409061" pacs="611626" total="1020687"/>
+    <sector sector_name="Other" sectorid="W" indivs="1425448" pacs="29900" total="1455348"/>
+  </sectors>
+</response>

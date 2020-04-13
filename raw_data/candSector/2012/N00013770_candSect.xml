@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Bill Shuster (R)" cid="N00013770" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00013770&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="10050" pacs="19000" total="29050"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="10650" pacs="26000" total="36650"/>
+    <sector sector_name="Construction" sectorid="C" indivs="174200" pacs="136221" total="310421"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2000" pacs="63000" total="65000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="27300" pacs="171000" total="198300"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="44248" pacs="24250" total="68498"/>
+    <sector sector_name="Health" sectorid="H" indivs="10050" pacs="18750" total="28800"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="101334" pacs="34277" total="135611"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="53245" pacs="233650" total="286895"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="57210" pacs="88750" total="145960"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="82000" total="82000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="4500" pacs="18172" total="22672"/>
+    <sector sector_name="Other" sectorid="W" indivs="22350" pacs="0" total="22350"/>
+  </sectors>
+</response>

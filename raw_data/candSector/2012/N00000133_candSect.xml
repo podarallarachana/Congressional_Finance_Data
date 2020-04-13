@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Donna Christian-Christensen (D)" cid="N00000133" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00000133&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="500" pacs="0" total="500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="5650" pacs="40500" total="46150"/>
+    <sector sector_name="Construction" sectorid="C" indivs="4500" pacs="0" total="4500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="350" pacs="8500" total="8850"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="30200" pacs="3000" total="33200"/>
+    <sector sector_name="Health" sectorid="H" indivs="7250" pacs="71615" total="78865"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="15050" pacs="8500" total="23550"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="11300" pacs="8500" total="19800"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="20500" total="20500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="900" pacs="28500" total="29400"/>
+    <sector sector_name="Other" sectorid="W" indivs="11100" pacs="0" total="11100"/>
+  </sectors>
+</response>

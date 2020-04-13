@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Lois Capps (D)" cid="N00007232" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00007232&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="8700" pacs="17000" total="25700"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="95350" pacs="71500" total="166850"/>
+    <sector sector_name="Construction" sectorid="C" indivs="8910" pacs="0" total="8910"/>
+    <sector sector_name="Defense" sectorid="D" indivs="250" pacs="19500" total="19750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="550" pacs="17000" total="17550"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="62100" pacs="46490" total="108590"/>
+    <sector sector_name="Health" sectorid="H" indivs="61834" pacs="271400" total="333234"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="74450" pacs="27750" total="102200"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="53300" pacs="29807" total="83107"/>
+    <sector sector_name="Labor" sectorid="P" indivs="4100" pacs="177120" total="181220"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="181025" pacs="316546" total="497571"/>
+    <sector sector_name="Other" sectorid="W" indivs="265264" pacs="0" total="265264"/>
+  </sectors>
+</response>

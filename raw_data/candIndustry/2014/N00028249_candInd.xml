@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Donna Edwards (D)" cid="N00028249" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00028249&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="57250" total="57250"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="2500" pacs="40500" total="43000"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="41000" total="41000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="35500" total="35500"/>
+    <industry industry_code="W02" industry_name="Non-Profit Institutions" indivs="30950" pacs="0" total="30950"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="30000" total="30000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="16000" pacs="12000" total="28000"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="26500" total="26500"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="250" pacs="18500" total="18750"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="0" pacs="16000" total="16000"/>
+  </industries>
+</response>

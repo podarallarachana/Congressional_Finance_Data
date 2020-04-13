@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Don Norcross (D)" cid="N00036154" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00036154&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="192906" pacs="36891" total="229797"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="126450" pacs="34600" total="161050"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="90900" total="90900"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="68150" pacs="14750" total="82900"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="17800" pacs="41200" total="59000"/>
+    <industry industry_code="C03" industry_name="Special Trade Contractors" indivs="40000" pacs="18500" total="58500"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="54800" pacs="0" total="54800"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="50500" total="50500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="46542" pacs="1622" total="48164"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="230" pacs="47500" total="47730"/>
+  </industries>
+</response>

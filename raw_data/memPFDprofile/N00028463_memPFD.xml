@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Roe, Phil" data_year="2016" member_id="N00028463" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00028463" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Sofha Real Estate Partnership" tx_date="2013-09-30 00:00:00.000" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Vanguard Dividend Appreciation Fund" tx_date="2013-01-04 00:00:00.000" tx_action="Purchased" value_low="26596" value_high="26596"/>
+      <transaction asset_name="Morgan Stanley" tx_date="2013-03-01 00:00:00.000" tx_action="Sold" value_low="25000" value_high="25000"/>
+      <transaction asset_name="General Electric" tx_date="2013-02-01 00:00:00.000" tx_action="Sold" value_low="25000" value_high="25000"/>
+      <transaction asset_name="iShares Core S&amp;P Small Cap ETF" tx_date="2013-04-19 00:00:00.000" tx_action="Sold" value_low="24657" value_high="24657"/>
+    </transactions>
+  </member_profile>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tim Johnson (D)" cid="N00010084" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00010084&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="38000" pacs="178000" total="216000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="87050" pacs="114250" total="201300"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="85050" pacs="85500" total="170550"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="70950" pacs="39500" total="110450"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="60790" pacs="30649" total="91439"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="82250" pacs="2250" total="84500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="44000" pacs="35999" total="79999"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="12500" pacs="31000" total="43500"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="29350" pacs="11500" total="40850"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="29900" pacs="6000" total="35900"/>
+  </industries>
+</response>

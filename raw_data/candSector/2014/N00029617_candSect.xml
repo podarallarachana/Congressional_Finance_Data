@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Kay R Hagan (D)" cid="N00029617" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029617&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="165624" pacs="252306" total="417930"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="408425" pacs="234516" total="642941"/>
+    <sector sector_name="Construction" sectorid="C" indivs="107010" pacs="31500" total="138510"/>
+    <sector sector_name="Defense" sectorid="D" indivs="29302" pacs="117000" total="146302"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="76314" pacs="103000" total="179314"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="861506" pacs="920633" total="1782139"/>
+    <sector sector_name="Health" sectorid="H" indivs="427240" pacs="653259" total="1080499"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1035642" pacs="183500" total="1219142"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="67482" pacs="78500" total="145982"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="393019" pacs="287613" total="680632"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1500" pacs="271000" total="272500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1287838" pacs="776188" total="2064026"/>
+    <sector sector_name="Other" sectorid="W" indivs="1898009" pacs="19500" total="1917509"/>
+  </sectors>
+</response>

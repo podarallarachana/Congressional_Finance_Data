@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Sheldon Whitehouse (D)" cid="N00027533" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027533&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="620757" pacs="103650" total="724407"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="289191" pacs="10500" total="299691"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="297680" total="297680"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="257773" pacs="0" total="257773"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="227059" pacs="6003" total="233062"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="175414" pacs="42500" total="217914"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="153708" pacs="27000" total="180708"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="40613" pacs="129500" total="170113"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="43667" pacs="108060" total="151727"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="132482" pacs="16250" total="148732"/>
+  </industries>
+</response>

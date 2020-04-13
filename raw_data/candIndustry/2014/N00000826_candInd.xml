@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Robert E Andrews (D)" cid="N00000826" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000826&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="29835" pacs="38000" total="67835"/>
+    <industry industry_code="W04" industry_name="Education" indivs="38900" pacs="26499" total="65399"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="32681" pacs="5500" total="38181"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="32000" total="32000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="7550" pacs="22500" total="30050"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="10625" pacs="17000" total="27625"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="16600" pacs="11000" total="27600"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="2600" pacs="22500" total="25100"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="24500" total="24500"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="10400" pacs="5000" total="15400"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tim Huelskamp (R)" cid="N00027649" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027649&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="39001" pacs="8000" total="47001"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="7450" pacs="7000" total="14450"/>
+    <sector sector_name="Construction" sectorid="C" indivs="41046" pacs="5000" total="46046"/>
+    <sector sector_name="Defense" sectorid="D" indivs="125" pacs="5000" total="5125"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="36797" pacs="14500" total="51297"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="82985" pacs="24500" total="107485"/>
+    <sector sector_name="Health" sectorid="H" indivs="19825" pacs="6500" total="26325"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="12222" pacs="0" total="12222"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="10585" pacs="6500" total="17085"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="110327" pacs="1000" total="111327"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="36829" pacs="103882" total="140711"/>
+    <sector sector_name="Other" sectorid="W" indivs="65016" pacs="0" total="65016"/>
+  </sectors>
+</response>

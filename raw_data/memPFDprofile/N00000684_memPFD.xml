@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="Frelinghuysen, Rodney" data_year="2016" member_id="N00000684" net_low="28038326" net_high="89496000" positions_held_count="0" asset_count="207" asset_low="28038326" asset_high="89496000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00000684" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Procter &amp; Gamble" holdings_low="5100002" holdings_high="25250000" industry="Misc Manufacturing &amp; Distributing" sector="Misc Business" subsidiary_of=""/>
+      <asset name="Dreyfus Institutional TR Prime Cash" holdings_low="2000002" holdings_high="10000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="IBM Corp" holdings_low="1000001" holdings_high="5000000" industry="Electronics Mfg &amp; Equip" sector="Communic/Electronics" subsidiary_of=""/>
+      <asset name="Procter &amp; Gamble" holdings_low="1000001" holdings_high="5000000" industry="Misc Manufacturing &amp; Distributing" sector="Misc Business" subsidiary_of=""/>
+      <asset name="Dreyfus Government Cash Management" holdings_low="850003" holdings_high="1750000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Peapack Gladstone Bank/Checking" tx_date="Various" tx_action="Purchased" value_low="100001" value_high="250000"/>
+      <transaction asset_name="US T-Notes" tx_date="Apr 29 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Deere &amp; Co" tx_date="Jul 31 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="US T-Notes" tx_date="Jul 31 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Demand Deposit Account" tx_date="Various" tx_action="Sold" value_low="15001" value_high="50000"/>
+    </transactions>
+    <positions>
+      <position title="Member, Advisory Board" organization="El Primer Paso LTD"/>
+    </positions>
+  </member_profile>
+</response>

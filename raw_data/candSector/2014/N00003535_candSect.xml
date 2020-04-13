@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Sherrod Brown (D)" cid="N00003535" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00003535&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="127375" pacs="101500" total="228875"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="493879" pacs="116000" total="609879"/>
+    <sector sector_name="Construction" sectorid="C" indivs="188672" pacs="89300" total="277972"/>
+    <sector sector_name="Defense" sectorid="D" indivs="25600" pacs="72000" total="97600"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="136210" pacs="147500" total="283710"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1305138" pacs="526649" total="1831787"/>
+    <sector sector_name="Health" sectorid="H" indivs="910985" pacs="484950" total="1395935"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="2253252" pacs="224473" total="2477725"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="97750" pacs="74000" total="171750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="735532" pacs="292300" total="1027832"/>
+    <sector sector_name="Labor" sectorid="P" indivs="31406" pacs="434550" total="465956"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1361983" pacs="572740" total="1934723"/>
+    <sector sector_name="Other" sectorid="W" indivs="2263346" pacs="29550" total="2292896"/>
+  </sectors>
+</response>

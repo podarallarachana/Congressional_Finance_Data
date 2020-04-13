@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Dan Coats (R)" cid="N00003845" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00003845&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="45850" pacs="72950" total="118800"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="40664" pacs="51000" total="91664"/>
+    <sector sector_name="Construction" sectorid="C" indivs="89650" pacs="64500" total="154150"/>
+    <sector sector_name="Defense" sectorid="D" indivs="27875" pacs="102050" total="129925"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="51333" pacs="172750" total="224083"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="440491" pacs="261347" total="701838"/>
+    <sector sector_name="Health" sectorid="H" indivs="86950" pacs="248348" total="335298"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="280787" pacs="55500" total="336287"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="42500" pacs="69400" total="111900"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="188223" pacs="212550" total="400773"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="0" total="250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="67750" pacs="282358" total="350108"/>
+    <sector sector_name="Other" sectorid="W" indivs="217174" pacs="4000" total="221174"/>
+  </sectors>
+</response>

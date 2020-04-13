@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Susan A Davis (D)" cid="N00009604" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009604&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="9600" pacs="16000" total="25600"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="12600" pacs="26000" total="38600"/>
+    <sector sector_name="Construction" sectorid="C" indivs="0" pacs="7500" total="7500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="9250" pacs="61500" total="70750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5450" pacs="4000" total="9450"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="25600" pacs="26000" total="51600"/>
+    <sector sector_name="Health" sectorid="H" indivs="6250" pacs="40625" total="46875"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="9450" pacs="10500" total="19950"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="500" pacs="5000" total="5500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="32500" pacs="12500" total="45000"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="61350" total="61350"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="21950" pacs="10199" total="32149"/>
+    <sector sector_name="Other" sectorid="W" indivs="51000" pacs="5000" total="56000"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Glenn Thompson (R)" cid="N00029736" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029736&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="31650" pacs="39500" total="71150"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="62550" pacs="0" total="62550"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="34750" pacs="25000" total="59750"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="32850" pacs="26000" total="58850"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="43100" pacs="10000" total="53100"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="29693" pacs="5500" total="35193"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="18400" pacs="10500" total="28900"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="6500" pacs="22000" total="28500"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="25233" pacs="3000" total="28233"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="3000" pacs="23000" total="26000"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Brad Sherman (D)" cid="N00006897" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00006897&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="2800" pacs="30250" total="33050"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="93700" pacs="32500" total="126200"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5750" pacs="24000" total="29750"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1250" pacs="14000" total="15250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="7500" pacs="2000" total="9500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="212200" pacs="258900" total="471100"/>
+    <sector sector_name="Health" sectorid="H" indivs="90970" pacs="26000" total="116970"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="101750" pacs="25000" total="126750"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="29950" pacs="-500" total="29450"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="142500" pacs="36000" total="178500"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="165000" total="165000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="158300" pacs="44900" total="203200"/>
+    <sector sector_name="Other" sectorid="W" indivs="121340" pacs="0" total="121340"/>
+  </sectors>
+</response>

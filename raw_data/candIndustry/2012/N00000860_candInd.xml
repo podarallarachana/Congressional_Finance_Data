@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Rush Holt (D)" cid="N00000860" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000860&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="300945" pacs="0" total="300945"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="52450" pacs="79000" total="131450"/>
+    <industry industry_code="W04" industry_name="Education" indivs="96510" pacs="0" total="96510"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="25200" pacs="56000" total="81200"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="2089" pacs="71500" total="73589"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="38806" pacs="22500" total="61306"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="51500" total="51500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="250" pacs="50000" total="50250"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="34456" pacs="11000" total="45456"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="43400" pacs="2000" total="45400"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Adrian Smith (R)" cid="N00027623" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027623&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="8750" pacs="109300" total="118050"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="1035" pacs="72500" total="73535"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="2950" pacs="69200" total="72150"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="5225" pacs="48000" total="53225"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="5700" pacs="40500" total="46200"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="4225" pacs="39000" total="43225"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="0" pacs="34500" total="34500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="14900" pacs="19500" total="34400"/>
+    <industry industry_code="A06" industry_name="Livestock" indivs="12000" pacs="20000" total="32000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="2900" pacs="29000" total="31900"/>
+  </industries>
+</response>

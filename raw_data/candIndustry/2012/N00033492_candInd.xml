@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Elizabeth Warren (D)" cid="N00033492" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033492&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="3291086" pacs="0" total="3291086"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="2185072" pacs="24000" total="2209072"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="1577911" pacs="20472" total="1598383"/>
+    <industry industry_code="W04" industry_name="Education" indivs="1364383" pacs="0" total="1364383"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="902592" pacs="351533" total="1254125"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="622525" pacs="2500" total="625025"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="497231" pacs="0" total="497231"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="478774" pacs="2500" total="481274"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="447306" pacs="2500" total="449806"/>
+    <industry industry_code="B01" industry_name="Printing &amp; Publishing" indivs="377931" pacs="0" total="377931"/>
+  </industries>
+</response>

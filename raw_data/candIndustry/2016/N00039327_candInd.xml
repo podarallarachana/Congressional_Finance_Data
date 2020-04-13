@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Donald McEachin (D)" cid="N00039327" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00039327&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="89306" pacs="14000" total="103306"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="57000" total="57000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="43819" pacs="0" total="43819"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="35000" total="35000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="33500" total="33500"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="24250" total="24250"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="24000" total="24000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="14845" pacs="8500" total="23345"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="19158" pacs="2500" total="21658"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="5660" pacs="13000" total="18660"/>
+  </industries>
+</response>

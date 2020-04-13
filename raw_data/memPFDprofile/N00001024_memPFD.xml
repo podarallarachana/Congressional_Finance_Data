@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="Lowey, Nita M" data_year="2016" member_id="N00001024" net_low="10946020" net_high="49015000" positions_held_count="0" asset_count="17" asset_low="10946020" asset_high="49015000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00001024" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Arbiter Partners" holdings_low="2000002" holdings_high="10000000" industry="Securities &amp; Investment" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="P Oppenheimer Investment Partnership" holdings_low="1100002" holdings_high="5250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Federated Kaufmann Small Cap Fund" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Brownstone Investment Opportunities" holdings_low="1000001" holdings_high="5000000" industry="Misc Finance" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Federated Kaufmann Mid Cap Fund" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Parkstone Capital" tx_date="" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="New Silk Route Fund" tx_date="Aug 26 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

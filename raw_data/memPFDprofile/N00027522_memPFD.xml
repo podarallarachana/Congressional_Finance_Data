@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Heller, Dean" data_year="2016" member_id="N00027522" net_low="1211035" net_high="8817998" positions_held_count="0" asset_count="36" asset_low="3211035" asset_high="9818000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00027522" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Heller Hay Farm" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="" holdings_low="500002" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Whole Life InsuranceProvider: Mass Mutual" holdings_low="150002" holdings_high="350000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Santa Ana CLG" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="PASADENA CALIF ELEC RV Bond" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Heller Hay Farm" tx_date="Feb 11 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Roseville Calif JT UN" tx_date="Apr  4 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Sierra Calif JT CMNTY" tx_date="Mar 20 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Castaic Lake Water AGY" tx_date="Jan 15 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Oakland Calif" tx_date="Apr 10 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+    </transactions>
+  </member_profile>
+</response>

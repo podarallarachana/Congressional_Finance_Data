@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Diana DeGette (D)" cid="N00006134" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006134&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="750" pacs="97159" total="97909"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="51600" pacs="34500" total="86100"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="6250" pacs="76500" total="82750"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="80883" pacs="1755" total="82638"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="54450" pacs="0" total="54450"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="6245" pacs="45500" total="51745"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="27700" pacs="12500" total="40200"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="0" pacs="32000" total="32000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="31000" total="31000"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="30000" total="30000"/>
+  </industries>
+</response>

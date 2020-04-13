@@ -1,0 +1,24 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00035346" net_low="13351059" net_high="57491000" positions_held_count="0" asset_count="58" asset_low="13351059" asset_high="57491000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00035346" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Guardian Point Capital" holdings_low="5000001" holdings_high="25000000" industry="Securities &amp; Investment" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Ameris Bank" holdings_low="1250002" holdings_high="5500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Ameris Bank" holdings_low="1000001" holdings_high="5000000" industry="Commercial Banks" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Carter's Pharmacy" holdings_low="1000001" holdings_high="5000000" industry="Health Professionals" sector="Health" subsidiary_of=""/>
+      <asset name="Comstock Invesco" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="iShares Russell 1000 Growth Index Fund" tx_date="Jan 28 2013 12:00AM" tx_action="Sold" value_low="59362" value_high="59362"/>
+      <transaction asset_name="iShares Russell Mid Cap Value Fund" tx_date="Jan 28 2013 12:00AM" tx_action="Sold" value_low="50968" value_high="50968"/>
+      <transaction asset_name="Vanguard MSCI ETF" tx_date="Jan 28 2013 12:00AM" tx_action="Sold" value_low="42348" value_high="42348"/>
+      <transaction asset_name="iShares Russell 1000 Value Fund" tx_date="Jan 28 2013 12:00AM" tx_action="Sold" value_low="39660" value_high="39660"/>
+      <transaction asset_name="iShares Russell 1000 Value Fund" tx_date="Jan 28 2013 12:00AM" tx_action="Sold" value_low="33587" value_high="33587"/>
+    </transactions>
+    <positions>
+      <position title="President" organization="Carter's Pharmacy"/>
+      <position title="Director" organization="Coastal Bank"/>
+      <position title="Employee" organization="Omnicare Inc"/>
+      <position title="Trustee" organization="Young Harris College"/>
+    </positions>
+  </member_profile>
+</response>

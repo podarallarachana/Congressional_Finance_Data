@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jim Matheson (D)" cid="N00009753" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009753&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="6400" pacs="56000" total="62400"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="13650" pacs="143000" total="156650"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1750" pacs="50500" total="52250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="27500" total="27500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="18000" pacs="218400" total="236400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="55856" pacs="272500" total="328356"/>
+    <sector sector_name="Health" sectorid="H" indivs="53601" pacs="448246" total="501847"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="64615" pacs="31000" total="95615"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="4800" pacs="58000" total="62800"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="40952" pacs="208124" total="249076"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="118750" total="118750"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="16050" pacs="229440" total="245490"/>
+    <sector sector_name="Other" sectorid="W" indivs="39951" pacs="1500" total="41451"/>
+  </sectors>
+</response>

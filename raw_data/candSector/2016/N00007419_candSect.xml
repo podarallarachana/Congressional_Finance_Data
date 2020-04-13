@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mike Thompson (D)" cid="N00007419" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00007419&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="15535" pacs="63450" total="78985"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="785" pacs="46000" total="46785"/>
+    <sector sector_name="Construction" sectorid="C" indivs="4530" pacs="11500" total="16030"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="32500" total="32500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="885" pacs="56000" total="56885"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="50928" pacs="376500" total="427428"/>
+    <sector sector_name="Health" sectorid="H" indivs="16700" pacs="337761" total="354461"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="39410" pacs="33500" total="72910"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2000" pacs="40464" total="42464"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="236990" pacs="129950" total="366940"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="102650" total="102650"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="49215" pacs="26918" total="76133"/>
+    <sector sector_name="Other" sectorid="W" indivs="95700" pacs="0" total="95700"/>
+  </sectors>
+</response>

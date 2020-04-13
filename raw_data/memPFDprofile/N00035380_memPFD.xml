@@ -1,0 +1,16 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00035380" net_low="388022" net_high="976000" positions_held_count="0" asset_count="17" asset_low="388022" asset_high="976000" transaction_count="37" tx_low="32011" tx_high="137000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00035380" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="202005" holdings_high="480000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Bond Fund of America" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="MFS High Income Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="US Treasury Note" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Merger Fund" holdings_low="16002" holdings_high="65000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Board Member" organization="Eastern Shore Chamber of Commerce"/>
+      <position title="Board Member" organization="Reform Alabama"/>
+      <position title="Board Member" organization="South Baldwin Chamber of Commerce"/>
+    </positions>
+  </member_profile>
+</response>

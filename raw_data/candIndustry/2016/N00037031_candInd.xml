@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Darin LaHood (R)" cid="N00037031" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00037031&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="161883" pacs="0" total="161883"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="80850" pacs="53500" total="134350"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="117500" total="117500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="69700" pacs="19500" total="89200"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="75073" pacs="9750" total="84823"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="25650" pacs="54500" total="80150"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="36150" pacs="37500" total="73650"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="30800" pacs="39500" total="70300"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="30600" pacs="35000" total="65600"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="1500" pacs="56549" total="58049"/>
+  </industries>
+</response>

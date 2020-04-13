@@ -1,0 +1,16 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033997" net_low="-963992" net_high="-310002" positions_held_count="0" asset_count="4" asset_low="36008" asset_high="190000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033997" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="TIAA-CREF Retirement Account" holdings_low="19005" holdings_high="110000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Alta Vista Credit Union" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Congressional Federal Credit Union" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="AAA Universal Life Insurance" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Board Member" organization="California Consumer Motor Vehicle Recovery Corp"/>
+      <position title="Alternate Board Member" organization="Omnitrans - San Bernardino County"/>
+      <position title="Alternate Board Member" organization="San Bernardino Valley Municipal Water Advisory"/>
+      <position title="Board Member" organization="YMCA of the East Valley"/>
+    </positions>
+  </member_profile>
+</response>

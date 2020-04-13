@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Fudge, Marcia L" data_year="2016" member_id="N00030490" net_low="-193990" net_high="1039997" positions_held_count="0" asset_count="10" asset_low="556010" asset_high="1340000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030490" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="State of Ohio Public Employment Retirees System" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Third Federal Credit Union" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Warrensville Heights, Ohio Primary Residence" holdings_low="100001" holdings_high="250000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Cuyahoga County Deferred Compensation" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Pacific Life Annuity High Yeild Bond" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

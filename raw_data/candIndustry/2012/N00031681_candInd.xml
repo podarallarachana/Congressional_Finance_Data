@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="David McKinley (R)" cid="N00031681" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031681&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="E04" industry_name="Mining" indivs="236478" pacs="70500" total="306978"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="43340" pacs="90500" total="133840"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="43300" pacs="55000" total="98300"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="21400" pacs="73000" total="94400"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="81050" pacs="8485" total="89535"/>
+    <industry industry_code="C03" industry_name="Special Trade Contractors" indivs="43300" pacs="16500" total="59800"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="26925" pacs="26000" total="52925"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="52500" total="52500"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="50000" total="50000"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="43700" pacs="3500" total="47200"/>
+  </industries>
+</response>

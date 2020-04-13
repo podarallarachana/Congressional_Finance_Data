@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Steve Scalise (R)" cid="N00009660" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009660&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="59975" pacs="94000" total="153975"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="26850" pacs="59000" total="85850"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="42600" pacs="31000" total="73600"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="56972" pacs="12000" total="68972"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="3250" pacs="60500" total="63750"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="11450" pacs="43000" total="54450"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="42794" pacs="0" total="42794"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="24678" pacs="18000" total="42678"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="3000" pacs="38100" total="41100"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="30550" pacs="10500" total="41050"/>
+  </industries>
+</response>

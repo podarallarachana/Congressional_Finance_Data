@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="John Moolenaar (R)" cid="N00036275" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00036275&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="19100" pacs="29750" total="48850"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1750" pacs="7000" total="8750"/>
+    <sector sector_name="Construction" sectorid="C" indivs="31200" pacs="25500" total="56700"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="6000" total="6000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="9700" pacs="46500" total="56200"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="73000" pacs="58000" total="131000"/>
+    <sector sector_name="Health" sectorid="H" indivs="56424" pacs="48250" total="104674"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="30591" pacs="6000" total="36591"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="15474" pacs="28700" total="44174"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="132050" pacs="41500" total="173550"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="15750" pacs="128930" total="144680"/>
+    <sector sector_name="Other" sectorid="W" indivs="74400" pacs="2750" total="77150"/>
+  </sectors>
+</response>

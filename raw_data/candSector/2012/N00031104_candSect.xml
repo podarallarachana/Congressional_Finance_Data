@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Randy Hultgren (R)" cid="N00031104" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031104&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="10650" pacs="116808" total="127458"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="15200" pacs="15500" total="30700"/>
+    <sector sector_name="Construction" sectorid="C" indivs="48000" pacs="44500" total="92500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2500" pacs="4500" total="7000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="11250" pacs="44500" total="55750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="153050" pacs="78000" total="231050"/>
+    <sector sector_name="Health" sectorid="H" indivs="34125" pacs="41000" total="75125"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="48150" pacs="10500" total="58650"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="3550" pacs="103850" total="107400"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="70250" pacs="56166" total="126416"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="46000" total="46000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="21900" pacs="49750" total="71650"/>
+    <sector sector_name="Other" sectorid="W" indivs="73125" pacs="0" total="73125"/>
+  </sectors>
+</response>

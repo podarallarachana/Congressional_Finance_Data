@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Brian Schatz (D)" cid="N00028138" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00028138&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="38750" pacs="17500" total="56250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="142400" pacs="100500" total="242900"/>
+    <sector sector_name="Construction" sectorid="C" indivs="248375" pacs="10500" total="258875"/>
+    <sector sector_name="Defense" sectorid="D" indivs="35000" pacs="12000" total="47000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="70449" pacs="52500" total="122949"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="852446" pacs="109450" total="961896"/>
+    <sector sector_name="Health" sectorid="H" indivs="125900" pacs="30000" total="155900"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="714427" pacs="68726" total="783153"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="171958" pacs="154227" total="326185"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="321665" pacs="97485" total="419150"/>
+    <sector sector_name="Labor" sectorid="P" indivs="2050" pacs="246250" total="248300"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="264360" pacs="364540" total="628900"/>
+    <sector sector_name="Other" sectorid="W" indivs="349909" pacs="0" total="349909"/>
+  </sectors>
+</response>

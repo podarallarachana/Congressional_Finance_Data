@@ -74,6 +74,11 @@ S000480,N00001311,"Slaughter, Louise M",2016,Fidelity Freedom Income,Quarterly,P
 S000480,N00001311,"Slaughter, Louise M",2016,Fidelity Balanced Fund,Quarterly,Purchased,1,1000
 S000480,N00001311,"Slaughter, Louise M",2016,Fidelity Asset Manager Fund,Quarterly,Purchased,1,1000
 D000482,N00001373,"Doyle, Mike",2016,PA SERS Defined Benefit Rollover to Structured Cap,Sep 23 2013,Exchanged,15001,50000
+T000461,N00001489,"Toomey, Pat",2016,Atlas Pipeline Partners,Sep  4 2013,Sold,15001,50000
+T000461,N00001489,"Toomey, Pat",2016,Alps EFT Trust Alerian MLP,Oct  1 2013,Purchased,15001,50000
+T000461,N00001489,"Toomey, Pat",2016,Guggenheim S&P 500 Equal Weight,Nov 19 2013,Purchased,15001,50000
+T000461,N00001489,"Toomey, Pat",2016,Atlas Pipeline Partners,Sep  4 2013,Sold,15001,50000
+T000461,N00001489,"Toomey, Pat",2016,Guggenheim S&P 500 Equal Weight ETF,Nov 19 2013,Purchased,15001,50000
 S001162,N00001579,"Schwartz, Allyson",2016,Vanguard 500 Index Signal,May 21 2013,Purchased,100001,250000
 S001162,N00001579,"Schwartz, Allyson",2016,Morgan Stanley FMA Money Market,Jul 19 2013,Purchased,1,1000
 S001162,N00001579,"Schwartz, Allyson",2016,Teva Pharmaceuticals,Dec 20 2013,Sold,1,1000
@@ -247,6 +252,11 @@ P000265,N00004426,"Petri, Tom",2016,Piper Jaffary Cos,Nov  8 2013,Sold,15001,500
 P000265,N00004426,"Petri, Tom",2016,Plum Creek Timber Co,Mar 13 2013,Purchased,15001,50000
 P000265,N00004426,"Petri, Tom",2016,Eaton Vance Enhanced Income Fund,Mar  4 2013,Sold,1001,15000
 P000265,N00004426,"Petri, Tom",2016,Integrys Energy Gnp,Dec 11 2013,Sold,1,1000
+T000250,N00004572,"Thune, John",2016,Steadfast Income REIT,Sep 18 2013,Purchased,15001,50000
+T000250,N00004572,"Thune, John",2016,Scout Mid Cap Fund,Oct 18 2013,Purchased,1001,15000
+T000250,N00004572,"Thune, John",2016,MainStay Marketfield Fund,Oct 18 2013,Purchased,1001,15000
+T000250,N00004572,"Thune, John",2016,Hussman Strategic Growth Fund,May 15 2013,Sold,1001,15000
+T000250,N00004572,"Thune, John",2016,Fidelity Tax-Free Money Market Fund,Mar  1 2013,Sold,1001,15000
 C001096,N00004614,,2016,TIAA-CREF T Rowe Price Science & Technology Fund,Mar 20 2013,Exchanged,1001,15000
 R000580,N00004719,"Roskam, Peter",2016,Short-Term Bond Fund of America - 529A,Aug  6 2013,Sold,1001,15000
 R000580,N00004719,"Roskam, Peter",2016,Short-Term Bond Fund of America - 529A,Aug  6 2013,Sold,1001,15000
@@ -277,6 +287,7 @@ R000307,N00005285,"Roberts, Pat",2016,Apple Inc,Nov 29 2013,Purchased,100001,250
 R000307,N00005285,"Roberts, Pat",2016,Apple Inc,Dec 18 2013,Sold,100001,250000
 R000307,N00005285,"Roberts, Pat",2016,Apple Inc,Dec 18 2013,Purchased,100001,250000
 R000307,N00005285,"Roberts, Pat",2016,Netflix Inc,Jan 26 2013,Sold,50001,100000
+T000459,N00005321,"Terry, Lee",2016,Pinnacle West Capital,May  7 2013,Sold,1,1000
 L000550,N00005395,"Landrieu, Mary L",2016,Hancock Holding,Sep 26 2013,Sold,15001,50000
 L000550,N00005395,"Landrieu, Mary L",2016,Janus Fund,Mar 25 2013,Sold,1001,15000
 I000024,N00005582,"Inhofe, James M",2016,Vodafone Group,2013-02-22 00:00:00.000,Sold,50001,100000
@@ -304,6 +315,8 @@ D000399,N00006023,"Doggett, Lloyd",2016,First Eagle Overseas Fund,Mar 14 2013,Pu
 D000399,N00006023,"Doggett, Lloyd",2016,Invesco Small Cap Growth Fund,Mar 11 2013,Sold,100001,250000
 D000399,N00006023,"Doggett, Lloyd",2016,Perkins Mid Cap Value Fund,Mar 11 2013,Sold,100001,250000
 D000399,N00006023,"Doggett, Lloyd",2016,Apache Corp,Mar 11 2013,Sold,50001,100000
+T000238,N00006052,"Thornberry, Mac",2016,Wells Fargo Stable Value J,Monthly,Purchased,1,1000
+T000238,N00006052,"Thornberry, Mac",2016,American Funds American Balanced Fund,Monthly,Purchased,1,1000
 D000197,N00006134,"DeGette, Diana",2016,Goldman Sachs Small Cap Value Fund,Feb 21 2013,Sold,50001,100000
 D000197,N00006134,"DeGette, Diana",2016,AM Funds EuroPacific Growth,Feb 21 2013,Purchased,50001,100000
 D000197,N00006134,"DeGette, Diana",2016,Goldman Sachs Small Cap Value Fund,Feb 21 2013,Sold,50001,100000
@@ -330,6 +343,7 @@ S000018,N00006446,,2016,Comm Natl Bank IRA/First Eagle Sogon Overseas F,Jun 28 2
 S000018,N00006446,,2016,CNL Growth Prop REIT,Oct 21 2013,Purchased,1001,15000
 S000018,N00006446,,2016,Griffin Amer Healthcare REIT II,Jun 28 2013,Purchased,1001,15000
 S000018,N00006446,,2016,Corporate Capital Trust BDC,Jun 28 2013,Purchased,1001,15000
+S001183,N00006460,"Schweikert, David",2016,Sheridan Holdings - State Property,138/13,Sold,15001,50000
 S000344,N00006897,"Sherman, Brad",2016,Vanguard TIPS Fund (Not IRA),Jul  8 2013,Sold,25000,25000
 S000344,N00006897,"Sherman, Brad",2016,Vanguard TIPS Fund (Not IRA),Nov  6 2013,Sold,25000,25000
 S000344,N00006897,"Sherman, Brad",2016,Vanguard TIPS Fund (Not IRA),Nov  8 2013,Sold,25000,25000
@@ -400,6 +414,11 @@ L000551,N00008046,"Lee, Barbara",2016,Franklin Templeton Franklin Money Fund,Jul
 L000551,N00008046,"Lee, Barbara",2016,SunAmerica Dynamic Strategy Portfolio,Aug  1 2013,Purchased,50001,100000
 L000551,N00008046,"Lee, Barbara",2016,SunAmerica Dynamic Allocation Portfolio,Aug  1 2013,Purchased,50001,100000
 L000551,N00008046,"Lee, Barbara",2016,SunAmerica Secure Value Account,Aug  1 2013,Purchased,15001,50000
+U000038,N00008051,"Udall, Mark",2016,Parnassus Fund,May  6 2013,Sold,100001,250000
+U000038,N00008051,"Udall, Mark",2016,Parnassus Equity Income Institutional,May  6 2013,Purchased,100001,250000
+U000038,N00008051,"Udall, Mark",2016,Boston Common International Fund,May  6 2013,Purchased,100001,250000
+U000038,N00008051,"Udall, Mark",2016,Neuberger Berman Socially Rspns Fund,May  7 2013,Purchased,100001,250000
+U000038,N00008051,"Udall, Mark",2016,Wells Fargo Advantage Growth Fund,May  6 2013,Sold,50001,100000
 C000071,N00008086,"Camp, Dave",2016,American Express Co bond,Mar 28 2013,Purchased,15001,50000
 C000071,N00008086,"Camp, Dave",2016,Amgen Inc bond,Nov  5 2013,Purchased,15001,50000
 C000071,N00008086,"Camp, Dave",2016,AT&T Inc,Oct  1 2013,Purchased,15001,50000
@@ -538,6 +557,11 @@ M001149,N00024770,"Michaud, Mike",2016,Columbia Marisco,Oct 22 2013,Purchased,1,
 M001149,N00024770,"Michaud, Mike",2016,"111 Main Street/East Millinocket, ME",Nov 30 2013,Sold,1,1000
 M001149,N00024770,"Michaud, Mike",2016,"109 Main Street/East Millinocket, ME",Nov 30 2013,Sold,1,1000
 M001149,N00024770,"Michaud, Mike",2016,Mid Cap Value Fund,Oct 22 2013,Sold,1,1000
+S001181,N00024790,"Shaheen, Jeanne",2016,The Salon LLC,Sep 13 2013,Sold,100001,250000
+S001181,N00024790,"Shaheen, Jeanne",2016,River Mile LLC,Jun 19 2010 12:00AM,Sold,100001,250000
+S001181,N00024790,"Shaheen, Jeanne",2016,AMG GW&K Small Cap Core,Dec 13 2013 12:00AM,Purchased,15001,50000
+S001181,N00024790,"Shaheen, Jeanne",2016,Mid Cap US Stock Royce Value,Dec 13 2013 12:00AM,Sold,15001,50000
+S001181,N00024790,"Shaheen, Jeanne",2016,Promissory Note owed to Kevin Macmillian,Sep 13 2013 12:00AM,Sold,15001,50000
 C001069,N00024842,"Courtney, Joe",2016,Lord Abbett Classic Large Stock Fund,Nov 22 2013,Sold,1001,15000
 C001069,N00024842,"Courtney, Joe",2016,Lord Abbett Calibrated Dividend Growth Fund,Nov 22 2013,Purchased,1001,15000
 C001069,N00024842,"Courtney, Joe",2016,Washington Mutual Investors Fund,Dec 31 2013,Sold,1,1000
@@ -557,6 +581,11 @@ M001151,N00024992,"Murphy, Tim",2016,DWS RREEF Global Infrastructure Fund,Jan 14
 M001151,N00024992,"Murphy, Tim",2016,DWS RREEF Global Infrastructure Fund,Jan 14 2013,Purchased,1,1000
 M001151,N00024992,"Murphy, Tim",2016,Arbitrage Funds,Feb 21 2013,Purchased,1,1000
 M001151,N00024992,"Murphy, Tim",2016,Arbitrage Funds,Jan 14 2013,Sold,1,1000
+T000463,N00025175,"Turner, Michael R",2016,Scout Mid Cap Fund,Feb 28 2013,Purchased,1001,15000
+T000463,N00025175,"Turner, Michael R",2016,Columbia Dividend Income Fund,Feb 28 2013,Sold,1001,15000
+T000463,N00025175,"Turner, Michael R",2016,Scout Mid Cap Fund,Oct 14 2013,Sold,1,1000
+T000463,N00025175,"Turner, Michael R",2016,MFS International Value Fund,Oct 14 2013,Purchased,1,1000
+T000463,N00025175,"Turner, Michael R",2016,MFS International Value Fund,Feb 28 2013,Purchased,1,1000
 B001248,N00025219,"Burgess, Michael",2016,"26 Acres/Glenwood, AR",Jan 30 2012,Purchased,15001,50000
 B001248,N00025219,"Burgess, Michael",2016,"2.5 Acres/Harbor South, AR",Apr 14 2013,Sold,15001,50000
 B001248,N00025219,"Burgess, Michael",2016,Fidelity Contrafund,Dec 13 2013,Purchased,1,1000
@@ -683,6 +712,7 @@ K000367,N00027500,"Klobuchar, Amy",2016,CD -TruStone Financial,May 29 2013,Sold,
 C001070,N00027503,"Casey, Bob",2016,MA Moderate Growth Portfolio,Jan  7 2013,Sold,15001,50000
 C001070,N00027503,"Casey, Bob",2016,MA Moderate Growth Portfolio,Dec 31 2013,Sold,15001,50000
 C001070,N00027503,"Casey, Bob",2016,Now U,Sep 27 2013,Sold,1001,15000
+T000470,N00027509,"Tipton, Scott",2016,4 Way Construction Airport Circle,Feb 28 2013,Sold,50001,100000
 P000593,N00027510,"Perlmutter, Ed",2016,Vanguard 500 Index Signal,Quarterly,Sold,50001,100000
 P000593,N00027510,"Perlmutter, Ed",2016,US Bancorp,Oct  1 2013,Sold,1,1000
 P000593,N00027510,"Perlmutter, Ed",2016,US Bancorp,Oct  1 2013,Sold,1,1000
@@ -770,6 +800,11 @@ F000457,N00029016,"Franken, Al",2016,Invesco Equity & Income Fund,Jan 14 2013,Ex
 F000457,N00029016,"Franken, Al",2016,Invesco Equity & Income Fund,Jan 14 2013,Exchanged,100001,250000
 F000457,N00029016,"Franken, Al",2016,Blackrock Global Allocation Fund,Apr 30 2013,Exchanged,100001,250000
 R000583,N00029018,"Rooney, Tom",2016,"Thoroughbred race horse ""Lucy Boo""",Jun 10 2013,Purchased,1,1000
+T000465,N00029026,"Tsongas, Niki",2016,Vanguard Short Term Bond Fund,Nov 18 2013,Purchased,50001,100000
+T000465,N00029026,"Tsongas, Niki",2016,Columbia Bond Fund,Nov 12 2013,Sold,15001,50000
+T000465,N00029026,"Tsongas, Niki",2016,Wellesley MA G/O Bond,Jun 17 2013,Sold,15001,50000
+T000465,N00029026,"Tsongas, Niki",2016,Columbia Income Opportunities Fund,Nov 12 2013,Sold,1001,15000
+T000465,N00029026,"Tsongas, Niki",2016,Columbia Large Cap Growth Fund,Nov 12 2013,Sold,1001,15000
 H001047,N00029070,"Himes, Jim",2016,Facebook Inc,Aug 26 2013,Sold,50001,100000
 H001047,N00029070,"Himes, Jim",2016,Mondelez International,Oct 28 2013,Sold,1,1000
 H001047,N00029070,"Himes, Jim",2016,High Equity Option,Jan 24 2013,Purchased,1,1000
@@ -792,6 +827,11 @@ K000368,N00029260,,2016,Wells Fargo SIMPLE IRA Cash,Monthly,Purchased,1001,15000
 K000368,N00029260,,2016,Vanguard Investments Vanguard 500 Index Fund Admir,Quarterly,Purchased,1,1000
 K000368,N00029260,,2016,Spartan Total Market Index Fund Adv Class,Dec 13 2013,Purchased,1,1000
 K000368,N00029260,,2016,Fidelity NASDAQ Composite Index,Dec 13 2013,Purchased,1,1000
+S001179,N00029273,"Schock, Aaron",2016,RS Invt Trust Emerging Markets Fund,2013-02-20 00:00:00.000,Sold,2923,2923
+S001179,N00029273,"Schock, Aaron",2016,Oppenheimer Developing Markets Fund,2013-02-21 00:00:00.000,Purchased,2923,2923
+S001179,N00029273,"Schock, Aaron",2016,Hartford Mutual Funds Inc Cap Appreciation Fund,2013-06-10 00:00:00.000,Sold,2832,2832
+S001179,N00029273,"Schock, Aaron",2016,Fidelity Advisor Mid Cap II Fund,2013-06-10 00:00:00.000,Purchased,2668,2668
+S001179,N00029273,"Schock, Aaron",2016,Hartford Mutual Funds II Growth Opportunities Fund,2013-06-10 00:00:00.000,Purchased,2001,2001
 P000595,N00029277,"Peters, Gary",2016,United Parcel Service Inc,Jul  2 2013,Purchased,1001,15000
 P000595,N00029277,"Peters, Gary",2016,Aetna Inc,Jan  7 2013,Purchased,1001,15000
 P000595,N00029277,"Peters, Gary",2016,AT&T Inc,Jan  7 2013,Purchased,1001,15000
@@ -812,6 +852,11 @@ J000291,N00029444,"Johanns, Mike",2016,American Century Short Term Govt,Mar 11 2
 J000291,N00029444,"Johanns, Mike",2016,Fidelity Small Cap Growth,Mar 11 2013,Purchased,15001,50000
 J000291,N00029444,"Johanns, Mike",2016,US Small Co Fund,,Purchased,15001,50000
 J000291,N00029444,"Johanns, Mike",2016,US Large Co Fund,,Purchased,15001,50000
+S001187,N00029574,"Stivers, Steve",2016,First Eagle Global Fund,Oct 31 2013,Purchased,1001,15000
+S001187,N00029574,"Stivers, Steve",2016,Wells Fargo Mutual Fund,Jun 24 2013,Sold,1001,15000
+S001187,N00029574,"Stivers, Steve",2016,AJ Stivers Trust Blackrock Liquidity Fund,Dec 31 2013,Sold,1,1000
+S001187,N00029574,"Stivers, Steve",2016,AJ Stivers Trust Blackrock Liquidity Fund,Sep 30 2013,Sold,1,1000
+S001187,N00029574,"Stivers, Steve",2016,AJ Stivers Trust Blackrock Liquidity Fund,Jun 30 2013,Sold,1,1000
 H001049,N00029617,"Hagan, Kay R",2016,Transamerica Stable Value Advantage Opt Fund,Sep 27 2013,Purchased,500001,1000000
 H001049,N00029617,"Hagan, Kay R",2016,Transamerica Stable Value Advantage Opt Fund,Oct  2 2013,Purchased,500001,1000000
 H001049,N00029617,"Hagan, Kay R",2016,Transamerica Stable Value Advantage Opt Fund,Oct 16 2013,Exchanged,500001,1000000
@@ -838,6 +883,16 @@ B001265,N00029901,"Begich, Mark",2016,Keryx Biopharmaceuticals Inc,Jan 30 2013,S
 B001265,N00029901,"Begich, Mark",2016,Chimera Investment Group,Mar 25 2013,Purchased,15001,50000
 B001265,N00029901,"Begich, Mark",2016,Alpine Total Dynamic Dividend Fund,Mar 25 2013,Purchased,15001,50000
 B001265,N00029901,"Begich, Mark",2016,E*TRADE Financial Corp,Mar 13 2013,Sold,1001,15000
+S001180,N00030071,"Schrader, Kurt",2016,OW Global Opportunities Fund,2013-09-26 00:00:00.000,Sold,90300,90300
+S001180,N00030071,"Schrader, Kurt",2016,OW Large Cap Strategies Fund,2013-09-26 00:00:00.000,Purchased,90300,90300
+S001180,N00030071,"Schrader, Kurt",2016,OW Global Opportunities Fund,2013-03-19 00:00:00.000,Sold,64100,64100
+S001180,N00030071,"Schrader, Kurt",2016,OW Large Cap Strategies Fund,2013-03-19 00:00:00.000,Purchased,64100,64100
+S001180,N00030071,"Schrader, Kurt",2016,OW Global Opportunities Fund,2013-02-01 00:00:00.000,Sold,42200,42200
+T000468,N00030191,,2016,Old Saybrook,Dec  3 2013,Purchased,1001,15000
+T000468,N00030191,,2016,Mass Commonwealth,Dec  3 2013,Purchased,1001,15000
+T000468,N00030191,,2016,JEA - Fla,Dec  3 2013,Purchased,1001,15000
+T000468,N00030191,,2016,Birmingham AL Bond,Dec  3 2013,Purchased,1001,15000
+T000468,N00030191,,2016,NV Energy,Dec 20 2013,Sold,1,1000
 H001051,N00030197,"Hanna, Richard",2016,Biomed Realty Trust,Dec  5 2013,Sold,50001,100000
 H001051,N00030197,"Hanna, Richard",2016,Cisco Systems,Dec  5 2013,Sold,50001,100000
 H001051,N00030197,"Hanna, Richard",2016,Cisco Systems,Jan 29 2013,Purchased,50001,100000
@@ -848,6 +903,7 @@ C001075,N00030245,"Cassidy, Bill",2016,College Savings Plans Michigan Educationa
 C001075,N00030245,"Cassidy, Bill",2016,College Savings Plans Michigan Educational Savings,Dec  9 2013,Sold,1001,15000
 C001075,N00030245,"Cassidy, Bill",2016,College Savings Plans Michigan Educational Savings,Nov  4 2013,Purchased,1001,15000
 C001075,N00030245,"Cassidy, Bill",2016,Blackrock Global Allocation Fund,Jul  2 2013,Purchased,1001,15000
+S001177,N00030418,"Sablan, Gregorio",2016,Fidelity Contrafund,Dec  1 2013,Purchased,1,1000
 C001080,N00030600,"Chu, Judy",2016,Vanguard Mid Cap Index Fund,May 13 2013,Purchased,1001,15000
 C001080,N00030600,"Chu, Judy",2016,Vanguard Windsor II Fund,Monthly,Purchased,1001,15000
 C001080,N00030600,"Chu, Judy",2016,Mid Cap Fund,Monthly,Purchased,1,1000
@@ -856,6 +912,7 @@ C001080,N00030600,"Chu, Judy",2016,Large Cap Index Fund,Monthly,Purchased,1,1000
 B001267,N00030608,"Bennet, Michael",2016,Eaton Vance Large Cap Core Research,Dec 18 2013,Purchased,100001,250000
 B001267,N00030608,"Bennet, Michael",2016,Eaton Vance Large Cap Core Research,Aug  2 2013,Purchased,1001,15000
 B001267,N00030608,"Bennet, Michael",2016,BlackRock Global Allocation Fund,Dec 18 2013,Purchased,1001,15000
+S001185,N00030622,"Sewell, Terri A",2016,Rental home,Jan 11 2013,Sold,100001,250000
 R000593,N00030645,"Ross, Dennis",2016,"Vecchio, Carrier & Feldman",Jan  1 2011,Sold,50001,100000
 K000378,N00030667,"Kinzinger, Adam",2016,Northwest Mutual Advisory Fund,Jan  7 2013,Purchased,15001,50000
 K000378,N00030667,"Kinzinger, Adam",2016,Russel Lifepoint Balanced Fund,Jan  7 2013,Sold,15001,50000
@@ -904,6 +961,7 @@ K000382,N00030875,,2016,FID Low Priced Stock,2013-06-24 00:00:00.000,Sold,192858
 K000382,N00030875,,2016,FID Diversified International,2013-06-24 00:00:00.000,Sold,162758,162758
 K000382,N00030875,,2016,Fidelity Blue Chip Growth Fund,2013-06-24 00:00:00.000,Sold,126460,126460
 K000382,N00030875,,2016,SPTN US Bond Index,2013-06-24 00:00:00.000,Sold,119900,119900
+S001188,N00030891,"Stutzman, Marlin",2016,HealthSouth Corp,Oct 10 2013,Purchased,1,1000
 B001274,N00030910,"Brooks, Mo",2016,Alliance Resource Partners,Jun 10 2013,Sold,15001,50000
 B001274,N00030910,"Brooks, Mo",2016,Baldwin County AL Board of Ed Bond,Feb  8 2013,Sold,15001,50000
 B001274,N00030910,"Brooks, Mo",2016,Royce Total Return Fund,Feb  8 2013,Purchased,15001,50000
@@ -953,6 +1011,7 @@ L000575,N00031129,"Lankford, James",2016,American Beacon Stephens Small Cap Grow
 L000575,N00031129,"Lankford, James",2016,Invesco Comstock Fund,Jun 14 2013,Purchased,1,1000
 M001181,N00031134,"Meehan, Patrick",2016,NW Fund Institutional Services,Mar 13 2013,Sold,1,1000
 M001181,N00031134,"Meehan, Patrick",2016,NW Fund D,Mar 13 2013,Sold,1,1000
+S001186,N00031204,"Southerland, Steve",2016,"528 W Baldwin Road,/Panama City, FL",Jun 14 2013,Sold,250001,500000
 B001275,N00031227,"Bucshon, Larry",2016,Schwab Advantage Cash Reserve,2013-03-08 00:00:00.000,Purchased,338713,338713
 B001275,N00031227,"Bucshon, Larry",2016,Schwab Advantage Cash Reserve,2013-03-13 00:00:00.000,Sold,175359,175359
 B001275,N00031227,"Bucshon, Larry",2016,Schwab Advantage Cash Reserve,2013-03-11 00:00:00.000,Sold,161867,161867
@@ -1060,6 +1119,11 @@ J000292,N00032088,"Johnson, Bill",2016,Oppenheimer Equity Inc Fund,Sep 19 2013,P
 N000185,N00032441,"Nugent, Richard",2016,Bencor 401-A Am Funds Capital Income Builder,Bi-weekly,Purchased,1,1000
 N000185,N00032441,"Nugent, Richard",2016,American Funds Income Fund of America,Bi-weekly,Purchased,1,1000
 N000185,N00032441,"Nugent, Richard",2016,American Funds Capital Income Builder Fund,Bi-weekly,Purchased,1,1000
+S001189,N00032457,"Scott, Austin",2016,Locket Station Group,Dec  4 2013,Sold,100001,250000
+S001189,N00032457,"Scott, Austin",2016,Ballard Power Systems Inc,Dec  6 2013,Sold,15001,50000
+S001189,N00032457,"Scott, Austin",2016,Aruba Networks,May 20 2013,Purchased,1001,15000
+S001189,N00032457,"Scott, Austin",2016,Aruba Networks,Aug 30 2013,Purchased,1001,15000
+S001189,N00032457,"Scott, Austin",2016,Aruba Networks,Dec  4 2013,Sold,1001,15000
 M001183,N00032838,"Manchin, Joe",2016,DFA Intermediate-Term Municipal Bond Fund,Nov  4 2013,Sold,50001,100000
 M001183,N00032838,"Manchin, Joe",2016,Sallie Mae Bank CD,Nov 13 2013,Purchased,50001,100000
 M001183,N00032838,"Manchin, Joe",2016,DFA Two-Year Global Fixed-Income Fund,Nov  4 2013,Purchased,15001,50000
@@ -1081,6 +1145,11 @@ C001098,N00033085,,2016,Goldman Sachs Local Emrg Mkts Debt Institutional,Feb  6 
 C001098,N00033085,,2016,Enterprise Products Partners,Feb  6 2013,Purchased,15001,50000
 C001098,N00033085,,2016,Enterprise Products Partners,Mar 19 2013,Purchased,15001,50000
 M001191,N00033091,,2016,Principal Life IRA SAM Conservative Growth Portfol,Feb  5 2013,Purchased,1001,15000
+S001190,N00033101,,2016,Europacific Growth Fund,May  8 2013,Exchanged,100001,250000
+S001190,N00033101,,2016,Wells Fargo Intrinsic Value Fund,Jun  5 2013,Exchanged,100001,250000
+S001190,N00033101,,2016,SPDR S&P 500 ETF,Oct  8 2013,Purchased,100001,250000
+S001190,N00033101,,2016,SPDR S&P 500 ETF,Nov  7 2013,Sold,100001,250000
+S001190,N00033101,,2016,Vanguard Index Fds Vanguard Total Stk Mk,Nov  7 2013,Purchased,100001,250000
 K000384,N00033177,,2016,MFS Diversified Income Fund,Jan 16 2013,Purchased,15001,50000
 E000293,N00033217,,2016,Lincoln Fidelity Tax Exempt Fund Daily Money Class,Aug 30 2013,Sold,50001,100000
 E000293,N00033217,,2016,iShares Trust High Div ETF,Dec  9 2013,Purchased,1001,15000
@@ -1119,6 +1188,8 @@ B001284,N00033495,,2016,Eaton Vance Global Macro Absolute Return Fund,Jun 18 201
 B001284,N00033495,,2016,Artisan Mid Cap Value Fund,Sep 24 2013,Sold,1,1000
 B001284,N00033495,,2016,Artisan Funds Inc Mid Cap Value Fund,Jun 17 2013,Sold,1,1000
 B001284,N00033495,,2016,Artio Global Invt Fds Aberdeen Total Return Bd Fd,Sep 24 2013,Sold,1,1000
+S001193,N00033508,,2016,NKTR Stock,Jul  8 2013,Purchased,1,1000
+S001193,N00033508,,2016,Nektar Therapeutics,Jul  8 2013,Purchased,1,1000
 N000187,N00033509,,2016,Sacramento Residence,Aug 10 2013,Sold,100001,250000
 C001093,N00033518,,2016,Pension Annuity for service in the state legislatu,Jan 21 2014,Sold,1,1000
 B001283,N00033532,,2016,Principal Large Cap S&P 500 Index Sep Account,Feb  1 2013,Exchanged,1001,15000
@@ -1168,6 +1239,8 @@ D000620,N00033897,,2016,CapitalSource Inc,Jul 24 2013,Sold,500001,1000000
 B001281,N00033904,,2016,229-241 S High St,Dec 13 2013,Sold,500001,1000000
 B001281,N00033904,,2016,1620 E Broad St,Jun 28 2013,Sold,1001,15000
 B001281,N00033904,,2016,4226 Edison Street,Dec 30 2013,Sold,1,1000
+S001192,N00033932,,2016,217 9th Str NE Washington DC 20002/Home,Dec 13 2013,Purchased,250001,500000
+S001192,N00033932,,2016,WFG Investment Senergy,Aug 26 2013,Purchased,100001,250000
 B001279,N00033981,"Barber, Ron",2016,Powershares Commodities,Feb 14 2013,Purchased,1,1000
 B001279,N00033981,"Barber, Ron",2016,iShares MSCI Switzerland Index,Jun 11 2013,Purchased,1,1000
 B001279,N00033981,"Barber, Ron",2016,iShares MSCI Netherlands,Aug 26 2013,Purchased,1,1000
@@ -1218,6 +1291,7 @@ J000295,N00035007,,2016,Deutsche Bank Autocall Bond,Dec 10 2013,Purchased,15001,
 J000295,N00035007,,2016,Harbor International Fund,Dec 17 2013,Purchased,15001,50000
 J000295,N00035007,,2016,Google Inc,140231,Sold,1001,15000
 J000295,N00035007,,2016,GNC Holdings,Sep 18 2013,Sold,1001,15000
+S001195,N00035282,,2016,Sect Road Salem MO,Apr 12 2013,Sold,15001,50000
 C001103,N00035346,,2016,iShares Russell 1000 Growth Index Fund,Jan 28 2013 12:00AM,Sold,59362,59362
 C001103,N00035346,,2016,iShares Russell Mid Cap Value Fund,Jan 28 2013 12:00AM,Sold,50968,50968
 C001103,N00035346,,2016,Vanguard MSCI ETF,Jan 28 2013 12:00AM,Sold,42348,42348

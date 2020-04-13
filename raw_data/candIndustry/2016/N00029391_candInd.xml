@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Erik Paulsen (R)" cid="N00029391" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029391&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="370500" total="370500"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="86550" pacs="249350" total="335900"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="71650" pacs="231000" total="302650"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="292330" pacs="0" total="292330"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="57660" pacs="186700" total="244360"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="122600" pacs="87000" total="209600"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="66925" pacs="66500" total="133425"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="79075" pacs="44000" total="123075"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="38236" pacs="78000" total="116236"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="46550" pacs="65500" total="112050"/>
+  </industries>
+</response>

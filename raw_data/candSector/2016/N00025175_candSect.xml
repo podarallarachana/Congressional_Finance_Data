@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Michael R Turner (R)" cid="N00025175" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00025175&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="22600" pacs="6500" total="29100"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="4700" pacs="26180" total="30880"/>
+    <sector sector_name="Construction" sectorid="C" indivs="28480" pacs="27000" total="55480"/>
+    <sector sector_name="Defense" sectorid="D" indivs="40800" pacs="187300" total="228100"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="12550" pacs="24500" total="37050"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="53678" pacs="46500" total="100178"/>
+    <sector sector_name="Health" sectorid="H" indivs="23800" pacs="17000" total="40800"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="29500" pacs="12500" total="42000"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="8400" pacs="21175" total="29575"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="66375" pacs="34000" total="100375"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="62500" total="62500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="7350" pacs="51500" total="58850"/>
+    <sector sector_name="Other" sectorid="W" indivs="35975" pacs="1000" total="36975"/>
+  </sectors>
+</response>

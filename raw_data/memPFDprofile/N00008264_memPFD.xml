@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Royce, Ed" data_year="2016" member_id="N00008264" net_low="-1324982" net_high="325997" positions_held_count="0" asset_count="17" asset_low="425018" asset_high="1176000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00008264" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Fidelity Mutual Fund - Equity Index Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Mutual Fund - US Small Cap Equity Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Mutual Fund International Equity" holdings_low="65002" holdings_high="150000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Mutual Fund - US Large Cap Growth Equity" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Stock SELECTOR Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Fidelity Mutual Fund - Equity Index Fund" tx_date="Dec 31 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Fidelity Mutual Fund - Bond Fund" tx_date="Dec 31 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Fidelity Mutual Fund - International Equity" tx_date="Dec 31 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Fidelity Mutual Fund - US Small Cap Fund" tx_date="Jan  1 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Fidelity Mutual Fund - Stable Value Bond Fund" tx_date="Jan  1 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

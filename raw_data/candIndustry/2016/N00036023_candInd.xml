@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Barbara Comstock (R)" cid="N00036023" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00036023&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="2900" pacs="367100" total="370000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="313407" pacs="0" total="313407"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="292029" pacs="4500" total="296529"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="247525" pacs="7513" total="255038"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="204040" pacs="46250" total="250290"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="188313" pacs="29000" total="217313"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="126900" pacs="15700" total="142600"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="66174" pacs="53000" total="119174"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="61150" pacs="53183" total="114333"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="7764" pacs="99500" total="107264"/>
+  </industries>
+</response>

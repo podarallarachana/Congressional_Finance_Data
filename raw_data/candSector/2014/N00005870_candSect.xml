@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Gene Green (D)" cid="N00005870" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00005870&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1000" pacs="4000" total="5000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="8750" pacs="69500" total="78250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="13600" pacs="10000" total="23600"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="7500" total="7500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1450" pacs="158850" total="160300"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="15450" pacs="38000" total="53450"/>
+    <sector sector_name="Health" sectorid="H" indivs="19600" pacs="204044" total="223644"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="33750" pacs="21500" total="55250"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="12000" pacs="62199" total="74199"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="19450" pacs="77000" total="96450"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="159300" total="159300"/>
+    <sector sector_name="Other" sectorid="W" indivs="6400" pacs="0" total="6400"/>
+  </sectors>
+</response>

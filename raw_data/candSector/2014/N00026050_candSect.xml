@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Lisa Murkowski (R)" cid="N00026050" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026050&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="19600" pacs="105135" total="124735"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="73800" pacs="107850" total="181650"/>
+    <sector sector_name="Construction" sectorid="C" indivs="95296" pacs="92100" total="187396"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5250" pacs="99000" total="104250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="473392" pacs="983618" total="1457010"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="225987" pacs="177900" total="403887"/>
+    <sector sector_name="Health" sectorid="H" indivs="90231" pacs="204500" total="294731"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="455873" pacs="126250" total="582123"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="109751" pacs="206100" total="315851"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="290765" pacs="247400" total="538165"/>
+    <sector sector_name="Labor" sectorid="P" indivs="700" pacs="105300" total="106000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="98950" pacs="319428" total="418378"/>
+    <sector sector_name="Other" sectorid="W" indivs="196886" pacs="3000" total="199886"/>
+  </sectors>
+</response>

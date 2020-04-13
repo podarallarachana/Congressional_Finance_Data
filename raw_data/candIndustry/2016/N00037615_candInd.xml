@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jenniffer Gonzalez (3)" cid="N00037615" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00037615&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="135678" pacs="7748" total="143426"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="46500" pacs="0" total="46500"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="41758" pacs="0" total="41758"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="31780" pacs="1000" total="32780"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="29150" pacs="1000" total="30150"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="28111" pacs="1000" total="29111"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="24250" pacs="3000" total="27250"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="23595" pacs="0" total="23595"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="17700" pacs="2500" total="20200"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="17700" pacs="0" total="17700"/>
+  </industries>
+</response>

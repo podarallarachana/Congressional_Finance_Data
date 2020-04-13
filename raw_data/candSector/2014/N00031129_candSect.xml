@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="James Lankford (R)" cid="N00031129" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031129&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="69065" pacs="50500" total="119565"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="43350" pacs="47500" total="90850"/>
+    <sector sector_name="Construction" sectorid="C" indivs="144705" pacs="40500" total="185205"/>
+    <sector sector_name="Defense" sectorid="D" indivs="14850" pacs="25000" total="39850"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="406457" pacs="249500" total="655957"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="299739" pacs="137100" total="436839"/>
+    <sector sector_name="Health" sectorid="H" indivs="216910" pacs="76250" total="293160"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="141900" pacs="7750" total="149650"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="88725" pacs="77500" total="166225"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="184366" pacs="78000" total="262366"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="18500" total="18500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="114225" pacs="215803" total="330028"/>
+    <sector sector_name="Other" sectorid="W" indivs="389485" pacs="0" total="389485"/>
+  </sectors>
+</response>

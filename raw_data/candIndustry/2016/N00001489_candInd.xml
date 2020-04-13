@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Pat Toomey (R)" cid="N00001489" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001489&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="2885670" pacs="0" total="2885670"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="1943575" pacs="321738" total="2265313"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="1364248" pacs="95344" total="1459592"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="968793" pacs="254806" total="1223599"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="883033" pacs="121100" total="1004133"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="462790" pacs="474100" total="936890"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="432552" pacs="301250" total="733802"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="714491" total="714491"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="480653" pacs="107700" total="588353"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="277497" pacs="291850" total="569347"/>
+  </industries>
+</response>

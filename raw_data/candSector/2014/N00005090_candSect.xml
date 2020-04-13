@@ -1,0 +1,8 @@
+<response>
+  <sectors cand_name="Jo Ann Emerson (R)" cid="N00005090" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00005090&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="-2500" total="-2500"/>
+    <sector sector_name="Health" sectorid="H" indivs="0" pacs="-3500" total="-3500"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="-7000" total="-7000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="-1500" total="-1500"/>
+  </sectors>
+</response>

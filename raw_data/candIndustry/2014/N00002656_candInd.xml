@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jack Kingston (R)" cid="N00002656" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002656&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="439654" pacs="0" total="439654"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="308209" pacs="59089" total="367298"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="246429" pacs="78000" total="324429"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="237190" pacs="69000" total="306190"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="272399" pacs="14500" total="286899"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="208658" pacs="64500" total="273158"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="173408" pacs="2500" total="175908"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="154500" total="154500"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="42950" pacs="76250" total="119200"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="69156" pacs="31500" total="100656"/>
+  </industries>
+</response>

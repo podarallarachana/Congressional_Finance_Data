@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mike Conaway (R)" cid="N00026041" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026041&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="112350" pacs="173750" total="286100"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="177250" pacs="63000" total="240250"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="2700" pacs="125132" total="127832"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="20450" pacs="80500" total="100950"/>
+    <industry industry_code="A06" industry_name="Livestock" indivs="58600" pacs="29500" total="88100"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="22750" pacs="45000" total="67750"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="59650" pacs="0" total="59650"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="18650" pacs="39000" total="57650"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="35750" pacs="17500" total="53250"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="44000" total="44000"/>
+  </industries>
+</response>

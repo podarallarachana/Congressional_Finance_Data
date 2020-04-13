@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="Bonamici, Suzanne" data_year="2016" member_id="N00033474" net_low="3122033" net_high="6680000" positions_held_count="0" asset_count="33" asset_low="3122033" asset_high="6680000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033474" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Vanguard 500 Index Signal" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard REIT ETF" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Vanguard Small Cap Index mutual fund" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="active Portfolio Multi Manager Growth Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Nuveen Intermediate Duration Municipal Bond Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Columbia Large Growth Quantitative Fund" tx_date="May 17 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Columbia Large Growth Quantitative Fund" tx_date="Nov  6 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Columbia Large Growth Quantitative Fund" tx_date="Aug 14 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Columbia Equity Value Fund" tx_date="Aug 14 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Columbia Equity Value Fund" tx_date="May 17 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Member (minority interest; no control or managerial responsibility)" organization="Insmouth Partners LLC"/>
+    </positions>
+  </member_profile>
+</response>

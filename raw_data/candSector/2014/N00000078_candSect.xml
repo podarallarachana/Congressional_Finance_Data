@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Carolyn B Maloney (D)" cid="N00000078" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00000078&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="8000" pacs="18000" total="26000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="20621" pacs="19090" total="39711"/>
+    <sector sector_name="Construction" sectorid="C" indivs="10950" pacs="31000" total="41950"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="12500" total="12500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="10650" pacs="0" total="10650"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="209300" pacs="380000" total="589300"/>
+    <sector sector_name="Health" sectorid="H" indivs="15650" pacs="20000" total="35650"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="66550" pacs="30200" total="96750"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="250" pacs="10121" total="10371"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="56600" pacs="16559" total="73159"/>
+    <sector sector_name="Labor" sectorid="P" indivs="500" pacs="135350" total="135850"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="31550" pacs="21300" total="52850"/>
+    <sector sector_name="Other" sectorid="W" indivs="88849" pacs="0" total="88849"/>
+  </sectors>
+</response>

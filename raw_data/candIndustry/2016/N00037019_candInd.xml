@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Nanette Barragan (D)" cid="N00037019" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00037019&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="227045" pacs="9816" total="236861"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="147554" pacs="31500" total="179054"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="141768" pacs="12393" total="154161"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="35832" pacs="26962" total="62794"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="61968" pacs="0" total="61968"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="61200" total="61200"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="58468" pacs="0" total="58468"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="40782" pacs="15130" total="55912"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="43897" pacs="0" total="43897"/>
+    <industry industry_code="W04" industry_name="Education" indivs="31998" pacs="0" total="31998"/>
+  </industries>
+</response>

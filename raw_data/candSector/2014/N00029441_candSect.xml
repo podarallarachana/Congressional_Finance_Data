@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="James E Risch (R)" cid="N00029441" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029441&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="44800" pacs="121937" total="166737"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="10650" pacs="82000" total="92650"/>
+    <sector sector_name="Construction" sectorid="C" indivs="43245" pacs="28500" total="71745"/>
+    <sector sector_name="Defense" sectorid="D" indivs="250" pacs="52277" total="52527"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="74100" pacs="226000" total="300100"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="116111" pacs="237500" total="353611"/>
+    <sector sector_name="Health" sectorid="H" indivs="25760" pacs="54000" total="79760"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="66600" pacs="24740" total="91340"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="11350" pacs="64000" total="75350"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="86895" pacs="112250" total="199145"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1250" total="1250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="103097" pacs="252724" total="355821"/>
+    <sector sector_name="Other" sectorid="W" indivs="97674" pacs="3500" total="101174"/>
+  </sectors>
+</response>

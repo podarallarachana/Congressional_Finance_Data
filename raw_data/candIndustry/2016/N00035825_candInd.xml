@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ted Lieu (D)" cid="N00035825" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035825&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="130753" pacs="16450" total="147203"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="140901" pacs="0" total="140901"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="116940" pacs="7000" total="123940"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="83350" pacs="10000" total="93350"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="37300" pacs="42500" total="79800"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="49295" pacs="13000" total="62295"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="28050" pacs="26600" total="54650"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="44500" total="44500"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="33201" pacs="11000" total="44201"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="28900" pacs="10500" total="39400"/>
+  </industries>
+</response>

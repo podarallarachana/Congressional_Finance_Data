@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John Katko (R)" cid="N00035934" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035934&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="26575" pacs="0" total="26575"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="18825" pacs="5000" total="23825"/>
+    <sector sector_name="Construction" sectorid="C" indivs="20875" pacs="6000" total="26875"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="2500" total="2500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="9325" pacs="8000" total="17325"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="96950" pacs="8000" total="104950"/>
+    <sector sector_name="Health" sectorid="H" indivs="19625" pacs="0" total="19625"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="53375" pacs="0" total="53375"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="21925" pacs="5000" total="26925"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="38150" pacs="11000" total="49150"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="10600" pacs="131500" total="142100"/>
+    <sector sector_name="Other" sectorid="W" indivs="94150" pacs="0" total="94150"/>
+  </sectors>
+</response>

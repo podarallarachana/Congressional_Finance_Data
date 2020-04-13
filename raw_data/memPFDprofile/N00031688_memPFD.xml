@@ -1,0 +1,23 @@
+<response>
+  <member_profile name="Hoeven, John" data_year="2016" member_id="N00031688" net_low="17859125" net_high="74371000" positions_held_count="0" asset_count="150" asset_low="17859125" asset_high="74371000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031688" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Westbrand Inc Bank Holding Co" holdings_low="5000001" holdings_high="25000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Northwest Respiratory Services" holdings_low="5000001" holdings_high="25000000" industry="Pharmaceuticals/Health Products" sector="Health" subsidiary_of=""/>
+      <asset name="First Western Bank &amp; Trust" holdings_low="1050002" holdings_high="5100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Stifel Money Market Account" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Microsoft Corp" holdings_low="250001" holdings_high="500000" industry="Electronics Mfg &amp; Equip" sector="Communic/Electronics" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Mainstream Investors LLC" tx_date="Oct 30 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Diageo Plc" tx_date="Jan 22 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Carlyle Group LP Fund" tx_date="Apr 29 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+      <transaction asset_name="HJ Heinz Co" tx_date="Jun 10 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Deere &amp; Co" tx_date="Jul 10 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+    </transactions>
+    <positions>
+      <position title="Director" organization="First Western Bank &amp; Trust"/>
+      <position title="Other (Member)" organization="Northwest Respiratory Service LLC"/>
+      <position title="Partner" organization="Tompson-Hoeven Partnership"/>
+    </positions>
+  </member_profile>
+</response>

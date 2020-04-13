@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tom Cotton (R)" cid="N00033363" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033363&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="259599" pacs="138000" total="397599"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="188496" pacs="81700" total="270196"/>
+    <sector sector_name="Construction" sectorid="C" indivs="270536" pacs="60200" total="330736"/>
+    <sector sector_name="Defense" sectorid="D" indivs="15750" pacs="51500" total="67250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="503861" pacs="137350" total="641211"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="2034776" pacs="438450" total="2473226"/>
+    <sector sector_name="Health" sectorid="H" indivs="331292" pacs="96666" total="427958"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="434701" pacs="45930" total="480631"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="126611" pacs="80546" total="207157"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="752644" pacs="233700" total="986344"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="958442" pacs="570460" total="1528902"/>
+    <sector sector_name="Other" sectorid="W" indivs="1212781" pacs="6000" total="1218781"/>
+  </sectors>
+</response>

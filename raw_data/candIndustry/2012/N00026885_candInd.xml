@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Dave Reichert (R)" cid="N00026885" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026885&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="131210" pacs="0" total="131210"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="6250" pacs="98000" total="104250"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="22825" pacs="65500" total="88325"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="49500" pacs="35500" total="85000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="35684" pacs="24500" total="60184"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="45750" pacs="13500" total="59250"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="48193" total="48193"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="3500" pacs="38517" total="42017"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="23250" pacs="17500" total="40750"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="27146" pacs="12500" total="39646"/>
+  </industries>
+</response>

@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00007635" net_low="46018" net_high="340000" positions_held_count="0" asset_count="18" asset_low="46018" asset_high="340000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00007635" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="DTE Energy" holdings_low="15001" holdings_high="50000" industry="Electric Utilities" sector="Energy/Nat Resource" subsidiary_of=""/>
+      <asset name="37455 3rd Street" holdings_low="15001" holdings_high="50000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Charles Schwab Powershares S&amp;P 500 Low Volat ETF" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Guggenheim S&amp;P 500 Equal Weig Hc ETF" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="PowerShares Emerging Markets Sovereign Debt ETF" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

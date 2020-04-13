@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Don Bacon (R)" cid="N00037049" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00037049&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="225100" total="225100"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="152702" pacs="0" total="152702"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="29665" pacs="39998" total="69663"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="58725" total="58725"/>
+    <industry industry_code="W07" industry_name="Other" indivs="40950" pacs="0" total="40950"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="34075" pacs="2000" total="36075"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="28732" pacs="6000" total="34732"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="16365" pacs="14000" total="30365"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="22175" pacs="7000" total="29175"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="26462" pacs="2500" total="28962"/>
+  </industries>
+</response>

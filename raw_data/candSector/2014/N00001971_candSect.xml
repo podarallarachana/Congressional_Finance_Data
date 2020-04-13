@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Elijah E Cummings (D)" cid="N00001971" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001971&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1000" pacs="23500" total="24500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="15500" pacs="12000" total="27500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="7250" pacs="13000" total="20250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2500" pacs="8500" total="11000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="37050" pacs="13600" total="50650"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="17750" pacs="44200" total="61950"/>
+    <sector sector_name="Health" sectorid="H" indivs="42000" pacs="38500" total="80500"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="32830" pacs="12500" total="45330"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="14200" pacs="117000" total="131200"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="8000" pacs="31000" total="39000"/>
+    <sector sector_name="Labor" sectorid="P" indivs="400" pacs="273500" total="273900"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="13050" pacs="13000" total="26050"/>
+    <sector sector_name="Other" sectorid="W" indivs="33050" pacs="1000" total="34050"/>
+  </sectors>
+</response>

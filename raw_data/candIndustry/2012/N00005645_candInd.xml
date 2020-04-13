@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ralph Hall (R)" cid="N00005645" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00005645&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="20500" pacs="39000" total="59500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="23750" pacs="23000" total="46750"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="3000" pacs="26500" total="29500"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="1000" pacs="28000" total="29000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="15500" pacs="13000" total="28500"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="23500" total="23500"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="3204" pacs="15500" total="18704"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="16500" pacs="0" total="16500"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="0" pacs="16000" total="16000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="7000" pacs="8010" total="15010"/>
+  </industries>
+</response>

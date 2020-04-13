@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Matt Salmon (R)" cid="N00006446" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00006446&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="10673" pacs="8500" total="19173"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="10450" pacs="46000" total="56450"/>
+    <sector sector_name="Construction" sectorid="C" indivs="35000" pacs="9700" total="44700"/>
+    <sector sector_name="Defense" sectorid="D" indivs="6700" pacs="11500" total="18200"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="43175" pacs="55589" total="98764"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="129888" pacs="35500" total="165388"/>
+    <sector sector_name="Health" sectorid="H" indivs="49511" pacs="48735" total="98246"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="76152" pacs="9000" total="85152"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="18750" pacs="23000" total="41750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="70800" pacs="32500" total="103300"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="7000" total="7000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="55840" pacs="65250" total="121090"/>
+    <sector sector_name="Other" sectorid="W" indivs="89650" pacs="2500" total="92150"/>
+  </sectors>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Timothy H Bishop (D)" cid="N00025413" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00025413&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="4012" pacs="19500" total="23512"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="55556" pacs="28833" total="84389"/>
+    <sector sector_name="Construction" sectorid="C" indivs="53175" pacs="43850" total="97025"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1000" pacs="14000" total="15000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="22200" pacs="17857" total="40057"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="165076" pacs="84700" total="249776"/>
+    <sector sector_name="Health" sectorid="H" indivs="64400" pacs="83000" total="147400"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="125024" pacs="19750" total="144774"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="32950" pacs="70623" total="103573"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="90150" pacs="21804" total="111954"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1250" pacs="339750" total="341000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="96607" pacs="293169" total="389776"/>
+    <sector sector_name="Other" sectorid="W" indivs="304282" pacs="13750" total="318032"/>
+  </sectors>
+</response>

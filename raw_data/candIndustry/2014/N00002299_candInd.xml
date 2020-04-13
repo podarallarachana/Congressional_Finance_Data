@@ -1,0 +1,15 @@
+<response>
+  <industries cand_name="Walter B Jones Jr (R)" cid="N00002299" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002299&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="23900" pacs="34750" total="58650"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="51050" pacs="0" total="51050"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="8450" pacs="23750" total="32200"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="29000" total="29000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="22375" pacs="6000" total="28375"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="13300" pacs="15000" total="28300"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="21415" pacs="0" total="21415"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="20000" total="20000"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="13000" pacs="1000" total="14000"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="8000" pacs="5000" total="13000"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="13000" total="13000"/>
+  </industries>
+</response>

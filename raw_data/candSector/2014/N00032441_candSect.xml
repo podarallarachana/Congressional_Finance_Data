@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Richard Nugent (R)" cid="N00032441" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00032441&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="8600" pacs="10750" total="19350"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="250" pacs="16000" total="16250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="800" pacs="3000" total="3800"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="29055" total="29055"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5450" pacs="28000" total="33450"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="17500" pacs="25000" total="42500"/>
+    <sector sector_name="Health" sectorid="H" indivs="14100" pacs="35500" total="49600"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="2750" pacs="1000" total="3750"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="8400" pacs="12000" total="20400"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="8000" pacs="17500" total="25500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="3250" pacs="27250" total="30500"/>
+    <sector sector_name="Other" sectorid="W" indivs="7000" pacs="0" total="7000"/>
+  </sectors>
+</response>

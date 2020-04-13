@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Joe Kennedy III (D)" cid="N00034044" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00034044&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="250" pacs="15500" total="15750"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="92160" pacs="84680" total="176840"/>
+    <sector sector_name="Construction" sectorid="C" indivs="32240" pacs="6500" total="38740"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1518" pacs="44000" total="45518"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="23750" pacs="50750" total="74500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="643835" pacs="150000" total="793835"/>
+    <sector sector_name="Health" sectorid="H" indivs="130705" pacs="260298" total="391003"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="396122" pacs="36262" total="432384"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="3038" pacs="29500" total="32538"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="125857" pacs="74460" total="200317"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="139000" total="139000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="84217" pacs="26968" total="111185"/>
+    <sector sector_name="Other" sectorid="W" indivs="201997" pacs="0" total="201997"/>
+  </sectors>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Ed Markey (D)" cid="N00000270" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00000270&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="2000" pacs="3000" total="5000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="21200" pacs="127620" total="148820"/>
+    <sector sector_name="Construction" sectorid="C" indivs="6500" pacs="21000" total="27500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2500" pacs="10500" total="13000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="27800" pacs="32313" total="60113"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="92550" pacs="23000" total="115550"/>
+    <sector sector_name="Health" sectorid="H" indivs="38950" pacs="61500" total="100450"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="139450" pacs="53914" total="193364"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2500" pacs="5500" total="8000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="37500" pacs="36000" total="73500"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="44500" total="44500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="5500" pacs="13500" total="19000"/>
+    <sector sector_name="Other" sectorid="W" indivs="21365" pacs="0" total="21365"/>
+  </sectors>
+</response>

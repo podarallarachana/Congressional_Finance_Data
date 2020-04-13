@@ -1,0 +1,16 @@
+<response>
+  <member_profile name="Miller, Gary" data_year="2016" member_id="N00006954" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00006954" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Stone Creek" tx_date="Jul 31 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Lots 30,40,41,42,43,44,45,46,47,48 &amp; 49 Mirada I" tx_date="May 30 2013" tx_action="Sold" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Lot 36 SDP with House" tx_date="May 17 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Lot 38 SDP with House" tx_date="Nov 25 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Lot 41 Mirada I now with House" tx_date="Oct 23 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+    </transactions>
+    <positions>
+      <position title="President" organization="G Miller Development"/>
+      <position title="President" organization="Lands Bend LLC"/>
+      <position title="Partner" organization="Long Term Bend Investors LLC"/>
+    </positions>
+  </member_profile>
+</response>

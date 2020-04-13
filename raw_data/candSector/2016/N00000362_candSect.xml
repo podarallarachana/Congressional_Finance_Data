@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jack Reed (D)" cid="N00000362" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00000362&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="18850" pacs="16000" total="34850"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="59200" pacs="92999" total="152199"/>
+    <sector sector_name="Construction" sectorid="C" indivs="74177" pacs="51600" total="125777"/>
+    <sector sector_name="Defense" sectorid="D" indivs="81550" pacs="223600" total="305150"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="14700" pacs="23750" total="38450"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="386119" pacs="505000" total="891119"/>
+    <sector sector_name="Health" sectorid="H" indivs="44234" pacs="164500" total="208734"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="565572" pacs="103570" total="669142"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="16750" pacs="43000" total="59750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="149739" pacs="137600" total="287339"/>
+    <sector sector_name="Labor" sectorid="P" indivs="7500" pacs="218750" total="226250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="71150" pacs="308343" total="379493"/>
+    <sector sector_name="Other" sectorid="W" indivs="211073" pacs="5000" total="216073"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Scott Garrett (R)" cid="N00000743" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000743&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="250400" pacs="230600" total="481000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="32030" pacs="180500" total="212530"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="18200" pacs="118500" total="136700"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="43600" pacs="79000" total="122600"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="73300" pacs="0" total="73300"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="5000" pacs="61500" total="66500"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="37450" pacs="21100" total="58550"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="41290" pacs="16250" total="57540"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="6500" pacs="49999" total="56499"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="16900" pacs="20500" total="37400"/>
+  </industries>
+</response>

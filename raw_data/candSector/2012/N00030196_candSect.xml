@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Paul Tonko (D)" cid="N00030196" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030196&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="3000" pacs="26450" total="29450"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3500" pacs="32750" total="36250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="9450" pacs="31250" total="40700"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="13500" total="13500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="7500" pacs="26000" total="33500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="33450" pacs="35000" total="68450"/>
+    <sector sector_name="Health" sectorid="H" indivs="23400" pacs="58800" total="82200"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="48710" pacs="21227" total="69937"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2000" pacs="34500" total="36500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="33000" pacs="40057" total="73057"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="212250" total="212500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1750" pacs="12500" total="14250"/>
+    <sector sector_name="Other" sectorid="W" indivs="44392" pacs="7200" total="51592"/>
+  </sectors>
+</response>

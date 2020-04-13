@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jeb Hensarling (R)" cid="N00024922" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00024922&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="113745" pacs="185000" total="298745"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="41700" pacs="240000" total="281700"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="72700" pacs="199600" total="272300"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="46750" pacs="112500" total="159250"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="65850" pacs="42000" total="107850"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="93581" pacs="0" total="93581"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="15700" pacs="67500" total="83200"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="40700" pacs="39650" total="80350"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="15400" pacs="44000" total="59400"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="2300" pacs="55000" total="57300"/>
+  </industries>
+</response>

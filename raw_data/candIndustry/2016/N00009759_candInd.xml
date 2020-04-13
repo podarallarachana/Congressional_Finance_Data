@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Rick Larsen (D)" cid="N00009759" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009759&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="M01" industry_name="Air Transport" indivs="755" pacs="101998" total="102753"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="500" pacs="61500" total="62000"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="300" pacs="57500" total="57800"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="0" pacs="35500" total="35500"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="35000" total="35000"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="0" pacs="32500" total="32500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="9715" pacs="17000" total="26715"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="250" pacs="23000" total="23250"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="22500" total="22500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="900" pacs="20500" total="21400"/>
+  </industries>
+</response>

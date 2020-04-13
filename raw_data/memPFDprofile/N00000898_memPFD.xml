@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Lance, Leonard" data_year="2016" member_id="N00000898" net_low="2123064" net_high="5499000" positions_held_count="0" asset_count="64" asset_low="2123064" asset_high="5499000" transaction_count="8" tx_low="316008" tx_high="716000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00000898" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="JPMC Large Cap Value Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="JPMC S&amp;P 500 Index Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="JPMC Stable Value Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Prudential AsT Capital Growth Asset Alloc" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Prudential AsT Prud Growth Alloc" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="American Funds Europacific Growth Fund" tx_date="Apr 13 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Franklin  Templeton Foreign Small Co Fund" tx_date="Apr 13 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Member Principal High Yield Fund" tx_date="Dec 23 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Wells Fargo Advantage Growth Fund" tx_date="Dec 23 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="First Eagle Global Fund" tx_date="Dec 23 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

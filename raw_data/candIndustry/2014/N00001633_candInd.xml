@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Joe Pitts (R)" cid="N00001633" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001633&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="11150" pacs="282000" total="293150"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="5500" pacs="181500" total="187000"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="0" pacs="76600" total="76600"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="0" pacs="57000" total="57000"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="250" pacs="47000" total="47250"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="4800" pacs="37500" total="42300"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="1000" pacs="39000" total="40000"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="3600" pacs="33000" total="36600"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="16525" pacs="15000" total="31525"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="0" pacs="26000" total="26000"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John Bergman (R)" cid="N00039533" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00039533&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="6350" pacs="13750" total="20100"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3500" pacs="16500" total="20000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="19150" pacs="17500" total="36650"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="3500" total="3500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="12400" pacs="36500" total="48900"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="63800" pacs="33000" total="96800"/>
+    <sector sector_name="Health" sectorid="H" indivs="18700" pacs="12000" total="30700"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="10750" pacs="2000" total="12750"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="25850" pacs="7995" total="33845"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="85470" pacs="28985" total="114455"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="12500" total="12500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="25875" pacs="223047" total="248922"/>
+    <sector sector_name="Other" sectorid="W" indivs="96918" pacs="0" total="96918"/>
+  </sectors>
+</response>

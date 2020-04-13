@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Darren Soto (D)" cid="N00037422" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00037422&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="119866" pacs="15500" total="135366"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="2000" pacs="61950" total="63950"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="28376" pacs="24000" total="52376"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="27930" pacs="15000" total="42930"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="15465" pacs="22500" total="37965"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="37676" pacs="0" total="37676"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="37500" total="37500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="37412" pacs="0" total="37412"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="35000" total="35000"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="14970" pacs="17000" total="31970"/>
+  </industries>
+</response>

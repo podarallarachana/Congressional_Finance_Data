@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jack Reed (D)" cid="N00000362" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000362&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="365576" pacs="92520" total="458096"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="163250" pacs="167000" total="330250"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="260750" total="260750"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="199996" pacs="11050" total="211046"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="55150" pacs="139000" total="194150"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="101919" pacs="66500" total="168419"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="24034" pacs="115000" total="139034"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="138632" pacs="0" total="138632"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="54200" pacs="75500" total="129700"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="26513" pacs="69500" total="96013"/>
+  </industries>
+</response>

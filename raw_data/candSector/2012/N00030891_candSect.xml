@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Marlin Stutzman (R)" cid="N00030891" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030891&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="53525" pacs="97500" total="151025"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1250" pacs="13000" total="14250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="18350" pacs="9700" total="28050"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="26000" total="26000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="18750" pacs="26000" total="44750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="38550" pacs="60550" total="99100"/>
+    <sector sector_name="Health" sectorid="H" indivs="27600" pacs="65999" total="93599"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="20910" pacs="12500" total="33410"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="13475" pacs="19500" total="32975"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="78841" pacs="54000" total="132841"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="5475" pacs="44020" total="49495"/>
+    <sector sector_name="Other" sectorid="W" indivs="36399" pacs="3000" total="39399"/>
+  </sectors>
+</response>

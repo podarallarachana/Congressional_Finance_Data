@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Scott Garrett (R)" cid="N00000743" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00000743&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="3000" pacs="12000" total="15000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="32300" pacs="17000" total="49300"/>
+    <sector sector_name="Construction" sectorid="C" indivs="7150" pacs="12000" total="19150"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="10500" total="10500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="27850" pacs="32500" total="60350"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="397880" pacs="761699" total="1159579"/>
+    <sector sector_name="Health" sectorid="H" indivs="28100" pacs="27250" total="55350"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="59989" pacs="19250" total="79239"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="18730" pacs="20500" total="39230"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="40940" pacs="20000" total="60940"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="46025" pacs="30350" total="76375"/>
+    <sector sector_name="Other" sectorid="W" indivs="79859" pacs="0" total="79859"/>
+  </sectors>
+</response>

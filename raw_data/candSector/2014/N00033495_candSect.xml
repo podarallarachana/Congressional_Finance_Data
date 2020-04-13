@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Susan Brooks (R)" cid="N00033495" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033495&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="8850" pacs="21000" total="29850"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="26400" pacs="52640" total="79040"/>
+    <sector sector_name="Construction" sectorid="C" indivs="48500" pacs="29500" total="78000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="36000" total="36500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="18750" pacs="46000" total="64750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="110625" pacs="157800" total="268425"/>
+    <sector sector_name="Health" sectorid="H" indivs="70300" pacs="83500" total="153800"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="107825" pacs="30000" total="137825"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="17650" pacs="30100" total="47750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="71991" pacs="84919" total="156910"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="10500" total="10500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="24263" pacs="109346" total="133609"/>
+    <sector sector_name="Other" sectorid="W" indivs="87376" pacs="9000" total="96376"/>
+  </sectors>
+</response>

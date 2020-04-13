@@ -1,0 +1,17 @@
+<response>
+  <member_profile name="Brown, Sherrod" data_year="2016" member_id="N00003535" net_low="367005" net_high="830000" positions_held_count="1" asset_count="5" asset_low="367005" asset_high="830000" transaction_count="1" tx_low="250001" tx_high="500000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00003535" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Huntington Bank Money Market Account" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Ohio Public Employees Retirment System" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Huntington National Bank Checking" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Plain Dealer Credit Union Checking" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Northwest Bank Checking" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Muhlenkamp Fund" tx_date="Aug 19 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+    </transactions>
+    <positions>
+      <position title="Trustee" organization="Gallaudet University"/>
+    </positions>
+  </member_profile>
+</response>

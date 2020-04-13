@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Beto O'Rourke (D)" cid="N00033540" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033540&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="58705" pacs="0" total="58705"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="53270" pacs="1500" total="54770"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="36699" pacs="0" total="36699"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="29400" pacs="0" total="29400"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="28615" pacs="0" total="28615"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="25140" pacs="0" total="25140"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="21600" pacs="0" total="21600"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="17400" pacs="0" total="17400"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="14845" pacs="0" total="14845"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="13500" pacs="0" total="13500"/>
+  </industries>
+</response>

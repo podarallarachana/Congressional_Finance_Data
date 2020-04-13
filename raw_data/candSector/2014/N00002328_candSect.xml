@@ -1,0 +1,8 @@
+<response>
+  <sectors cand_name="Melvin L Watt (D)" cid="N00002328" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00002328&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="0" pacs="-1000" total="-1000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="0" total="0"/>
+  </sectors>
+</response>

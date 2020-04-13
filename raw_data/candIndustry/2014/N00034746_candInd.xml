@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ron DeSantis (R)" cid="N00034746" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034746&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="94325" pacs="0" total="94325"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="28450" pacs="55200" total="83650"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="45500" pacs="8000" total="53500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="40312" pacs="7250" total="47562"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="36500" pacs="5000" total="41500"/>
+    <industry industry_code="N06" industry_name="Recreation/Live Entertainment" indivs="27000" pacs="7000" total="34000"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="0" pacs="33500" total="33500"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="11450" pacs="20500" total="31950"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="10050" pacs="20500" total="30550"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="3000" pacs="27000" total="30000"/>
+  </industries>
+</response>

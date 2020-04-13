@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Jason Smith (R)" cid="N00035282" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035282&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="97800" pacs="89250" total="187050"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="25150" pacs="81000" total="106150"/>
+    <sector sector_name="Construction" sectorid="C" indivs="54450" pacs="37000" total="91450"/>
+    <sector sector_name="Defense" sectorid="D" indivs="999" pacs="19000" total="19999"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="25365" pacs="76500" total="101865"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="103350" pacs="84452" total="187802"/>
+    <sector sector_name="Health" sectorid="H" indivs="72500" pacs="80400" total="152900"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="61855" pacs="12000" total="73855"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="22650" pacs="51998" total="74648"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="89300" pacs="61000" total="150300"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="11770" pacs="167789" total="179559"/>
+    <sector sector_name="Other" sectorid="W" indivs="60055" pacs="2000" total="62055"/>
+  </sectors>
+</response>

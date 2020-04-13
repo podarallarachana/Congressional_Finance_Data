@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Eric Cantor (R)" cid="N00013131" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00013131&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="72150" pacs="179000" total="251150"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="140200" pacs="231165" total="371365"/>
+    <sector sector_name="Construction" sectorid="C" indivs="134800" pacs="88000" total="222800"/>
+    <sector sector_name="Defense" sectorid="D" indivs="11800" pacs="93500" total="105300"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="263544" pacs="318500" total="582044"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1564482" pacs="632600" total="2197082"/>
+    <sector sector_name="Health" sectorid="H" indivs="237110" pacs="510200" total="747310"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="339431" pacs="74250" total="413681"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="124850" pacs="181500" total="306350"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="417376" pacs="410000" total="827376"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="33000" total="33000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="260190" pacs="65634" total="325824"/>
+    <sector sector_name="Other" sectorid="W" indivs="394357" pacs="11500" total="405857"/>
+  </sectors>
+</response>

@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Mulvaney, Mick" data_year="2016" member_id="N00031412" net_low="3104057" net_high="7235999" positions_held_count="6" asset_count="48" asset_low="3204057" asset_high="7286000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031412" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Button River LLC  holding, La" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Mulvaney Group" holdings_low="500002" holdings_high="1000000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="John Hancock Freedom 529 Education Trust of Ameri" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Northwestern Mutual Life Insurance Policy" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Northwestern Mutual Life" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Wren Cantinas Note" tx_date="Apr  5 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Polymet Mining Corp" tx_date="Jun  7 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="President" organization="Mulvaney Co"/>
+    </positions>
+  </member_profile>
+</response>

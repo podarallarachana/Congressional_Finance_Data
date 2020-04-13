@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Bruce Poliquin (R)" cid="N00034584" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00034584&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="11450" pacs="6600" total="18050"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="14700" pacs="5000" total="19700"/>
+    <sector sector_name="Construction" sectorid="C" indivs="31950" pacs="3500" total="35450"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="16200" pacs="16500" total="32700"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="225900" pacs="25500" total="251400"/>
+    <sector sector_name="Health" sectorid="H" indivs="22100" pacs="1000" total="23100"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="29400" pacs="1000" total="30400"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="39774" pacs="9000" total="48774"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="71226" pacs="23000" total="94226"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="18700" pacs="166550" total="185250"/>
+    <sector sector_name="Other" sectorid="W" indivs="261350" pacs="0" total="261350"/>
+  </sectors>
+</response>

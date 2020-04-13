@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Pete Gallego (D)" cid="N00033541" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033541&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="260844" pacs="18000" total="278844"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="73000" total="73000"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="60500" total="60500"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="57000" total="57000"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="56500" pacs="0" total="56500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="49150" pacs="0" total="49150"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="48950" pacs="0" total="48950"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="250" pacs="38500" total="38750"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="37550" pacs="0" total="37550"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="37500" total="37500"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ben Cardin (D)" cid="N00001955" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001955&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="337061" pacs="117000" total="454061"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="246183" pacs="182500" total="428683"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="127203" pacs="268547" total="395750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="303671" pacs="60000" total="363671"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="94850" pacs="267500" total="362350"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="223450" pacs="10366" total="233816"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="71716" pacs="152109" total="223825"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="222010" pacs="0" total="222010"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="159513" pacs="59280" total="218793"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="187000" total="187000"/>
+  </industries>
+</response>

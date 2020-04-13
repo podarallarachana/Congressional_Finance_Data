@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tim Walberg (R)" cid="N00026368" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026368&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="104570" pacs="0" total="104570"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="82425" total="82425"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="49150" pacs="16518" total="65668"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="35447" pacs="22500" total="57947"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="41842" pacs="16000" total="57842"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="21200" pacs="31000" total="52200"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="23950" pacs="21500" total="45450"/>
+    <industry industry_code="M03" industry_name="Trucking" indivs="42900" pacs="2000" total="44900"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="35800" pacs="6500" total="42300"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="28900" pacs="8000" total="36900"/>
+  </industries>
+</response>

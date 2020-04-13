@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Charlie Crist (D)" cid="N00002942" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002942&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="364656" pacs="16500" total="381156"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="5500" pacs="101600" total="107100"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="95505" pacs="0" total="95505"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="90255" pacs="5000" total="95255"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="67500" total="67500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="47750" pacs="6000" total="53750"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="250" pacs="49000" total="49250"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="46500" total="46500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="41000" pacs="2500" total="43500"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="35318" pacs="0" total="35318"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Joseph Crowley (D)" cid="N00001127" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001127&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="119399" pacs="164500" total="283899"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="31250" pacs="212500" total="243750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="96600" pacs="73096" total="169696"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="65150" pacs="48750" total="113900"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="97551" pacs="2600" total="100151"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="5650" pacs="91500" total="97150"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="10250" pacs="70250" total="80500"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="8000" pacs="68500" total="76500"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="11000" pacs="49000" total="60000"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="10501" pacs="45000" total="55501"/>
+  </industries>
+</response>

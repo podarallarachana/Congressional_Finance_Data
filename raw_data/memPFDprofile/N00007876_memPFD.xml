@@ -1,0 +1,16 @@
+<response>
+  <member_profile name="Murray, Patty" data_year="2016" member_id="N00007876" net_low="804019" net_high="1985000" positions_held_count="0" asset_count="18" asset_low="804019" asset_high="1985000" transaction_count="39" tx_low="1814039" tx_high="4435000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00007876" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Fidelity Balanced Fund" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Blue Chip Growth Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Freedom 2025 Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Freedom 2035 Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Freedom 2030 Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Buffalo Mid Cap Fund" tx_date="Apr 15 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Fidelity Low-Priced Stock K Fund" tx_date="Apr 15 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Columbia Mid Cap Value Opportunity R5 Fund" tx_date="Apr 15 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+    </transactions>
+  </member_profile>
+</response>

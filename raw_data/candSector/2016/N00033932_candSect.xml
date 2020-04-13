@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Chris Stewart (R)" cid="N00033932" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033932&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="750" pacs="10000" total="10750"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="13250" pacs="34500" total="47750"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5500" pacs="19000" total="24500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="700" pacs="75000" total="75700"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="39456" pacs="94400" total="133856"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="44811" pacs="54000" total="98811"/>
+    <sector sector_name="Health" sectorid="H" indivs="12750" pacs="77500" total="90250"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="51720" pacs="14500" total="66220"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="14900" pacs="55000" total="69900"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="24960" pacs="42000" total="66960"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="13500" total="13500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="300" pacs="41750" total="42050"/>
+    <sector sector_name="Other" sectorid="W" indivs="49619" pacs="0" total="49619"/>
+  </sectors>
+</response>

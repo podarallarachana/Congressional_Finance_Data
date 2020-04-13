@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Edwin G Perlmutter (D)" cid="N00027510" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027510&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="5520" pacs="175500" total="181020"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="41950" pacs="103000" total="144950"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="23877" pacs="112500" total="136377"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="100762" pacs="27000" total="127762"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="4100" pacs="93000" total="97100"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="76910" pacs="0" total="76910"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="25275" pacs="42000" total="67275"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="65000" total="65000"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="1145" pacs="60500" total="61645"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="500" pacs="60000" total="60500"/>
+  </industries>
+</response>

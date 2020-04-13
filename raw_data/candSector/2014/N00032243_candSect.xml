@@ -1,0 +1,15 @@
+<response>
+  <sectors cand_name="Jody Hice (R)" cid="N00032243" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00032243&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="28250" pacs="2000" total="30250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="12900" pacs="3000" total="15900"/>
+    <sector sector_name="Construction" sectorid="C" indivs="16226" pacs="5000" total="21226"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="13050" pacs="14000" total="27050"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="80710" pacs="11500" total="92210"/>
+    <sector sector_name="Health" sectorid="H" indivs="31750" pacs="0" total="31750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="18950" pacs="10000" total="28950"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="27300" pacs="5000" total="32300"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="60267" pacs="2500" total="62767"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="14325" pacs="83182" total="97507"/>
+    <sector sector_name="Other" sectorid="W" indivs="171321" pacs="0" total="171321"/>
+  </sectors>
+</response>

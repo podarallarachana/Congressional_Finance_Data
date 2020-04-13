@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Michael G Fitzpatrick (R)" cid="N00027229" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027229&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="114267" pacs="31625" total="145892"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="38200" pacs="97500" total="135700"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="84700" pacs="49400" total="134100"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="133550" total="133550"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="78100" pacs="15500" total="93600"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="23400" pacs="60000" total="83400"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="21650" pacs="55000" total="76650"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="37050" pacs="36500" total="73550"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="72912" pacs="0" total="72912"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="23326" pacs="44000" total="67326"/>
+  </industries>
+</response>

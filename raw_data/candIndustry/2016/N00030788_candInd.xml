@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tom Graves (R)" cid="N00030788" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030788&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="350" pacs="77499" total="77849"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="33300" pacs="35500" total="68800"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="8150" pacs="58000" total="66150"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="50950" pacs="500" total="51450"/>
+    <industry industry_code="N16" industry_name="Textiles" indivs="37300" pacs="11726" total="49026"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="7400" pacs="38500" total="45900"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="19300" pacs="25000" total="44300"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="9900" pacs="33500" total="43400"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="1000" pacs="41000" total="42000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="5000" pacs="33500" total="38500"/>
+  </industries>
+</response>

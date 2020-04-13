@@ -1,0 +1,16 @@
+<response>
+  <member_profile name="Thompson, Bennie G" data_year="2016" member_id="N00003288" net_low="368024" net_high="1146000" positions_held_count="0" asset_count="21" asset_low="368024" asset_high="1146000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00003288" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Congressional Federal Credit Union" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="BancorpSouth Bank" holdings_low="100001" holdings_high="250000" industry="Commercial Banks" sector="Finance/Insur/RealEst" subsidiary_of="BancorpSouth"/>
+      <asset name="Public Employees' Retirement System of Mississippi" holdings_low="65002" holdings_high="150000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Jackson Federal Credit Union" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Liberty National Bank" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="President" organization="BLB Properties"/>
+      <position title="Board Member" organization="Housing Assistance Council"/>
+      <position title="Trustee Emeritus" organization="Tougaloo College"/>
+    </positions>
+  </member_profile>
+</response>

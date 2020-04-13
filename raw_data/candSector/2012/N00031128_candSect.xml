@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Bob Gibbs (R)" cid="N00031128" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031128&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="18187" pacs="145400" total="163587"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="14000" pacs="16100" total="30100"/>
+    <sector sector_name="Construction" sectorid="C" indivs="57700" pacs="49000" total="106700"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="137950" pacs="98000" total="235950"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="32600" pacs="73750" total="106350"/>
+    <sector sector_name="Health" sectorid="H" indivs="24100" pacs="22000" total="46100"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="29683" pacs="19250" total="48933"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="10996" pacs="96000" total="106996"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="108450" pacs="80000" total="188450"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="26000" total="26000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="8500" pacs="141507" total="150007"/>
+    <sector sector_name="Other" sectorid="W" indivs="45025" pacs="1000" total="46025"/>
+  </sectors>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Dianne Feinstein (D)" cid="N00007364" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00007364&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="354733" pacs="236333" total="591066"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="347291" pacs="267689" total="614980"/>
+    <sector sector_name="Construction" sectorid="C" indivs="110650" pacs="81500" total="192150"/>
+    <sector sector_name="Defense" sectorid="D" indivs="94800" pacs="109000" total="203800"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="268400" pacs="203650" total="472050"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="847987" pacs="215750" total="1063737"/>
+    <sector sector_name="Health" sectorid="H" indivs="195042" pacs="253800" total="448842"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="737651" pacs="151374" total="889025"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="44550" pacs="74500" total="119050"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="421636" pacs="253000" total="674636"/>
+    <sector sector_name="Labor" sectorid="P" indivs="3000" pacs="228200" total="231200"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="399475" pacs="225246" total="624721"/>
+    <sector sector_name="Other" sectorid="W" indivs="674716" pacs="1000" total="675716"/>
+  </sectors>
+</response>

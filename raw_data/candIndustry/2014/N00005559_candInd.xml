@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Frank D Lucas (R)" cid="N00005559" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00005559&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="87799" pacs="134500" total="222299"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="5800" pacs="135000" total="140800"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="2750" pacs="108000" total="110750"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="29450" pacs="70500" total="99950"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="28781" pacs="66100" total="94881"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="18998" pacs="51300" total="70298"/>
+    <industry industry_code="A04" industry_name="Dairy" indivs="1500" pacs="39250" total="40750"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="17000" pacs="20000" total="37000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="34132" pacs="1000" total="35132"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="6350" pacs="27500" total="33850"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Barbara Lee (D)" cid="N00008046" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00008046&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="75745" pacs="0" total="75745"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="70672" pacs="950" total="71622"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="54453" pacs="15500" total="69953"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="45501" pacs="8000" total="53501"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="30250" pacs="20500" total="50750"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="49700" total="49700"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="47885" pacs="0" total="47885"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="43060" pacs="0" total="43060"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="20990" pacs="17000" total="37990"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="35500" total="35500"/>
+  </industries>
+</response>

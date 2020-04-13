@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tim Huelskamp (R)" cid="N00027649" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027649&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="46750" pacs="19500" total="66250"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="12300" pacs="25025" total="37325"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="30550" pacs="0" total="30550"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="12550" pacs="17500" total="30050"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="27525" pacs="2000" total="29525"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="20900" pacs="0" total="20900"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="19500" total="19500"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="5300" pacs="12000" total="17300"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="7800" pacs="9498" total="17298"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="11700" pacs="4500" total="16200"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Kristi Noem (R)" cid="N00032022" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00032022&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="219570" pacs="0" total="219570"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="77360" pacs="41000" total="118360"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="59150" pacs="40500" total="99650"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="7700" pacs="91000" total="98700"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="51001" pacs="44500" total="95501"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="56700" pacs="33010" total="89710"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="64800" pacs="15336" total="80136"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="54433" pacs="22000" total="76433"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="71000" total="71000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="32750" pacs="31500" total="64250"/>
+  </industries>
+</response>

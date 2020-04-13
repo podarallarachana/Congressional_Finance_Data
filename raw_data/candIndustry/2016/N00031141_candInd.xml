@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Steve Fincher (R)" cid="N00031141" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031141&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="0" pacs="63000" total="63000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="1000" pacs="42500" total="43500"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="0" pacs="41000" total="41000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="500" pacs="36000" total="36500"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="23000" total="23000"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="0" pacs="23000" total="23000"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="0" pacs="22000" total="22000"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="500" pacs="17500" total="18000"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="0" pacs="15952" total="15952"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="15500" total="15500"/>
+  </industries>
+</response>

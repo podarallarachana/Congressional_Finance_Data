@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Brooks, Mo" data_year="2016" member_id="N00030910" net_low="-59932" net_high="1649999" positions_held_count="0" asset_count="61" asset_low="440068" asset_high="1900000" transaction_count="41" tx_low="6041" tx_high="125000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030910" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Redstone Federal Credit Union" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Royce Total Return Fund" holdings_low="65002" holdings_high="150000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Columbia Contrarian Core Fund" holdings_low="16002" holdings_high="65000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Tucows Inc" holdings_low="16002" holdings_high="65000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Royce Special EQ Multicap Cons" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Alliance Resource Partners" tx_date="Jun 10 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Baldwin County AL Board of Ed Bond" tx_date="Feb  8 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Royce Total Return Fund" tx_date="Feb  8 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Sunoco Logistics Partners" tx_date="Jun 12 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="California EDL GACS Auth College &amp; Univ" tx_date="Jun 10 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

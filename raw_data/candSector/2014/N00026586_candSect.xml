@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Joe Donnelly (D)" cid="N00026586" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026586&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="59241" pacs="121250" total="180491"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="128512" pacs="5250" total="133762"/>
+    <sector sector_name="Construction" sectorid="C" indivs="147348" pacs="24500" total="171848"/>
+    <sector sector_name="Defense" sectorid="D" indivs="31733" pacs="20000" total="51733"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="61650" pacs="80000" total="141650"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="424124" pacs="238360" total="662484"/>
+    <sector sector_name="Health" sectorid="H" indivs="215712" pacs="136571" total="352283"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="870386" pacs="65500" total="935886"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="28150" pacs="52834" total="80984"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="319954" pacs="90500" total="410454"/>
+    <sector sector_name="Labor" sectorid="P" indivs="6290" pacs="363750" total="370040"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="130581" pacs="511972" total="642553"/>
+    <sector sector_name="Other" sectorid="W" indivs="534866" pacs="4500" total="539366"/>
+  </sectors>
+</response>

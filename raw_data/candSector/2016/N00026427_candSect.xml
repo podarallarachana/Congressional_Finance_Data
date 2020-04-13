@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Ro Khanna (D)" cid="N00026427" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026427&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="20000" pacs="0" total="20000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="489992" pacs="0" total="489992"/>
+    <sector sector_name="Construction" sectorid="C" indivs="30100" pacs="0" total="30100"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="31451" pacs="0" total="31451"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="999176" pacs="0" total="999176"/>
+    <sector sector_name="Health" sectorid="H" indivs="210853" pacs="0" total="210853"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="158151" pacs="0" total="158151"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="23500" pacs="0" total="23500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="237200" pacs="0" total="237200"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1000" pacs="0" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="14800" pacs="0" total="14800"/>
+    <sector sector_name="Other" sectorid="W" indivs="361851" pacs="0" total="361851"/>
+  </sectors>
+</response>

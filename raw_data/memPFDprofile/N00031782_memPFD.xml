@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="Scott, Tim" data_year="2016" member_id="N00031782" net_low="186010" net_high="540000" positions_held_count="1" asset_count="8" asset_low="186010" asset_high="540000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031782" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Residential Rental - Summerville, SC" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Residential Rental Property" holdings_low="50001" holdings_high="100000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Allstate Insurance" holdings_low="17003" holdings_high="80000" industry="Insurance" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="South Carolina State Retirement System" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Growth &amp; Income K" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Partner" organization="RIVERTOWN INVESTMENTS LLC"/>
+      <position title="Officer" organization="TIM SCOTT &amp; Assoc"/>
+    </positions>
+  </member_profile>
+</response>

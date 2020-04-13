@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Johnny Isakson (R)" cid="N00002593" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002593&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="641812" pacs="123500" total="765312"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="436647" pacs="0" total="436647"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="271102" pacs="101916" total="373018"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="117200" pacs="200000" total="317200"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="128316" pacs="161500" total="289816"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="268104" total="268104"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="132100" pacs="117000" total="249100"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="221941" pacs="12000" total="233941"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="35600" pacs="176500" total="212100"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="94100" pacs="91870" total="185970"/>
+  </industries>
+</response>

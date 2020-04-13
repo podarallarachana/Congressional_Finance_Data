@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Jared Huffman (D)" cid="N00033030" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033030&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="28308" pacs="5750" total="34058"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="41040" pacs="9000" total="50040"/>
+    <sector sector_name="Construction" sectorid="C" indivs="7850" pacs="0" total="7850"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="8998" pacs="6500" total="15498"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="92059" pacs="22000" total="114059"/>
+    <sector sector_name="Health" sectorid="H" indivs="30225" pacs="61500" total="91725"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="120650" pacs="17000" total="137650"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="250" pacs="5000" total="5250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="75992" pacs="17530" total="93522"/>
+    <sector sector_name="Labor" sectorid="P" indivs="500" pacs="174037" total="174537"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="53628" pacs="52825" total="106453"/>
+    <sector sector_name="Other" sectorid="W" indivs="191924" pacs="0" total="191924"/>
+  </sectors>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Ron Johnson (R)" cid="N00032546" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00032546&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="546956" pacs="118700" total="665656"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="350455" pacs="209000" total="559455"/>
+    <sector sector_name="Construction" sectorid="C" indivs="598498" pacs="88000" total="686498"/>
+    <sector sector_name="Defense" sectorid="D" indivs="23750" pacs="45000" total="68750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="430060" pacs="199450" total="629510"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="2924706" pacs="464250" total="3388956"/>
+    <sector sector_name="Health" sectorid="H" indivs="653348" pacs="151500" total="804848"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="645108" pacs="78799" total="723907"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="340019" pacs="251050" total="591069"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="1672111" pacs="361700" total="2033811"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="13000" total="13000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1574151" pacs="634831" total="2208982"/>
+    <sector sector_name="Other" sectorid="W" indivs="5777728" pacs="2000" total="5779728"/>
+  </sectors>
+</response>

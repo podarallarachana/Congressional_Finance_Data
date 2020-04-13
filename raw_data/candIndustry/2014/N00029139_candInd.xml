@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bill Foster (D)" cid="N00029139" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029139&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W04" industry_name="Education" indivs="316900" pacs="0" total="316900"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="166852" pacs="26499" total="193351"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="177624" pacs="0" total="177624"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="96700" pacs="71000" total="167700"/>
+    <industry industry_code="W03" industry_name="Civil Servants/Public Officials" indivs="102815" pacs="0" total="102815"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="55250" pacs="41000" total="96250"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="6900" pacs="78400" total="85300"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="68350" pacs="4700" total="73050"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="400" pacs="59500" total="59900"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="58100" total="58100"/>
+  </industries>
+</response>

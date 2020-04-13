@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Mike Lee (R)" cid="N00031696" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031696&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="23950" pacs="15500" total="39450"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="103550" pacs="126150" total="229700"/>
+    <sector sector_name="Construction" sectorid="C" indivs="63450" pacs="13250" total="76700"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1701" pacs="28000" total="29701"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="140810" pacs="92250" total="233060"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="375031" pacs="139510" total="514541"/>
+    <sector sector_name="Health" sectorid="H" indivs="89750" pacs="109500" total="199250"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="180432" pacs="53350" total="233782"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="22550" pacs="41500" total="64050"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="278730" pacs="83200" total="361930"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="120930" pacs="132839" total="253769"/>
+    <sector sector_name="Other" sectorid="W" indivs="197093" pacs="1000" total="198093"/>
+  </sectors>
+</response>

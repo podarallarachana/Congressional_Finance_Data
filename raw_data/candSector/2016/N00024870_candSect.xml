@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Linda Sanchez (D)" cid="N00024870" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00024870&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="19400" total="19400"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="13615" pacs="86500" total="100115"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1515" pacs="6000" total="7515"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="18000" total="18000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="33750" total="33750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="17523" pacs="289000" total="306523"/>
+    <sector sector_name="Health" sectorid="H" indivs="25929" pacs="244450" total="270379"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="60855" pacs="25750" total="86605"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="510" pacs="36500" total="37010"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="41472" pacs="113375" total="154847"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="210880" total="211130"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="29878" pacs="28491" total="58369"/>
+    <sector sector_name="Other" sectorid="W" indivs="21434" pacs="1000" total="22434"/>
+  </sectors>
+</response>

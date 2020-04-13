@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Randy Neugebauer (R)" cid="N00026043" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026043&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="48000" pacs="150147" total="198147"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="6500" pacs="13000" total="19500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="32300" pacs="19000" total="51300"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="12000" total="12000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="99000" pacs="45000" total="144000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="172654" pacs="506974" total="679628"/>
+    <sector sector_name="Health" sectorid="H" indivs="38287" pacs="28000" total="66287"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="40175" pacs="14000" total="54175"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="6250" pacs="34268" total="40518"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="19000" pacs="34000" total="53000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="7828" pacs="5000" total="12828"/>
+    <sector sector_name="Other" sectorid="W" indivs="49850" pacs="0" total="49850"/>
+  </sectors>
+</response>

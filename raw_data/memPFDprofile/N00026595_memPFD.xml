@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Boustany, Charles Jr" data_year="2016" member_id="N00026595" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00026595" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Bank Deposit Sweep" tx_date="2013-04-03 00:00:00.000" tx_action="Purchased" value_low="150000" value_high="150000"/>
+      <transaction asset_name="Bank Deposit Sweep" tx_date="2013-04-05 00:00:00.000" tx_action="Sold" value_low="147000" value_high="147000"/>
+      <transaction asset_name="PIMCO Unconstrained Bond Fund" tx_date="2013-04-04 00:00:00.000" tx_action="Purchased" value_low="33000" value_high="33000"/>
+      <transaction asset_name="Doubleline Total Return Bond Fund" tx_date="2013-04-04 00:00:00.000" tx_action="Purchased" value_low="24000" value_high="24000"/>
+      <transaction asset_name="PIMCO Total Return Fund" tx_date="2013-04-04 00:00:00.000" tx_action="Purchased" value_low="16500" value_high="16500"/>
+    </transactions>
+  </member_profile>
+</response>

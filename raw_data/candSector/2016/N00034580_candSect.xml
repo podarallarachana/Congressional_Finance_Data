@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Angus King (I)" cid="N00034580" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00034580&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="43600" pacs="37115" total="80715"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="69488" pacs="84000" total="153488"/>
+    <sector sector_name="Construction" sectorid="C" indivs="68389" pacs="16500" total="84889"/>
+    <sector sector_name="Defense" sectorid="D" indivs="14750" pacs="25500" total="40250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="32000" pacs="51500" total="83500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="326318" pacs="102216" total="428534"/>
+    <sector sector_name="Health" sectorid="H" indivs="124951" pacs="87000" total="211951"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="307892" pacs="28000" total="335892"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="35925" pacs="7200" total="43125"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="146370" pacs="30500" total="176870"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="107000" total="107000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="105715" pacs="55387" total="161102"/>
+    <sector sector_name="Other" sectorid="W" indivs="520140" pacs="2500" total="522640"/>
+  </sectors>
+</response>

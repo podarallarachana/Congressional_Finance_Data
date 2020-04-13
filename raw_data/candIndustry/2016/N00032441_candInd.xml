@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Richard Nugent (R)" cid="N00032441" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00032441&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="1000" pacs="9000" total="10000"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="0" pacs="4500" total="4500"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="3000" total="3000"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="3000" total="3000"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="0" pacs="2500" total="2500"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="0" pacs="2500" total="2500"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="0" pacs="2500" total="2500"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="0" pacs="2500" total="2500"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="0" pacs="2000" total="2000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="1750" pacs="0" total="1750"/>
+  </industries>
+</response>

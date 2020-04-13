@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Donna Edwards (D)" cid="N00028249" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00028249&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="4500" total="4500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="5400" pacs="7000" total="12400"/>
+    <sector sector_name="Construction" sectorid="C" indivs="11400" pacs="2000" total="13400"/>
+    <sector sector_name="Defense" sectorid="D" indivs="6200" pacs="17500" total="23700"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="8000" total="8000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="25150" pacs="11000" total="36150"/>
+    <sector sector_name="Health" sectorid="H" indivs="5200" pacs="10500" total="15700"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="21750" pacs="12000" total="33750"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="3000" pacs="89500" total="92500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="15600" pacs="24000" total="39600"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="182250" total="182500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="17300" pacs="26800" total="44100"/>
+    <sector sector_name="Other" sectorid="W" indivs="38950" pacs="0" total="38950"/>
+  </sectors>
+</response>

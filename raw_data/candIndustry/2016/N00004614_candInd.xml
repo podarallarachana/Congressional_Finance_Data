@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Kevin Cramer (R)" cid="N00004614" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004614&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="50200" pacs="148200" total="198400"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="2700" pacs="73600" total="76300"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="22900" pacs="41500" total="64400"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="4500" pacs="51000" total="55500"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="2700" pacs="48000" total="50700"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="2050" pacs="43000" total="45050"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="1000" pacs="31000" total="32000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="31275" pacs="0" total="31275"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="500" pacs="30000" total="30500"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="0" pacs="30000" total="30000"/>
+  </industries>
+</response>

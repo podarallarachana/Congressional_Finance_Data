@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Pete Sessions (R)" cid="N00005681" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00005681&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="18000" pacs="62632" total="80632"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="89750" pacs="59000" total="148750"/>
+    <sector sector_name="Construction" sectorid="C" indivs="20400" pacs="51700" total="72100"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="49000" total="49000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="84150" pacs="105500" total="189650"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="308130" pacs="394000" total="702130"/>
+    <sector sector_name="Health" sectorid="H" indivs="110300" pacs="228600" total="338900"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="109404" pacs="31941" total="141345"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="52950" pacs="103500" total="156450"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="138450" pacs="133004" total="271454"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="8500" total="8500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="71700" pacs="43329" total="115029"/>
+    <sector sector_name="Other" sectorid="W" indivs="82850" pacs="7500" total="90350"/>
+  </sectors>
+</response>

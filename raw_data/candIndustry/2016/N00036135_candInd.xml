@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Garret Graves (R)" cid="N00036135" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00036135&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="58966" pacs="135233" total="194199"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="69650" pacs="47100" total="116750"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="37750" pacs="42100" total="79850"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="72287" pacs="7000" total="79287"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="18300" pacs="47250" total="65550"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="47590" pacs="15500" total="63090"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="35837" pacs="26250" total="62087"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="39833" pacs="14000" total="53833"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="39050" pacs="12000" total="51050"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="6900" pacs="37000" total="43900"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Austin Scott (R)" cid="N00032457" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00032457&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="14625" pacs="183000" total="197625"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3000" pacs="9000" total="12000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="13650" pacs="15500" total="29150"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1000" pacs="70500" total="71500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="2250" pacs="22000" total="24250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="44050" pacs="134000" total="178050"/>
+    <sector sector_name="Health" sectorid="H" indivs="28850" pacs="49200" total="78050"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="22950" pacs="4250" total="27200"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="11850" pacs="45500" total="57350"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="25725" pacs="57000" total="82725"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="11036" pacs="59600" total="70636"/>
+    <sector sector_name="Other" sectorid="W" indivs="28300" pacs="1000" total="29300"/>
+  </sectors>
+</response>

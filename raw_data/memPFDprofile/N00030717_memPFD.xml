@@ -1,0 +1,22 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00030717" net_low="2017075" net_high="9381991" positions_held_count="0" asset_count="72" asset_low="4767075" asset_high="10582000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030717" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Promissory Note Colonial Motel" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="2717 P Street/Sacramento, CA" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="2231 36th Street/Sacramento, CA" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="4601 V Street/Sacramento, CA" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="6211 Broadway, Sacramento, CA" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Invesco Convertible Securities Fund" tx_date="2013-11-05 00:00:00.000" tx_action="Purchased" value_low="16000" value_high="16000"/>
+      <transaction asset_name="Scout International Fund" tx_date="2013-11-05 00:00:00.000" tx_action="Purchased" value_low="15000" value_high="15000"/>
+      <transaction asset_name="Oakmark International Fund" tx_date="2013-11-05 00:00:00.000" tx_action="Purchased" value_low="15000" value_high="15000"/>
+      <transaction asset_name="Oppenheimer Main Street Fund" tx_date="2013-06-21 00:00:00.000" tx_action="Sold" value_low="14000" value_high="14000"/>
+      <transaction asset_name="Schwab Consumer Staples" tx_date="2013-04-14 00:00:00.000" tx_action="Sold" value_low="11000" value_high="11000"/>
+    </transactions>
+    <positions>
+      <position title="CEO President" organization="Mango Management Inc"/>
+      <position title="Clinical Professor of Medicine" organization="University of School of Medicine"/>
+    </positions>
+  </member_profile>
+</response>

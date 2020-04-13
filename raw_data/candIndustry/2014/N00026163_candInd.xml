@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Lynn A Westmoreland (R)" cid="N00026163" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026163&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="34350" pacs="54890" total="89240"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="10050" pacs="54000" total="64050"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="1250" pacs="44500" total="45750"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="3500" pacs="40000" total="43500"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="26500" pacs="13000" total="39500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="37100" pacs="0" total="37100"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="5600" pacs="30000" total="35600"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="0" pacs="33000" total="33000"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="16500" pacs="16000" total="32500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="9850" pacs="22500" total="32350"/>
+  </industries>
+</response>

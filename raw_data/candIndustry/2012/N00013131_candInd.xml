@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Eric Cantor (R)" cid="N00013131" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00013131&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="852132" pacs="153000" total="1005132"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="321000" pacs="86000" total="407000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="174550" pacs="191600" total="366150"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="315157" pacs="0" total="315157"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="70410" pacs="240900" total="311310"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="201781" pacs="69750" total="271531"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="76450" pacs="181000" total="257450"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="81000" pacs="139800" total="220800"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="202210" pacs="9600" total="211810"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="153850" pacs="31500" total="185350"/>
+  </industries>
+</response>

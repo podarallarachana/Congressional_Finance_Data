@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Rod Blum (R)" cid="N00033744" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033744&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="53045" pacs="78512" total="131557"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="18705" pacs="12000" total="30705"/>
+    <sector sector_name="Construction" sectorid="C" indivs="50350" pacs="30500" total="80850"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2350" pacs="20000" total="22350"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="850" pacs="50000" total="50850"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="131445" pacs="74800" total="206245"/>
+    <sector sector_name="Health" sectorid="H" indivs="31948" pacs="42272" total="74220"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="10380" pacs="2000" total="12380"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="48300" pacs="21300" total="69600"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="60320" pacs="54498" total="114818"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="151308" pacs="273339" total="424647"/>
+    <sector sector_name="Other" sectorid="W" indivs="146389" pacs="0" total="146389"/>
+  </sectors>
+</response>

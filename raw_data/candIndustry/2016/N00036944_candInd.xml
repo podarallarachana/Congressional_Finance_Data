@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Josh Gottheimer (D)" cid="N00036944" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00036944&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="550581" pacs="5000" total="555581"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="423886" pacs="14000" total="437886"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="210631" pacs="0" total="210631"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="8100" pacs="184074" total="192174"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="173314" pacs="11000" total="184314"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="138247" pacs="0" total="138247"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="107235" pacs="29500" total="136735"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="115436" pacs="5000" total="120436"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="98156" pacs="0" total="98156"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="67035" pacs="21000" total="88035"/>
+  </industries>
+</response>

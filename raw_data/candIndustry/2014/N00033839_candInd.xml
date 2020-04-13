@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Marc Veasey (D)" cid="N00033839" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033839&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="149538" pacs="17250" total="166788"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="54525" pacs="23500" total="78025"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="64600" total="64600"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="63499" total="63499"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="24000" pacs="27000" total="51000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="46550" pacs="0" total="46550"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="44500" total="44500"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="44068" total="44068"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="44000" total="44000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="25400" pacs="12500" total="37900"/>
+  </industries>
+</response>

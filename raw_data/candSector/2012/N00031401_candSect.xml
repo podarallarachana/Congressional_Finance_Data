@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Michael Grimm (R)" cid="N00031401" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031401&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="16750" pacs="23000" total="39750"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="33495" pacs="37000" total="70495"/>
+    <sector sector_name="Construction" sectorid="C" indivs="38000" pacs="24500" total="62500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="750" pacs="9000" total="9750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="11800" pacs="31250" total="43050"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="243865" pacs="413155" total="657020"/>
+    <sector sector_name="Health" sectorid="H" indivs="42842" pacs="47000" total="89842"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="119908" pacs="10000" total="129908"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="18000" pacs="19500" total="37500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="82531" pacs="107590" total="190121"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="231200" total="231200"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="12500" pacs="224480" total="236980"/>
+    <sector sector_name="Other" sectorid="W" indivs="60490" pacs="0" total="60490"/>
+  </sectors>
+</response>

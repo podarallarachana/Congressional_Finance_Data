@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Alma Adams (D)" cid="N00035451" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035451&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="70500" total="70500"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="67000" total="67000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="57000" total="57000"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="44500" total="44500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="26400" pacs="11500" total="37900"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="26265" pacs="6000" total="32265"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="1000" pacs="29500" total="30500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="30000" total="30000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="4300" pacs="22000" total="26300"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="16665" pacs="9500" total="26165"/>
+  </industries>
+</response>

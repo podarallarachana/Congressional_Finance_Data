@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00029139" net_low="9326034" net_high="34215000" positions_held_count="0" asset_count="31" asset_low="9326034" asset_high="34215000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00029139" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Promissary note for payments over time" holdings_low="5000001" holdings_high="25000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vectors AMT-Free Intermediate Municipal Index ETF" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="TIAA Traditional Annuity" holdings_low="350002" holdings_high="750000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Federal Thrift Savings Plan/G Fund" holdings_low="350002" holdings_high="750000" industry="" sector="" subsidiary_of=""/>
+      <asset name="CREF Stock Fund" holdings_low="350002" holdings_high="750000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Northwestern Mutual Insured Bank Deposit IRA" tx_date="Aug 19 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Northwestern Mutual Insured Bank Deposit IRA" tx_date="Aug 19 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+    </transactions>
+  </member_profile>
+</response>

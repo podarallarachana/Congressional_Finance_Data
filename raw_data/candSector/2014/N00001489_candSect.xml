@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Pat Toomey (R)" cid="N00001489" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001489&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="283617" pacs="165650" total="449267"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="301894" pacs="142131" total="444025"/>
+    <sector sector_name="Construction" sectorid="C" indivs="646927" pacs="124350" total="771277"/>
+    <sector sector_name="Defense" sectorid="D" indivs="13450" pacs="30600" total="44050"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="755514" pacs="382792" total="1138306"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="3439290" pacs="926062" total="4365352"/>
+    <sector sector_name="Health" sectorid="H" indivs="910113" pacs="449589" total="1359702"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1041346" pacs="168726" total="1210072"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="315851" pacs="133400" total="449251"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="1853527" pacs="443509" total="2297036"/>
+    <sector sector_name="Labor" sectorid="P" indivs="550" pacs="22500" total="23050"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1676252" pacs="607741" total="2283993"/>
+    <sector sector_name="Other" sectorid="W" indivs="1810989" pacs="10000" total="1820989"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Anna Eshoo (D)" cid="N00007335" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007335&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="58170" pacs="141790" total="199960"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="73075" pacs="55512" total="128587"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="91875" pacs="0" total="91875"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="2000" pacs="72500" total="74500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="68900" pacs="2500" total="71400"/>
+    <industry industry_code="B13" industry_name="Internet" indivs="24750" pacs="42200" total="66950"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="44680" pacs="15500" total="60180"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="20100" pacs="39500" total="59600"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="23350" pacs="14000" total="37350"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="0" pacs="29000" total="29000"/>
+  </industries>
+</response>

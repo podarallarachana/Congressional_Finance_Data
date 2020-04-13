@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Kennedy (R)" cid="N00026823" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026823&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="625410" pacs="0" total="625410"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="440750" pacs="33000" total="473750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="386690" pacs="10000" total="396690"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="268900" pacs="108200" total="377100"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="355150" pacs="10000" total="365150"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="286850" pacs="14000" total="300850"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="191500" total="191500"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="122100" pacs="46700" total="168800"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="135412" pacs="28500" total="163912"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="142500" pacs="18500" total="161000"/>
+  </industries>
+</response>

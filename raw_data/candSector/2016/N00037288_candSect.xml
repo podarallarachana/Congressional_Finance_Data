@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="John Faso (R)" cid="N00037288" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00037288&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="48275" pacs="4000" total="52275"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="41050" pacs="7000" total="48050"/>
+    <sector sector_name="Construction" sectorid="C" indivs="72275" pacs="25750" total="98025"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="44575" pacs="27000" total="71575"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="671765" pacs="85000" total="756765"/>
+    <sector sector_name="Health" sectorid="H" indivs="40550" pacs="35000" total="75550"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="204190" pacs="500" total="204690"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="18075" pacs="24000" total="42075"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="187804" pacs="49500" total="237304"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="72610" pacs="221481" total="294091"/>
+    <sector sector_name="Other" sectorid="W" indivs="340220" pacs="0" total="340220"/>
+  </sectors>
+</response>

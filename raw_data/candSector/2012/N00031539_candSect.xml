@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Diane Black (R)" cid="N00031539" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031539&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="31500" pacs="48500" total="80000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="15500" pacs="25500" total="41000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="63250" pacs="38000" total="101250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="16500" total="17000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="14605" pacs="70000" total="84605"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="118257" pacs="253528" total="371785"/>
+    <sector sector_name="Health" sectorid="H" indivs="131995" pacs="346235" total="478230"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="65575" pacs="31749" total="97324"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="23250" pacs="54500" total="77750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="71100" pacs="172038" total="243138"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="5750" pacs="118113" total="123863"/>
+    <sector sector_name="Other" sectorid="W" indivs="60100" pacs="0" total="60100"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bob Casey (D)" cid="N00027503" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027503&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1901201" pacs="237008" total="2138209"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="325962" pacs="131100" total="457062"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="121000" pacs="297979" total="418979"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="351158" pacs="50500" total="401658"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="376170" pacs="8300" total="384470"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="212985" pacs="162250" total="375235"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="362371" pacs="0" total="362371"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="149050" pacs="172750" total="321800"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="197297" pacs="112250" total="309547"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1000" pacs="258364" total="259364"/>
+  </industries>
+</response>

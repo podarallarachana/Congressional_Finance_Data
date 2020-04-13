@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Francis Rooney (R)" cid="N00040007" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00040007&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="282480" pacs="0" total="282480"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="72795" pacs="0" total="72795"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="67287" pacs="0" total="67287"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="40350" pacs="0" total="40350"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="28400" pacs="1000" total="29400"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="27515" pacs="0" total="27515"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="26150" pacs="0" total="26150"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="16200" pacs="0" total="16200"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="9400" pacs="2500" total="11900"/>
+    <industry industry_code="W03" industry_name="Civil Servants/Public Officials" indivs="11200" pacs="0" total="11200"/>
+  </industries>
+</response>

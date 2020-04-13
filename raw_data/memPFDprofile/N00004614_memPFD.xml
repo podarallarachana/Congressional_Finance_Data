@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00004614" net_low="318016" net_high="945000" positions_held_count="0" asset_count="16" asset_low="318016" asset_high="945000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00004614" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="TIAA CREF Lifecycle 2025 Fund-Retirement Class" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="C Fund Common Stock Index" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="CREF Global Equities Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fundamental Investors Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="S Fund Small Cap Stock Index" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="TIAA-CREF T Rowe Price Science &amp; Technology Fund" tx_date="Mar 20 2013" tx_action="Exchanged" value_low="1001" value_high="15000"/>
+    </transactions>
+    <positions>
+      <position title="Trustee" organization="University of Mary"/>
+      <position title="Trustee" organization="University of Mary"/>
+    </positions>
+  </member_profile>
+</response>

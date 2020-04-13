@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tom Rooney (R)" cid="N00029018" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029018&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="24450" pacs="63700" total="88150"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2750" pacs="23500" total="26250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="3177" pacs="9500" total="12677"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2600" pacs="70500" total="73100"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5000" pacs="31750" total="36750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="25600" pacs="92000" total="117600"/>
+    <sector sector_name="Health" sectorid="H" indivs="7450" pacs="11500" total="18950"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="27124" pacs="5000" total="32124"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1000" pacs="22500" total="23500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="20288" pacs="47581" total="67869"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="8100" pacs="25500" total="33600"/>
+    <sector sector_name="Other" sectorid="W" indivs="16980" pacs="2000" total="18980"/>
+  </sectors>
+</response>

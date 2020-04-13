@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Hanna, Richard" data_year="2016" member_id="N00030197" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030197" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Biomed Realty Trust" tx_date="Dec  5 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Cisco Systems" tx_date="Dec  5 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Cisco Systems" tx_date="Jan 29 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Corning Inc" tx_date="Jan 31 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Diamond Offshore Drilling Inc" tx_date="May  6 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+    </transactions>
+  </member_profile>
+</response>

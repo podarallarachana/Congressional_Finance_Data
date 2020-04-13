@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Dave Reichert (R)" cid="N00026885" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026885&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="16500" pacs="24000" total="40500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="63700" pacs="44621" total="108321"/>
+    <sector sector_name="Construction" sectorid="C" indivs="34800" pacs="71500" total="106300"/>
+    <sector sector_name="Defense" sectorid="D" indivs="16000" pacs="19000" total="35000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="14600" pacs="39067" total="53667"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="126284" pacs="203000" total="329284"/>
+    <sector sector_name="Health" sectorid="H" indivs="44975" pacs="117017" total="161992"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="28150" pacs="9854" total="38004"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="29250" pacs="41000" total="70250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="81073" pacs="87500" total="168573"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="61500" total="61500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="21009" pacs="70191" total="91200"/>
+    <sector sector_name="Other" sectorid="W" indivs="136060" pacs="500" total="136560"/>
+  </sectors>
+</response>

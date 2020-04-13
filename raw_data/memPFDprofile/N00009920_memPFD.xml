@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Shelby, Richard C" data_year="2016" member_id="N00009920" net_low="3233014" net_high="12746000" positions_held_count="1" asset_count="14" asset_low="3233014" asset_high="12746000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00009920" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Residence" holdings_low="1000001" holdings_high="5000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Tuscaloosa Title" holdings_low="1000001" holdings_high="5000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Office Building/2210 8th Street" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Regions Bank Money Market Account" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Express Certificicate of Deposit" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Director" organization="Tuscaloosa Title Co"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mark Sanford (R)" cid="N00002424" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002424&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="156660" pacs="6000" total="162660"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="132950" pacs="0" total="132950"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="123950" pacs="0" total="123950"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="101400" pacs="0" total="101400"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="61450" pacs="10000" total="71450"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="41350" pacs="2000" total="43350"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="39150" pacs="2500" total="41650"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="37950" pacs="3000" total="40950"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="37450" pacs="3500" total="40950"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="37730" pacs="0" total="37730"/>
+  </industries>
+</response>

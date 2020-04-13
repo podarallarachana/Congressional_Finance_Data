@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Kenny Marchant (R)" cid="N00026710" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026710&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F09" industry_name="Insurance" indivs="500" pacs="72712" total="73212"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="8500" pacs="56000" total="64500"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="9250" pacs="41000" total="50250"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="23500" pacs="21000" total="44500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="8250" pacs="29500" total="37750"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="13000" pacs="24500" total="37500"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="32500" total="32500"/>
+    <industry industry_code="Q10" industry_name="Misc Issues" indivs="28250" pacs="100" total="28350"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="3450" pacs="22000" total="25450"/>
+    <industry industry_code="F05" industry_name="Credit Unions" indivs="10350" pacs="15000" total="25350"/>
+  </industries>
+</response>

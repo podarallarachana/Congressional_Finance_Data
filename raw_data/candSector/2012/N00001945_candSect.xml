@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Barbara A Mikulski (D)" cid="N00001945" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001945&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="24400" pacs="53265" total="77665"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="101899" pacs="104900" total="206799"/>
+    <sector sector_name="Construction" sectorid="C" indivs="63883" pacs="37400" total="101283"/>
+    <sector sector_name="Defense" sectorid="D" indivs="133210" pacs="227900" total="361110"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="11850" pacs="50500" total="62350"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="362150" pacs="127500" total="489650"/>
+    <sector sector_name="Health" sectorid="H" indivs="153659" pacs="419371" total="573030"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="456159" pacs="86995" total="543154"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="88400" pacs="130000" total="218400"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="141664" pacs="110500" total="252164"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="290000" total="290250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="239533" pacs="273650" total="513183"/>
+    <sector sector_name="Other" sectorid="W" indivs="379769" pacs="27000" total="406769"/>
+  </sectors>
+</response>

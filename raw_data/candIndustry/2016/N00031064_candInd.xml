@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ryan Costello (R)" cid="N00031064" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031064&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="227071" total="227071"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="20700" pacs="144100" total="164800"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="105550" pacs="35733" total="141283"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="26940" pacs="73700" total="100640"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="15500" pacs="74000" total="89500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="77000" pacs="11500" total="88500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="78300" pacs="0" total="78300"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="43050" pacs="30000" total="73050"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="30750" pacs="26200" total="56950"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="1600" pacs="49000" total="50600"/>
+  </industries>
+</response>

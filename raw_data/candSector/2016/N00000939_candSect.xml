@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Jerrold Nadler (D)" cid="N00000939" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00000939&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="31000" pacs="0" total="31000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="112857" pacs="137498" total="250355"/>
+    <sector sector_name="Construction" sectorid="C" indivs="25150" pacs="20750" total="45900"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5650" pacs="0" total="5650"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="194310" pacs="18500" total="212810"/>
+    <sector sector_name="Health" sectorid="H" indivs="34325" pacs="6000" total="40325"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="219750" pacs="45150" total="264900"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1935" pacs="47000" total="48935"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="112650" pacs="21500" total="134150"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="216850" total="216850"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="74231" pacs="46910" total="121141"/>
+    <sector sector_name="Other" sectorid="W" indivs="80926" pacs="1500" total="82426"/>
+  </sectors>
+</response>

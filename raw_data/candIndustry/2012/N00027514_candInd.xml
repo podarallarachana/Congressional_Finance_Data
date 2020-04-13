@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Kathy Castor (D)" cid="N00027514" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027514&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="79175" pacs="25000" total="104175"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="22300" pacs="65300" total="87600"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="42000" total="42000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="37500" total="37500"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="14650" pacs="22000" total="36650"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="35550" pacs="0" total="35550"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="11750" pacs="12500" total="24250"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="10300" pacs="11000" total="21300"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="21000" total="21000"/>
+    <industry industry_code="A02" industry_name="Tobacco" indivs="17000" pacs="3000" total="20000"/>
+  </industries>
+</response>

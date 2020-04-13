@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="David Jolly (R)" cid="N00035717" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035717&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="150050" pacs="23500" total="173550"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="125895" pacs="0" total="125895"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="98325" pacs="23000" total="121325"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="91091" pacs="9968" total="101059"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="48200" pacs="19500" total="67700"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="48600" pacs="17200" total="65800"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="12650" pacs="43500" total="56150"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="17650" pacs="38500" total="56150"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="54000" total="54000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="22785" pacs="26250" total="49035"/>
+  </industries>
+</response>

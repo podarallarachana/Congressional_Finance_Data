@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ed Markey (D)" cid="N00000270" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000270&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1294933" pacs="155763" total="1450696"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="747558" pacs="51000" total="798558"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="596346" pacs="38500" total="634846"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="399271" pacs="9300" total="408571"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="398557" pacs="0" total="398557"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="154650" pacs="233600" total="388250"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="335582" pacs="35949" total="371531"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="323145" pacs="41500" total="364645"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="339300" total="339300"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="284864" pacs="7600" total="292464"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Marcia L Fudge (D)" cid="N00030490" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030490&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1250" pacs="113286" total="114536"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2600" pacs="45000" total="47600"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1800" pacs="5500" total="7300"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="15500" total="15500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="6450" pacs="53500" total="59950"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="21900" pacs="97500" total="119400"/>
+    <sector sector_name="Health" sectorid="H" indivs="1250" pacs="66000" total="67250"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="27719" pacs="27850" total="55569"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="250" pacs="42000" total="42250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="9400" pacs="91250" total="100650"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="177100" total="177100"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="38452" pacs="27599" total="66051"/>
+    <sector sector_name="Other" sectorid="W" indivs="22775" pacs="7000" total="29775"/>
+  </sectors>
+</response>

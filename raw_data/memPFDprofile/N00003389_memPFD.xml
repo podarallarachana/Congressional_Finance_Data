@@ -1,0 +1,22 @@
+<response>
+  <member_profile name="McConnell, Mitch" data_year="2016" member_id="N00003389" net_low="10436071" net_high="42920000" positions_held_count="2" asset_count="65" asset_low="10436071" asset_high="42920000" transaction_count="45" tx_low="1862045" tx_high="7305000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00003389" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Vanguard 500 Index Admiral Fund" holdings_low="2250003" holdings_high="10500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Municipal Money Market Fund" holdings_low="1001002" holdings_high="5015000" industry="" sector="" subsidiary_of=""/>
+      <asset name="VFIAX-Vanguard 500 Index Admiral Fund" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Wells Fargo" holdings_low="1000001" holdings_high="5000000" industry="Commercial Banks" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="SunTrust Advantage Money Market Account" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Vanguard 500 Index Signal" tx_date="Apr  2 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Vanguard Tax Exempt Money Market Fund" tx_date="Apr  2 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Vanguard 500 Index Signal" tx_date="Jul  8 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Vanguard 500 Index Signal" tx_date="Apr  4 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Dole Food Co" tx_date="Nov  4 2013" tx_action="Exchanged" value_low="100001" value_high="250000"/>
+    </transactions>
+    <positions>
+      <position title="Member, Board of Dean's Advisors (Uncompensated)" organization="Harvard University Business School"/>
+      <position title="Member, Visiting Cmte. (Uncompensated)" organization="University of Kentucky College of Law"/>
+    </positions>
+  </member_profile>
+</response>

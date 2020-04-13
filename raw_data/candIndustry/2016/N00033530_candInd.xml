@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ruben Kihuen (D)" cid="N00033530" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033530&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="189626" pacs="11500" total="201126"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="2800" pacs="122100" total="124900"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="98152" pacs="10500" total="108652"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="58392" pacs="24662" total="83054"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="59942" pacs="10545" total="70487"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="1000" pacs="67000" total="68000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="251" pacs="66000" total="66251"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="39902" pacs="18000" total="57902"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="42634" pacs="13831" total="56465"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="54575" total="54575"/>
+  </industries>
+</response>

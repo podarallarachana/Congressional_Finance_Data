@@ -1,0 +1,25 @@
+<response>
+  <member_profile name="Price, Tom" data_year="2016" member_id="N00026160" net_low="7026264" net_high="21100000" positions_held_count="2" asset_count="186" asset_low="7026264" asset_high="21100000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00026160" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Diagnostic Ventures of Roswell" holdings_low="1000001" holdings_high="5000000" industry="Health Services/HMOs" sector="Health" subsidiary_of=""/>
+      <asset name="Wells Fargo Ultra Short-Term Income Fund" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="MFS Value Fund" holdings_low="217006" holdings_high="531000" industry="" sector="" subsidiary_of=""/>
+      <asset name="SFT T Rowe Price Value Fund" holdings_low="201003" holdings_high="515000" industry="" sector="" subsidiary_of=""/>
+      <asset name="SFT Advantus Bond C2 Fund" holdings_low="201003" holdings_high="515000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="WF Advantage Ultra Short Term Income Fund" tx_date="2013-04-22 00:00:00.000" tx_action="Purchased" value_low="830006" value_high="830006"/>
+      <transaction asset_name="DWS High Income Fund" tx_date="2013-12-12 00:00:00.000" tx_action="Sold" value_low="175789" value_high="175789"/>
+      <transaction asset_name="Oppenheimer International Bond Fund" tx_date="2013-12-12 00:00:00.000" tx_action="Sold" value_low="113675" value_high="113675"/>
+      <transaction asset_name="Blackrock Strategic Income Opportunities" tx_date="2013-12-12 00:00:00.000" tx_action="Purchased" value_low="87640" value_high="87640"/>
+      <transaction asset_name="Goldman Sachs Strategic Income Fund" tx_date="2013-12-12 00:00:00.000" tx_action="Purchased" value_low="87640" value_high="87640"/>
+    </transactions>
+    <positions>
+      <position title="Delegate" organization="AMA House of Delegates"/>
+      <position title="Limited Partner" organization="Carolina Properties"/>
+      <position title="Managing Partner/United Partner" organization="Chattahoochee Assoc"/>
+      <position title="Limited Partner" organization="Diagnostic Ventures of Roswell"/>
+      <position title="Limited Partner" organization="N Fulton Professional Bldg"/>
+    </positions>
+  </member_profile>
+</response>

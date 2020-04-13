@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Raul Ruiz (D)" cid="N00033510" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033510&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="125943" pacs="227600" total="353543"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="180500" total="180500"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="135808" pacs="20850" total="156658"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="138024" pacs="6500" total="144524"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="144415" pacs="0" total="144415"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="104499" pacs="17500" total="121999"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="108165" pacs="4500" total="112665"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="76805" pacs="8500" total="85305"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="45366" pacs="24500" total="69866"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="8350" pacs="59012" total="67362"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Thune (R)" cid="N00004572" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004572&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="955284" pacs="0" total="955284"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="310740" pacs="81000" total="391740"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="127210" pacs="244500" total="371710"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="276377" pacs="49010" total="325387"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="291096" pacs="14398" total="305494"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="189929" pacs="87422" total="277351"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="239766" pacs="19977" total="259743"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="176913" pacs="73500" total="250413"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="141730" pacs="85700" total="227430"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="199727" total="199727"/>
+  </industries>
+</response>

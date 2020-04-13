@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Keith J Rothfus (R)" cid="N00031253" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031253&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="37500" pacs="7150" total="44650"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="24850" pacs="7500" total="32350"/>
+    <sector sector_name="Construction" sectorid="C" indivs="34300" pacs="13500" total="47800"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="8000" total="8000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="76400" pacs="32000" total="108400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="162331" pacs="48000" total="210331"/>
+    <sector sector_name="Health" sectorid="H" indivs="89350" pacs="15000" total="104350"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="55250" pacs="500" total="55750"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="23500" pacs="11500" total="35000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="153150" pacs="38000" total="191150"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="205871" pacs="285875" total="491746"/>
+    <sector sector_name="Other" sectorid="W" indivs="187550" pacs="1000" total="188550"/>
+  </sectors>
+</response>

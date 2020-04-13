@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Richard C Shelby (R)" cid="N00009920" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009920&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="461338" pacs="254400" total="715738"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="92800" pacs="269250" total="362050"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="233050" pacs="121550" total="354600"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="176700" pacs="109300" total="286000"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="161700" pacs="112000" total="273700"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="85150" pacs="132600" total="217750"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="167489" pacs="5000" total="172489"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="126150" pacs="44500" total="170650"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="27700" pacs="136000" total="163700"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="158000" total="158000"/>
+  </industries>
+</response>

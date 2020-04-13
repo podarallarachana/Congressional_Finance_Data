@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Steve Knight (R)" cid="N00035820" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035820&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="14883" pacs="26500" total="41383"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="16050" pacs="45000" total="61050"/>
+    <sector sector_name="Construction" sectorid="C" indivs="37774" pacs="30500" total="68274"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5650" pacs="110500" total="116150"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="9850" pacs="66500" total="76350"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="114323" pacs="123900" total="238223"/>
+    <sector sector_name="Health" sectorid="H" indivs="24349" pacs="37593" total="61942"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="39169" pacs="9250" total="48419"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="25150" pacs="46000" total="71150"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="47185" pacs="88898" total="136083"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="8000" total="8000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="23280" pacs="429514" total="452794"/>
+    <sector sector_name="Other" sectorid="W" indivs="36035" pacs="1500" total="37535"/>
+  </sectors>
+</response>

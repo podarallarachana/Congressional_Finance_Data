@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00038767" net_low="-3319989" net_high="9952997" positions_held_count="3" asset_count="11" asset_low="2680011" asset_high="11453000" transaction_count="1" tx_low="100001" tx_high="250000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00038767" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Payment pursuant to agreement listed on Schedule F" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="R&amp;E LLC" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Farmland" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Cash" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

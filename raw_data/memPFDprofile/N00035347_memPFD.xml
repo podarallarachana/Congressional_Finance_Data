@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00035347" net_low="17003" net_high="80000" positions_held_count="0" asset_count="3" asset_low="17003" asset_high="80000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00035347" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Hamilton State Bank" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Freedom Flight Center" holdings_low="1001" holdings_high="15000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="Coosa Valley Federal Credit Union Accounts" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Officer (Secretary)" organization="Barley Loaf Ministries Inc"/>
+      <position title="Officer (CEO)" organization="Firm Reliance Inc"/>
+      <position title="Partner" organization="Freedom Flight Center"/>
+      <position title="Officer (President)" organization="Innovative Network Systems"/>
+    </positions>
+  </member_profile>
+</response>

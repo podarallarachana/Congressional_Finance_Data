@@ -1,0 +1,25 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00034580" net_low="3946149" net_high="16286999" positions_held_count="3" asset_count="131" asset_low="3996149" asset_high="16302000" transaction_count="19" tx_low="306019" tx_high="815000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00034580" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Vanguard 500 Index Fund" holdings_low="1001002" holdings_high="5015000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Maine Tax Exempt CTF" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Intermediate Term Tax Exempt Fund" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Potter Street Brunswick Residence" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Sit Dividend Growth Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Vanguard Tax-Managed Growth &amp; Inc Adm Fund" tx_date="Jun 14 2013" tx_action="Sold" value_low="250001" value_high="500000"/>
+      <transaction asset_name="iShares Barclays 1-3 Year Credit Bond Fund" tx_date="Jun 14 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="iShares MSCI EAFE Fund" tx_date="Jan 29 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="iShares Barclays 1-3 Year Credit Bond Fund" tx_date="Jan 29 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Pimco All Asset Institutional Fund" tx_date="Dec  4 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+    </transactions>
+    <positions>
+      <position title="Officer" organization="Maine Learning Technology Foundation"/>
+      <position title="Trustee" organization="TRUST U/W/O ROGER KLINE FBO MATTHEW KLINE  NEW YOR"/>
+      <position title="Trustee" organization="TRUST UNDER CLAUSE NINTH OF WILL OF ROGER C KLINE"/>
+      <position title="Trustee" organization="TRUST UNDER CLAUSE SEVENTH OF WILL OF ROGER C KLIN"/>
+      <position title="Other (ADVISORY BOARD MEMBER)" organization="University Of New England Athletic Dept"/>
+    </positions>
+  </member_profile>
+</response>

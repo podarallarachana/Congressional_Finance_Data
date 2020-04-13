@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Steven Palazzo (R)" cid="N00031958" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031958&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="2500" pacs="50000" total="52500"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="12750" pacs="39499" total="52249"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="39850" pacs="11000" total="50850"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="12500" pacs="28000" total="40500"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="33600" pacs="4500" total="38100"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="29750" pacs="8000" total="37750"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="31500" total="31500"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="7500" pacs="19500" total="27000"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="0" pacs="27000" total="27000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="10000" pacs="16500" total="26500"/>
+  </industries>
+</response>

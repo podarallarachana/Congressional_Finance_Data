@@ -1,0 +1,13 @@
+<response>
+  <member_profile name="Fattah, Chaka" data_year="2016" member_id="N00001746" net_low="100001" net_high="250000" positions_held_count="0" asset_count="1" asset_low="100001" asset_high="250000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00001746" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="General Electric" holdings_low="100001" holdings_high="250000" industry="Misc Manufacturing &amp; Distributing" sector="Misc Business" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Board Chairman" organization="Congressional Black Caucus Foundation"/>
+      <position title="Member" organization="John Hopkins University Board"/>
+      <position title="Member" organization="Nurses Foundation of Pennsylvania"/>
+      <position title="Member" organization="Philadelphia Museum of Art"/>
+    </positions>
+  </member_profile>
+</response>

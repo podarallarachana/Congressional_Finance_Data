@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Sarbanes, John" data_year="2016" member_id="N00027751" net_low="78010" net_high="464998" positions_held_count="0" asset_count="10" asset_low="178010" asset_high="495000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00027751" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Vanguard Traditional IRA Tgt Rtmt 2030" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Washington Mutual Investors" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Capital One Money Market Account" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Capital World Growth &amp; Income Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard FTSE Social Index Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Director (Uncompensated)" organization="Institute for Christian &amp; Jewish Studies"/>
+    </positions>
+  </member_profile>
+</response>

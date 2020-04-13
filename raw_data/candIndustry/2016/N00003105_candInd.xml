@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Marsha Blackburn (R)" cid="N00003105" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00003105&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="32105" pacs="189750" total="221855"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="28200" pacs="136899" total="165099"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="14900" pacs="71000" total="85900"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="6500" pacs="70700" total="77200"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="8800" pacs="67500" total="76300"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="28600" pacs="42500" total="71100"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="67545" pacs="0" total="67545"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="5250" pacs="52000" total="57250"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="23775" pacs="32500" total="56275"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="20150" pacs="36000" total="56150"/>
+  </industries>
+</response>

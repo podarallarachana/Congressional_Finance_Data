@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Carolyn B Maloney (D)" cid="N00000078" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000078&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="119850" pacs="64500" total="184350"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="111450" pacs="49489" total="160939"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="76550" pacs="38700" total="115250"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="24500" pacs="65000" total="89500"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="64600" pacs="23500" total="88100"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="65000" total="65000"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="16050" pacs="45500" total="61550"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="25500" pacs="25000" total="50500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="48100" pacs="0" total="48100"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="200" pacs="42923" total="43123"/>
+  </industries>
+</response>

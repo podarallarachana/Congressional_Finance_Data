@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Michael Grimm (R)" cid="N00031401" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031401&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="124582" pacs="98150" total="222732"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="250" pacs="156785" total="157035"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="55033" pacs="62000" total="117033"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="8750" pacs="103006" total="111756"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="106500" total="106500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="74658" pacs="8500" total="83158"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="22800" pacs="53000" total="75800"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="64000" total="64000"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="9700" pacs="47499" total="57199"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="27801" pacs="22500" total="50301"/>
+  </industries>
+</response>

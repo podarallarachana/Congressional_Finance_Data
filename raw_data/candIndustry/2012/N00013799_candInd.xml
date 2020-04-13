@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Randy Forbes (R)" cid="N00013799" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00013799&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="66008" pacs="0" total="66008"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="25500" pacs="20500" total="46000"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="500" pacs="44000" total="44500"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="300" pacs="43500" total="43800"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="22000" pacs="10000" total="32000"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="25383" pacs="3000" total="28383"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="24300" pacs="4000" total="28300"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="15250" pacs="9500" total="24750"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="7450" pacs="17000" total="24450"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="16533" pacs="7250" total="23783"/>
+  </industries>
+</response>

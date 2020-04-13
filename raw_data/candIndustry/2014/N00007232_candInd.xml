@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Lois Capps (D)" cid="N00007232" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007232&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="43134" pacs="194100" total="237234"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="204764" pacs="0" total="204764"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="168300" total="168300"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="56600" pacs="27750" total="84350"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="79250" total="79250"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="72690" pacs="6250" total="78940"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="500" pacs="66120" total="66620"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="51225" pacs="13850" total="65075"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="2250" pacs="51800" total="54050"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="38900" pacs="13000" total="51900"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mark Amodei (R)" cid="N00031177" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031177&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="16800" pacs="14500" total="31300"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="8600" pacs="34000" total="42600"/>
+    <sector sector_name="Construction" sectorid="C" indivs="21100" pacs="23000" total="44100"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="19500" total="20000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="2750" pacs="51750" total="54500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="25800" pacs="32999" total="58799"/>
+    <sector sector_name="Health" sectorid="H" indivs="5000" pacs="28500" total="33500"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="45250" pacs="9000" total="54250"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="13550" pacs="23500" total="37050"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="39400" pacs="68500" total="107900"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="3000" total="3000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="20950" pacs="26550" total="47500"/>
+    <sector sector_name="Other" sectorid="W" indivs="34050" pacs="0" total="34050"/>
+  </sectors>
+</response>

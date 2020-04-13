@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Pedro Pierluisi (D)" cid="N00029168" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029168&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="7800" pacs="0" total="7800"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="0" pacs="4000" total="4000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1000" pacs="2750" total="3750"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="3600" total="3600"/>
+    <industry industry_code="E07" industry_name="Misc Energy" indivs="0" pacs="3000" total="3000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="3000" total="3000"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="0" pacs="2500" total="2500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="2500" pacs="0" total="2500"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="0" pacs="2000" total="2000"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="0" pacs="2000" total="2000"/>
+  </industries>
+</response>

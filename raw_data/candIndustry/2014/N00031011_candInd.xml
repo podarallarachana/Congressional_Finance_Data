@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bill Owens (D)" cid="N00031011" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031011&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="250" pacs="52500" total="52750"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="34000" total="34000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="21450" pacs="9000" total="30450"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="17100" pacs="12000" total="29100"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="27950" pacs="0" total="27950"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="26500" total="26500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="14100" pacs="9000" total="23100"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="19000" total="19000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="1500" pacs="17000" total="18500"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="4600" pacs="13500" total="18100"/>
+  </industries>
+</response>

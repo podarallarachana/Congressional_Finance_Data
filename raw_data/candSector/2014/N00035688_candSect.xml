@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Gwen Graham (D)" cid="N00035688" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035688&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="38350" pacs="2500" total="40850"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="59676" pacs="3000" total="62676"/>
+    <sector sector_name="Construction" sectorid="C" indivs="15200" pacs="8000" total="23200"/>
+    <sector sector_name="Defense" sectorid="D" indivs="8200" pacs="0" total="8200"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="37100" pacs="0" total="37100"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="300162" pacs="15000" total="315162"/>
+    <sector sector_name="Health" sectorid="H" indivs="43200" pacs="31000" total="74200"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="462880" pacs="12341" total="475221"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="20850" pacs="0" total="20850"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="98504" pacs="3500" total="102004"/>
+    <sector sector_name="Labor" sectorid="P" indivs="250" pacs="233500" total="233750"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="313565" pacs="376587" total="690152"/>
+    <sector sector_name="Other" sectorid="W" indivs="512963" pacs="13000" total="525963"/>
+  </sectors>
+</response>

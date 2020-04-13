@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jon L Kyl (R)" cid="N00006406" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006406&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="200" pacs="59000" total="59200"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="33900" pacs="16500" total="50400"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="4150" pacs="46000" total="50150"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="28044" pacs="16000" total="44044"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="7800" pacs="32500" total="40300"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="22500" pacs="13000" total="35500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="1300" pacs="27000" total="28300"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="6200" pacs="17000" total="23200"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="25200" pacs="-2500" total="22700"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="9700" pacs="12500" total="22200"/>
+  </industries>
+</response>

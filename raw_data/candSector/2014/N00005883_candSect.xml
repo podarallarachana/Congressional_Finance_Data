@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Kevin Brady (R)" cid="N00005883" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00005883&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="17700" pacs="53132" total="70832"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="8200" pacs="62230" total="70430"/>
+    <sector sector_name="Construction" sectorid="C" indivs="17750" pacs="61500" total="79250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="42000" total="42000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="157150" pacs="203600" total="360750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="160856" pacs="339500" total="500356"/>
+    <sector sector_name="Health" sectorid="H" indivs="160245" pacs="510932" total="671177"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="86750" pacs="61500" total="148250"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="3500" pacs="63500" total="67000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="69800" pacs="176000" total="245800"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="75375" pacs="17000" total="92375"/>
+    <sector sector_name="Other" sectorid="W" indivs="9000" pacs="2000" total="11000"/>
+  </sectors>
+</response>

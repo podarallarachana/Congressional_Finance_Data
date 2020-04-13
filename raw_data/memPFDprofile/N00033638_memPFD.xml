@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033638" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033638" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="John Hancock Balanced Fund" tx_date="Aug 26 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Ivy Asset Strategy Fund" tx_date="Aug 26 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="GSV Capital Corp" tx_date="Dec 12 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Fidelity Independence Fund" tx_date="Aug 26 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="American Century Heritage Fund" tx_date="Aug 26 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

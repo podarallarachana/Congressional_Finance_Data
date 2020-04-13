@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Gibbs, Bob" data_year="2016" member_id="N00031128" net_low="1047065" net_high="3679998" positions_held_count="0" asset_count="61" asset_low="1397065" asset_high="3830000" transaction_count="29" tx_low="37029" tx_high="225000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031128" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Hidden Hollow Farms" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Washington, DC Property, Capitol Hill Tower" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Residential Rental Property" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Discover Bank Accounts" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Ohio PERS/OHIO PUBLIC EMPLOYEES RETIREMENT SYSTEM" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Hershey Co" tx_date="Jan 30 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="RPM Inc" tx_date="Nov 18 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Intel Corp" tx_date="Dec 10 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Exelon Corp" tx_date="Nov 25 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Cardinal Health" tx_date="Nov 19 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

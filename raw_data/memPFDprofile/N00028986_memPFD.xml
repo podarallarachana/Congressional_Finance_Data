@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Broun, Paul" data_year="2016" member_id="N00028986" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00028986" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Fidelity New Insights Fund" tx_date="Jan 11 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="First Eagle Global Fund" tx_date="Jan 11 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Norfolk Southern" tx_date="Jan 22 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Berkshire Hathaway" tx_date="Jan 22 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="CSX Corp" tx_date="Jan 22 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+    <positions>
+      <position title="Member" organization="Broun Brother's Investors LLC"/>
+    </positions>
+  </member_profile>
+</response>

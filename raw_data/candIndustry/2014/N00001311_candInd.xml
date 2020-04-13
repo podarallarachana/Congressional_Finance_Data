@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Louise M Slaughter (D)" cid="N00001311" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001311&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="71000" total="71000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="3200" pacs="51000" total="54200"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="54000" total="54000"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="51500" total="51500"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="28500" pacs="19500" total="48000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="48000" total="48000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="34500" pacs="8000" total="42500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="19046" pacs="20500" total="39546"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="200" pacs="31000" total="31200"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="7000" pacs="21500" total="28500"/>
+  </industries>
+</response>

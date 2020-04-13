@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Brian Babin (R)" cid="N00005736" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00005736&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="11533" pacs="35032" total="46565"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="4800" pacs="10000" total="14800"/>
+    <sector sector_name="Construction" sectorid="C" indivs="30215" pacs="25000" total="55215"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1750" pacs="14000" total="15750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="16600" pacs="30000" total="46600"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="112000" pacs="20250" total="132250"/>
+    <sector sector_name="Health" sectorid="H" indivs="106076" pacs="82500" total="188576"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="26048" pacs="3552" total="29600"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="14600" pacs="21500" total="36100"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="78500" pacs="14000" total="92500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1750" pacs="108576" total="110326"/>
+    <sector sector_name="Other" sectorid="W" indivs="52350" pacs="0" total="52350"/>
+  </sectors>
+</response>

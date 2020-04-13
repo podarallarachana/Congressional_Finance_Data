@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Zoe Lofgren (D)" cid="N00007479" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00007479&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="4850" pacs="17200" total="22050"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="177450" pacs="175500" total="352950"/>
+    <sector sector_name="Construction" sectorid="C" indivs="3200" pacs="2000" total="5200"/>
+    <sector sector_name="Defense" sectorid="D" indivs="250" pacs="12000" total="12250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="15750" pacs="8500" total="24250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="102100" pacs="75000" total="177100"/>
+    <sector sector_name="Health" sectorid="H" indivs="10450" pacs="28000" total="38450"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="147351" pacs="30900" total="178251"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="8600" pacs="7500" total="16100"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="55925" pacs="38294" total="94219"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1650" pacs="72750" total="74400"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="58725" pacs="13000" total="71725"/>
+    <sector sector_name="Other" sectorid="W" indivs="148384" pacs="500" total="148884"/>
+  </sectors>
+</response>

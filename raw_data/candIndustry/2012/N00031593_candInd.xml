@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jeff Denham (R)" cid="N00031593" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031593&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="248783" pacs="55000" total="303783"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="207906" total="207906"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="116590" pacs="7000" total="123590"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="79999" pacs="21500" total="101499"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="13900" pacs="77000" total="90900"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="41750" pacs="44500" total="86250"/>
+    <industry industry_code="A06" industry_name="Livestock" indivs="82782" pacs="0" total="82782"/>
+    <industry industry_code="A04" industry_name="Dairy" indivs="53166" pacs="26250" total="79416"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="750" pacs="71454" total="72204"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="29100" pacs="39384" total="68484"/>
+  </industries>
+</response>

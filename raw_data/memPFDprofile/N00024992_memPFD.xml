@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Murphy, Tim" data_year="2016" member_id="N00024992" net_low="353045" net_high="1370000" positions_held_count="0" asset_count="25" asset_low="353045" asset_high="1370000" transaction_count="59" tx_low="16059" tx_high="283000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00024992" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Vanguard S&amp;P 500 Fund" holdings_low="66003" holdings_high="165000" industry="" sector="" subsidiary_of=""/>
+      <asset name="PIMCO Total Return Fund" holdings_low="51002" holdings_high="115000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Oppenheimer Developing Markets Fund" holdings_low="17003" holdings_high="80000" industry="" sector="" subsidiary_of=""/>
+      <asset name="JPMorgan Small Cap Value Fund" holdings_low="17003" holdings_high="80000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Loomis Sayles Growth" holdings_low="17003" holdings_high="80000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Invesco Convertible Secs" tx_date="Jan 14 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="DWS RREEF Global Infrastructure Fund" tx_date="Jan 14 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="DWS RREEF Global Infrastructure Fund" tx_date="Jan 14 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Arbitrage Funds" tx_date="Feb 21 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Arbitrage Funds" tx_date="Jan 14 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

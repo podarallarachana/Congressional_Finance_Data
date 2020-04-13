@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Pete Aguilar (D)" cid="N00033997" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033997&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="4100" pacs="141200" total="145300"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="111269" pacs="11250" total="122519"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="700" pacs="84500" total="85200"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="74496" pacs="9000" total="83496"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="73000" total="73000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="65928" pacs="0" total="65928"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="65500" total="65500"/>
+    <industry industry_code="F05" industry_name="Credit Unions" indivs="34050" pacs="26000" total="60050"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="54405" pacs="5636" total="60041"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="35511" pacs="13250" total="48761"/>
+  </industries>
+</response>

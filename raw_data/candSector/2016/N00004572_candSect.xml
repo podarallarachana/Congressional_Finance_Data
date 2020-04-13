@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John Thune (R)" cid="N00004572" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00004572&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="213964" pacs="359400" total="573364"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="283163" pacs="452748" total="735911"/>
+    <sector sector_name="Construction" sectorid="C" indivs="196306" pacs="114000" total="310306"/>
+    <sector sector_name="Defense" sectorid="D" indivs="3384" pacs="46000" total="49384"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="214403" pacs="328250" total="542653"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="838542" pacs="699576" total="1538118"/>
+    <sector sector_name="Health" sectorid="H" indivs="198716" pacs="362750" total="561466"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="536357" pacs="115700" total="652057"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="217086" pacs="532404" total="749490"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="377241" pacs="420273" total="797514"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="75500" total="75500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="249573" pacs="330029" total="579602"/>
+    <sector sector_name="Other" sectorid="W" indivs="838905" pacs="11000" total="849905"/>
+  </sectors>
+</response>

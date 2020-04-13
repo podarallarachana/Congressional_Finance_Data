@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Robert E Latta (R)" cid="N00012233" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00012233&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="22700" pacs="20586" total="43286"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="16200" pacs="106400" total="122600"/>
+    <sector sector_name="Construction" sectorid="C" indivs="13150" pacs="23000" total="36150"/>
+    <sector sector_name="Defense" sectorid="D" indivs="200" pacs="5500" total="5700"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="40200" pacs="104000" total="144200"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="55500" pacs="51250" total="106750"/>
+    <sector sector_name="Health" sectorid="H" indivs="18600" pacs="98250" total="116850"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="23969" pacs="4250" total="28219"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1500" pacs="33999" total="35499"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="31475" pacs="61500" total="92975"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="44400" total="44400"/>
+    <sector sector_name="Other" sectorid="W" indivs="53250" pacs="0" total="53250"/>
+  </sectors>
+</response>

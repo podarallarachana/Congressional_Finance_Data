@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00036633" net_low="4676051" net_high="19714999" positions_held_count="0" asset_count="30" asset_low="4926051" asset_high="19815000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00036633" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="AXA Moderate Growth strategy Fund" holdings_low="1250002" holdings_high="5500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Abraham Farms" holdings_low="1000001" holdings_high="5000000" industry="Crop Production &amp; Basic Processing" sector="Agribusiness" subsidiary_of=""/>
+      <asset name="Drake's Landing" holdings_low="1000001" holdings_high="5000000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="Clinic Pharmacy of Mangham" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Rental House" holdings_low="100001" holdings_high="250000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

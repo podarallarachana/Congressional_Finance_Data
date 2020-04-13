@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Cathy McMorris Rodgers (R)" cid="N00026314" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026314&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="186500" pacs="39500" total="226000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="41550" pacs="150750" total="192300"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="146360" pacs="34000" total="180360"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="26070" pacs="123500" total="149570"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="148379" pacs="0" total="148379"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="29650" pacs="108150" total="137800"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="17100" pacs="96500" total="113600"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="61905" pacs="28000" total="89905"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="54520" pacs="34500" total="89020"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="30450" pacs="55750" total="86200"/>
+  </industries>
+</response>

@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="Alexander, Lamar" data_year="2016" member_id="N00009888" net_low="-11798868" net_high="90466985" positions_held_count="4" asset_count="80" asset_low="26001132" asset_high="98867000" transaction_count="82" tx_low="1308082" tx_high="3970000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00009888" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Custom Foods of America" holdings_low="7000008" holdings_high="32000000" industry="Food Processing &amp; Sales" sector="Agribusiness" subsidiary_of=""/>
+      <asset name="Accounts Receivable from Lamar Alexander Family Tr" holdings_low="3750006" holdings_high="16500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Custom Foods of America" holdings_low="3500004" holdings_high="16000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="3600 Management LLC" holdings_low="2000002" holdings_high="10000000" industry="Misc Business" sector="Misc Business" subsidiary_of=""/>
+      <asset name="3600 Management LLC" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Loomis Sayles Bond Fund" tx_date="Apr  1 2013" tx_action="Exchanged" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Loomis Sayles Senior Floating Rate Fund" tx_date="Apr  1 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Loomis Sayles Absolute Strategy Fund" tx_date="Apr  1 2013" tx_action="Exchanged" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Ridgeworth Seix Floating Rate High Income" tx_date="Apr  1 2013" tx_action="Exchanged" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Tullahoma TN" tx_date="Feb 26 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+    </transactions>
+    <positions>
+      <position title="Chief Manager" organization="Alexander Property Management LLC"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Brian Babin (R)" cid="N00005736" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00005736&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="103826" pacs="79500" total="183326"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="78076" total="78076"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="39450" pacs="6750" total="46200"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="43150" pacs="0" total="43150"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="13050" pacs="25500" total="38550"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="21550" pacs="11000" total="32550"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="24600" pacs="2500" total="27100"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="21800" pacs="3552" total="25352"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="18000" pacs="5000" total="23000"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="7615" pacs="15000" total="22615"/>
+  </industries>
+</response>

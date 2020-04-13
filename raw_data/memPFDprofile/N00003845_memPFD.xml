@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Coats, Dan" data_year="2016" member_id="N00003845" net_low="6593062" net_high="17512000" positions_held_count="0" asset_count="75" asset_low="6593062" asset_high="17512000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00003845" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Belvedere Capital Fund Co" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Ohio National Life Insurance" holdings_low="1050003" holdings_high="2100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Ohio National Life Insurance Co" holdings_low="1000002" holdings_high="2000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="PIMCO Investment Grade Corp Bd" holdings_low="350002" holdings_high="750000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vident Core US Bond Strategy ETF" holdings_low="350002" holdings_high="750000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Vanguard GNMA Fund" tx_date="Apr 19 2013" tx_action="Sold" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Principal Large Cap Value Fund" tx_date="Jun 13 2013" tx_action="Purchased" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Vanguard GNMA Fund" tx_date="Jun 13 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Vanguard GNMA Fund" tx_date="Nov  6 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="iShares MSCI EAFE Fund" tx_date="May 23 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+    </transactions>
+  </member_profile>
+</response>

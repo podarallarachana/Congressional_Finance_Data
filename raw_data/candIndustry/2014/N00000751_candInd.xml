@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bill Pascrell Jr (D)" cid="N00000751" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000751&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="19050" pacs="151150" total="170200"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="132585" pacs="31479" total="164064"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="8850" pacs="87500" total="96350"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="45500" pacs="32000" total="77500"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="4842" pacs="69000" total="73842"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="60000" total="60000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="55900" total="55900"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="47500" total="47500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="15400" pacs="30000" total="45400"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="18450" pacs="26000" total="44450"/>
+  </industries>
+</response>

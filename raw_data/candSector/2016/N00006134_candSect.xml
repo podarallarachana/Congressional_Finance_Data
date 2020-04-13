@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Diana DeGette (D)" cid="N00006134" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00006134&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="7950" pacs="13000" total="20950"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="20550" pacs="97800" total="118350"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5500" pacs="2000" total="7500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="11500" total="11500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1000" pacs="15000" total="16000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="80900" pacs="52500" total="133400"/>
+    <sector sector_name="Health" sectorid="H" indivs="19601" pacs="291062" total="310663"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="57912" pacs="40375" total="98287"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="250" pacs="10500" total="10750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="29950" pacs="50986" total="80936"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="112350" total="112350"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="170625" pacs="30014" total="200639"/>
+    <sector sector_name="Other" sectorid="W" indivs="73953" pacs="0" total="73953"/>
+  </sectors>
+</response>

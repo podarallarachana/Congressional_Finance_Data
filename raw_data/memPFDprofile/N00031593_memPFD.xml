@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="Denham, Jeff" data_year="2016" member_id="N00031593" net_low="6515009" net_high="28899999" positions_held_count="4" asset_count="8" asset_low="7015009" asset_high="29150000" transaction_count="5" tx_low="50005" tx_high="104000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031593" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Denham Plastics" holdings_low="5000001" holdings_high="25000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="MTJ PROPERTIES LLC" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="LONGVIEW AVE FARM" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="KANAHA PROPERTIES, LLC, 50% Interest" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="" holdings_low="200002" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Member" organization="Denham Plastics"/>
+      <position title="Member" organization="MJT LLC"/>
+    </positions>
+  </member_profile>
+</response>

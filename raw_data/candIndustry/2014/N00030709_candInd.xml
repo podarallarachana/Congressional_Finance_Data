@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mark Desaulnier (D)" cid="N00030709" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030709&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="53000" total="53000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="49600" total="49600"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="20800" pacs="11000" total="31800"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="31000" total="31000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="1750" pacs="20000" total="21750"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="21500" total="21500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="19650" pacs="0" total="19650"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="19100" total="19100"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="7450" pacs="10000" total="17450"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="16600" total="16600"/>
+  </industries>
+</response>

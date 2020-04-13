@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Gary Palmer (R)" cid="N00035691" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035691&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="118150" pacs="0" total="118150"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="67500" pacs="2000" total="69500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="41350" pacs="14000" total="55350"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="32150" pacs="19500" total="51650"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="30750" pacs="20000" total="50750"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="33400" pacs="17000" total="50400"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="45100" pacs="4000" total="49100"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="26050" pacs="23000" total="49050"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="39000" total="39000"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="32200" pacs="1998" total="34198"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tom Emmer (R)" cid="N00035440" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035440&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="151758" pacs="0" total="151758"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="39600" pacs="67850" total="107450"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="17325" pacs="84000" total="101325"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="14030" pacs="81500" total="95530"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="64733" pacs="9000" total="73733"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="18500" pacs="45000" total="63500"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="16771" pacs="36000" total="52771"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="12500" pacs="32500" total="45000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="24100" pacs="20875" total="44975"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="28950" pacs="13500" total="42450"/>
+  </industries>
+</response>

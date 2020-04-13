@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Smith, Lamar" data_year="2016" member_id="N00001811" net_low="3013073" net_high="7045000" positions_held_count="0" asset_count="72" asset_low="3013073" asset_high="7045000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00001811" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="1211 Summit Rd/McLean, VA" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="340 Rio Drive/New Braunfels, TX" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Banco Santander" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Frost Bank" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="1/2 Life Use Interest in Lamar Seeligson Ranch" holdings_low="250001" holdings_high="500000" industry="Livestock" sector="Agribusiness" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Sale of Easement: TX.Net.JW.308" tx_date="Aug 27 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Invesco Equally Weighted S&amp;P 500 Fund" tx_date="Feb 13 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Columbia Acorn International Fund" tx_date="Feb 28 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Dodge &amp; Cox Stock Fund" tx_date="Feb 27 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Dodge &amp; Cox Stock Fund" tx_date="Jun 19 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

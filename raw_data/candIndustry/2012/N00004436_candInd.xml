@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Kline (R)" cid="N00004436" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004436&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W04" industry_name="Education" indivs="206059" pacs="70500" total="276559"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="32050" pacs="95500" total="127550"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="29250" pacs="82000" total="111250"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="33800" pacs="37812" total="71612"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="67150" pacs="0" total="67150"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="49800" pacs="15500" total="65300"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="14800" pacs="49500" total="64300"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="51050" pacs="6900" total="57950"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="13000" pacs="44500" total="57500"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="6650" pacs="49500" total="56150"/>
+  </industries>
+</response>

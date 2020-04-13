@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Carolyn McCarthy (D)" cid="N00001148" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001148&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="27000" pacs="123500" total="150500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="3750" pacs="109750" total="113500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="7800" pacs="86400" total="94200"/>
+    <industry industry_code="W04" industry_name="Education" indivs="58300" pacs="23500" total="81800"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="38450" pacs="31900" total="70350"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="65443" pacs="0" total="65443"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="60400" pacs="2500" total="62900"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="37450" pacs="22900" total="60350"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="50000" total="50000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="48000" total="48000"/>
+  </industries>
+</response>

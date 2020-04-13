@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tom Petri (R)" cid="N00004426" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004426&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="M01" industry_name="Air Transport" indivs="0" pacs="34500" total="34500"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="2000" pacs="20500" total="22500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="21500" total="21500"/>
+    <industry industry_code="M03" industry_name="Trucking" indivs="1500" pacs="18000" total="19500"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="0" pacs="19000" total="19000"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="18000" total="18000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="15875" pacs="1000" total="16875"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="2627" pacs="11000" total="13627"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="11500" total="11500"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="1000" pacs="10000" total="11000"/>
+  </industries>
+</response>

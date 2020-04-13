@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mike Honda (D)" cid="N00012611" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00012611&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="27601" pacs="14700" total="42301"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="100698" pacs="46840" total="147538"/>
+    <sector sector_name="Construction" sectorid="C" indivs="20010" pacs="1000" total="21010"/>
+    <sector sector_name="Defense" sectorid="D" indivs="350" pacs="21000" total="21350"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="23410" pacs="9000" total="32410"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="220874" pacs="19000" total="239874"/>
+    <sector sector_name="Health" sectorid="H" indivs="71716" pacs="52000" total="123716"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="152735" pacs="15250" total="167985"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="10777" pacs="10500" total="21277"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="161663" pacs="21000" total="182663"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1185" pacs="254517" total="255702"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="227312" pacs="270756" total="498068"/>
+    <sector sector_name="Other" sectorid="W" indivs="339235" pacs="2000" total="341235"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Judy Chu (D)" cid="N00030600" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030600&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="48033" pacs="18500" total="66533"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="49500" total="49500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="500" pacs="47000" total="47500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="30551" pacs="11100" total="41651"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="31600" pacs="8000" total="39600"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="20550" pacs="18000" total="38550"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="38500" total="38500"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="35500" total="35500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="34136" pacs="0" total="34136"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="24616" pacs="7500" total="32116"/>
+  </industries>
+</response>

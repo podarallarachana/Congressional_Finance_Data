@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Richard W Allen (R)" cid="N00033720" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033720&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="97700" pacs="0" total="97700"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="46450" pacs="21000" total="67450"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="18022" pacs="45000" total="63022"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="47425" pacs="11500" total="58925"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="17650" pacs="28000" total="45650"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1429" pacs="38900" total="40329"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="21000" pacs="17500" total="38500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="5350" pacs="24500" total="29850"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="6850" pacs="22500" total="29350"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="4250" pacs="21500" total="25750"/>
+  </industries>
+</response>

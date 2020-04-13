@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Martin Heinrich (D)" cid="N00029835" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029835&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="680727" pacs="91975" total="772702"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="585142" pacs="0" total="585142"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="404052" pacs="3724" total="407776"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="243668" pacs="31166" total="274834"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="243500" total="243500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="128262" pacs="105500" total="233762"/>
+    <industry industry_code="W04" industry_name="Education" indivs="172041" pacs="6500" total="178541"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="162050" pacs="13500" total="175550"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="134053" pacs="31435" total="165488"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="134380" pacs="23993" total="158373"/>
+  </industries>
+</response>

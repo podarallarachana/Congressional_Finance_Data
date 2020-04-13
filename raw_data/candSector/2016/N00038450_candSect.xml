@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Dwight Evans (D)" cid="N00038450" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00038450&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="26825" pacs="2250" total="29075"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="26525" pacs="14750" total="41275"/>
+    <sector sector_name="Construction" sectorid="C" indivs="42455" pacs="6500" total="48955"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1250" pacs="5000" total="6250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="15050" pacs="4500" total="19550"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="137766" pacs="50000" total="187766"/>
+    <sector sector_name="Health" sectorid="H" indivs="31900" pacs="16500" total="48400"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="174998" pacs="23324" total="198322"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1500" pacs="23500" total="25000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="63934" pacs="5000" total="68934"/>
+    <sector sector_name="Labor" sectorid="P" indivs="2425" pacs="146500" total="148925"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="37088" pacs="40990" total="78078"/>
+    <sector sector_name="Other" sectorid="W" indivs="88547" pacs="0" total="88547"/>
+  </sectors>
+</response>

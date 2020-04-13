@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jason Chaffetz (R)" cid="N00028958" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00028958&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="9000" total="9000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="20750" pacs="81093" total="101843"/>
+    <sector sector_name="Construction" sectorid="C" indivs="7559" pacs="9500" total="17059"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="27000" total="27000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="15500" pacs="43500" total="59000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="63100" pacs="88800" total="151900"/>
+    <sector sector_name="Health" sectorid="H" indivs="30650" pacs="44845" total="75495"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="39558" pacs="7410" total="46968"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="873" pacs="31000" total="31873"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="82880" pacs="46000" total="128880"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="4000" total="4000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="12200" pacs="22662" total="34862"/>
+    <sector sector_name="Other" sectorid="W" indivs="16425" pacs="0" total="16425"/>
+  </sectors>
+</response>

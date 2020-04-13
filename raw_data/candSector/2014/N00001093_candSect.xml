@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Charles E Schumer (D)" cid="N00001093" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001093&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="265250" pacs="104485" total="369735"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="946595" pacs="410534" total="1357129"/>
+    <sector sector_name="Construction" sectorid="C" indivs="397978" pacs="99200" total="497178"/>
+    <sector sector_name="Defense" sectorid="D" indivs="76550" pacs="110500" total="187050"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="98050" pacs="124200" total="222250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="6975894" pacs="929700" total="7905594"/>
+    <sector sector_name="Health" sectorid="H" indivs="863500" pacs="842250" total="1705750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="3065376" pacs="333084" total="3398460"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="126750" pacs="137500" total="264250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="1661603" pacs="427210" total="2088813"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1250" pacs="353500" total="354750"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="469152" pacs="165589" total="634741"/>
+    <sector sector_name="Other" sectorid="W" indivs="994793" pacs="10800" total="1005593"/>
+  </sectors>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Pete Gallego (D)" cid="N00033541" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033541&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="30901" pacs="1000" total="31901"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="55611" pacs="0" total="55611"/>
+    <sector sector_name="Construction" sectorid="C" indivs="36803" pacs="0" total="36803"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2950" pacs="1000" total="3950"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="19119" pacs="0" total="19119"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="139887" pacs="3000" total="142887"/>
+    <sector sector_name="Health" sectorid="H" indivs="63297" pacs="17000" total="80297"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="317039" pacs="11000" total="328039"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="3525" pacs="0" total="3525"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="118812" pacs="0" total="118812"/>
+    <sector sector_name="Labor" sectorid="P" indivs="750" pacs="169500" total="170250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="157770" pacs="358605" total="516375"/>
+    <sector sector_name="Other" sectorid="W" indivs="150743" pacs="0" total="150743"/>
+  </sectors>
+</response>

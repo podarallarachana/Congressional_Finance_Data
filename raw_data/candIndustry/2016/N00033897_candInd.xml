@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John K Delaney (D)" cid="N00033897" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033897&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="96250" pacs="96000" total="192250"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="117375" pacs="53000" total="170375"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="107725" pacs="20500" total="128225"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="42400" pacs="54500" total="96900"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="7750" pacs="74000" total="81750"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="50450" pacs="5000" total="55450"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="47700" pacs="0" total="47700"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="46575" pacs="0" total="46575"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="5900" pacs="35500" total="41400"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="16100" pacs="18500" total="34600"/>
+  </industries>
+</response>

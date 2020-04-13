@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Norma Torres (D)" cid="N00036107" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00036107&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="43000" total="43000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="9900" pacs="30500" total="40400"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="33600" total="33600"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="33500" total="33500"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="23550" pacs="0" total="23550"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="20500" total="20500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="7100" pacs="10000" total="17100"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="3200" pacs="11000" total="14200"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="500" pacs="13000" total="13500"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="13000" total="13000"/>
+  </industries>
+</response>

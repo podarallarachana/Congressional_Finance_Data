@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Glenn S Grothman (R)" cid="N00036409" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00036409&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="36400" pacs="14500" total="50900"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2550" pacs="9750" total="12300"/>
+    <sector sector_name="Construction" sectorid="C" indivs="33658" pacs="16500" total="50158"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="7000" total="7000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="13485" pacs="28500" total="41985"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="74519" pacs="48000" total="122519"/>
+    <sector sector_name="Health" sectorid="H" indivs="19950" pacs="9700" total="29650"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="34530" pacs="3000" total="37530"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="7950" pacs="51500" total="59450"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="64800" pacs="48198" total="112998"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="13432" pacs="40400" total="53832"/>
+    <sector sector_name="Other" sectorid="W" indivs="147147" pacs="2000" total="149147"/>
+  </sectors>
+</response>

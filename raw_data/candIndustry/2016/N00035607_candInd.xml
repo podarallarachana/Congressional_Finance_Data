@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Dave Trott (R)" cid="N00035607" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035607&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="108515" pacs="23700" total="132215"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="109135" pacs="23000" total="132135"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="12050" pacs="37000" total="49050"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="47500" total="47500"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="22799" pacs="20443" total="43242"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="37105" pacs="2500" total="39605"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="38545" pacs="0" total="38545"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="35650" pacs="0" total="35650"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="14200" pacs="17500" total="31700"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="9850" pacs="21000" total="30850"/>
+  </industries>
+</response>

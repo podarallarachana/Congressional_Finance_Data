@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Trey Gowdy (R)" cid="N00030880" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030880&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="172320" pacs="0" total="172320"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="74361" pacs="18622" total="92983"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="39345" pacs="4000" total="43345"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="21785" pacs="15900" total="37685"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="4600" pacs="32000" total="36600"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="26141" pacs="8000" total="34141"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="6450" pacs="22000" total="28450"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="10900" pacs="15500" total="26400"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="13550" pacs="10000" total="23550"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="6600" pacs="16200" total="22800"/>
+  </industries>
+</response>

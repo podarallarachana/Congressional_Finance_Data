@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Maggie Hassan (D)" cid="N00038397" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00038397&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="112244" pacs="2000" total="114244"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="743603" pacs="0" total="743603"/>
+    <sector sector_name="Construction" sectorid="C" indivs="144114" pacs="11000" total="155114"/>
+    <sector sector_name="Defense" sectorid="D" indivs="19651" pacs="0" total="19651"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="115615" pacs="9500" total="125115"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1193003" pacs="7500" total="1200503"/>
+    <sector sector_name="Health" sectorid="H" indivs="434851" pacs="6666" total="441517"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1582880" pacs="22833" total="1605713"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="41418" pacs="0" total="41418"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="665081" pacs="6000" total="671081"/>
+    <sector sector_name="Labor" sectorid="P" indivs="7489" pacs="285500" total="292989"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="4069012" pacs="571436" total="4640448"/>
+    <sector sector_name="Other" sectorid="W" indivs="2750333" pacs="2500" total="2752833"/>
+  </sectors>
+</response>

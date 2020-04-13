@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Gwen Moore (D)" cid="N00026914" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026914&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="21000" pacs="104500" total="125500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="500" pacs="115750" total="116250"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="750" pacs="51000" total="51750"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="46800" pacs="1000" total="47800"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="45000" total="45000"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="3000" pacs="40500" total="43500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="6600" pacs="33500" total="40100"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="500" pacs="38500" total="39000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="37250" total="37250"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="36500" total="36500"/>
+  </industries>
+</response>

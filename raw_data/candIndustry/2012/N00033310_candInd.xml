@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Brad Wenstrup (R)" cid="N00033310" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033310&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="82498" pacs="43000" total="125498"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="35500" pacs="8300" total="43800"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="39650" pacs="0" total="39650"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="27850" pacs="11000" total="38850"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="38749" total="38749"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="26255" pacs="9000" total="35255"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="29650" pacs="4000" total="33650"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="12800" pacs="15000" total="27800"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="0" pacs="19000" total="19000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="15750" pacs="3000" total="18750"/>
+  </industries>
+</response>

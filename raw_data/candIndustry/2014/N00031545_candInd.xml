@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bill Flores (R)" cid="N00031545" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031545&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="73539" pacs="117000" total="190539"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="15800" pacs="89100" total="104900"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="75750" pacs="0" total="75750"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="250" pacs="46000" total="46250"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="10800" pacs="32499" total="43299"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="15840" pacs="23500" total="39340"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="27600" pacs="9500" total="37100"/>
+    <industry industry_code="E07" industry_name="Misc Energy" indivs="31850" pacs="0" total="31850"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="500" pacs="30500" total="31000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="12300" pacs="18000" total="30300"/>
+  </industries>
+</response>

@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Albio Sires (D)" cid="N00027523" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027523&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="3000" pacs="15500" total="18500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="4500" pacs="28500" total="33000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5000" pacs="13000" total="18000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1000" pacs="12500" total="13500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="34800" pacs="44500" total="79300"/>
+    <sector sector_name="Health" sectorid="H" indivs="9800" pacs="18000" total="27800"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="44800" pacs="9500" total="54300"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2462" pacs="48500" total="50962"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="9251" pacs="15500" total="24751"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="154600" total="154600"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="8400" pacs="1750" total="10150"/>
+    <sector sector_name="Other" sectorid="W" indivs="37800" pacs="0" total="37800"/>
+  </sectors>
+</response>

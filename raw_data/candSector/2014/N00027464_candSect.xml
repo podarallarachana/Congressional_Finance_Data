@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Bruce Braley (D)" cid="N00027464" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027464&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="18100" pacs="53100" total="71200"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="119080" pacs="77504" total="196584"/>
+    <sector sector_name="Construction" sectorid="C" indivs="24900" pacs="26800" total="51700"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="25000" total="25500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="10575" pacs="54150" total="64725"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="222150" pacs="74600" total="296750"/>
+    <sector sector_name="Health" sectorid="H" indivs="169200" pacs="247560" total="416760"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1685465" pacs="47000" total="1732465"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1800" pacs="34000" total="35800"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="100249" pacs="51413" total="151662"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1850" pacs="350500" total="352350"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="347034" pacs="716987" total="1064021"/>
+    <sector sector_name="Other" sectorid="W" indivs="372744" pacs="10000" total="382744"/>
+  </sectors>
+</response>

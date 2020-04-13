@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Ben R Lujan (D)" cid="N00029562" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029562&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="7650" pacs="25000" total="32650"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="21975" pacs="200785" total="222760"/>
+    <sector sector_name="Construction" sectorid="C" indivs="3525" pacs="21500" total="25025"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="41000" total="41000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="13500" pacs="131000" total="144500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="44150" pacs="195500" total="239650"/>
+    <sector sector_name="Health" sectorid="H" indivs="8309" pacs="286600" total="294909"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="91405" pacs="26753" total="118158"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="5986" pacs="70250" total="76236"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="163153" pacs="103500" total="266653"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="222000" total="222000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="88394" pacs="56100" total="144494"/>
+    <sector sector_name="Other" sectorid="W" indivs="88110" pacs="0" total="88110"/>
+  </sectors>
+</response>

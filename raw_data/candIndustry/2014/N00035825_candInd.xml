@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ted Lieu (D)" cid="N00035825" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035825&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="154850" pacs="11000" total="165850"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="128222" pacs="0" total="128222"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="58338" pacs="64500" total="122838"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="110400" pacs="10000" total="120400"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="58000" total="58000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="1000" pacs="43500" total="44500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="43396" pacs="0" total="43396"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="28400" pacs="14500" total="42900"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="14550" pacs="23000" total="37550"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="24500" pacs="13000" total="37500"/>
+  </industries>
+</response>

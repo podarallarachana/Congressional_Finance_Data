@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Brian Mast (R)" cid="N00037269" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00037269&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="463912" pacs="0" total="463912"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="170159" pacs="46800" total="216959"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="195700" total="195700"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="95807" pacs="4500" total="100307"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="67678" pacs="22500" total="90178"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="49950" pacs="5000" total="54950"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="1000" pacs="50550" total="51550"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="35950" pacs="15500" total="51450"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="29701" pacs="18000" total="47701"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="28850" pacs="10000" total="38850"/>
+  </industries>
+</response>

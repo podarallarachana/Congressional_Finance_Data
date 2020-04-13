@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Cory Booker (D)" cid="N00035267" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035267&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="174100" pacs="15500" total="189600"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1418880" pacs="165700" total="1584580"/>
+    <sector sector_name="Construction" sectorid="C" indivs="269900" pacs="28600" total="298500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1300" pacs="19500" total="20800"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="136050" pacs="109848" total="245898"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="4164834" pacs="288000" total="4452834"/>
+    <sector sector_name="Health" sectorid="H" indivs="574971" pacs="254900" total="829871"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="2436319" pacs="160691" total="2597010"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="157100" pacs="136227" total="293327"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="1440338" pacs="151100" total="1591438"/>
+    <sector sector_name="Labor" sectorid="P" indivs="5750" pacs="257600" total="263350"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="754584" pacs="279932" total="1034516"/>
+    <sector sector_name="Other" sectorid="W" indivs="1040461" pacs="6000" total="1046461"/>
+  </sectors>
+</response>

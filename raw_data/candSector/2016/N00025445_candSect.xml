@@ -1,0 +1,15 @@
+<response>
+  <sectors cand_name="David Kustoff (R)" cid="N00025445" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00025445&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="15400" pacs="16000" total="31400"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="4450" pacs="10500" total="14950"/>
+    <sector sector_name="Construction" sectorid="C" indivs="88500" pacs="5000" total="93500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="15800" pacs="3500" total="19300"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="141625" pacs="38700" total="180325"/>
+    <sector sector_name="Health" sectorid="H" indivs="37850" pacs="12200" total="50050"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="103550" pacs="0" total="103550"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="27100" pacs="14500" total="41600"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="57150" pacs="17645" total="74795"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="7200" pacs="54000" total="61200"/>
+    <sector sector_name="Other" sectorid="W" indivs="121425" pacs="1000" total="122425"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Sam Farr (D)" cid="N00007312" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007312&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="4500" pacs="26200" total="30700"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="2000" pacs="14500" total="16500"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="0" pacs="12500" total="12500"/>
+    <industry industry_code="N08" industry_name="Lodging/Tourism" indivs="0" pacs="11000" total="11000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="10851" pacs="0" total="10851"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="2200" pacs="4000" total="6200"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="5580" pacs="500" total="6080"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="0" pacs="5500" total="5500"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="1000" pacs="4500" total="5500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="4500" pacs="0" total="4500"/>
+  </industries>
+</response>

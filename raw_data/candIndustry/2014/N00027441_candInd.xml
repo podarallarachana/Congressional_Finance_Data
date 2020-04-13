@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bob Corker (R)" cid="N00027441" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027441&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="898114" pacs="212070" total="1110184"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="544050" pacs="115600" total="659650"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="198383" pacs="297300" total="495683"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="484394" pacs="0" total="484394"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="375213" pacs="107500" total="482713"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="365329" pacs="90000" total="455329"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="389545" pacs="38500" total="428045"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="254690" pacs="161300" total="415990"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="269950" pacs="8265" total="278215"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="115627" pacs="139000" total="254627"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tom O'Halleran (D)" cid="N00037515" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00037515&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="197975" pacs="0" total="197975"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="133400" total="133400"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="95620" pacs="21000" total="116620"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="92851" pacs="2250" total="95101"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="70255" pacs="2500" total="72755"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="70000" total="70000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="55000" total="55000"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="46500" total="46500"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="45500" total="45500"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="41500" total="41500"/>
+  </industries>
+</response>

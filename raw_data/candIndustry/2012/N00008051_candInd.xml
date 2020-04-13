@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mark Udall (D)" cid="N00008051" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00008051&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1243625" pacs="137638" total="1381263"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="900089" pacs="0" total="900089"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="692677" pacs="40500" total="733177"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="470301" pacs="36500" total="506801"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="403941" pacs="11240" total="415181"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="162623" pacs="208000" total="370623"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="360300" total="360300"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="314015" pacs="5500" total="319515"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="275906" pacs="29750" total="305656"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="280865" pacs="20390" total="301255"/>
+  </industries>
+</response>

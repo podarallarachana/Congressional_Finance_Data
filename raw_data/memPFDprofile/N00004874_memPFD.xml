@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="Gutierrez, Luis V" data_year="2016" member_id="N00004874" net_low="662022" net_high="1556000" positions_held_count="1" asset_count="22" asset_low="662022" asset_high="1556000" transaction_count="202" tx_low="2569202" tx_high="6675000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00004874" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Schwab US Broad market (SCHB)" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Franklin Rising Dividends Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="MS Real Estate" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="FTA Div &amp; Inc Allocation" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Invesco VI Eqty &amp; Inc" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Schw US LCAP ETF" tx_date="Jul 11 2013" tx_action="Sold" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Schw US LCAP ETF" tx_date="Oct 11 2013" tx_action="Purchased" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Schw US LCAP ETF" tx_date="Oct 17 2013" tx_action="Sold" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Schw US LCAP ETF" tx_date="Jul 23 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Schw US LCAP ETF" tx_date="Sep 16 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+    </transactions>
+    <positions>
+      <position title="Member of Advisory Council" organization="Congressional Hispanic Caucus Institute"/>
+    </positions>
+  </member_profile>
+</response>

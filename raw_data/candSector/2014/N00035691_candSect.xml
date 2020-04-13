@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Gary Palmer (R)" cid="N00035691" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035691&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="51004" pacs="11000" total="62004"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="9600" pacs="3000" total="12600"/>
+    <sector sector_name="Construction" sectorid="C" indivs="171900" pacs="19600" total="191500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="15200" pacs="12000" total="27200"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="12300" pacs="36000" total="48300"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="289508" pacs="53500" total="343008"/>
+    <sector sector_name="Health" sectorid="H" indivs="108000" pacs="7000" total="115000"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="49800" pacs="12500" total="62300"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="52500" pacs="7000" total="59500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="77100" pacs="4500" total="81600"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="103754" pacs="89500" total="193254"/>
+    <sector sector_name="Other" sectorid="W" indivs="251002" pacs="0" total="251002"/>
+  </sectors>
+</response>

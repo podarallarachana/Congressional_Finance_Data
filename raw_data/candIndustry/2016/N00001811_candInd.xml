@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Lamar Smith (R)" cid="N00001811" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001811&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="45200" pacs="55500" total="100700"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="90585" pacs="0" total="90585"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="36735" pacs="31500" total="68235"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="51450" pacs="16500" total="67950"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="5800" pacs="55471" total="61271"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="11250" pacs="46000" total="57250"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="53000" total="53000"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="1500" pacs="41500" total="43000"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="2000" pacs="38000" total="40000"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="13750" pacs="25500" total="39250"/>
+  </industries>
+</response>

@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Cochran, Thad" data_year="2016" member_id="N00003328" net_low="-3000000" net_high="-1500004" positions_held_count="1" asset_count="0" asset_low="0" asset_high="0" transaction_count="8" tx_low="234008" tx_high="660000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00003328" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Transocean Ltd" tx_date="Nov 15 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Gatx Corp" tx_date="Nov 26 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Nuveen Credit Strategies Income Fund" tx_date="Jan 28 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Eaton Vance Worldwide Health Sci C Fund" tx_date="Feb  5 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Pimco All Asset All Authority Fund" tx_date="Feb  5 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+    </transactions>
+    <positions>
+      <position title="(Executive Board Member)" organization="Andrew Jackson Council BSA"/>
+      <position title="(Ex Officio Member of Board of Trustees)" organization="John F Kennedy Center for the Performance Arats"/>
+      <position title="" organization="Member Board of Directors"/>
+      <position title="(Board Member)" organization="National Museum of American History"/>
+      <position title="(Committee Member)" organization="Profiles in Courage Awards Cmte"/>
+    </positions>
+  </member_profile>
+</response>

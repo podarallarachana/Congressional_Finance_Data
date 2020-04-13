@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Thom Tillis (R)" cid="N00035492" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035492&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="215650" pacs="127600" total="343250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="187400" pacs="47500" total="234900"/>
+    <sector sector_name="Construction" sectorid="C" indivs="267499" pacs="68200" total="335699"/>
+    <sector sector_name="Defense" sectorid="D" indivs="13950" pacs="11500" total="25450"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="276700" pacs="223100" total="499800"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1564698" pacs="173075" total="1737773"/>
+    <sector sector_name="Health" sectorid="H" indivs="373778" pacs="142500" total="516278"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="442209" pacs="38672" total="480881"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="230703" pacs="67046" total="297749"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="950949" pacs="228099" total="1179048"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="277934" pacs="431869" total="709803"/>
+    <sector sector_name="Other" sectorid="W" indivs="1452665" pacs="17000" total="1469665"/>
+  </sectors>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <member_profile name="Schakowsky, Jan" data_year="2016" member_id="N00004724" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00004724" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Walgreens Co" tx_date="Sep 19 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Starbucks Corp" tx_date="Sep 19 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Walt Disney Co" tx_date="Sep 19 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="AIM Invesco" tx_date="Sep 19 2013" tx_action="Sold" value_low="46" value_high="46"/>
+    </transactions>
+    <positions>
+      <position title="Advisory Board" organization="Between Friends"/>
+      <position title="Policy Council Member" organization="Citizen Action Illinois"/>
+      <position title="Advisory Board" organization="Fed Fund"/>
+      <position title="Honorary Board" organization="Friends of Tsad Kadima"/>
+      <position title="Advisory Board" organization="Illinois Women's Institute for Leadership"/>
+    </positions>
+  </member_profile>
+</response>

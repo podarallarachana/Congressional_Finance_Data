@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Joe Heck (R)" cid="N00031244" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031244&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="150445" pacs="179099" total="329544"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="183944" total="183944"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="115918" pacs="49772" total="165690"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="109435" pacs="0" total="109435"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="55359" pacs="31890" total="87249"/>
+    <industry industry_code="Q10" industry_name="Misc Issues" indivs="62750" pacs="1000" total="63750"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="500" pacs="54998" total="55498"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="6067" pacs="44500" total="50567"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="29210" pacs="21000" total="50210"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="34200" pacs="15500" total="49700"/>
+  </industries>
+</response>

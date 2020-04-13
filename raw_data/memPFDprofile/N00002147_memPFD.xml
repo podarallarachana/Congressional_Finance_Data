@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Scott, Bobby" data_year="2016" member_id="N00002147" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00002147" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Harbor Capital Appreciation Fund" tx_date="Jul  2 2012" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Harbor Capital Appreciation Fund" tx_date="various" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Fidelity Convertible Securities Fund" tx_date="various" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Fidelity Convertible Securities Fund" tx_date="various" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Apple Inc" tx_date="Apr 23 2012" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Board Member" organization="Hampton Roads March of Dimes"/>
+    </positions>
+  </member_profile>
+</response>

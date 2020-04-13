@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Jenkins, Lynn" data_year="2016" member_id="N00029077" net_low="792015" net_high="1929999" positions_held_count="0" asset_count="15" asset_low="892015" asset_high="1980000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00029077" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Thrift Savings Plan" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="KPERS 457 Deferred Compensation Plan" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Wellington Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="DFA Us Targeted Value Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Contrafund Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Vanguard Wellington Fund" tx_date="Aug  8 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+    </transactions>
+  </member_profile>
+</response>

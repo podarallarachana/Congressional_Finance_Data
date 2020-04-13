@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033217" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033217" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Lincoln Fidelity Tax Exempt Fund Daily Money Class" tx_date="Aug 30 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="iShares Trust High Div ETF" tx_date="Dec  9 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="iShares Tips Bond ETF" tx_date="Jan  2 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Vanguard Small Cap Vipers Fund" tx_date="Jan  2 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Vanguard Index Small Cap Vipers" tx_date="Jan  2 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Debbie Dingell (D)" cid="N00036149" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00036149&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="7000" pacs="24000" total="31000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="22250" pacs="23000" total="45250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="12454" pacs="1000" total="13454"/>
+    <sector sector_name="Defense" sectorid="D" indivs="4000" pacs="21000" total="25000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="10200" pacs="63200" total="73400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="58749" pacs="58000" total="116749"/>
+    <sector sector_name="Health" sectorid="H" indivs="17000" pacs="48000" total="65000"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="74375" pacs="39600" total="113975"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="20800" pacs="50000" total="70800"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="69214" pacs="42700" total="111914"/>
+    <sector sector_name="Labor" sectorid="P" indivs="100" pacs="170000" total="170100"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="9777" pacs="37477" total="47254"/>
+    <sector sector_name="Other" sectorid="W" indivs="99950" pacs="0" total="99950"/>
+  </sectors>
+</response>

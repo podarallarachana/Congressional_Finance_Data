@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Manchin, Joe" data_year="2016" member_id="N00032838" net_low="3546072" net_high="8216000" positions_held_count="0" asset_count="48" asset_low="3546072" asset_high="8216000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00032838" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="803006" holdings_high="1645000" industry="" sector="" subsidiary_of=""/>
+      <asset name="MVB Bank" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Joseph Manchin III Qualified Blind Trust" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Farmington Resources Inc" holdings_low="200002" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="MVB Financial Corp" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="DFA Intermediate-Term Municipal Bond Fund" tx_date="Nov  4 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Sallie Mae Bank CD" tx_date="Nov 13 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="DFA Two-Year Global Fixed-Income Fund" tx_date="Nov  4 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="iShares Tips Bond ETF" tx_date="Nov  4 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="DFA US Large Cap Value Fund" tx_date="Nov  4 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+    </transactions>
+  </member_profile>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Rob Bishop (R)" cid="N00025292" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00025292&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="4099" pacs="22500" total="26599"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="500" pacs="6500" total="7000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="2000" pacs="13000" total="15000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="91000" total="91000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="19399" pacs="131100" total="150499"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="13350" pacs="22500" total="35850"/>
+    <sector sector_name="Health" sectorid="H" indivs="1000" pacs="17500" total="18500"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="32298" pacs="11250" total="43548"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1000" pacs="20500" total="21500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="44600" pacs="12500" total="57100"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="10000" total="10000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2750" pacs="27600" total="30350"/>
+    <sector sector_name="Other" sectorid="W" indivs="1000" pacs="0" total="1000"/>
+  </sectors>
+</response>

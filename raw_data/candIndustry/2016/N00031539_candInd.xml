@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Diane Black (R)" cid="N00031539" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031539&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="25550" pacs="114750" total="140300"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="29760" pacs="97500" total="127260"/>
+    <industry industry_code="Q10" industry_name="Misc Issues" indivs="107250" pacs="380" total="107630"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="0" pacs="99839" total="99839"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="86826" total="86826"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="79450" pacs="0" total="79450"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="5400" pacs="58500" total="63900"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="19800" pacs="38500" total="58300"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="10150" pacs="47500" total="57650"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="2100" pacs="48200" total="50300"/>
+  </industries>
+</response>

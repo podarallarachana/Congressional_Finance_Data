@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Will Hurd (R)" cid="N00031417" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031417&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="152100" total="152100"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="88373" pacs="20500" total="108873"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="69600" pacs="0" total="69600"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="66300" pacs="0" total="66300"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="54768" pacs="0" total="54768"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="47300" pacs="0" total="47300"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="34999" total="34999"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="27450" pacs="7500" total="34950"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="32400" pacs="1000" total="33400"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="19400" pacs="10350" total="29750"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ann L Wagner (R)" cid="N00033106" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033106&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="M02" industry_name="Automotive" indivs="238150" pacs="20000" total="258150"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="173425" pacs="0" total="173425"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="115600" pacs="14500" total="130100"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="122700" pacs="7000" total="129700"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="89750" pacs="25500" total="115250"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="41150" pacs="69500" total="110650"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="67000" pacs="24500" total="91500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="74000" pacs="11000" total="85000"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="78100" pacs="2000" total="80100"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="76500" total="76500"/>
+  </industries>
+</response>

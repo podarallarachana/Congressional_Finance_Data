@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Phil Gingrey (R)" cid="N00024760" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00024760&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="6750" pacs="16000" total="22750"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="13000" pacs="105350" total="118350"/>
+    <sector sector_name="Construction" sectorid="C" indivs="40750" pacs="24000" total="64750"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5500" pacs="23500" total="29000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="9750" pacs="70500" total="80250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="104000" pacs="91000" total="195000"/>
+    <sector sector_name="Health" sectorid="H" indivs="176350" pacs="350150" total="526500"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="58450" pacs="22250" total="80700"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="25800" pacs="29000" total="54800"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="46100" pacs="96250" total="142350"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="5250" pacs="17600" total="22850"/>
+    <sector sector_name="Other" sectorid="W" indivs="64600" pacs="1000" total="65600"/>
+  </sectors>
+</response>

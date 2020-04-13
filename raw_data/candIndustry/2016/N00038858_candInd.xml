@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Pramila Jayapal (D)" cid="N00038858" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00038858&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="133841" pacs="3976" total="137817"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="118326" pacs="11000" total="129326"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="115351" pacs="0" total="115351"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="46947" pacs="28200" total="75147"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="64142" pacs="5000" total="69142"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="2000" pacs="59000" total="61000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="4725" pacs="50500" total="55225"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="52600" pacs="0" total="52600"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="51200" total="51200"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="6973" pacs="42000" total="48973"/>
+  </industries>
+</response>

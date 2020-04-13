@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Doris O Matsui (D)" cid="N00027459" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027459&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="9612" pacs="30945" total="40557"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="0" pacs="181510" total="181510"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1000" pacs="9000" total="10000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="19500" total="19500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="19400" pacs="42000" total="61400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="46610" pacs="69000" total="115610"/>
+    <sector sector_name="Health" sectorid="H" indivs="21600" pacs="240300" total="261900"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="62650" pacs="50400" total="113050"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1000" pacs="19000" total="20000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="10950" pacs="57297" total="68247"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="99500" total="99500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="4200" pacs="10771" total="14971"/>
+    <sector sector_name="Other" sectorid="W" indivs="54465" pacs="0" total="54465"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mark R Meadows (R)" cid="N00033631" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033631&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="178450" pacs="0" total="178450"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="99500" total="99500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="31000" pacs="12000" total="43000"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="27500" total="27500"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="2150" pacs="24500" total="26650"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="13650" pacs="10500" total="24150"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="7000" pacs="14000" total="21000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="20000" pacs="0" total="20000"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="10200" pacs="3500" total="13700"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="10800" pacs="1000" total="11800"/>
+  </industries>
+</response>

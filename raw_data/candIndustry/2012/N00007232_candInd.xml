@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Lois Capps (D)" cid="N00007232" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007232&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="303750" pacs="0" total="303750"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="65175" pacs="214500" total="279675"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="147017" pacs="29130" total="176147"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="2750" pacs="125973" total="128723"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="87945" pacs="34500" total="122445"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="58105" pacs="22026" total="80131"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="80000" total="80000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="74500" total="74500"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="56893" pacs="10450" total="67343"/>
+    <industry industry_code="W04" industry_name="Education" indivs="63700" pacs="0" total="63700"/>
+  </industries>
+</response>

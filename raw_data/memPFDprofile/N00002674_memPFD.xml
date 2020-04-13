@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Bishop, Sanford" data_year="2016" member_id="N00002674" net_low="-362994" net_high="105996" positions_held_count="0" asset_count="6" asset_low="152006" asset_high="331000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00002674" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="New York Life Insurance &amp; Annuity Corp Whole Li" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="House &amp; Lot, Illges Road" holdings_low="50001" holdings_high="100000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Prudential Investment Portfolio Muni High Income" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="SunTrust Bank Account" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Lot 24A/Lakemont Heights" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

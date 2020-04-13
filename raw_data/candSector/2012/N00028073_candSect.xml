@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John A Yarmuth (D)" cid="N00028073" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00028073&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="12000" pacs="6000" total="18000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="7750" pacs="12000" total="19750"/>
+    <sector sector_name="Construction" sectorid="C" indivs="8750" pacs="2500" total="11250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="250" pacs="1000" total="1250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1800" pacs="7000" total="8800"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="23250" pacs="57500" total="80750"/>
+    <sector sector_name="Health" sectorid="H" indivs="40250" pacs="37000" total="77250"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="57700" pacs="8250" total="65950"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="4750" pacs="39999" total="44749"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="38050" pacs="65177" total="103227"/>
+    <sector sector_name="Labor" sectorid="P" indivs="500" pacs="222500" total="223000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="7500" pacs="18250" total="25750"/>
+    <sector sector_name="Other" sectorid="W" indivs="133220" pacs="3000" total="136220"/>
+  </sectors>
+</response>

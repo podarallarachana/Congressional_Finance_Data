@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="F James Sensenbrenner Jr (R)" cid="N00004291" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004291&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="0" pacs="28500" total="28500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="27998" pacs="0" total="27998"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="9051" pacs="17000" total="26051"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="0" pacs="23500" total="23500"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="3250" pacs="15000" total="18250"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="5744" pacs="12000" total="17744"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="4000" pacs="13000" total="17000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="13279" pacs="500" total="13779"/>
+    <industry industry_code="B13" industry_name="Internet" indivs="0" pacs="12000" total="12000"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="3000" pacs="8000" total="11000"/>
+  </industries>
+</response>

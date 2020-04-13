@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="George Holding (R)" cid="N00033399" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033399&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="89742" pacs="21750" total="111492"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="66713" pacs="26500" total="93213"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="78550" pacs="0" total="78550"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="43800" pacs="17000" total="60800"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="29480" pacs="24500" total="53980"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="10950" pacs="31600" total="42550"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="6250" pacs="32500" total="38750"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="23050" pacs="14500" total="37550"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="6500" pacs="31000" total="37500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="34650" pacs="1000" total="35650"/>
+  </industries>
+</response>

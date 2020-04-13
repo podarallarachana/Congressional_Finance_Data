@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Gary Peters (D)" cid="N00029277" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029277&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1015517" pacs="52500" total="1068017"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="467128" pacs="109500" total="576628"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="83700" pacs="464850" total="548550"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="510705" pacs="0" total="510705"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="423660" pacs="29647" total="453307"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="385100" pacs="57500" total="442600"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="291296" pacs="43500" total="334796"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="127750" pacs="157700" total="285450"/>
+    <industry industry_code="W04" industry_name="Education" indivs="279550" pacs="2250" total="281800"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="234951" pacs="8550" total="243501"/>
+  </industries>
+</response>

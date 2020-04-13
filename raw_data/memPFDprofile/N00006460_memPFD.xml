@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="Schweikert, David" data_year="2016" member_id="N00006460" net_low="1162010" net_high="5470000" positions_held_count="3" asset_count="1" asset_low="1177010" asset_high="5480000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00006460" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="1177010" holdings_high="5480000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Sheridan Holdings - State Property" tx_date="138/13" tx_action="Sold" value_low="15001" value_high="50000"/>
+    </transactions>
+    <positions>
+      <position title="Administrator" organization="Scottsdale Eye Surgery"/>
+      <position title="Managing Member" organization="Sheridan Equities"/>
+      <position title="Managing Member" organization="Sheridan Equities Holdings"/>
+    </positions>
+  </member_profile>
+</response>

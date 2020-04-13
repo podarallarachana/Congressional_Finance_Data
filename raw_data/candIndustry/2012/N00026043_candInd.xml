@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Randy Neugebauer (R)" cid="N00026043" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026043&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="40701" pacs="96000" total="136701"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="16450" pacs="112500" total="128950"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="11000" pacs="114500" total="125500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="32300" pacs="64500" total="96800"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="73000" pacs="23500" total="96500"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="20500" pacs="48150" total="68650"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="44001" pacs="12000" total="56001"/>
+    <industry industry_code="A06" industry_name="Livestock" indivs="35500" pacs="18500" total="54000"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="8750" pacs="43500" total="52250"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="6202" pacs="44324" total="50526"/>
+  </industries>
+</response>

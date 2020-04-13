@@ -1,0 +1,9 @@
+<response>
+  <member_profile name="Harper, Gregg" data_year="2016" member_id="N00029632" net_low="-248997" net_high="349998" positions_held_count="0" asset_count="3" asset_low="301003" asset_high="615000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00029632" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="3 Country Place" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="50% of 1/4 undivided interest 400 Acre Tract- Bent" holdings_low="50001" holdings_high="100000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="State of MS Retirement" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Lloyd Smucker (R)" cid="N00038781" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00038781&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="134100" total="134100"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="88750" pacs="0" total="88750"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="74050" pacs="14000" total="88050"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="4000" pacs="34500" total="38500"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="3000" pacs="28500" total="31500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="19000" pacs="12000" total="31000"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="5200" pacs="25000" total="30200"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="17500" pacs="12500" total="30000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="12750" pacs="11500" total="24250"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="21600" pacs="1250" total="22850"/>
+  </industries>
+</response>

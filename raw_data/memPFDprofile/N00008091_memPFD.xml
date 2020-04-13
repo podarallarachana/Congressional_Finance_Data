@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Bachus, Spencer" data_year="2016" member_id="N00008091" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00008091" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Blackrock Low Dur Bond NV A" tx_date="Mar 13 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Eaton Vance Income Fund of Boston" tx_date="Mar 13 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Pimco Emerging Markets Bond Fund" tx_date="Mar 13 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Artisan Mid Cap Value Fund" tx_date="Nov 14 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="AM Century Growth" tx_date="Dec 17 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

@@ -1,0 +1,15 @@
+<response>
+  <sectors cand_name="Steven A King (R)" cid="N00025237" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00025237&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="57152" pacs="84500" total="141652"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="5300" pacs="23500" total="28800"/>
+    <sector sector_name="Construction" sectorid="C" indivs="7240" pacs="20500" total="27740"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="13100" pacs="21750" total="34850"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="52200" pacs="25000" total="77200"/>
+    <sector sector_name="Health" sectorid="H" indivs="8075" pacs="13000" total="21075"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="11532" pacs="1500" total="13032"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="11300" pacs="4000" total="15300"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="52232" pacs="10500" total="62732"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="47044" pacs="80935" total="127979"/>
+    <sector sector_name="Other" sectorid="W" indivs="102502" pacs="1000" total="103502"/>
+  </sectors>
+</response>

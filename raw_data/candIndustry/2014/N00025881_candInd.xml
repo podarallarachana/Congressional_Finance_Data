@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Colleen Hanabusa (D)" cid="N00025881" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00025881&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="244621" pacs="0" total="244621"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="133845" pacs="14500" total="148345"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="126351" pacs="7500" total="133851"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="101863" pacs="2000" total="103863"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="78068" pacs="25000" total="103068"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="70536" pacs="0" total="70536"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="46850" pacs="16500" total="63350"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="52100" pacs="9500" total="61600"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="45895" pacs="0" total="45895"/>
+    <industry industry_code="W04" industry_name="Education" indivs="45801" pacs="0" total="45801"/>
+  </industries>
+</response>

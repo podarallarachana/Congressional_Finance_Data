@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Maggie Hassan (D)" cid="N00038397" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00038397&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="1689794" pacs="55835" total="1745629"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="1585895" pacs="0" total="1585895"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="1539380" pacs="19505" total="1558885"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1406609" pacs="17833" total="1424442"/>
+    <industry industry_code="W04" industry_name="Education" indivs="712632" pacs="0" total="712632"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="418436" pacs="0" total="418436"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="414125" pacs="0" total="414125"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="5400" pacs="382250" total="387650"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="306422" pacs="0" total="306422"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="288769" pacs="7209" total="295978"/>
+  </industries>
+</response>

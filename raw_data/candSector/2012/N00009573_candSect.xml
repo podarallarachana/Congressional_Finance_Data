@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jeff Flake (R)" cid="N00009573" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009573&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="200477" pacs="107500" total="307977"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="105500" pacs="67150" total="172650"/>
+    <sector sector_name="Construction" sectorid="C" indivs="179400" pacs="56500" total="235900"/>
+    <sector sector_name="Defense" sectorid="D" indivs="4800" pacs="16000" total="20800"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="276287" pacs="196500" total="472787"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="960858" pacs="157500" total="1118358"/>
+    <sector sector_name="Health" sectorid="H" indivs="285332" pacs="119500" total="404832"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="249652" pacs="34500" total="284152"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="198250" pacs="85000" total="283250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="505060" pacs="174500" total="679560"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="3500" total="3500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1381137" pacs="442422" total="1823559"/>
+    <sector sector_name="Other" sectorid="W" indivs="724169" pacs="20000" total="744169"/>
+  </sectors>
+</response>

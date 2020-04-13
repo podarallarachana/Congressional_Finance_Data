@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Sam Graves (R)" cid="N00013323" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00013323&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="21200" pacs="94921" total="116121"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="8700" pacs="65000" total="73700"/>
+    <sector sector_name="Construction" sectorid="C" indivs="28400" pacs="145250" total="173650"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="111000" total="111000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3000" pacs="54000" total="57000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="9150" pacs="78000" total="87150"/>
+    <sector sector_name="Health" sectorid="H" indivs="5900" pacs="64000" total="69900"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="40050" pacs="18000" total="58050"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="37352" pacs="267400" total="304752"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="39081" pacs="128500" total="167581"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="114500" total="114500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="6250" pacs="46500" total="52750"/>
+    <sector sector_name="Other" sectorid="W" indivs="18400" pacs="6000" total="24400"/>
+  </sectors>
+</response>

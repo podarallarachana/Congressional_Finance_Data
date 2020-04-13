@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Ron Kind (D)" cid="N00004403" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00004403&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="17600" pacs="39750" total="57350"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="7550" pacs="106600" total="114150"/>
+    <sector sector_name="Construction" sectorid="C" indivs="20500" pacs="21500" total="42000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="10000" pacs="32000" total="42000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="11740" pacs="70250" total="81990"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="69727" pacs="437750" total="507477"/>
+    <sector sector_name="Health" sectorid="H" indivs="41475" pacs="426800" total="468275"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="95405" pacs="58800" total="154205"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1000" pacs="41250" total="42250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="49141" pacs="199420" total="248561"/>
+    <sector sector_name="Labor" sectorid="P" indivs="990" pacs="73750" total="74740"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="18664" pacs="26100" total="44764"/>
+    <sector sector_name="Other" sectorid="W" indivs="47300" pacs="4000" total="51300"/>
+  </sectors>
+</response>

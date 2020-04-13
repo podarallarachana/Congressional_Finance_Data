@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ron Barber (D)" cid="N00033981" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033981&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="293650" pacs="0" total="293650"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="9550" pacs="270864" total="280414"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="170764" total="170764"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="18350" pacs="117650" total="136000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="85766" pacs="27750" total="113516"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="250" pacs="90500" total="90750"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="42226" pacs="39100" total="81326"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="59900" pacs="16000" total="75900"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="60500" total="60500"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="59339" pacs="500" total="59839"/>
+  </industries>
+</response>

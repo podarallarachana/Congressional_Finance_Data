@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Kay Granger (R)" cid="N00008799" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00008799&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="54950" pacs="56000" total="110950"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="63500" pacs="16000" total="79500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="49245" pacs="20500" total="69745"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="60825" pacs="0" total="60825"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="58260" pacs="2500" total="60760"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="31222" pacs="26990" total="58212"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="36700" pacs="15000" total="51700"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="23750" pacs="23500" total="47250"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="2000" pacs="45100" total="47100"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="500" pacs="37000" total="37500"/>
+  </industries>
+</response>

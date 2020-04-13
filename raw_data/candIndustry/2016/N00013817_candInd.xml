@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Chellie Pingree (D)" cid="N00013817" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00013817&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="56241" pacs="0" total="56241"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="350" pacs="31000" total="31350"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="24000" total="24000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="16652" pacs="6500" total="23152"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="23050" pacs="0" total="23050"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="18775" pacs="0" total="18775"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="17665" pacs="0" total="17665"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="16560" pacs="0" total="16560"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="15000" total="15000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="4350" pacs="9000" total="13350"/>
+  </industries>
+</response>

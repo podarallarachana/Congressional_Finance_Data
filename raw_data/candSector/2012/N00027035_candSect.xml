@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="G K Butterfield (D)" cid="N00027035" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027035&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="9900" pacs="64750" total="74650"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="0" pacs="95000" total="95000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="4600" pacs="2000" total="6600"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="33500" total="33500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="8500" pacs="53250" total="61750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="14050" pacs="48500" total="62550"/>
+    <sector sector_name="Health" sectorid="H" indivs="36200" pacs="101800" total="138000"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="30568" pacs="25032" total="55600"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2000" pacs="41500" total="43500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="7245" pacs="65500" total="72745"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="87692" total="87692"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="3500" pacs="9500" total="13000"/>
+    <sector sector_name="Other" sectorid="W" indivs="43875" pacs="0" total="43875"/>
+  </sectors>
+</response>

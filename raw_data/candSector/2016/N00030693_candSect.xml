@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Suzan DelBene (D)" cid="N00030693" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030693&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="3175" pacs="119000" total="122175"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="140357" pacs="154284" total="294641"/>
+    <sector sector_name="Construction" sectorid="C" indivs="18905" pacs="10702" total="29607"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1566" pacs="30500" total="32066"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="12590" pacs="29000" total="41590"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="54105" pacs="143000" total="197105"/>
+    <sector sector_name="Health" sectorid="H" indivs="26874" pacs="81236" total="108110"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="77498" pacs="23000" total="100498"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1782" pacs="37000" total="38782"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="111974" pacs="113600" total="225574"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="68500" total="68500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="182253" pacs="82887" total="265140"/>
+    <sector sector_name="Other" sectorid="W" indivs="152688" pacs="0" total="152688"/>
+  </sectors>
+</response>

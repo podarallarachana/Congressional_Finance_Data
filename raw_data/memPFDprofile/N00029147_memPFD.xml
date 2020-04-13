@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="Harris, Andy" data_year="2016" member_id="N00029147" net_low="570041" net_high="3850998" positions_held_count="0" asset_count="38" asset_low="1820041" asset_high="4451000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00029147" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="American Century Money Market" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Short Term Investment Grade Fund" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Rental Condo" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="CREF 403b Equity Index" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="TIAA Traditional Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Vanguard ST Investment Grade Bond" tx_date="Jul  1 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Vanguard Money Market Fund" tx_date="Jul  1 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Vanguard Prime Money Market Fund" tx_date="Dec 23 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Vanguard 500 Index Signal" tx_date="Dec 18 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Vanguard Prime Money Market Fund" tx_date="Dec 23 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+    <positions>
+      <position title="Associate Professor on Leave" organization="Johns Hopkins University"/>
+    </positions>
+  </member_profile>
+</response>

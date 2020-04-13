@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Madeleine Z Bordallo (D)" cid="N00024866" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00024866&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="5300" pacs="0" total="5300"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="0" pacs="2500" total="2500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1500" pacs="0" total="1500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="7000" pacs="18500" total="25500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="22300" pacs="3000" total="25300"/>
+    <sector sector_name="Health" sectorid="H" indivs="750" pacs="0" total="750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="6650" pacs="2000" total="8650"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2250" pacs="7500" total="9750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="26500" pacs="0" total="26500"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="8250" total="8250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="11000" total="11000"/>
+    <sector sector_name="Other" sectorid="W" indivs="8085" pacs="0" total="8085"/>
+  </sectors>
+</response>

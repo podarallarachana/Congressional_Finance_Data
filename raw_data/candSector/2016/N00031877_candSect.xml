@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Karen Bass (D)" cid="N00031877" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031877&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="8900" pacs="1500" total="10400"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="53800" pacs="82400" total="136200"/>
+    <sector sector_name="Construction" sectorid="C" indivs="8700" pacs="0" total="8700"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2000" pacs="11000" total="13000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1000" pacs="20500" total="21500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="6750" pacs="40000" total="46750"/>
+    <sector sector_name="Health" sectorid="H" indivs="173" pacs="33500" total="33673"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="26414" pacs="13500" total="39914"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="17970" total="17970"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="22300" pacs="41000" total="63300"/>
+    <sector sector_name="Labor" sectorid="P" indivs="-250" pacs="103500" total="103250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="22768" pacs="8500" total="31268"/>
+    <sector sector_name="Other" sectorid="W" indivs="40943" pacs="1000" total="41943"/>
+  </sectors>
+</response>

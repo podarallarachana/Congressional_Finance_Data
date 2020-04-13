@@ -1,0 +1,17 @@
+<response>
+  <member_profile name="Sewell, Terri A" data_year="2016" member_id="N00030622" net_low="-568987" net_high="129997" positions_held_count="1" asset_count="13" asset_low="146013" asset_high="490000" transaction_count="5" tx_low="5005" tx_high="75000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030622" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Coach Inc" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Funds Growth Fund of America" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Funds Washington Mutual Investors Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Eaton Vance Income Fund of Boston" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Wells Fargo Account" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Rental home" tx_date="Jan 11 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+    </transactions>
+    <positions>
+      <position title="Board Member (uncompensated)" organization="Congressional Black Caucus Foundation"/>
+    </positions>
+  </member_profile>
+</response>

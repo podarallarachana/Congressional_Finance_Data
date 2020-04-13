@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Charles E Schumer (D)" cid="N00001093" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001093&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="2989036" pacs="258700" total="3247736"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1873035" pacs="253551" total="2126586"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="1767722" pacs="90500" total="1858222"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="368650" pacs="378000" total="746650"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="662311" pacs="0" total="662311"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="579777" pacs="21900" total="601677"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="508062" pacs="69100" total="577162"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="465757" pacs="84500" total="550257"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="410245" pacs="122034" total="532279"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="359478" pacs="159200" total="518678"/>
+  </industries>
+</response>

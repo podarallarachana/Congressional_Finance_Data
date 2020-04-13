@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Thomas MacArthur (R)" cid="N00036155" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00036155&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="17700" pacs="24000" total="41700"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="6200" pacs="23500" total="29700"/>
+    <sector sector_name="Construction" sectorid="C" indivs="46850" pacs="25000" total="71850"/>
+    <sector sector_name="Defense" sectorid="D" indivs="10750" pacs="74500" total="85250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="42000" pacs="61000" total="103000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="146841" pacs="145900" total="292741"/>
+    <sector sector_name="Health" sectorid="H" indivs="12250" pacs="97050" total="109300"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="88317" pacs="21900" total="110217"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="13150" pacs="20000" total="33150"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="37461" pacs="59998" total="97459"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="111000" total="111000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="11250" pacs="173730" total="184980"/>
+    <sector sector_name="Other" sectorid="W" indivs="52470" pacs="2000" total="54470"/>
+  </sectors>
+</response>

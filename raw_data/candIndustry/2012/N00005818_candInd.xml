@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Sheila Jackson Lee (D)" cid="N00005818" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00005818&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W04" industry_name="Education" indivs="54750" pacs="0" total="54750"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="31000" total="31000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="5500" pacs="23535" total="29035"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="27000" total="27000"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="25400" pacs="0" total="25400"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="15050" pacs="10000" total="25050"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="21000" total="21000"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="21000" total="21000"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="15100" pacs="5000" total="20100"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="750" pacs="19000" total="19750"/>
+  </industries>
+</response>

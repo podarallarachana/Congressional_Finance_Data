@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Frederica Wilson (D)" cid="N00030650" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030650&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="57500" total="57500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="44500" total="44500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="22750" pacs="14500" total="37250"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="35500" total="35500"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="24000" total="24000"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="24000" total="24000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="22870" pacs="0" total="22870"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="7500" pacs="13000" total="20500"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="12000" pacs="4500" total="16500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="11500" pacs="1000" total="12500"/>
+  </industries>
+</response>

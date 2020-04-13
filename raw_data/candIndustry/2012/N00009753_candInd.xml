@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jim Matheson (D)" cid="N00009753" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009753&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="17501" pacs="211000" total="228501"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="5250" pacs="164746" total="169996"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="7500" pacs="137490" total="144990"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="3750" pacs="102400" total="106150"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="1250" pacs="89500" total="90750"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="25050" pacs="52500" total="77550"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="1500" pacs="71000" total="72500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="18400" pacs="43000" total="61400"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="58500" total="58500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="56750" total="56750"/>
+  </industries>
+</response>

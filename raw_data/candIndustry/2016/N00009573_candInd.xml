@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jeff Flake (R)" cid="N00009573" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009573&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="1279677" pacs="64067" total="1343744"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="700483" pacs="0" total="700483"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="404530" pacs="26500" total="431030"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="391929" pacs="18000" total="409929"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="371368" total="371368"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="207862" pacs="68450" total="276312"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="234072" pacs="4500" total="238572"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="142567" pacs="53500" total="196067"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="134902" pacs="59000" total="193902"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="76510" pacs="102500" total="179010"/>
+  </industries>
+</response>

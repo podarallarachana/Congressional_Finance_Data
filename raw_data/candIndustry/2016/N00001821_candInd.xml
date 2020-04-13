@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Steny H Hoyer (D)" cid="N00001821" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001821&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="24200" pacs="197500" total="221700"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="31000" pacs="186750" total="217750"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="62350" pacs="155000" total="217350"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="25100" pacs="188500" total="213600"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="104612" pacs="45500" total="150112"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="13000" pacs="128500" total="141500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="70036" pacs="70000" total="140036"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="126500" total="126500"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="77800" pacs="21700" total="99500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="95510" pacs="0" total="95510"/>
+  </industries>
+</response>

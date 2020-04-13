@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="John Fleming (R)" cid="N00029679" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029679&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="55392" pacs="21500" total="76892"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="41000" pacs="5000" total="46000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="103250" pacs="11500" total="114750"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="22500" total="22500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="174280" pacs="17500" total="191780"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="277995" pacs="6000" total="283995"/>
+    <sector sector_name="Health" sectorid="H" indivs="280435" pacs="41500" total="321935"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="62335" pacs="3500" total="65835"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="71854" pacs="27400" total="99254"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="149574" pacs="13000" total="162574"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="460350" pacs="82000" total="542350"/>
+    <sector sector_name="Other" sectorid="W" indivs="210190" pacs="0" total="210190"/>
+  </sectors>
+</response>

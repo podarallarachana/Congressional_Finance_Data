@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Leonard Lance (R)" cid="N00000898" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000898&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="49250" pacs="115500" total="164750"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="8750" pacs="81800" total="90550"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="69500" total="69500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="11990" pacs="53000" total="64990"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="49270" pacs="11250" total="60520"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="48150" pacs="0" total="48150"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="27000" pacs="19500" total="46500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="40059" pacs="3000" total="43059"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="29000" pacs="11500" total="40500"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="8750" pacs="29498" total="38248"/>
+  </industries>
+</response>

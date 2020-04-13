@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Brad Schneider (D)" cid="N00033101" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033101&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="232661" pacs="17500" total="250161"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="179133" pacs="2500" total="181633"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="178879" pacs="0" total="178879"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="160584" pacs="2700" total="163284"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="110999" pacs="0" total="110999"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1500" pacs="99500" total="101000"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="69596" pacs="20350" total="89946"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="750" pacs="64000" total="64750"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="59500" pacs="0" total="59500"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="48750" total="48750"/>
+  </industries>
+</response>

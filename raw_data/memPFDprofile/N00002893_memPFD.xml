@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00002893" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00002893" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Barclays Bank Plc iPath Exchange Traded Notes Link" tx_date="Oct 11 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Barclays Bank Plc iPath Exchange Traded Notes Link" tx_date="Aug 28 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Apple Inc" tx_date="Feb 22 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="American International Group" tx_date="Mar 11 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Alexion Pharmaceuticals" tx_date="Jun 19 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Partner" organization="8400 Plaza Assoc"/>
+      <position title="Partner" organization="Real Estate Assoc Ltd III"/>
+    </positions>
+  </member_profile>
+</response>

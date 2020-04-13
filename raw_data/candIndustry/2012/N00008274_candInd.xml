@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Loretta Sanchez (D)" cid="N00008274" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00008274&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="120000" pacs="31000" total="151000"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="500" pacs="58000" total="58500"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="37500" pacs="18500" total="56000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="54000" total="54000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="53560" pacs="0" total="53560"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="32990" pacs="20000" total="52990"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="46500" pacs="6010" total="52510"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="20500" pacs="30000" total="50500"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="5750" pacs="41000" total="46750"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="45500" total="45500"/>
+  </industries>
+</response>

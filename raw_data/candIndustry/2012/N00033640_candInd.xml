@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Hakeem Jeffries (D)" cid="N00033640" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033640&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="216775" pacs="17000" total="233775"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="104200" pacs="3000" total="107200"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="80838" pacs="5000" total="85838"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="58400" pacs="20300" total="78700"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="47218" pacs="0" total="47218"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="31245" pacs="0" total="31245"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="30300" pacs="0" total="30300"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="450" pacs="29350" total="29800"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="24150" pacs="3500" total="27650"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="23110" pacs="0" total="23110"/>
+  </industries>
+</response>

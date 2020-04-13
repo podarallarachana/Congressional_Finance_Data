@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Blaine Luetkemeyer (R)" cid="N00030026" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030026&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="29950" pacs="63500" total="93450"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="8300" pacs="75935" total="84235"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="13750" pacs="44500" total="58250"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="9600" pacs="44000" total="53600"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="13250" pacs="26500" total="39750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="10500" pacs="26000" total="36500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="9250" pacs="21000" total="30250"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="6640" pacs="23000" total="29640"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="28250" pacs="0" total="28250"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="14500" pacs="12000" total="26500"/>
+  </industries>
+</response>

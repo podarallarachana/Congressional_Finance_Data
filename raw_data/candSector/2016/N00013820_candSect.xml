@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Chris Van Hollen (D)" cid="N00013820" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00013820&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="213827" pacs="17000" total="230827"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1090546" pacs="75500" total="1166046"/>
+    <sector sector_name="Construction" sectorid="C" indivs="257089" pacs="25500" total="282589"/>
+    <sector sector_name="Defense" sectorid="D" indivs="138785" pacs="33000" total="171785"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="127944" pacs="22700" total="150644"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="3181011" pacs="217300" total="3398311"/>
+    <sector sector_name="Health" sectorid="H" indivs="1450447" pacs="203250" total="1653697"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="5159539" pacs="80046" total="5239585"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="219623" pacs="62000" total="281623"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="1967642" pacs="100500" total="2068142"/>
+    <sector sector_name="Labor" sectorid="P" indivs="17944" pacs="254500" total="272444"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2093599" pacs="334130" total="2427729"/>
+    <sector sector_name="Other" sectorid="W" indivs="5734991" pacs="7000" total="5741991"/>
+  </sectors>
+</response>

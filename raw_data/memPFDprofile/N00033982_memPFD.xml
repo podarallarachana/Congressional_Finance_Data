@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033982" net_low="-251967" net_high="786998" positions_held_count="0" asset_count="32" asset_low="263033" asset_high="997000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033982" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="18 acres of land" holdings_low="100001" holdings_high="250000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Advanced Series Trust--Small Cap Value" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Advanced Series Trust--T. Rowe Price Natural Resou" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Delaware Value Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="USAA/Savings" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Sole Proprietor" organization="Martha McSally LLC"/>
+      <position title="Commissioner" organization="Pima County/Tucson Women's Commission"/>
+    </positions>
+  </member_profile>
+</response>

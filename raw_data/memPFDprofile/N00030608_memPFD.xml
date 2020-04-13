@@ -1,0 +1,16 @@
+<response>
+  <member_profile name="Bennet, Michael" data_year="2016" member_id="N00030608" net_low="6862028" net_high="26321000" positions_held_count="0" asset_count="26" asset_low="6877028" asset_high="26331000" transaction_count="36" tx_low="416036" tx_high="1390000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030608" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Charles Schwab Bank(Denver, CO)Type: Money Market" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Harbor Spring Capital Partners" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Regal Entertainment" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Eaton Vance Stock A" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Canyon Balanced Fund LP" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Eaton Vance Large Cap Core Research" tx_date="Dec 18 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Eaton Vance Large Cap Core Research" tx_date="Aug  2 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="BlackRock Global Allocation Fund" tx_date="Dec 18 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

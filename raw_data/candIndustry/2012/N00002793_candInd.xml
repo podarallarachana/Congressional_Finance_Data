@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John L Mica (R)" cid="N00002793" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002793&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="M01" industry_name="Air Transport" indivs="35000" pacs="156595" total="191595"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="54750" pacs="83368" total="138118"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="44510" pacs="63520" total="108030"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="28498" pacs="69500" total="97998"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="4000" pacs="68500" total="72500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="63009" pacs="4250" total="67259"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="45800" pacs="15000" total="60800"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="33750" pacs="26750" total="60500"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="9000" pacs="51000" total="60000"/>
+    <industry industry_code="M03" industry_name="Trucking" indivs="19750" pacs="38662" total="58412"/>
+  </industries>
+</response>

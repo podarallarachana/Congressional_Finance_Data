@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Kevin McCarthy (R)" cid="N00028152" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00028152&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="472889" pacs="383450" total="856339"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="178400" pacs="227900" total="406300"/>
+    <sector sector_name="Construction" sectorid="C" indivs="139150" pacs="145400" total="284550"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5434" pacs="98000" total="103434"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="225600" pacs="387700" total="613300"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1338440" pacs="832164" total="2170604"/>
+    <sector sector_name="Health" sectorid="H" indivs="407735" pacs="568500" total="976235"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="559417" pacs="58709" total="618126"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="85250" pacs="191000" total="276250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="508486" pacs="428500" total="936986"/>
+    <sector sector_name="Labor" sectorid="P" indivs="7900" pacs="35400" total="43300"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="135700" pacs="58471" total="194171"/>
+    <sector sector_name="Other" sectorid="W" indivs="292606" pacs="9500" total="302106"/>
+  </sectors>
+</response>

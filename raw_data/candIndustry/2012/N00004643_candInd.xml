@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Max Baucus (D)" cid="N00004643" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004643&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="735869" pacs="177400" total="913269"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="459369" pacs="220978" total="680347"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="242450" pacs="368650" total="611100"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="571012" pacs="12625" total="583637"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="142529" pacs="417500" total="560029"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="282018" pacs="271200" total="553218"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="177214" pacs="351218" total="528432"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="234018" pacs="224950" total="458968"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="375580" pacs="83250" total="458830"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="28942" pacs="258700" total="287642"/>
+  </industries>
+</response>

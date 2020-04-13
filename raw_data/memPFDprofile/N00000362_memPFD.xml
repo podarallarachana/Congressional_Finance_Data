@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Reed, Jack" data_year="2016" member_id="N00000362" net_low="-385874" net_high="2064998" positions_held_count="0" asset_count="68" asset_low="364126" asset_high="2415000" transaction_count="4" tx_low="200004" tx_high="400000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00000362" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Qualcomm Inc" holdings_low="32004" holdings_high="130000" industry="Electronics Mfg &amp; Equip" sector="Communic/Electronics" subsidiary_of=""/>
+      <asset name="Wells Fargo Bank Brokerage Sweep Account" holdings_low="30002" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Wells Fargo Bank(Charlestown, RI)" holdings_low="30002" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Invesco CollegeBound 2025-2026 Portfolio RA" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Invesco College Bound 2025-2026 Portfolio RA" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Vertex Pharmaceuticals" tx_date="Apr  4 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Apple Inc" tx_date="Mar 27 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Apple Inc" tx_date="Mar 27 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Vertex Pharmaceuticals" tx_date="Mar 25 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="United Natural Foods" tx_date="Jan 28 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

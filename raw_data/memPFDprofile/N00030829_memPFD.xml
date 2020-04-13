@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00030829" net_low="461011" net_high="1564999" positions_held_count="0" asset_count="7" asset_low="711011" asset_high="1665000" transaction_count="3" tx_low="3003" tx_high="45000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030829" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="AMG Money Market account" holdings_low="450003" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Colorado Public Employees Retirement Account" holdings_low="101002" holdings_high="265000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Cache Bank Savings &amp; Checking Account" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Mineral Rights" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Energy Fund Investor Shares" holdings_low="30002" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Director" organization="Colorado District Attorney's Council"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Sarbanes (D)" cid="N00027751" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027751&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="124200" pacs="0" total="124200"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="100014" pacs="0" total="100014"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="59900" pacs="0" total="59900"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="55700" pacs="0" total="55700"/>
+    <industry industry_code="W04" industry_name="Education" indivs="54550" pacs="0" total="54550"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="20600" pacs="0" total="20600"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="18255" pacs="0" total="18255"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="17700" pacs="0" total="17700"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="17500" pacs="0" total="17500"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="16400" pacs="0" total="16400"/>
+  </industries>
+</response>

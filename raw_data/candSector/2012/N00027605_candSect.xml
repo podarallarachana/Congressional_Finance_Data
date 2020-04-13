@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jon Tester (D)" cid="N00027605" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027605&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="202723" pacs="94100" total="296823"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="383890" pacs="143000" total="526890"/>
+    <sector sector_name="Construction" sectorid="C" indivs="79935" pacs="18500" total="98435"/>
+    <sector sector_name="Defense" sectorid="D" indivs="3050" pacs="73500" total="76550"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="118531" pacs="103000" total="221531"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1379142" pacs="754629" total="2133771"/>
+    <sector sector_name="Health" sectorid="H" indivs="283638" pacs="302900" total="586538"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1822976" pacs="185476" total="2008452"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="55256" pacs="61999" total="117255"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="635142" pacs="172239" total="807381"/>
+    <sector sector_name="Labor" sectorid="P" indivs="5950" pacs="377000" total="382950"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="807860" pacs="598265" total="1406125"/>
+    <sector sector_name="Other" sectorid="W" indivs="1228273" pacs="14500" total="1242773"/>
+  </sectors>
+</response>

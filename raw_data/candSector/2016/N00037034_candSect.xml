@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Roger Marshall (R)" cid="N00037034" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00037034&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="82750" pacs="99500" total="182250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="7205" pacs="31250" total="38455"/>
+    <sector sector_name="Construction" sectorid="C" indivs="15900" pacs="21000" total="36900"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="10000" total="10000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="20450" pacs="43500" total="63950"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="98700" pacs="74700" total="173400"/>
+    <sector sector_name="Health" sectorid="H" indivs="41900" pacs="84000" total="125900"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="31250" pacs="4500" total="35750"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="19600" pacs="43000" total="62600"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="18650" pacs="29500" total="48150"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="250" pacs="96200" total="96450"/>
+    <sector sector_name="Other" sectorid="W" indivs="63925" pacs="0" total="63925"/>
+  </sectors>
+</response>

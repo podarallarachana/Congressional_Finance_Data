@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Sam Johnson (R)" cid="N00008028" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00008028&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="5450" pacs="123100" total="128550"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="95586" total="95586"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="20500" pacs="32000" total="52500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="9326" pacs="36450" total="45776"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="500" pacs="37500" total="38000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="6300" pacs="31250" total="37550"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="9200" pacs="28150" total="37350"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="1000" pacs="33500" total="34500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="7650" pacs="24500" total="32150"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="29950" pacs="0" total="29950"/>
+  </industries>
+</response>

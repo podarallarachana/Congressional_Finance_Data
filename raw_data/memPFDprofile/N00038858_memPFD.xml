@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00038858" net_low="86031" net_high="1464999" positions_held_count="0" asset_count="26" asset_low="586031" asset_high="1715000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00038858" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="DFA US Large Cap Value Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard 500 Index" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard REIT ETF" holdings_low="30002" holdings_high="100000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="DFA US Small Cap Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard GNMA Fund" holdings_low="30002" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

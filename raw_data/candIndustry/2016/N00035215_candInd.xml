@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Robin Kelly (D)" cid="N00035215" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035215&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="51440" pacs="17100" total="68540"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="56500" total="56500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="10900" pacs="44500" total="55400"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="0" pacs="54750" total="54750"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="52500" total="52500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="22846" pacs="24550" total="47396"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="7020" pacs="35500" total="42520"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="36494" pacs="0" total="36494"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="34500" total="34500"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="30000" total="30000"/>
+  </industries>
+</response>

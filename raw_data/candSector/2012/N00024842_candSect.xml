@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Joe Courtney (D)" cid="N00024842" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00024842&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="7250" pacs="76411" total="83661"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="10650" pacs="19000" total="29650"/>
+    <sector sector_name="Construction" sectorid="C" indivs="10450" pacs="14500" total="24950"/>
+    <sector sector_name="Defense" sectorid="D" indivs="20500" pacs="108500" total="129000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3150" pacs="21500" total="24650"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="86100" pacs="74250" total="160350"/>
+    <sector sector_name="Health" sectorid="H" indivs="32300" pacs="134300" total="166600"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="115829" pacs="15750" total="131579"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="6700" pacs="9000" total="15700"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="55100" pacs="25553" total="80653"/>
+    <sector sector_name="Labor" sectorid="P" indivs="500" pacs="185750" total="186250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="6100" pacs="21250" total="27350"/>
+    <sector sector_name="Other" sectorid="W" indivs="102012" pacs="2500" total="104512"/>
+  </sectors>
+</response>

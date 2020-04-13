@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Nydia M Velazquez (D)" cid="N00001102" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001102&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="14000" total="14000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="3500" pacs="22500" total="26000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="22700" pacs="23000" total="45700"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="44500" pacs="108000" total="152500"/>
+    <sector sector_name="Health" sectorid="H" indivs="6550" pacs="17500" total="24050"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="45120" pacs="11500" total="56620"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1550" pacs="0" total="1550"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="16450" pacs="40000" total="56450"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="138000" total="138000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="21800" pacs="70500" total="92300"/>
+    <sector sector_name="Other" sectorid="W" indivs="36400" pacs="50" total="36450"/>
+  </sectors>
+</response>

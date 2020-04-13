@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mitch McConnell (R)" cid="N00003389" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00003389&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="1572484" pacs="214561" total="1787045"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="1164757" pacs="0" total="1164757"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="650691" pacs="313550" total="964241"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="621475" pacs="265800" total="887275"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="540900" pacs="317000" total="857900"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="731280" pacs="118510" total="849790"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="440808" pacs="379300" total="820108"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="697054" pacs="22761" total="719815"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="351300" pacs="281400" total="632700"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="502384" pacs="46000" total="548384"/>
+  </industries>
+</response>

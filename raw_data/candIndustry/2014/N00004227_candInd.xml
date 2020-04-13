@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tom Latham (R)" cid="N00004227" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004227&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="88999" total="88999"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="29350" pacs="28500" total="57850"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="10600" pacs="32000" total="42600"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="9850" pacs="27000" total="36850"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="250" pacs="35500" total="35750"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="33500" total="33500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="4300" pacs="27500" total="31800"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="1500" pacs="29500" total="31000"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="2877" pacs="28000" total="30877"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="30000" total="30000"/>
+  </industries>
+</response>

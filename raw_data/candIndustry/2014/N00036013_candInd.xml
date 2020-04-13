@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Dave Brat (R)" cid="N00036013" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00036013&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="190807" pacs="0" total="190807"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="68122" pacs="26345" total="94467"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="63600" total="63600"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="46300" pacs="0" total="46300"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="15750" pacs="8500" total="24250"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="23880" pacs="0" total="23880"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="22500" pacs="1360" total="23860"/>
+    <industry industry_code="A02" industry_name="Tobacco" indivs="5850" pacs="12250" total="18100"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="15400" pacs="2500" total="17900"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="10756" pacs="4000" total="14756"/>
+  </industries>
+</response>

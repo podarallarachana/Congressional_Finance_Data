@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Dutch Ruppersberger (D)" cid="N00025482" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00025482&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="86500" pacs="18000" total="104500"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="22900" pacs="76600" total="99500"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="1250" pacs="74500" total="75750"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="13600" pacs="61500" total="75100"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="8250" pacs="48200" total="56450"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="31550" pacs="21204" total="52754"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="11750" pacs="36250" total="48000"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="35000" pacs="13000" total="48000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="46250" total="46250"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="45000" total="45000"/>
+  </industries>
+</response>

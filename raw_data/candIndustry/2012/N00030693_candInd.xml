@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Suzan DelBene (D)" cid="N00030693" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030693&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="171900" pacs="0" total="171900"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="103775" pacs="0" total="103775"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="56742" pacs="10000" total="66742"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="57000" total="57000"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="46795" pacs="6250" total="53045"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="51550" pacs="0" total="51550"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="50000" total="50000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="44500" total="44500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="500" pacs="43500" total="44000"/>
+    <industry industry_code="Q15" industry_name="Abortion Policy/Pro-Abortion Rights" indivs="26800" pacs="15000" total="41800"/>
+  </industries>
+</response>

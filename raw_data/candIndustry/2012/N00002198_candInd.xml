@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Nick Rahall (D)" cid="N00002198" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002198&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="143250" total="143250"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="2000" pacs="124867" total="126867"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="60049" pacs="5250" total="65299"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="57250" total="57250"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="5000" pacs="50000" total="55000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="18750" pacs="34000" total="52750"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="49500" total="49500"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="45000" total="45000"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="10999" pacs="33500" total="44499"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="15000" pacs="29150" total="44150"/>
+  </industries>
+</response>

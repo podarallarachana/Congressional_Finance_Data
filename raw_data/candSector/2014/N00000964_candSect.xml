@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Charles B Rangel (D)" cid="N00000964" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00000964&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="7700" pacs="20500" total="28200"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="24200" pacs="13000" total="37200"/>
+    <sector sector_name="Construction" sectorid="C" indivs="17500" pacs="0" total="17500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="15050" pacs="3500" total="18550"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="181650" pacs="81600" total="263250"/>
+    <sector sector_name="Health" sectorid="H" indivs="63900" pacs="25500" total="89400"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="132799" pacs="23750" total="156549"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="13350" pacs="14500" total="27850"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="72388" pacs="32729" total="105117"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1000" pacs="113000" total="114000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="28175" pacs="131600" total="159775"/>
+    <sector sector_name="Other" sectorid="W" indivs="98526" pacs="1000" total="99526"/>
+  </sectors>
+</response>

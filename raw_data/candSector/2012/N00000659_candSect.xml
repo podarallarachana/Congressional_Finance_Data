@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Frank R Lautenberg (D)" cid="N00000659" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00000659&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="62633" pacs="1000" total="63633"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="268675" pacs="136800" total="405475"/>
+    <sector sector_name="Construction" sectorid="C" indivs="176548" pacs="56900" total="233448"/>
+    <sector sector_name="Defense" sectorid="D" indivs="8350" pacs="31500" total="39850"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="73600" pacs="50000" total="123600"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1486694" pacs="94000" total="1580694"/>
+    <sector sector_name="Health" sectorid="H" indivs="137000" pacs="198800" total="335800"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="882004" pacs="152879" total="1034883"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="64962" pacs="180000" total="244962"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="405589" pacs="59500" total="465089"/>
+    <sector sector_name="Labor" sectorid="P" indivs="500" pacs="290350" total="290850"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="298098" pacs="378651" total="676749"/>
+    <sector sector_name="Other" sectorid="W" indivs="403986" pacs="2000" total="405986"/>
+  </sectors>
+</response>

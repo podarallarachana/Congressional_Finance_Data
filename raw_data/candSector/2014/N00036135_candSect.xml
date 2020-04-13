@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Garret Graves (R)" cid="N00036135" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00036135&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="15800" pacs="22000" total="37800"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="27100" pacs="13000" total="40100"/>
+    <sector sector_name="Construction" sectorid="C" indivs="216455" pacs="34459" total="250914"/>
+    <sector sector_name="Defense" sectorid="D" indivs="250" pacs="5000" total="5250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="63135" pacs="84100" total="147235"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="116588" pacs="53000" total="169588"/>
+    <sector sector_name="Health" sectorid="H" indivs="67450" pacs="37200" total="104650"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="144888" pacs="36500" total="181388"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="72750" pacs="48700" total="121450"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="139004" pacs="47500" total="186504"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="10000" total="10000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="32800" pacs="97750" total="130550"/>
+    <sector sector_name="Other" sectorid="W" indivs="96768" pacs="1000" total="97768"/>
+  </sectors>
+</response>

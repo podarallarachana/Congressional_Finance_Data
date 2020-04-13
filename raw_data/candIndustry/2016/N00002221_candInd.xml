@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Richard Burr (R)" cid="N00002221" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002221&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="1028271" pacs="0" total="1028271"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="613599" pacs="174000" total="787599"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="425758" pacs="155995" total="581753"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="291077" pacs="244500" total="535577"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="100466" pacs="419852" total="520318"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="514160" total="514160"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="415629" pacs="74500" total="490129"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="206244" pacs="242050" total="448294"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="347429" pacs="6977" total="354406"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="94457" pacs="202450" total="296907"/>
+  </industries>
+</response>

@@ -1,0 +1,23 @@
+<response>
+  <member_profile name="Barletta, Lou" data_year="2016" member_id="N00025495" net_low="-4548937" net_high="2126995" positions_held_count="0" asset_count="37" asset_low="1351063" asset_high="3542000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00025495" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="322 Rocky Road" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Ocean View Delaware-Vacation Home" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="AXA 500 Managed Volatility" holdings_low="150002" holdings_high="350000" industry="" sector="" subsidiary_of=""/>
+      <asset name="AXA 2000 Managed Volatility" holdings_low="45003" holdings_high="150000" industry="" sector="" subsidiary_of=""/>
+      <asset name="AXA International Managed Volatility" holdings_low="31003" holdings_high="115000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="3D Systems" tx_date="Nov 19 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Apple Inc" tx_date="Jan 24 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="First Trust NASDAQ Technology Dividend Index Fund" tx_date="Jun 11 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="First Trust VL Dividend Fund" tx_date="Jul 11 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Google Inc" tx_date="May 17 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+    <positions>
+      <position title="Member" organization="Elderwish Foundation"/>
+      <position title="Member" organization="LB LLC"/>
+      <position title="Member" organization="National Board of Advisors- Federation for America"/>
+    </positions>
+  </member_profile>
+</response>

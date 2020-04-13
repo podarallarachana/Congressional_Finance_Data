@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Ted Lieu (D)" cid="N00035825" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035825&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="35650" pacs="7000" total="42650"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="80675" pacs="36000" total="116675"/>
+    <sector sector_name="Construction" sectorid="C" indivs="7000" pacs="7500" total="14500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="32000" total="32000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="17550" pacs="7000" total="24550"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="205571" pacs="27000" total="232571"/>
+    <sector sector_name="Health" sectorid="H" indivs="116445" pacs="87600" total="204045"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="158200" pacs="12000" total="170200"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="13700" pacs="11500" total="25200"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="130821" pacs="37500" total="168321"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1000" pacs="145500" total="146500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="55250" pacs="121628" total="176878"/>
+    <sector sector_name="Other" sectorid="W" indivs="186372" pacs="1500" total="187872"/>
+  </sectors>
+</response>

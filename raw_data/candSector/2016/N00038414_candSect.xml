@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Lisa Blunt Rochester (D)" cid="N00038414" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00038414&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="500" pacs="5000" total="5500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="10200" pacs="21000" total="31200"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1700" pacs="0" total="1700"/>
+    <sector sector_name="Defense" sectorid="D" indivs="20" pacs="5000" total="5020"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="450" pacs="3500" total="3950"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="52363" pacs="53500" total="105863"/>
+    <sector sector_name="Health" sectorid="H" indivs="14985" pacs="22125" total="37110"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="61640" pacs="10500" total="72140"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2550" pacs="7000" total="9550"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="51741" pacs="17500" total="69241"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="106500" total="106500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="125280" pacs="118398" total="243678"/>
+    <sector sector_name="Other" sectorid="W" indivs="108129" pacs="0" total="108129"/>
+  </sectors>
+</response>

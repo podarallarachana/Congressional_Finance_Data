@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Martha Roby (R)" cid="N00030768" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030768&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="14800" pacs="99252" total="114052"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="4500" pacs="16000" total="20500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="58550" pacs="23000" total="81550"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="55000" total="55000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="4250" pacs="21500" total="25750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="70900" pacs="92500" total="163400"/>
+    <sector sector_name="Health" sectorid="H" indivs="17234" pacs="29000" total="46234"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="32258" pacs="13500" total="45758"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="10000" pacs="27000" total="37000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="21708" pacs="35000" total="56708"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="6750" pacs="104505" total="111255"/>
+    <sector sector_name="Other" sectorid="W" indivs="53350" pacs="1300" total="54650"/>
+  </sectors>
+</response>

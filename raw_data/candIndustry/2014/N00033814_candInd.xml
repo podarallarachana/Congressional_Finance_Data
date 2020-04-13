@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Alex Mooney (R)" cid="N00033814" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033814&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="84542" pacs="107275" total="191817"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="172607" total="172607"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="119163" pacs="0" total="119163"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="70370" pacs="34500" total="104870"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="66751" pacs="3483" total="70234"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="60033" pacs="4100" total="64133"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="61500" total="61500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="58650" pacs="0" total="58650"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="24133" pacs="23000" total="47133"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="35608" pacs="0" total="35608"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jodey Arrington (R)" cid="N00038285" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00038285&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="135425" pacs="0" total="135425"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="80130" pacs="38700" total="118830"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="63797" pacs="20000" total="83797"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="82500" total="82500"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="41550" pacs="36000" total="77550"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="58950" pacs="13000" total="71950"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="49372" pacs="15500" total="64872"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="57624" pacs="5000" total="62624"/>
+    <industry industry_code="A06" industry_name="Livestock" indivs="35315" pacs="23500" total="58815"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="19400" pacs="14000" total="33400"/>
+  </industries>
+</response>

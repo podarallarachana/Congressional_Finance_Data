@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Adam Smith (D)" cid="N00007833" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007833&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="26500" pacs="79000" total="105500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="67360" pacs="2000" total="69360"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="37250" pacs="30250" total="67500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="43100" pacs="22200" total="65300"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="500" pacs="54000" total="54500"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="5800" pacs="42000" total="47800"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="6600" pacs="33000" total="39600"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="35500" total="35500"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="18500" pacs="14750" total="33250"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="32000" total="32000"/>
+  </industries>
+</response>

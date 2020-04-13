@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mark Pryor (D)" cid="N00013823" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00013823&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="268349" pacs="335500" total="603849"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="429825" pacs="443750" total="873575"/>
+    <sector sector_name="Construction" sectorid="C" indivs="133875" pacs="76000" total="209875"/>
+    <sector sector_name="Defense" sectorid="D" indivs="3001" pacs="96500" total="99501"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="237619" pacs="255750" total="493369"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="731378" pacs="318700" total="1050078"/>
+    <sector sector_name="Health" sectorid="H" indivs="295662" pacs="382000" total="677662"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1684467" pacs="217218" total="1901685"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="181900" pacs="275000" total="456900"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="537970" pacs="433600" total="971570"/>
+    <sector sector_name="Labor" sectorid="P" indivs="2710" pacs="354000" total="356710"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="220800" pacs="642790" total="863590"/>
+    <sector sector_name="Other" sectorid="W" indivs="687498" pacs="13000" total="700498"/>
+  </sectors>
+</response>

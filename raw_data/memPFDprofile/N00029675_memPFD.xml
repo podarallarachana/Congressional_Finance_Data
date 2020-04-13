@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="Guthrie, Brett" data_year="2016" member_id="N00029675" net_low="1722027" net_high="4017998" positions_held_count="3" asset_count="3" asset_low="1872027" asset_high="4083000" transaction_count="21" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00029675" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="1371025" holdings_high="3068000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Lowell M Guthrie Irrevocable Trust" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="US Bank Account Checking/Savings" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Northern Mid Cap Index" tx_date="monthly" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="T Rowe Price Balanced Fudn" tx_date="monthly" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Northern Equity" tx_date="monthly" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Cohen &amp; Steers Dividend Value Fund" tx_date="monthly" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Wells Fargo First Eagle Sogan Global" tx_date="Jun  3 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Advisory Board Member" organization="Center for Gifted Studies at Western KU"/>
+      <position title="Advisory Board Member" organization="Potter Children's Home"/>
+      <position title="Advisory Board Member" organization="Western Kentucky University"/>
+    </positions>
+  </member_profile>
+</response>

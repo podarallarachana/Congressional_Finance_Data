@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Patrick Meehan (R)" cid="N00031134" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031134&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="6400" pacs="17500" total="23900"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="32050" pacs="105196" total="137246"/>
+    <sector sector_name="Construction" sectorid="C" indivs="65650" pacs="61000" total="126650"/>
+    <sector sector_name="Defense" sectorid="D" indivs="8900" pacs="36000" total="44900"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="31500" pacs="124370" total="155870"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="174775" pacs="383090" total="557865"/>
+    <sector sector_name="Health" sectorid="H" indivs="54135" pacs="296450" total="350585"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="185200" pacs="49200" total="234400"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="12850" pacs="83000" total="95850"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="65350" pacs="169217" total="234567"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="94500" total="94500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="25591" pacs="110049" total="135640"/>
+    <sector sector_name="Other" sectorid="W" indivs="41900" pacs="0" total="41900"/>
+  </sectors>
+</response>

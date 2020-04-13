@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00030191" net_low="1961060" net_high="7819000" positions_held_count="0" asset_count="25" asset_low="1961060" asset_high="7819000" transaction_count="8" tx_low="5" tx_high="5000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030191" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="1783036" holdings_high="7074000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Ameren Corp" holdings_low="15001" holdings_high="50000" industry="Electric Utilities" sector="Energy/Nat Resource" subsidiary_of=""/>
+      <asset name="Dominion Energy" holdings_low="15001" holdings_high="50000" industry="Electric Utilities" sector="Energy/Nat Resource" subsidiary_of=""/>
+      <asset name="Morgan Stanley" holdings_low="15001" holdings_high="50000" industry="Securities &amp; Investment" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Nationwide Annuity" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Old Saybrook" tx_date="Dec  3 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Mass Commonwealth" tx_date="Dec  3 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="JEA - Fla" tx_date="Dec  3 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Birmingham AL Bond" tx_date="Dec  3 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="NV Energy" tx_date="Dec 20 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

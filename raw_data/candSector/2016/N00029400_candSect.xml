@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Michelle Lujan Grisham (D)" cid="N00029400" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029400&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="11700" pacs="43500" total="55200"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="24710" pacs="22500" total="47210"/>
+    <sector sector_name="Construction" sectorid="C" indivs="-5070" pacs="8500" total="3430"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2175" pacs="25500" total="27675"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="21700" pacs="39500" total="61200"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="61288" pacs="131500" total="192788"/>
+    <sector sector_name="Health" sectorid="H" indivs="40185" pacs="185400" total="225585"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="221327" pacs="17750" total="239077"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="12400" pacs="17000" total="29400"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="149760" pacs="40500" total="190260"/>
+    <sector sector_name="Labor" sectorid="P" indivs="324" pacs="179000" total="179324"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="38210" pacs="53000" total="91210"/>
+    <sector sector_name="Other" sectorid="W" indivs="140407" pacs="5000" total="145407"/>
+  </sectors>
+</response>

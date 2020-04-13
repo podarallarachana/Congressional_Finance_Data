@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Charlie Dent (R)" cid="N00026171" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026171&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="11950" pacs="15904" total="27854"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="14449" pacs="52500" total="66949"/>
+    <sector sector_name="Construction" sectorid="C" indivs="24700" pacs="98000" total="122700"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="50000" total="50000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="8400" pacs="78000" total="86400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="63415" pacs="107300" total="170715"/>
+    <sector sector_name="Health" sectorid="H" indivs="49200" pacs="266650" total="315850"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="79450" pacs="26750" total="106200"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="30750" pacs="59250" total="90000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="67740" pacs="157500" total="225240"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="52500" total="52500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="25800" pacs="78631" total="104431"/>
+    <sector sector_name="Other" sectorid="W" indivs="77575" pacs="3000" total="80575"/>
+  </sectors>
+</response>

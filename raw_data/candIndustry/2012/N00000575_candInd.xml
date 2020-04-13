@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John B Larson (D)" cid="N00000575" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000575&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F09" industry_name="Insurance" indivs="50050" pacs="156000" total="206050"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="88178" pacs="31900" total="120078"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="16500" pacs="90750" total="107250"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="47200" pacs="45398" total="92598"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="36679" pacs="55250" total="91929"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="60500" total="60500"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="24700" pacs="33500" total="58200"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="50200" pacs="1500" total="51700"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="50500" total="50500"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="6300" pacs="41000" total="47300"/>
+  </industries>
+</response>

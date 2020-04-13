@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Paul Ryan (R)" cid="N00004357" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00004357&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="75900" pacs="43750" total="119650"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="58300" pacs="85621" total="143921"/>
+    <sector sector_name="Construction" sectorid="C" indivs="79350" pacs="36500" total="115850"/>
+    <sector sector_name="Defense" sectorid="D" indivs="200" pacs="32500" total="32700"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="42950" pacs="63350" total="106300"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="521975" pacs="388500" total="910475"/>
+    <sector sector_name="Health" sectorid="H" indivs="112519" pacs="264650" total="377169"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="107875" pacs="28250" total="136125"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="48550" pacs="70299" total="118849"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="249625" pacs="152500" total="402125"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="28000" total="28000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="161335" pacs="56500" total="217835"/>
+    <sector sector_name="Other" sectorid="W" indivs="503504" pacs="6500" total="510004"/>
+  </sectors>
+</response>

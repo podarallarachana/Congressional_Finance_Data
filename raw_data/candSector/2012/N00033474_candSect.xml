@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Suzanne Bonamici (D)" cid="N00033474" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033474&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="10300" pacs="24500" total="34800"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="60655" pacs="22000" total="82655"/>
+    <sector sector_name="Construction" sectorid="C" indivs="9000" pacs="16000" total="25000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1250" pacs="14500" total="15750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="9250" pacs="9500" total="18750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="61495" pacs="45500" total="106995"/>
+    <sector sector_name="Health" sectorid="H" indivs="50800" pacs="49000" total="99800"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="293080" pacs="25414" total="318494"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="15000" pacs="18000" total="33000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="91607" pacs="27000" total="118607"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1000" pacs="263000" total="264000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="97991" pacs="218585" total="316576"/>
+    <sector sector_name="Other" sectorid="W" indivs="190467" pacs="0" total="190467"/>
+  </sectors>
+</response>

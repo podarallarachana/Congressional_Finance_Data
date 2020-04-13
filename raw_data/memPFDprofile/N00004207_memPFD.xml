@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="Harkin, Tom" data_year="2016" member_id="N00004207" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00004207" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="ConocoPhillips" tx_date="Mar 27 2013" tx_action="Sold" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Guggenheim Long Short Equity H Fund" tx_date="May 20 2013" tx_action="Sold" value_low="250001" value_high="500000"/>
+      <transaction asset_name="HDV - iShares High Dividend" tx_date="Feb 20 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Pimco All Asset All Authority Fund" tx_date="Mar 27 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Phillips 66" tx_date="Mar 27 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+    </transactions>
+  </member_profile>
+</response>

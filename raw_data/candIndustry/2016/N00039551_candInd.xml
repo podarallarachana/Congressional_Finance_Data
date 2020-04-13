@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ted Budd (R)" cid="N00039551" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00039551&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="13200" pacs="58000" total="71200"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="44950" pacs="0" total="44950"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="33723" pacs="5000" total="38723"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="23500" total="23500"/>
+    <industry industry_code="M03" industry_name="Trucking" indivs="18600" pacs="0" total="18600"/>
+    <industry industry_code="Q13" industry_name="Gun Rights" indivs="8900" pacs="7000" total="15900"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="11900" pacs="2500" total="14400"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="7950" pacs="5000" total="12950"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="7800" pacs="5000" total="12800"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="1500" pacs="10000" total="11500"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Michael F Bennet (D)" cid="N00030608" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030608&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1269183" pacs="147401" total="1416584"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="1310974" pacs="100000" total="1410974"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="686270" pacs="0" total="686270"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="495470" pacs="90500" total="585970"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="334412" pacs="17000" total="351412"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="250" pacs="345262" total="345512"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="317907" pacs="14500" total="332407"/>
+    <industry industry_code="W04" industry_name="Education" indivs="303955" pacs="25100" total="329055"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="311051" pacs="14000" total="325051"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="272166" pacs="28000" total="300166"/>
+  </industries>
+</response>

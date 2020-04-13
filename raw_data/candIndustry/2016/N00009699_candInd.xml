@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Pat Tiberi (R)" cid="N00009699" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009699&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="79160" pacs="304400" total="383560"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="27085" pacs="216100" total="243185"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="26100" pacs="210904" total="237004"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="90750" pacs="145950" total="236700"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="75885" pacs="143000" total="218885"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="112990" pacs="96500" total="209490"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="181203" pacs="500" total="181703"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="96005" pacs="70500" total="166505"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="20950" pacs="102800" total="123750"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="7475" pacs="111600" total="119075"/>
+  </industries>
+</response>

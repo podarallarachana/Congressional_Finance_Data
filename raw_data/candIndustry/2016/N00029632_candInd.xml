@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Gregg Harper (R)" cid="N00029632" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029632&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="19250" pacs="76000" total="95250"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="21550" pacs="38500" total="60050"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="27000" pacs="18500" total="45500"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="1000" pacs="44000" total="45000"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="7500" pacs="32000" total="39500"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="5000" pacs="29000" total="34000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="18850" pacs="10000" total="28850"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="5100" pacs="23000" total="28100"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="27500" total="27500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="25300" pacs="0" total="25300"/>
+  </industries>
+</response>

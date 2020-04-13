@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Lou Barletta (R)" cid="N00025495" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00025495&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="2300" pacs="15000" total="17300"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="5620" pacs="23500" total="29120"/>
+    <sector sector_name="Construction" sectorid="C" indivs="37075" pacs="47617" total="84692"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="4000" total="4000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5550" pacs="51000" total="56550"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="50696" pacs="90500" total="141196"/>
+    <sector sector_name="Health" sectorid="H" indivs="38300" pacs="30000" total="68300"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="38765" pacs="3250" total="42015"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="29875" pacs="85764" total="115639"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="62862" pacs="67525" total="130387"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="48500" total="48500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="8047" pacs="132387" total="140434"/>
+    <sector sector_name="Other" sectorid="W" indivs="60680" pacs="2500" total="63180"/>
+  </sectors>
+</response>

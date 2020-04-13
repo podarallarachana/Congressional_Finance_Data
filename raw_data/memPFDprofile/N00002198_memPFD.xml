@@ -1,0 +1,17 @@
+<response>
+  <member_profile name="Rahall, Nick" data_year="2016" member_id="N00002198" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00002198" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="NJR Charitable Remainder Unit Trust" tx_date="" tx_action="Purchased" value_low="100001" value_high="250000"/>
+      <transaction asset_name="NJR Charitable Remainder Unit Trust" tx_date="" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="76.57, 82 &amp; 2.2 Acre Tracts/Sampson Co" tx_date="Feb 22 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Wells Fargo Advisors Account" tx_date="" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Amgen Inc" tx_date="2013-05-30 00:00:00.000" tx_action="Sold" value_low="26200" value_high="26200"/>
+    </transactions>
+    <positions>
+      <position title="Member (Uncompensated)" organization="American Task Force for Lebanon Board of Directors"/>
+      <position title="Partner (Uncompensated)" organization="Atlantic Equine Services LLC"/>
+      <position title="Vice President &amp; Secretary (Uncompensated)" organization="EGR Industries"/>
+      <position title="Member (Uncompensated)" organization="Professional Advisory Board of ALSAC/St Jude's Ch"/>
+    </positions>
+  </member_profile>
+</response>

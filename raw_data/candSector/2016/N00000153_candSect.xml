@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Richard E Neal (D)" cid="N00000153" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00000153&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1000" pacs="14000" total="15000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="6600" pacs="89000" total="95600"/>
+    <sector sector_name="Construction" sectorid="C" indivs="3750" pacs="57500" total="61250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="51500" total="51500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="2500" pacs="32750" total="35250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="200631" pacs="579500" total="780131"/>
+    <sector sector_name="Health" sectorid="H" indivs="19700" pacs="231450" total="251150"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="57850" pacs="33570" total="91420"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2550" pacs="57500" total="60050"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="25300" pacs="143562" total="168862"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="65000" total="65000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="3500" pacs="15500" total="19000"/>
+    <sector sector_name="Other" sectorid="W" indivs="8450" pacs="1000" total="9450"/>
+  </sectors>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Carol Shea-Porter (D)" cid="N00028091" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00028091&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="7134" pacs="0" total="7134"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="50309" pacs="0" total="50309"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1523" pacs="0" total="1523"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1133" pacs="0" total="1133"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5704" pacs="0" total="5704"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="59936" pacs="0" total="59936"/>
+    <sector sector_name="Health" sectorid="H" indivs="26594" pacs="2000" total="28594"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="13040" pacs="-1000" total="12040"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1979" pacs="0" total="1979"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="33476" pacs="0" total="33476"/>
+    <sector sector_name="Labor" sectorid="P" indivs="16" pacs="219250" total="219266"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="310704" pacs="254098" total="564802"/>
+    <sector sector_name="Other" sectorid="W" indivs="198413" pacs="1000" total="199413"/>
+  </sectors>
+</response>

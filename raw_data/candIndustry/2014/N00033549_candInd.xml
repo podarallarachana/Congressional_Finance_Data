@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mark Pocan (D)" cid="N00033549" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033549&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="75000" total="75000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="1700" pacs="68000" total="69700"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="50000" total="50000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="3800" pacs="42000" total="45800"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="27310" pacs="11478" total="38788"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="5750" pacs="30075" total="35825"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="30500" total="30500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="28770" pacs="0" total="28770"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="26500" total="26500"/>
+    <industry industry_code="W04" industry_name="Education" indivs="17597" pacs="3500" total="21097"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jeff Merkley (D)" cid="N00029303" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029303&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="402905" pacs="85698" total="488603"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="425274" pacs="0" total="425274"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="399600" total="399600"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="214006" pacs="25500" total="239506"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="101116" pacs="102500" total="203616"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="116498" pacs="82000" total="198498"/>
+    <industry industry_code="W04" industry_name="Education" indivs="168598" pacs="3000" total="171598"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="127118" pacs="18681" total="145799"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="8550" pacs="136500" total="145050"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="130125" pacs="10000" total="140125"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Gary Peters (D)" cid="N00029277" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029277&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="135175" pacs="52000" total="187175"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="6000" pacs="119600" total="125600"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="23550" pacs="100500" total="124050"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="29800" pacs="59199" total="88999"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="59950" pacs="27700" total="87650"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="1200" pacs="73000" total="74200"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="52850" pacs="10500" total="63350"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="14650" pacs="47999" total="62649"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="250" pacs="61000" total="61250"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="55000" total="55000"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mike Rogers (R)" cid="N00009668" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009668&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="7650" pacs="21500" total="29150"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="36600" pacs="190500" total="227100"/>
+    <sector sector_name="Construction" sectorid="C" indivs="9650" pacs="26000" total="35650"/>
+    <sector sector_name="Defense" sectorid="D" indivs="14750" pacs="117500" total="132250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="9850" pacs="120750" total="130600"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="73340" pacs="189877" total="263217"/>
+    <sector sector_name="Health" sectorid="H" indivs="62650" pacs="329999" total="392649"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="43343" pacs="22250" total="65593"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="20700" pacs="64000" total="84700"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="80975" pacs="92500" total="173475"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="3500" total="3500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="-14900" pacs="30102" total="15202"/>
+    <sector sector_name="Other" sectorid="W" indivs="39200" pacs="0" total="39200"/>
+  </sectors>
+</response>

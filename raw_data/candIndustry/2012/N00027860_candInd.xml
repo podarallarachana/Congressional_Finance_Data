@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tammy Duckworth (D)" cid="N00027860" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027860&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="361967" pacs="24860" total="386827"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="325725" pacs="28000" total="353725"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="247571" pacs="0" total="247571"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="118850" pacs="8500" total="127350"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1500" pacs="120500" total="122000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="99628" pacs="4000" total="103628"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="101632" pacs="0" total="101632"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="70600" pacs="14500" total="85100"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="42392" pacs="42500" total="84892"/>
+    <industry industry_code="W04" industry_name="Education" indivs="63094" pacs="5000" total="68094"/>
+  </industries>
+</response>

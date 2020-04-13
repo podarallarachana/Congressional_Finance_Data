@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="McCaskill, Claire" data_year="2016" member_id="N00027694" net_low="51271456" net_high="72536037" positions_held_count="0" asset_count="384" asset_low="51271456" asset_high="72536037" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00027694" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="SPDR S&amp;P 500 ETF Trust" holdings_low="2101005" holdings_high="2222002" industry="" sector="" subsidiary_of=""/>
+      <asset name="Berkshire Hathaway" holdings_low="2100004" holdings_high="2200002" industry="Securities &amp; Investment" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="SPDR S&amp;P MidCap 400 ETF" holdings_low="2030004" holdings_high="2101002" industry="" sector="" subsidiary_of=""/>
+      <asset name="iShares Russell 2000 ETF" holdings_low="2016004" holdings_high="2071002" industry="" sector="" subsidiary_of=""/>
+      <asset name="PowerShares QQQ ETF" holdings_low="2003005" holdings_high="2051002" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="SPDR S&amp;P 500 ETF" tx_date="Jul  2 2013" tx_action="Purchased" value_low="1000001" value_high="1000001"/>
+      <transaction asset_name="Birch Consulting LLC" tx_date="Jul 22 2013" tx_action="Purchased" value_low="1000001" value_high="1000001"/>
+      <transaction asset_name="Fisher Funds" tx_date="Jul 22 2013" tx_action="Exchanged" value_low="1000001" value_high="1000001"/>
+      <transaction asset_name="Standard &amp; Poors Mid Cap 400" tx_date="Jul  2 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="iShares Trust MSCI EAFE Fund" tx_date="Jul 12 2013" tx_action="Purchased" value_low="250001" value_high="500000"/>
+    </transactions>
+  </member_profile>
+</response>

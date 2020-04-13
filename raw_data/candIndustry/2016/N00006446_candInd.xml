@@ -1,0 +1,15 @@
+<response>
+  <industries cand_name="Matt Salmon (R)" cid="N00006446" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006446&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="13550" pacs="8000" total="21550"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="20431" pacs="0" total="20431"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="1000" pacs="17210" total="18210"/>
+    <industry industry_code="W04" industry_name="Education" indivs="8000" pacs="9750" total="17750"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="8100" pacs="8500" total="16600"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="12170" pacs="3858" total="16028"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="1500" pacs="13500" total="15000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="10651" pacs="2000" total="12651"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="10800" pacs="1000" total="11800"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="1500" pacs="8000" total="9500"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="9500" total="9500"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John Boozman (R)" cid="N00013873" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00013873&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="216815" pacs="113500" total="330315"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="316034" total="316034"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="288674" pacs="0" total="288674"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="202950" pacs="66500" total="269450"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="87300" pacs="107250" total="194550"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="131891" pacs="53000" total="184891"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="60230" pacs="92000" total="152230"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="47700" pacs="79000" total="126700"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="61250" pacs="63937" total="125187"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="67165" pacs="56375" total="123540"/>
+  </industries>
+</response>

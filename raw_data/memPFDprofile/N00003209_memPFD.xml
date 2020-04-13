@@ -1,0 +1,9 @@
+<response>
+  <member_profile name="Duncan, John J Jr" data_year="2016" member_id="N00003209" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00003209" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Citigroup Cap VIII Trust" tx_date="Apr 16 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Walgreen Co" tx_date="Dec 27 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Northrop Grumman" tx_date="Apr 24 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

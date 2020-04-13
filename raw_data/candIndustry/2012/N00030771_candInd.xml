@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Paul Gosar (R)" cid="N00030771" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030771&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="216781" pacs="82000" total="298781"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="65397" total="65397"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="35566" pacs="0" total="35566"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="6500" pacs="28000" total="34500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="19800" pacs="6750" total="26550"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="23750" pacs="1000" total="24750"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="24750" pacs="0" total="24750"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="13250" pacs="10000" total="23250"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="16700" pacs="5000" total="21700"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="8000" pacs="13000" total="21000"/>
+  </industries>
+</response>

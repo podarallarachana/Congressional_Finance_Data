@@ -1,0 +1,25 @@
+<response>
+  <member_profile name="Kelly, Mike" data_year="2016" member_id="N00031647" net_low="10385150" net_high="29680000" positions_held_count="5" asset_count="93" asset_low="10385150" asset_high="29680000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031647" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="7178055" holdings_high="21695000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Growth ETF" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Value Index ETF" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Eaton Vance Global Macro Fund" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="T Rowe Price Growth Stock Fund" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Eaton Vance Global Macro Absolute Return Fund" tx_date="Jul 19 2013" tx_action="Sold" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Fidelity Advisor Floating High Income Fund #279" tx_date="Dec 24 2013" tx_action="Sold" value_low="250001" value_high="500000"/>
+      <transaction asset_name="SPDR Dow Jones REIT ETF" tx_date="Dec 24 2013" tx_action="Sold" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Blackrock Funds Equity Dividend Institutional" tx_date="May  3 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Diamond Hill Long-Short Fund" tx_date="Jul 19 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+    </transactions>
+    <positions>
+      <position title="Board Member Emeritus" organization="Hundai Hope on Wheels"/>
+      <position title="President" organization="Kelly Chevrolet Cadillac"/>
+      <position title="Board Member Emeritus" organization="Maridon Museum"/>
+      <position title="General Partner" organization="Mike Kelly Automotive"/>
+      <position title="President" organization="Mike Kelly Hyundai"/>
+    </positions>
+  </member_profile>
+</response>

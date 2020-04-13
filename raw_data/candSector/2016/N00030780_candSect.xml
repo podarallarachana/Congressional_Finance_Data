@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Cory Gardner (R)" cid="N00030780" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030780&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="357582" pacs="251800" total="609382"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="212398" pacs="269200" total="481598"/>
+    <sector sector_name="Construction" sectorid="C" indivs="289722" pacs="89600" total="379322"/>
+    <sector sector_name="Defense" sectorid="D" indivs="17900" pacs="36000" total="53900"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="721413" pacs="483450" total="1204863"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1868108" pacs="244100" total="2112208"/>
+    <sector sector_name="Health" sectorid="H" indivs="234258" pacs="246500" total="480758"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="427798" pacs="40440" total="468238"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="157790" pacs="93000" total="250790"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="755671" pacs="324207" total="1079878"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="14500" total="14500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="415659" pacs="550579" total="966238"/>
+    <sector sector_name="Other" sectorid="W" indivs="1584616" pacs="32500" total="1617116"/>
+  </sectors>
+</response>

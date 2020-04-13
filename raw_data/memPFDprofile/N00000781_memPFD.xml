@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Pallone, Frank Jr" data_year="2016" member_id="N00000781" net_low="1434124" net_high="4484000" positions_held_count="0" asset_count="102" asset_low="1449124" asset_high="4494000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00000781" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Rose Marie Hospodor IRA Trust" holdings_low="350002" holdings_high="750000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Residential Real Estate/M Pallone Estate" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Russell Invest US Strategic Equity Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="AAM HIGH 50 DIVIDEND STRATEGY 2016-4Q" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Russell US Small Cap Equity Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Advisors Asset Management High 50 Dividend Fund" tx_date="Apr  9 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Lord Abbett Investment Trust Short Durat" tx_date="Apr  9 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="SPDR Euro STOXX 50" tx_date="Jul 15 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Russell Invest US Strategic Equity Fund" tx_date="Apr 26 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Russell Strategic Bond Fund" tx_date="Apr 26 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

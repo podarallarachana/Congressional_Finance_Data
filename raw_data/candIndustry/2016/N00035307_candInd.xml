@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Brendan Boyle (D)" cid="N00035307" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035307&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="56950" pacs="19000" total="75950"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="60000" total="60000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="53012" total="53012"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="38750" pacs="7500" total="46250"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="9500" pacs="35500" total="45000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="33150" pacs="10500" total="43650"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="43000" total="43000"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="500" pacs="41500" total="42000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="40000" total="40000"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="15900" pacs="17500" total="33400"/>
+  </industries>
+</response>

@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Rand Paul (R)" cid="N00030836" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030836&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="185663" pacs="26785" total="212448"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="170875" pacs="76000" total="246875"/>
+    <sector sector_name="Construction" sectorid="C" indivs="187981" pacs="32000" total="219981"/>
+    <sector sector_name="Defense" sectorid="D" indivs="12080" pacs="5000" total="17080"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="232475" pacs="83750" total="316225"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="945384" pacs="152950" total="1098334"/>
+    <sector sector_name="Health" sectorid="H" indivs="609821" pacs="160000" total="769821"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="242920" pacs="26500" total="269420"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="131277" pacs="54500" total="185777"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="525347" pacs="112200" total="637547"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="524438" pacs="318254" total="842692"/>
+    <sector sector_name="Other" sectorid="W" indivs="927956" pacs="2000" total="929956"/>
+  </sectors>
+</response>

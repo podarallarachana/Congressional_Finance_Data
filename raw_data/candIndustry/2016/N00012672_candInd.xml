@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Steve Pearce (R)" cid="N00012672" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00012672&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="142150" pacs="82000" total="224150"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="112902" pacs="0" total="112902"/>
+    <industry industry_code="A06" industry_name="Livestock" indivs="102526" pacs="6000" total="108526"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="53343" pacs="21500" total="74843"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="27700" pacs="19500" total="47200"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="38350" pacs="7500" total="45850"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="14100" pacs="28000" total="42100"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="41650" pacs="0" total="41650"/>
+    <industry industry_code="E07" industry_name="Misc Energy" indivs="39464" pacs="1000" total="40464"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="7900" pacs="28000" total="35900"/>
+  </industries>
+</response>

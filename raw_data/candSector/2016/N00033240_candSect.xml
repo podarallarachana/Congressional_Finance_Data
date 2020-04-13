@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Raja Krishnamoorthi (D)" cid="N00033240" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033240&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="4810" pacs="12000" total="16810"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="105763" pacs="15500" total="121263"/>
+    <sector sector_name="Construction" sectorid="C" indivs="22430" pacs="6000" total="28430"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="5000" total="5500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="44600" pacs="4500" total="49100"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="291464" pacs="58500" total="349964"/>
+    <sector sector_name="Health" sectorid="H" indivs="451273" pacs="90000" total="541273"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="255673" pacs="6000" total="261673"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="3271" pacs="3000" total="6271"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="236781" pacs="34500" total="271281"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="157000" total="157000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="122245" pacs="112682" total="234927"/>
+    <sector sector_name="Other" sectorid="W" indivs="279342" pacs="0" total="279342"/>
+  </sectors>
+</response>

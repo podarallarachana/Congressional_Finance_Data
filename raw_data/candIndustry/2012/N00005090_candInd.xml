@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jo Ann Emerson (R)" cid="N00005090" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00005090&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="56262" pacs="62004" total="118266"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="82729" pacs="2000" total="84729"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="59500" total="59500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="55500" total="55500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="25178" pacs="24500" total="49678"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="8700" pacs="39000" total="47700"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="3200" pacs="40800" total="44000"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="12750" pacs="28500" total="41250"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="39000" total="39000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="16300" pacs="21750" total="38050"/>
+  </industries>
+</response>

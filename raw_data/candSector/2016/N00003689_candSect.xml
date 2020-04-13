@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Steve Chabot (R)" cid="N00003689" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00003689&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="22600" pacs="21500" total="44100"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="11950" pacs="63500" total="75450"/>
+    <sector sector_name="Construction" sectorid="C" indivs="21850" pacs="35700" total="57550"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="20000" total="20000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="2200" pacs="25000" total="27200"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="82811" pacs="120750" total="203561"/>
+    <sector sector_name="Health" sectorid="H" indivs="24250" pacs="13500" total="37750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="41300" pacs="16500" total="57800"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="17650" pacs="41177" total="58827"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="107800" pacs="117500" total="225300"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2250" pacs="39897" total="42147"/>
+    <sector sector_name="Other" sectorid="W" indivs="50190" pacs="0" total="50190"/>
+  </sectors>
+</response>

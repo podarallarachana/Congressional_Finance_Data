@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jerry McNerney (D)" cid="N00026926" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026926&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="12250" pacs="23000" total="35250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="87110" pacs="69333" total="156443"/>
+    <sector sector_name="Construction" sectorid="C" indivs="30050" pacs="8000" total="38050"/>
+    <sector sector_name="Defense" sectorid="D" indivs="10750" pacs="3000" total="13750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="37706" pacs="34500" total="72206"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="123822" pacs="32000" total="155822"/>
+    <sector sector_name="Health" sectorid="H" indivs="65369" pacs="61400" total="126769"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="170903" pacs="23250" total="194153"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="4500" pacs="8500" total="13000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="103889" pacs="24325" total="128214"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1450" pacs="275250" total="276700"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="147400" pacs="268434" total="415834"/>
+    <sector sector_name="Other" sectorid="W" indivs="300737" pacs="0" total="300737"/>
+  </sectors>
+</response>

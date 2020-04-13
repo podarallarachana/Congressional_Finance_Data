@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00035516" net_low="23138261" net_high="86306998" positions_held_count="2" asset_count="207" asset_low="33138261" asset_high="88307000" transaction_count="8" tx_low="4200008" tx_high="20400000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00035516" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Cardlytics Inc" holdings_low="3000004" holdings_high="12000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Georgia State GO" holdings_low="1250002" holdings_high="5500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Georgia State GO Bond" holdings_low="1250002" holdings_high="5500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Henry County, GA School District Bond" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Henry CNTY GA SCH DIST GO" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Director" organization="Alliant Energy"/>
+      <position title="Partner" organization="Aquila Group"/>
+      <position title="Director" organization="Cardlytics Inc"/>
+      <position title="Partner" organization="DBP Enterprises"/>
+      <position title="Director" organization="Easton-Bell Sports"/>
+    </positions>
+  </member_profile>
+</response>

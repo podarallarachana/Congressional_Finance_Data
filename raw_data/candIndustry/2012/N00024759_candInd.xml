@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mike D Rogers (R)" cid="N00024759" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00024759&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="40000" pacs="27500" total="67500"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="500" pacs="63500" total="64000"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="1000" pacs="46000" total="47000"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="3000" pacs="39500" total="42500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="16465" pacs="26000" total="42465"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="15200" pacs="20500" total="35700"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="17000" pacs="17500" total="34500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="9500" pacs="24500" total="34000"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="33000" total="33000"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="500" pacs="31500" total="32000"/>
+  </industries>
+</response>

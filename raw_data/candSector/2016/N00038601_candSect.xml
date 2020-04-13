@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jimmy Panetta (D)" cid="N00038601" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00038601&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="82457" pacs="56424" total="138881"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="16950" pacs="10500" total="27450"/>
+    <sector sector_name="Construction" sectorid="C" indivs="23228" pacs="5000" total="28228"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="11000" total="11500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="8000" pacs="15500" total="23500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="115146" pacs="39000" total="154146"/>
+    <sector sector_name="Health" sectorid="H" indivs="26347" pacs="17500" total="43847"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="118694" pacs="11000" total="129694"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="9200" pacs="23500" total="32700"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="77633" pacs="29000" total="106633"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="116750" total="116750"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="23292" pacs="71274" total="94566"/>
+    <sector sector_name="Other" sectorid="W" indivs="237033" pacs="0" total="237033"/>
+  </sectors>
+</response>

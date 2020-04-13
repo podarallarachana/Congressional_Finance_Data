@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Neugebauer, Randy" data_year="2016" member_id="N00026043" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00026043" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Empowerment Enterprises" tx_date="Nov  7 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Brokerage Account - Goldman Sachs (20) Maui Cnt" tx_date="Jan  8 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Brokerage Account - Goldman Sachs (19) Utah St" tx_date="Dec  9 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Brokerage Account - Goldman Sachs (18) Austin T" tx_date="Dec  6 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Lubbock Land Investment I LP" tx_date="Aug  1 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+    </transactions>
+    <positions>
+      <position title="Member" organization="Empowerment Enterprises"/>
+      <position title="Partner" organization="Kingdom Enterprises"/>
+      <position title="Nonofficer Shareholder" organization="LLI-Development Inc"/>
+      <position title="Officer" organization="Old Town Inc"/>
+      <position title="Partner" organization="Old Town Properties Ltd"/>
+    </positions>
+  </member_profile>
+</response>

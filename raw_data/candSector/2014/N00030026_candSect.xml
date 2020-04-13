@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Blaine Luetkemeyer (R)" cid="N00030026" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030026&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="38898" pacs="80000" total="118898"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="5600" pacs="32750" total="38350"/>
+    <sector sector_name="Construction" sectorid="C" indivs="18750" pacs="17000" total="35750"/>
+    <sector sector_name="Defense" sectorid="D" indivs="250" pacs="16000" total="16250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3750" pacs="50000" total="53750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="110070" pacs="418761" total="528831"/>
+    <sector sector_name="Health" sectorid="H" indivs="13200" pacs="48500" total="61700"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="33350" pacs="15000" total="48350"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="20096" pacs="28000" total="48096"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="83448" pacs="49500" total="132948"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="500" pacs="38500" total="39000"/>
+    <sector sector_name="Other" sectorid="W" indivs="52240" pacs="1000" total="53240"/>
+  </sectors>
+</response>

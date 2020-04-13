@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tom Cole (R)" cid="N00025726" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00025726&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="15000" pacs="85148" total="100148"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="7650" pacs="22000" total="29650"/>
+    <sector sector_name="Construction" sectorid="C" indivs="19300" pacs="32000" total="51300"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1000" pacs="104000" total="105000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="44800" pacs="114700" total="159500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="94707" pacs="143100" total="237807"/>
+    <sector sector_name="Health" sectorid="H" indivs="22022" pacs="131250" total="153272"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="110374" pacs="33669" total="144043"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="25150" pacs="50936" total="76086"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="48535" pacs="146000" total="194535"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="24000" total="24000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="172600" pacs="53693" total="226293"/>
+    <sector sector_name="Other" sectorid="W" indivs="85755" pacs="14500" total="100255"/>
+  </sectors>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jim Langevin (D)" cid="N00009724" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009724&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="2200" pacs="0" total="2200"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="12850" pacs="34500" total="47350"/>
+    <sector sector_name="Construction" sectorid="C" indivs="23700" pacs="17000" total="40700"/>
+    <sector sector_name="Defense" sectorid="D" indivs="33750" pacs="103500" total="137250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3850" pacs="4750" total="8600"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="57350" pacs="50500" total="107850"/>
+    <sector sector_name="Health" sectorid="H" indivs="35129" pacs="77100" total="112229"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="66975" pacs="17500" total="84475"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2000" pacs="7100" total="9100"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="30050" pacs="18000" total="48050"/>
+    <sector sector_name="Labor" sectorid="P" indivs="2250" pacs="171200" total="173450"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="16850" pacs="48550" total="65400"/>
+    <sector sector_name="Other" sectorid="W" indivs="55200" pacs="0" total="55200"/>
+  </sectors>
+</response>

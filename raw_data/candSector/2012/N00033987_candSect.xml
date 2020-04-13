@@ -1,0 +1,15 @@
+<response>
+  <sectors cand_name="Doug LaMalfa (R)" cid="N00033987" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033987&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="127390" pacs="44350" total="171740"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="0" pacs="11500" total="11500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5250" pacs="8250" total="13500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="4750" pacs="24000" total="28750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="9575" pacs="80000" total="89575"/>
+    <sector sector_name="Health" sectorid="H" indivs="11050" pacs="31000" total="42050"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="8050" pacs="250" total="8300"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="5800" pacs="33600" total="39400"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="44500" pacs="22000" total="66500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1000" pacs="95377" total="96377"/>
+    <sector sector_name="Other" sectorid="W" indivs="7807" pacs="0" total="7807"/>
+  </sectors>
+</response>

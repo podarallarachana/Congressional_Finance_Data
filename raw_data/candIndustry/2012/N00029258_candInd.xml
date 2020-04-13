@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Duncan D Hunter (R)" cid="N00029258" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029258&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="6800" pacs="56000" total="62800"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="2150" pacs="52000" total="54150"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="0" pacs="37000" total="37000"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="19050" pacs="16500" total="35550"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="15350" pacs="20000" total="35350"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="17715" pacs="17000" total="34715"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="2800" pacs="31900" total="34700"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="34352" pacs="0" total="34352"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="4250" pacs="30000" total="34250"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="28000" total="28000"/>
+  </industries>
+</response>

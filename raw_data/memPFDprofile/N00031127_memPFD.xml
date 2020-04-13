@@ -1,0 +1,25 @@
+<response>
+  <member_profile name="Renacci, Jim" data_year="2016" member_id="N00031127" net_low="34484549" net_high="94637000" positions_held_count="10" asset_count="21" asset_low="34484549" asset_high="94637000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031127" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="29770529" holdings_high="78927000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Hill Manor Real Estate LLC" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="HD Growth Investors" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="LTC Assoc" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="War-Ren Assoc" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="515 Properties LLC" tx_date="Jun 27 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Lewis Cnty Wash Pub Util Dist No 001 Cowlitz Falls" tx_date="2013-06-14 00:00:00.000" tx_action="Purchased" value_low="179191" value_high="179191"/>
+      <transaction asset_name="Pennsylvania Economic Dev Fing Unemployment" tx_date="2013-10-02 00:00:00.000" tx_action="Sold" value_low="160762" value_high="160762"/>
+      <transaction asset_name="Port Auth NY &amp; NJ Consolidated Bonds 179" tx_date="2013-11-22 00:00:00.000" tx_action="Purchased" value_low="147635" value_high="147635"/>
+      <transaction asset_name="New York Urban Dev Corp Rev Income Tax Rev Bds" tx_date="2013-09-18 00:00:00.000" tx_action="Purchased" value_low="145707" value_high="145707"/>
+    </transactions>
+    <positions>
+      <position title="Member" organization="515 Properties LLC"/>
+      <position title="Member" organization="Collegeview LLC"/>
+      <position title="Limited Partner &amp; Member" organization="Famiglia III LLC"/>
+      <position title="Limited Partner &amp; Member" organization="HD Growth Investors"/>
+      <position title="General Partner" organization="LTC Assoc"/>
+    </positions>
+  </member_profile>
+</response>

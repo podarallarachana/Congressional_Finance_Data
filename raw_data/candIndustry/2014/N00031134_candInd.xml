@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Patrick Meehan (R)" cid="N00031134" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031134&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="116599" pacs="51000" total="167599"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="68750" pacs="34000" total="102750"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="30650" pacs="69000" total="99650"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="11900" pacs="84000" total="95900"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="67550" pacs="19500" total="87050"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="6500" pacs="73500" total="80000"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="63500" total="63500"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="61500" total="61500"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="11300" pacs="49250" total="60550"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="13350" pacs="30850" total="44200"/>
+  </industries>
+</response>

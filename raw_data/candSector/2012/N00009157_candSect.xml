@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Doc Hastings (R)" cid="N00009157" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009157&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="92169" pacs="101120" total="193289"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="8950" pacs="24000" total="32950"/>
+    <sector sector_name="Construction" sectorid="C" indivs="63325" pacs="43500" total="106825"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1300" pacs="22500" total="23800"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="159453" pacs="215260" total="374713"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="27850" pacs="39000" total="66850"/>
+    <sector sector_name="Health" sectorid="H" indivs="19801" pacs="18900" total="38701"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="55978" pacs="29000" total="84978"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="32850" pacs="24500" total="57350"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="141174" pacs="30250" total="171424"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="15500" pacs="24000" total="39500"/>
+    <sector sector_name="Other" sectorid="W" indivs="60555" pacs="0" total="60555"/>
+  </sectors>
+</response>

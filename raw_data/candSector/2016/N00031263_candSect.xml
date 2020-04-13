@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Scott W Taylor (R)" cid="N00031263" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031263&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="5750" pacs="11500" total="17250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="5500" pacs="20000" total="25500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="26250" pacs="6500" total="32750"/>
+    <sector sector_name="Defense" sectorid="D" indivs="11150" pacs="25000" total="36150"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="8350" pacs="17000" total="25350"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="93800" pacs="32000" total="125800"/>
+    <sector sector_name="Health" sectorid="H" indivs="13500" pacs="10000" total="23500"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="15310" pacs="1500" total="16810"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="16850" pacs="30000" total="46850"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="44850" pacs="39000" total="83850"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="9420" pacs="107200" total="116620"/>
+    <sector sector_name="Other" sectorid="W" indivs="99405" pacs="0" total="99405"/>
+  </sectors>
+</response>

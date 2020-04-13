@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Chris Collins (R)" cid="N00001285" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00001285&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="14780" pacs="31750" total="46530"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="5505" pacs="104500" total="110005"/>
+    <sector sector_name="Construction" sectorid="C" indivs="18085" pacs="27000" total="45085"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="21500" total="21500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="17155" pacs="98200" total="115355"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="31260" pacs="55000" total="86260"/>
+    <sector sector_name="Health" sectorid="H" indivs="53400" pacs="216900" total="270300"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="37470" pacs="9750" total="47220"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2880" pacs="40500" total="43380"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="42770" pacs="75000" total="117770"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="25000" total="25000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="3050" pacs="49271" total="52321"/>
+    <sector sector_name="Other" sectorid="W" indivs="28810" pacs="0" total="28810"/>
+  </sectors>
+</response>

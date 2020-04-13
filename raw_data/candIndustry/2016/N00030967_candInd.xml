@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Sean P Duffy (R)" cid="N00030967" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030967&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="14655" pacs="223800" total="238455"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="51982" pacs="143500" total="195482"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="169759" pacs="0" total="169759"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="37170" pacs="100894" total="138064"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="42720" pacs="77500" total="120220"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="24650" pacs="49500" total="74150"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="42468" pacs="15350" total="57818"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="1350" pacs="50000" total="51350"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="39945" pacs="11000" total="50945"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="26895" pacs="22750" total="49645"/>
+  </industries>
+</response>

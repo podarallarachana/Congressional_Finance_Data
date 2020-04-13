@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mike McIntyre (D)" cid="N00002356" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00002356&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="69684" pacs="227000" total="296684"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="9200" pacs="72000" total="81200"/>
+    <sector sector_name="Construction" sectorid="C" indivs="25161" pacs="24500" total="49661"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="94624" total="95124"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="15200" pacs="74500" total="89700"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="94323" pacs="132000" total="226323"/>
+    <sector sector_name="Health" sectorid="H" indivs="76000" pacs="115000" total="191000"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="90152" pacs="61434" total="151586"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="15779" pacs="26500" total="42279"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="98450" pacs="93550" total="192000"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="160500" total="160500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="3850" pacs="207950" total="211800"/>
+    <sector sector_name="Other" sectorid="W" indivs="137266" pacs="17000" total="154266"/>
+  </sectors>
+</response>

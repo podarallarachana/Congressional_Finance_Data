@@ -1,0 +1,16 @@
+<response>
+  <member_profile name="Huizenga, Bill" data_year="2016" member_id="N00030673" net_low="340020" net_high="1753999" positions_held_count="1" asset_count="9" asset_low="840020" asset_high="2004000" transaction_count="9" tx_low="51009" tx_high="122000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030673" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="705012" holdings_high="1579000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Thrift Savings Plan" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Gentex Corp" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Johnson Controls" holdings_low="15001" holdings_high="50000" industry="Automotive" sector="Transportation" subsidiary_of="Johnson Controls International"/>
+      <asset name="Huntington Bank" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Officer" organization="Huizenga Gravel Co"/>
+      <position title="Member" organization="Lakeridge LLC"/>
+      <position title="Member" organization="Riverbend Llc"/>
+    </positions>
+  </member_profile>
+</response>

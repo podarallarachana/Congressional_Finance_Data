@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Nydia M Velazquez (D)" cid="N00001102" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001102&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="35920" pacs="10500" total="46420"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="41500" total="41500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="14650" pacs="26000" total="40650"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="36500" total="36500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="35500" total="35500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="35000" total="35000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="11800" pacs="15000" total="26800"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="0" pacs="25000" total="25000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="4000" pacs="19500" total="23500"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="21000" total="21000"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jared Polis (D)" cid="N00029127" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029127&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="110850" pacs="2500" total="113350"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="81011" pacs="0" total="81011"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="61565" pacs="-3000" total="58565"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="45380" pacs="0" total="45380"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="37660" pacs="0" total="37660"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="34700" pacs="0" total="34700"/>
+    <industry industry_code="B01" industry_name="Printing &amp; Publishing" indivs="32400" pacs="0" total="32400"/>
+    <industry industry_code="W02" industry_name="Non-Profit Institutions" indivs="21850" pacs="0" total="21850"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="19650" pacs="0" total="19650"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="16200" pacs="0" total="16200"/>
+  </industries>
+</response>

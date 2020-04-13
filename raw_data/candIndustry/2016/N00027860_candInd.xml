@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tammy Duckworth (D)" cid="N00027860" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027860&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="1279741" pacs="36635" total="1316376"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1205199" pacs="25900" total="1231099"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="1208777" pacs="0" total="1208777"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="704603" pacs="23031" total="727634"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="450781" pacs="11000" total="461781"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="386800" total="386800"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="301684" pacs="20850" total="322534"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="309146" pacs="13000" total="322146"/>
+    <industry industry_code="W04" industry_name="Education" indivs="302020" pacs="7500" total="309520"/>
+    <industry industry_code="Q11" industry_name="Environment" indivs="240232" pacs="19532" total="259764"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Bill Nelson (D)" cid="N00009926" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009926&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="241599" pacs="127200" total="368799"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="334874" pacs="250793" total="585667"/>
+    <sector sector_name="Construction" sectorid="C" indivs="235880" pacs="104500" total="340380"/>
+    <sector sector_name="Defense" sectorid="D" indivs="179967" pacs="111028" total="290995"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="117085" pacs="111750" total="228835"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1526262" pacs="345750" total="1872012"/>
+    <sector sector_name="Health" sectorid="H" indivs="907762" pacs="426194" total="1333956"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="2539891" pacs="221078" total="2760969"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="204610" pacs="269000" total="473610"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="818819" pacs="257200" total="1076019"/>
+    <sector sector_name="Labor" sectorid="P" indivs="2200" pacs="350750" total="352950"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="347094" pacs="501998" total="849092"/>
+    <sector sector_name="Other" sectorid="W" indivs="1291626" pacs="14500" total="1306126"/>
+  </sectors>
+</response>

@@ -1,0 +1,22 @@
+<response>
+  <member_profile name="Black, Diane" data_year="2016" member_id="N00031539" net_low="37973098" net_high="130095007" positions_held_count="1" asset_count="17" asset_low="37973098" asset_high="130095007" transaction_count="100" tx_low="75826079" tx_high="152150000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031539" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="34725073" holdings_high="125250005" industry="" sector="" subsidiary_of=""/>
+      <asset name="Aegis Sciences" holdings_low="1000001" holdings_high="1000001" industry="Health Services/HMOs" sector="Health" subsidiary_of="ABRY Partners"/>
+      <asset name="Hedgepremier/OZ DP II Fund II" holdings_low="1000001" holdings_high="1000001" industry="" sector="" subsidiary_of=""/>
+      <asset name="Bank deposits" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Bares Mid/Large Cap Series" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="BBH Limited Duration Fund" tx_date="Dec 17 2013" tx_action="Sold" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="BBH Limited Duration Fund" tx_date="Jun  4 2013" tx_action="Purchased" value_low="250001" value_high="500000"/>
+      <transaction asset_name="BBH Limited Duration Fund" tx_date="Jul 31 2013" tx_action="Sold" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Coatue Qualified Partners" tx_date="Aug  1 2013" tx_action="Purchased" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Anheuser-Busch Inbev" tx_date="Mar  1 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+    </transactions>
+    <positions>
+      <position title="Member" organization="Ebon Falcon LLC"/>
+      <position title="Limited Partner &amp; Member" organization="Empirical Capital Partners LP"/>
+    </positions>
+  </member_profile>
+</response>

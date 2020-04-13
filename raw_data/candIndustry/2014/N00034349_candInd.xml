@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Filemon Vela (D)" cid="N00034349" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034349&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="68050" pacs="11500" total="79550"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="44014" pacs="9000" total="53014"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="37500" total="37500"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="4650" pacs="32500" total="37150"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="32000" total="32000"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="5750" pacs="22000" total="27750"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="21143" pacs="6500" total="27643"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="5000" pacs="21500" total="26500"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="10200" pacs="14500" total="24700"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="20000" total="20000"/>
+  </industries>
+</response>

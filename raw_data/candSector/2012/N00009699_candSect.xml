@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Pat Tiberi (R)" cid="N00009699" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009699&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="7950" pacs="72500" total="80450"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="12960" pacs="86321" total="99281"/>
+    <sector sector_name="Construction" sectorid="C" indivs="68576" pacs="103800" total="172376"/>
+    <sector sector_name="Defense" sectorid="D" indivs="300" pacs="49000" total="49300"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="38000" pacs="154300" total="192300"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="372297" pacs="561344" total="933641"/>
+    <sector sector_name="Health" sectorid="H" indivs="54650" pacs="328875" total="383525"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="168682" pacs="66725" total="235407"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="30800" pacs="105000" total="135800"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="115790" pacs="307600" total="423390"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="95000" total="95000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="3500" pacs="54300" total="57800"/>
+    <sector sector_name="Other" sectorid="W" indivs="104344" pacs="4000" total="108344"/>
+  </sectors>
+</response>

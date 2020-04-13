@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John Carney (D)" cid="N00030736" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030736&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="5250" total="5250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="250" pacs="22500" total="22750"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5450" pacs="9000" total="14450"/>
+    <sector sector_name="Defense" sectorid="D" indivs="275" pacs="19000" total="19275"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="18750" total="18750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="66429" pacs="553949" total="620378"/>
+    <sector sector_name="Health" sectorid="H" indivs="11120" pacs="83448" total="94568"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="101400" pacs="23750" total="125150"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="550" pacs="4000" total="4550"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="30725" pacs="45004" total="75729"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="54000" total="54000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="3600" pacs="10000" total="13600"/>
+    <sector sector_name="Other" sectorid="W" indivs="27780" pacs="0" total="27780"/>
+  </sectors>
+</response>

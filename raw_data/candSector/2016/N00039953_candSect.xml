@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Clay Higgins (R)" cid="N00039953" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00039953&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="9985" pacs="0" total="9985"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="4250" pacs="2000" total="6250"/>
+    <sector sector_name="Construction" sectorid="C" indivs="18200" pacs="0" total="18200"/>
+    <sector sector_name="Defense" sectorid="D" indivs="330" pacs="0" total="330"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5950" pacs="0" total="5950"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="10150" pacs="2500" total="12650"/>
+    <sector sector_name="Health" sectorid="H" indivs="11181" pacs="1000" total="12181"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="17850" pacs="0" total="17850"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="12500" pacs="200" total="12700"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="18915" pacs="0" total="18915"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1750" pacs="55450" total="57200"/>
+    <sector sector_name="Other" sectorid="W" indivs="27035" pacs="0" total="27035"/>
+  </sectors>
+</response>

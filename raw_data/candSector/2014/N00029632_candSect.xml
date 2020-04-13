@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Gregg Harper (R)" cid="N00029632" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029632&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="17300" pacs="64000" total="81300"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="10000" pacs="57000" total="67000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="57750" pacs="6250" total="64000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5000" pacs="47000" total="52000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="75300" pacs="121000" total="196300"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="102450" pacs="62500" total="164950"/>
+    <sector sector_name="Health" sectorid="H" indivs="74250" pacs="66000" total="140250"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="61150" pacs="15000" total="76150"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="45050" pacs="27500" total="72550"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="60750" pacs="36100" total="96850"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="3000" pacs="23275" total="26275"/>
+    <sector sector_name="Other" sectorid="W" indivs="53850" pacs="1000" total="54850"/>
+  </sectors>
+</response>

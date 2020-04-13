@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="David Jolly (R)" cid="N00035717" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035717&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="22250" pacs="44700" total="66950"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="26006" pacs="10500" total="36506"/>
+    <sector sector_name="Construction" sectorid="C" indivs="29005" pacs="30500" total="59505"/>
+    <sector sector_name="Defense" sectorid="D" indivs="19300" pacs="81500" total="100800"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="34750" pacs="44000" total="78750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="325860" pacs="87250" total="413110"/>
+    <sector sector_name="Health" sectorid="H" indivs="59150" pacs="39500" total="98650"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="125691" pacs="18968" total="144659"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="7000" pacs="47000" total="54000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="120207" pacs="79450" total="199657"/>
+    <sector sector_name="Labor" sectorid="P" indivs="5400" pacs="41000" total="46400"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="37850" pacs="88800" total="126650"/>
+    <sector sector_name="Other" sectorid="W" indivs="156059" pacs="0" total="156059"/>
+  </sectors>
+</response>

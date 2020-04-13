@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Bill Owens (D)" cid="N00031011" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031011&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="12616" pacs="105750" total="118366"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="21806" pacs="58000" total="79806"/>
+    <sector sector_name="Construction" sectorid="C" indivs="22750" pacs="1000" total="23750"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1500" pacs="70124" total="71624"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="6625" pacs="46500" total="53125"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="117467" pacs="142000" total="259467"/>
+    <sector sector_name="Health" sectorid="H" indivs="43525" pacs="79750" total="123275"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="119899" pacs="23762" total="143661"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2900" pacs="28500" total="31400"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="43207" pacs="29000" total="72207"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1200" pacs="240000" total="241200"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="38037" pacs="245200" total="283237"/>
+    <sector sector_name="Other" sectorid="W" indivs="95610" pacs="1500" total="97110"/>
+  </sectors>
+</response>

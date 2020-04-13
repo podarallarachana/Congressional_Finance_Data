@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Raul M Grijalva (D)" cid="N00025284" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00025284&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="1745" pacs="51500" total="53245"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="52900" pacs="41" total="52941"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="49500" pacs="0" total="49500"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="38000" total="38000"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="32000" total="32000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="20950" pacs="10500" total="31450"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="30750" pacs="0" total="30750"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="29500" total="29500"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="29000" total="29000"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="22500" total="22500"/>
+  </industries>
+</response>

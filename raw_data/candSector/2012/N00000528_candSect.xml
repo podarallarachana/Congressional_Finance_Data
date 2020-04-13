@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Bernie Sanders (I)" cid="N00000528" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00000528&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="27090" pacs="33250" total="60340"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="92719" pacs="0" total="92719"/>
+    <sector sector_name="Construction" sectorid="C" indivs="14500" pacs="0" total="14500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1200" pacs="0" total="1200"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="8150" pacs="5500" total="13650"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="90525" pacs="20000" total="110525"/>
+    <sector sector_name="Health" sectorid="H" indivs="74809" pacs="41500" total="116309"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="100999" pacs="12000" total="112999"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="8150" pacs="0" total="8150"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="84650" pacs="2000" total="86650"/>
+    <sector sector_name="Labor" sectorid="P" indivs="6110" pacs="283950" total="290060"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="316576" pacs="109970" total="426546"/>
+    <sector sector_name="Other" sectorid="W" indivs="611590" pacs="7500" total="619090"/>
+  </sectors>
+</response>

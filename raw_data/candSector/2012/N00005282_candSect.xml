@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jerry Moran (R)" cid="N00005282" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00005282&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="319163" pacs="407932" total="727095"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="58493" pacs="107912" total="166405"/>
+    <sector sector_name="Construction" sectorid="C" indivs="115533" pacs="71900" total="187433"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="20000" total="20000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="136250" pacs="108400" total="244650"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="470360" pacs="262400" total="732760"/>
+    <sector sector_name="Health" sectorid="H" indivs="155704" pacs="169897" total="325601"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="232830" pacs="33500" total="266330"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="137967" pacs="208476" total="346443"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="246021" pacs="129250" total="375271"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="35000" total="35000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="53250" pacs="182642" total="235892"/>
+    <sector sector_name="Other" sectorid="W" indivs="209130" pacs="2500" total="211630"/>
+  </sectors>
+</response>

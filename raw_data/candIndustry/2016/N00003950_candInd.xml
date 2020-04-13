@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Sander Levin (D)" cid="N00003950" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00003950&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="1400" pacs="149500" total="150900"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="6550" pacs="126500" total="133050"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="67000" total="67000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="29700" pacs="36500" total="66200"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="8950" pacs="44500" total="53450"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="250" pacs="48000" total="48250"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="45500" total="45500"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="45000" total="45000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="44500" total="44500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="5250" pacs="33000" total="38250"/>
+  </industries>
+</response>

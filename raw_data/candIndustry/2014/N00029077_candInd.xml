@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Lynn Jenkins (R)" cid="N00029077" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029077&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="230348" total="230348"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="36358" pacs="145000" total="181358"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="70500" pacs="74500" total="145000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="15250" pacs="119500" total="134750"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="35750" pacs="67800" total="103550"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="55394" pacs="45500" total="100894"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="31800" pacs="47848" total="79648"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="42150" pacs="29500" total="71650"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="8000" pacs="54000" total="62000"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="31450" pacs="30000" total="61450"/>
+  </industries>
+</response>

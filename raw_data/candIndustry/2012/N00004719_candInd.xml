@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Peter Roskam (R)" cid="N00004719" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00004719&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="123402" pacs="104000" total="227402"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="38450" pacs="184750" total="223200"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="41000" pacs="135500" total="176500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="129800" pacs="0" total="129800"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="10700" pacs="111716" total="122416"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="44900" pacs="61000" total="105900"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="50973" pacs="43500" total="94473"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="86018" pacs="4862" total="90880"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="31850" pacs="51000" total="82850"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="15150" pacs="54000" total="69150"/>
+  </industries>
+</response>

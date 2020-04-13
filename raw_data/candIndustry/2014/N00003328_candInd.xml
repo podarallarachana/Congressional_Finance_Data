@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Thad Cochran (R)" cid="N00003328" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00003328&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="263925" pacs="239350" total="503275"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="463300" total="463300"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="151700" pacs="138500" total="290200"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="21000" pacs="210500" total="231500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="220775" pacs="6001" total="226776"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="85505" pacs="141000" total="226505"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="65800" pacs="151500" total="217300"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="182254" pacs="0" total="182254"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="52509" pacs="107150" total="159659"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="33200" pacs="121300" total="154500"/>
+  </industries>
+</response>

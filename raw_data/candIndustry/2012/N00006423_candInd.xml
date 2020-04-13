@@ -1,0 +1,15 @@
+<response>
+  <industries cand_name="Trent Franks (R)" cid="N00006423" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006423&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="1000" pacs="37500" total="38500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="22500" pacs="0" total="22500"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="21550" pacs="0" total="21550"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="3000" pacs="15000" total="18000"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="3400" pacs="11500" total="14900"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="5400" pacs="6000" total="11400"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="5600" pacs="5000" total="10600"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="0" pacs="10500" total="10500"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="0" pacs="10000" total="10000"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="6500" pacs="3000" total="9500"/>
+    <industry industry_code="B13" industry_name="Internet" indivs="0" pacs="9500" total="9500"/>
+  </industries>
+</response>

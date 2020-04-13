@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Cynthia Marie Lummis (R)" cid="N00029788" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029788&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="29200" pacs="44250" total="73450"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="800" pacs="30250" total="31050"/>
+    <sector sector_name="Construction" sectorid="C" indivs="1000" pacs="11250" total="12250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="4000" total="4000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="56350" pacs="137500" total="193850"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="36400" pacs="35000" total="71400"/>
+    <sector sector_name="Health" sectorid="H" indivs="9910" pacs="23000" total="32910"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="9750" pacs="3000" total="12750"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="6250" pacs="25898" total="32148"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="14840" pacs="35000" total="49840"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="3500" pacs="36677" total="40177"/>
+    <sector sector_name="Other" sectorid="W" indivs="50930" pacs="500" total="51430"/>
+  </sectors>
+</response>

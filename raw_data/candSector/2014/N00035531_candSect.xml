@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Evan Jenkins (R)" cid="N00035531" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035531&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="11350" pacs="3650" total="15000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="13700" pacs="2500" total="16200"/>
+    <sector sector_name="Construction" sectorid="C" indivs="73508" pacs="10000" total="83508"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="179273" pacs="60000" total="239273"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="89683" pacs="19000" total="108683"/>
+    <sector sector_name="Health" sectorid="H" indivs="204376" pacs="80250" total="284626"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="71000" pacs="250" total="71250"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="46883" pacs="10000" total="56883"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="78857" pacs="27000" total="105857"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="18900" pacs="236365" total="255265"/>
+    <sector sector_name="Other" sectorid="W" indivs="96881" pacs="0" total="96881"/>
+  </sectors>
+</response>

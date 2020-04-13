@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jim Langevin (D)" cid="N00009724" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009724&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="72883" pacs="23500" total="96383"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="22550" pacs="42500" total="65050"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="55050" total="55050"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="800" pacs="47400" total="48200"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="250" pacs="46000" total="46250"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="45545" pacs="0" total="45545"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="7300" pacs="34500" total="41800"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="26100" pacs="10000" total="36100"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="23200" pacs="8500" total="31700"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="17944" pacs="10500" total="28444"/>
+  </industries>
+</response>

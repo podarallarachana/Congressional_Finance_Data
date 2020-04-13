@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Amy Klobuchar (D)" cid="N00027500" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027500&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="786304" pacs="158910" total="945214"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="494006" pacs="0" total="494006"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="322677" total="322677"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="283766" pacs="37500" total="321266"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="260730" pacs="22100" total="282830"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="95775" pacs="129650" total="225425"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="157961" pacs="45000" total="202961"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="187016" pacs="15594" total="202610"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="129633" pacs="63700" total="193333"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="153166" pacs="21500" total="174666"/>
+  </industries>
+</response>

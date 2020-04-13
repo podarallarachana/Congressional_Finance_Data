@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Thornberry, Mac" data_year="2016" member_id="N00006052" net_low="131005" net_high="1114999" positions_held_count="0" asset_count="5" asset_low="631005" asset_high="1365000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00006052" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Thornberry Brothers Cattle Partnership" holdings_low="500001" holdings_high="1000000" industry="Livestock" sector="Agribusiness" subsidiary_of=""/>
+      <asset name="T3 Cattle" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="1716 HIGH 50 DIV STGY 12/18/17" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Congressional Federal Credit Union" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="TACTICAL PLUS CLSD-END" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Wells Fargo Stable Value J" tx_date="Monthly" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="American Funds American Balanced Fund" tx_date="Monthly" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Partner" organization="Thornberry Brothers"/>
+    </positions>
+  </member_profile>
+</response>

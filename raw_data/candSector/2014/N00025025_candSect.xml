@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jim Gerlach (R)" cid="N00025025" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00025025&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="9950" pacs="7000" total="16950"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="11600" pacs="29000" total="40600"/>
+    <sector sector_name="Construction" sectorid="C" indivs="15500" pacs="25000" total="40500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="13000" total="13000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="7350" pacs="57250" total="64600"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="71999" pacs="174000" total="245999"/>
+    <sector sector_name="Health" sectorid="H" indivs="22400" pacs="195974" total="218374"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="42741" pacs="24700" total="67441"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="9400" pacs="24000" total="33400"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="35300" pacs="64499" total="99799"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="17500" total="17500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="8600" pacs="21437" total="30037"/>
+    <sector sector_name="Other" sectorid="W" indivs="38900" pacs="2000" total="40900"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Cresent Hardy (R)" cid="N00035628" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035628&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="27300" pacs="17500" total="44800"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="35500" total="35500"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="23450" pacs="1000" total="24450"/>
+    <industry industry_code="C03" industry_name="Special Trade Contractors" indivs="24386" pacs="0" total="24386"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="23600" pacs="0" total="23600"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="14750" pacs="2000" total="16750"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="12800" pacs="0" total="12800"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="6450" pacs="6000" total="12450"/>
+    <industry industry_code="N06" industry_name="Recreation/Live Entertainment" indivs="10400" pacs="0" total="10400"/>
+    <industry industry_code="E10" industry_name="Waste Management" indivs="10400" pacs="0" total="10400"/>
+  </industries>
+</response>

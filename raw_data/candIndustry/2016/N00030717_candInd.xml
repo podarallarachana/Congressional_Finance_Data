@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ami Bera (D)" cid="N00030717" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030717&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="328990" pacs="0" total="328990"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="89992" pacs="221150" total="311142"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="260635" pacs="18648" total="279283"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="2700" pacs="241983" total="244683"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="154750" pacs="9500" total="164250"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="100925" pacs="48600" total="149525"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="125833" pacs="17685" total="143518"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="24450" pacs="93250" total="117700"/>
+    <industry industry_code="W04" industry_name="Education" indivs="116944" pacs="0" total="116944"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="87894" pacs="18500" total="106394"/>
+  </industries>
+</response>

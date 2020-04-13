@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Joe Manchin (D)" cid="N00032838" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00032838&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="E04" industry_name="Mining" indivs="257350" pacs="86500" total="343850"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="259000" pacs="76750" total="335750"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="122500" pacs="146750" total="269250"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="221500" total="221500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="171518" pacs="16220" total="187738"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="68300" pacs="114500" total="182800"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="61300" pacs="118250" total="179550"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="30100" pacs="145500" total="175600"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="91100" pacs="73000" total="164100"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="85001" pacs="47500" total="132501"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Joni Ernst (R)" cid="N00035483" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035483&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="105043" pacs="176200" total="281243"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="27775" pacs="55600" total="83375"/>
+    <sector sector_name="Construction" sectorid="C" indivs="51950" pacs="58100" total="110050"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1550" pacs="23000" total="24550"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="90055" pacs="177500" total="267555"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="450265" pacs="184500" total="634765"/>
+    <sector sector_name="Health" sectorid="H" indivs="48490" pacs="47500" total="95990"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="78215" pacs="27250" total="105465"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="50165" pacs="91846" total="142011"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="189400" pacs="230099" total="419499"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1500" total="1500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="131660" pacs="541034" total="672694"/>
+    <sector sector_name="Other" sectorid="W" indivs="296102" pacs="7250" total="303352"/>
+  </sectors>
+</response>

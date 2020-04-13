@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Brad Wenstrup (R)" cid="N00033310" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033310&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="3000" pacs="11000" total="14000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="7750" pacs="8000" total="15750"/>
+    <sector sector_name="Construction" sectorid="C" indivs="14026" pacs="17000" total="31026"/>
+    <sector sector_name="Defense" sectorid="D" indivs="250" pacs="5000" total="5250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5250" pacs="30500" total="35750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="96800" pacs="53300" total="150100"/>
+    <sector sector_name="Health" sectorid="H" indivs="108597" pacs="52500" total="161097"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="32150" pacs="4000" total="36150"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="15300" pacs="18000" total="33300"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="78414" pacs="33500" total="111914"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="3250" total="3250"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2750" pacs="49546" total="52296"/>
+    <sector sector_name="Other" sectorid="W" indivs="49600" pacs="1000" total="50600"/>
+  </sectors>
+</response>

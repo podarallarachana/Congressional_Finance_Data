@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="William Enyart (D)" cid="N00034884" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034884&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="273294" pacs="27000" total="300294"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="194250" total="194250"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="81000" total="81000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="75250" total="75250"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="3750" pacs="67250" total="71000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="58000" total="58000"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="43000" pacs="12736" total="55736"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="54498" total="54498"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="47000" total="47000"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="3950" pacs="33000" total="36950"/>
+  </industries>
+</response>

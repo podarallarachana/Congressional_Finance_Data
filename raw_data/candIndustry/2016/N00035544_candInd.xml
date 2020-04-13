@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ben Sasse (R)" cid="N00035544" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035544&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="620207" pacs="83495" total="703702"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="416388" pacs="52500" total="468888"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="386747" pacs="0" total="386747"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="72850" pacs="141460" total="214310"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="196382" total="196382"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="158238" pacs="29500" total="187738"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="106085" pacs="76500" total="182585"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="127050" pacs="53750" total="180800"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="106388" pacs="57600" total="163988"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="151150" pacs="3600" total="154750"/>
+  </industries>
+</response>

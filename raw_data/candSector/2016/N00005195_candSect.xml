@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Roy Blunt (R)" cid="N00005195" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00005195&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="489994" pacs="443648" total="933642"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="256150" pacs="403900" total="660050"/>
+    <sector sector_name="Construction" sectorid="C" indivs="317126" pacs="179900" total="497026"/>
+    <sector sector_name="Defense" sectorid="D" indivs="60566" pacs="170500" total="231066"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="366153" pacs="425800" total="791953"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1971837" pacs="852300" total="2824137"/>
+    <sector sector_name="Health" sectorid="H" indivs="654338" pacs="699500" total="1353838"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="955103" pacs="219288" total="1174391"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="452683" pacs="378600" total="831283"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="1082657" pacs="714500" total="1797157"/>
+    <sector sector_name="Labor" sectorid="P" indivs="500" pacs="74500" total="75000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="428487" pacs="801543" total="1230030"/>
+    <sector sector_name="Other" sectorid="W" indivs="997273" pacs="45000" total="1042273"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Lamar Alexander (R)" cid="N00009888" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00009888&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="323633" pacs="30500" total="354133"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="345966" pacs="0" total="345966"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="269100" pacs="73750" total="342850"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="291550" total="291550"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="237549" pacs="37000" total="274549"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="127800" pacs="60500" total="188300"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="178200" pacs="9000" total="187200"/>
+    <industry industry_code="W04" industry_name="Education" indivs="142950" pacs="21900" total="164850"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="23300" pacs="134400" total="157700"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="61750" pacs="91000" total="152750"/>
+  </industries>
+</response>

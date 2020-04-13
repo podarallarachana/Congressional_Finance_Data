@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Bill Pascrell Jr (D)" cid="N00000751" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00000751&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="9400" pacs="4500" total="13900"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="13900" pacs="20500" total="34400"/>
+    <sector sector_name="Construction" sectorid="C" indivs="44229" pacs="58500" total="102729"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2850" pacs="47500" total="50350"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="750" pacs="34500" total="35250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="84000" pacs="194000" total="278000"/>
+    <sector sector_name="Health" sectorid="H" indivs="49542" pacs="261150" total="310692"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="174035" pacs="33479" total="207514"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="30050" pacs="29500" total="59550"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="62500" pacs="73021" total="135521"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="198950" total="198950"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="6750" pacs="9750" total="16500"/>
+    <sector sector_name="Other" sectorid="W" indivs="43250" pacs="0" total="43250"/>
+  </sectors>
+</response>

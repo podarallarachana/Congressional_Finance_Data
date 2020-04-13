@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mike Rounds (R)" cid="N00035187" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035187&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="155697" pacs="98353" total="254050"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="99848" pacs="67500" total="167348"/>
+    <sector sector_name="Construction" sectorid="C" indivs="108600" pacs="41000" total="149600"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="17000" total="17000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="180500" pacs="239500" total="420000"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="745190" pacs="300850" total="1046040"/>
+    <sector sector_name="Health" sectorid="H" indivs="212404" pacs="131100" total="343504"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="195410" pacs="16500" total="211910"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="117850" pacs="89250" total="207100"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="408067" pacs="165500" total="573567"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="6000" total="6000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="108681" pacs="365150" total="473831"/>
+    <sector sector_name="Other" sectorid="W" indivs="426222" pacs="5000" total="431222"/>
+  </sectors>
+</response>

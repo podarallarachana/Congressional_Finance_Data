@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ed Royce (R)" cid="N00008264" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00008264&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="318949" pacs="91000" total="409949"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="194775" pacs="161000" total="355775"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="319800" pacs="0" total="319800"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="53350" pacs="232700" total="286050"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="163187" pacs="35500" total="198687"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="156775" pacs="41600" total="198375"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="114586" pacs="4300" total="118886"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="16900" pacs="86500" total="103400"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="76350" pacs="19500" total="95850"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="58165" pacs="23500" total="81665"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Chris Coons (D)" cid="N00031820" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031820&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="20159" pacs="40500" total="60659"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="191334" pacs="240457" total="431791"/>
+    <sector sector_name="Construction" sectorid="C" indivs="36127" pacs="27000" total="63127"/>
+    <sector sector_name="Defense" sectorid="D" indivs="501" pacs="58000" total="58501"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="39924" pacs="146250" total="186174"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="667506" pacs="480705" total="1148211"/>
+    <sector sector_name="Health" sectorid="H" indivs="134876" pacs="278000" total="412876"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1247180" pacs="174419" total="1421599"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="13206" pacs="86600" total="99806"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="245939" pacs="257000" total="502939"/>
+    <sector sector_name="Labor" sectorid="P" indivs="1025" pacs="158500" total="159525"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="198258" pacs="392617" total="590875"/>
+    <sector sector_name="Other" sectorid="W" indivs="171423" pacs="3000" total="174423"/>
+  </sectors>
+</response>

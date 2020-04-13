@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Hank Johnson (D)" cid="N00027848" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027848&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="31500" total="31500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="12550" pacs="17750" total="30300"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="30050" total="30050"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="23000" total="23000"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="22000" total="22000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="250" pacs="21500" total="21750"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="21000" total="21000"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="0" pacs="17500" total="17500"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="0" pacs="17000" total="17000"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="0" pacs="15500" total="15500"/>
+  </industries>
+</response>

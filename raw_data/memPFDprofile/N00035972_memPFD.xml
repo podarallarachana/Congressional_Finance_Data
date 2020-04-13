@@ -1,0 +1,17 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00035972" net_low="2650007" net_high="11724998" positions_held_count="0" asset_count="7" asset_low="2815007" asset_high="11800000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00035972" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Prudential Fixed Rate Annuity" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="John Hancock Fixed Rate Annuity" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Chisholm 550 LLP" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Thrift Savings Plan" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Starwood Resort" holdings_low="100001" holdings_high="250000" industry="Lodging/Tourism" sector="Misc Business" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Partner" organization="Ashcroft Law Firm"/>
+      <position title="Limited Partner" organization="Chisholm 550 LP"/>
+      <position title="Limited Partner" organization="Clicks Memphis LP"/>
+      <position title="Advisory Board Member" organization="Texas A&amp;M Engineering Extension Service"/>
+    </positions>
+  </member_profile>
+</response>

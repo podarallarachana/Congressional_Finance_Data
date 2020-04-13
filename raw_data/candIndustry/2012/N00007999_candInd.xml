@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Don Young (R)" cid="N00007999" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007999&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="118549" pacs="7109" total="125658"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="43000" pacs="39500" total="82500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="53140" pacs="0" total="53140"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="51000" total="51000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="17000" pacs="20219" total="37219"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="250" pacs="34500" total="34750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="29050" pacs="4000" total="33050"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="17499" pacs="15000" total="32499"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="8400" pacs="19000" total="27400"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="2750" pacs="22500" total="25250"/>
+  </industries>
+</response>

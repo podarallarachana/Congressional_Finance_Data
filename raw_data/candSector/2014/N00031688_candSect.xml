@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="John Hoeven (R)" cid="N00031688" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031688&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="79225" pacs="191300" total="270525"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="46265" pacs="100150" total="146415"/>
+    <sector sector_name="Construction" sectorid="C" indivs="180885" pacs="56500" total="237385"/>
+    <sector sector_name="Defense" sectorid="D" indivs="4800" pacs="37500" total="42300"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="417296" pacs="311373" total="728669"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="409720" pacs="257550" total="667270"/>
+    <sector sector_name="Health" sectorid="H" indivs="100460" pacs="170950" total="271410"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="138478" pacs="40637" total="179115"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="43550" pacs="89900" total="133450"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="290749" pacs="179542" total="470291"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="21600" total="21600"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="66935" pacs="271096" total="338031"/>
+    <sector sector_name="Other" sectorid="W" indivs="277110" pacs="2000" total="279110"/>
+  </sectors>
+</response>

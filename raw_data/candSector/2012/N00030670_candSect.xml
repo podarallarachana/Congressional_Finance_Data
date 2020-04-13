@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Todd Young (R)" cid="N00030670" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030670&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="36250" pacs="10000" total="46250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="17150" pacs="10500" total="27650"/>
+    <sector sector_name="Construction" sectorid="C" indivs="107136" pacs="16500" total="123636"/>
+    <sector sector_name="Defense" sectorid="D" indivs="3750" pacs="59000" total="62750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="73050" pacs="30500" total="103550"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="147799" pacs="38000" total="185799"/>
+    <sector sector_name="Health" sectorid="H" indivs="110884" pacs="58000" total="168884"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="64550" pacs="8500" total="73050"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="47550" pacs="19000" total="66550"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="153302" pacs="54500" total="207802"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="16115" pacs="56306" total="72421"/>
+    <sector sector_name="Other" sectorid="W" indivs="166940" pacs="0" total="166940"/>
+  </sectors>
+</response>

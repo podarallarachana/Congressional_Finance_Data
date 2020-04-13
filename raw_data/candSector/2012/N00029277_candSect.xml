@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Gary Peters (D)" cid="N00029277" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029277&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="5500" pacs="21500" total="27000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="15900" pacs="29500" total="45400"/>
+    <sector sector_name="Construction" sectorid="C" indivs="33400" pacs="6000" total="39400"/>
+    <sector sector_name="Defense" sectorid="D" indivs="800" pacs="10000" total="10800"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="9250" pacs="17000" total="26250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="99200" pacs="470798" total="569998"/>
+    <sector sector_name="Health" sectorid="H" indivs="127384" pacs="68200" total="195584"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="183175" pacs="57000" total="240175"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="32400" pacs="27801" total="60201"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="113350" pacs="59956" total="173306"/>
+    <sector sector_name="Labor" sectorid="P" indivs="900" pacs="190500" total="191400"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="86200" pacs="81500" total="167700"/>
+    <sector sector_name="Other" sectorid="W" indivs="104255" pacs="1100" total="105355"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Vance McAllister (R)" cid="N00035593" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035593&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="59300" total="59300"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="18200" pacs="17000" total="35200"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="14350" pacs="5000" total="19350"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="12400" pacs="6000" total="18400"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="14850" pacs="0" total="14850"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="8038" pacs="6500" total="14538"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="13949" pacs="0" total="13949"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="10400" pacs="0" total="10400"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="5500" pacs="2000" total="7500"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="7000" pacs="0" total="7000"/>
+  </industries>
+</response>

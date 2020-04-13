@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Barbara A Mikulski (D)" cid="N00001945" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001945&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="227941" pacs="66650" total="294591"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="228218" pacs="20345" total="248563"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="7650" pacs="208871" total="216521"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="170450" pacs="29500" total="199950"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="49234" pacs="144000" total="193234"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="186250" total="186250"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="131675" pacs="37500" total="169175"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="168640" pacs="0" total="168640"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="76185" pacs="84900" total="161085"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="105515" pacs="31000" total="136515"/>
+  </industries>
+</response>

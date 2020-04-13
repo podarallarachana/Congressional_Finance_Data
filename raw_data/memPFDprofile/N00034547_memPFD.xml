@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00034547" net_low="882055" net_high="2762999" positions_held_count="0" asset_count="45" asset_low="1132055" asset_high="2863000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00034547" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="211-18 34 Avenue" holdings_low="500001" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="1000 New Jersey Avenue SE" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Vanguard Total Stock Market Index Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="NY 529 Vanguard Plan DC1 Aggressive Growth" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="TIAA-CREF Retirement Annuity - TIAA Real Estate" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="MorganStanley MidCap Growth Portfolio" tx_date="Mar  7 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="MetLife Stock Index Portfolio" tx_date="Mar  7 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Black Rock Large Cap Core Portfolio" tx_date="Mar  7 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Black Rock Diversified Portfolio" tx_date="Mar  7 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Goldcorp Inc" tx_date="Jun 25 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

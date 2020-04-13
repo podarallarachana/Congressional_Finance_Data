@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Steven Horsford (D)" cid="N00033638" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033638&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="144450" total="144450"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="76268" pacs="33453" total="109721"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="92700" total="92700"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="44400" pacs="35500" total="79900"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="76000" total="76000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="35850" pacs="36000" total="71850"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="4250" pacs="60000" total="64250"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="11000" pacs="49500" total="60500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="59000" total="59000"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="58007" pacs="0" total="58007"/>
+  </industries>
+</response>

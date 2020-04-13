@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Frank Pallone Jr (D)" cid="N00000781" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000781&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="56850" pacs="341000" total="397850"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="13822" pacs="158250" total="172072"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="89200" pacs="51500" total="140700"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="101000" pacs="5000" total="106000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="52150" pacs="29000" total="81150"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="58450" pacs="10000" total="68450"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="66000" total="66000"/>
+    <industry industry_code="A09" industry_name="Food Processing &amp; Sales" indivs="55200" pacs="7000" total="62200"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="27450" pacs="34500" total="61950"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="13100" pacs="43000" total="56100"/>
+  </industries>
+</response>

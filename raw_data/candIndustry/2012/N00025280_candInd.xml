@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tim Ryan (D)" cid="N00025280" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00025280&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="55400" pacs="34000" total="89400"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="55000" total="55000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="51000" total="51000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="47500" total="47500"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="400" pacs="38000" total="38400"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="30500" total="30500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="24000" pacs="5000" total="29000"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="28000" total="28000"/>
+    <industry industry_code="N13" industry_name="Chemical &amp; Related Manufacturing" indivs="12000" pacs="14500" total="26500"/>
+    <industry industry_code="P05" industry_name="Misc Unions" indivs="0" pacs="21000" total="21000"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Corrine Brown (D)" cid="N00002713" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002713&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="56000" total="56000"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="2500" pacs="53000" total="55500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="33450" pacs="19600" total="53050"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="14800" pacs="6000" total="20800"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="15200" pacs="4000" total="19200"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="6700" pacs="12000" total="18700"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="12500" pacs="5000" total="17500"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="0" pacs="17500" total="17500"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="15000" total="15000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="11200" pacs="0" total="11200"/>
+  </industries>
+</response>

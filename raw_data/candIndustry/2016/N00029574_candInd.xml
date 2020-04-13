@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Steve Stivers (R)" cid="N00029574" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029574&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="49800" pacs="256500" total="306300"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="124800" pacs="139650" total="264450"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="95368" pacs="80500" total="175868"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="37600" pacs="129450" total="167050"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="9450" pacs="135350" total="144800"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="41250" pacs="62500" total="103750"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="51050" pacs="49550" total="100600"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="21500" pacs="79000" total="100500"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="60150" pacs="34200" total="94350"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="9600" pacs="77400" total="87000"/>
+  </industries>
+</response>

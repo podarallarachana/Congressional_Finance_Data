@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="David Price (D)" cid="N00002260" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002260&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="88800" pacs="0" total="88800"/>
+    <industry industry_code="W04" industry_name="Education" indivs="67250" pacs="0" total="67250"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="2500" pacs="56500" total="59000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="29950" pacs="27500" total="57450"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="39500" total="39500"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="18875" pacs="14500" total="33375"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="11850" pacs="19800" total="31650"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="0" pacs="30500" total="30500"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="350" pacs="29500" total="29850"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="18400" pacs="10000" total="28400"/>
+  </industries>
+</response>

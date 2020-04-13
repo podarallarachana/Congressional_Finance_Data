@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Andy Barr (R)" cid="N00031233" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031233&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="E04" industry_name="Mining" indivs="151960" pacs="64500" total="216460"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="106650" pacs="70500" total="177150"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="32242" pacs="122400" total="154642"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="149420" pacs="0" total="149420"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="41450" pacs="103250" total="144700"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="56005" pacs="84750" total="140755"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="57150" pacs="56240" total="113390"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="103058" total="103058"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="62236" pacs="15250" total="77486"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="49530" pacs="5500" total="55030"/>
+  </industries>
+</response>

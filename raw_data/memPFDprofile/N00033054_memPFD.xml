@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033054" net_low="7041035" net_high="26390000" positions_held_count="0" asset_count="35" asset_low="7041035" asset_high="26390000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033054" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Gen 7" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Gen 3" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Gen 5" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Gen 2" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Gen 4" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Sale of 4-Plexes Bozeman" tx_date="Sep 13 2013" tx_action="Sold" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Stifel Savings" tx_date="Jun 19 2013" tx_action="Sold" value_low="134146" value_high="134146"/>
+      <transaction asset_name="Stifel Savings" tx_date="Dec 10 2013" tx_action="Sold" value_low="132385" value_high="132385"/>
+      <transaction asset_name="Stifel Savings" tx_date="Jun 19 2013" tx_action="Sold" value_low="53071" value_high="53071"/>
+      <transaction asset_name="Genesis lot/Bozeman" tx_date="Sep 13 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+    </transactions>
+    <positions>
+      <position title="Member" organization="Genesis Partners"/>
+    </positions>
+  </member_profile>
+</response>

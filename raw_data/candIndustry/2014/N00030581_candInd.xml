@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mike Quigley (D)" cid="N00030581" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030581&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="79156" pacs="18000" total="97156"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="37350" pacs="17000" total="54350"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="39651" pacs="11500" total="51151"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="38500" total="38500"/>
+    <industry industry_code="N08" industry_name="Lodging/Tourism" indivs="0" pacs="31000" total="31000"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="2000" pacs="27000" total="29000"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="4000" pacs="20500" total="24500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="22500" total="22500"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="17400" pacs="5000" total="22400"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="22035" pacs="0" total="22035"/>
+  </industries>
+</response>

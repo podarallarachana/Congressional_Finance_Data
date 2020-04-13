@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Angus King (I)" cid="N00034580" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034580&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="307186" pacs="0" total="307186"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="262598" pacs="22000" total="284598"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="125894" pacs="9000" total="134894"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="46000" pacs="47000" total="93000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="77200" pacs="5000" total="82200"/>
+    <industry industry_code="W04" industry_name="Education" indivs="55823" pacs="0" total="55823"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="26000" pacs="22500" total="48500"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="48054" pacs="0" total="48054"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="47050" pacs="0" total="47050"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="29500" pacs="17000" total="46500"/>
+  </industries>
+</response>

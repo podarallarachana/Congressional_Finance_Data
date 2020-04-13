@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ander Crenshaw (R)" cid="N00012739" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00012739&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q10" industry_name="Misc Issues" indivs="87500" pacs="0" total="87500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="2000" pacs="69250" total="71250"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="4700" pacs="60000" total="64700"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="7250" pacs="55500" total="62750"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="49450" pacs="3459" total="52909"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="17450" pacs="29500" total="46950"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="11200" pacs="32000" total="43200"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="0" pacs="42125" total="42125"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="10250" pacs="27000" total="37250"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="500" pacs="33000" total="33500"/>
+  </industries>
+</response>

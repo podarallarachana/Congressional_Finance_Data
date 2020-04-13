@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Douglas L Lamborn (R)" cid="N00028133" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00028133&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1000" pacs="24500" total="25500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="1500" pacs="13500" total="15000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="2500" pacs="9000" total="11500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="81000" total="81500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="2850" pacs="79000" total="81850"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="42000" pacs="23000" total="65000"/>
+    <sector sector_name="Health" sectorid="H" indivs="4726" pacs="16000" total="20726"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="9250" pacs="3500" total="12750"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="2000" pacs="15500" total="17500"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="5750" pacs="11000" total="16750"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="31103" pacs="39912" total="71015"/>
+    <sector sector_name="Other" sectorid="W" indivs="21850" pacs="7300" total="29150"/>
+  </sectors>
+</response>

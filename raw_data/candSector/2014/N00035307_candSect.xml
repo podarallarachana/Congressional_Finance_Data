@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Brendan Boyle (D)" cid="N00035307" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035307&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1472" pacs="6500" total="7972"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="9738" pacs="10500" total="20238"/>
+    <sector sector_name="Construction" sectorid="C" indivs="17650" pacs="20500" total="38150"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3250" pacs="23300" total="26550"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="52800" pacs="52300" total="105100"/>
+    <sector sector_name="Health" sectorid="H" indivs="24890" pacs="54750" total="79640"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="84441" pacs="28613" total="113054"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1250" pacs="18000" total="19250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="57613" pacs="25000" total="82613"/>
+    <sector sector_name="Labor" sectorid="P" indivs="2000" pacs="217875" total="219875"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="23529" pacs="98840" total="122369"/>
+    <sector sector_name="Other" sectorid="W" indivs="76938" pacs="0" total="76938"/>
+  </sectors>
+</response>

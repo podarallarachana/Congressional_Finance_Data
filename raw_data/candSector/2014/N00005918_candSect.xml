@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Steve Stockman (R)" cid="N00005918" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00005918&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="2500" pacs="6500" total="9000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="500" pacs="9000" total="9500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="32900" pacs="8000" total="40900"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="9000" total="9000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="8800" pacs="19000" total="27800"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="20250" pacs="10500" total="30750"/>
+    <sector sector_name="Health" sectorid="H" indivs="9700" pacs="7000" total="16700"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="18050" pacs="6000" total="24050"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1750" pacs="9500" total="11250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="30800" pacs="5000" total="35800"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="2500" total="2500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="2500" pacs="29253" total="31753"/>
+    <sector sector_name="Other" sectorid="W" indivs="3500" pacs="0" total="3500"/>
+  </sectors>
+</response>

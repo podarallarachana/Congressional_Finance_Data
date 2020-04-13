@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Pat Roberts (R)" cid="N00005285" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00005285&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="157357" pacs="645051" total="802408"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="98180" pacs="186100" total="284280"/>
+    <sector sector_name="Construction" sectorid="C" indivs="220642" pacs="160600" total="381242"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1500" pacs="64000" total="65500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="270987" pacs="308450" total="579437"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="704116" pacs="641449" total="1345565"/>
+    <sector sector_name="Health" sectorid="H" indivs="231743" pacs="698999" total="930742"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="363791" pacs="136537" total="500328"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="92275" pacs="236500" total="328775"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="322910" pacs="352912" total="675822"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="9000" total="9000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="267707" pacs="609664" total="877371"/>
+    <sector sector_name="Other" sectorid="W" indivs="343391" pacs="22500" total="365891"/>
+  </sectors>
+</response>

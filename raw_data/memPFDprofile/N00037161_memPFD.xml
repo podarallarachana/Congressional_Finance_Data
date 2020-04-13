@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00037161" net_low="5243111" net_high="13469998" positions_held_count="16" asset_count="49" asset_low="6243111" asset_high="13970000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00037161" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Nevada Public Employees' Retirement System" holdings_low="1250005" holdings_high="2500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Undeveloped Land" holdings_low="1250005" holdings_high="2500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Town &amp; Country Bank Savings" holdings_low="750003" holdings_high="1500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Rental Property Rental Property" holdings_low="500002" holdings_high="1000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Schwab Money Market Fund" holdings_low="250003" holdings_high="600000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

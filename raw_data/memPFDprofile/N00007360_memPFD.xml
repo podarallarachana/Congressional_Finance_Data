@@ -1,0 +1,25 @@
+<response>
+  <member_profile name="Pelosi, Nancy" data_year="2016" member_id="N00007360" net_low="-21225953" net_high="138050987" positions_held_count="0" asset_count="44" asset_low="32824047" asset_high="150016000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00007360" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Russell Ranch LLC" holdings_low="5000001" holdings_high="25000000" industry="Livestock" sector="Agribusiness" subsidiary_of=""/>
+      <asset name="11 Zinfandel Lane - Home &amp; Vineyard" holdings_low="5000001" holdings_high="25000000" industry="Beer, Wine &amp; Liquor" sector="Misc Business" subsidiary_of=""/>
+      <asset name="25 Point Lobos - Commercial Property" holdings_low="5000001" holdings_high="25000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Nine Forty Five Battery LLC" holdings_low="5000001" holdings_high="25000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Apple Inc" holdings_low="1500002" holdings_high="6000000" industry="Electronics Mfg &amp; Equip" sector="Communic/Electronics" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="United Football League Sacramento Mountain Lions" tx_date="Aug  2 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+      <transaction asset_name="United Football League Sacramento Mountain Lions" tx_date="Jul 18 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="United Football League Sacramento Mountain Lions" tx_date="Oct 21 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="United Football League Sacramento Mountain Lions" tx_date="Sep 30 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Active Network Inc" tx_date="Nov 26 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+    </transactions>
+    <positions>
+      <position title="Honorary Advisory Board" organization="American University Women &amp; Politics Institute"/>
+      <position title="Board of Advisors" organization="Close Up Foundation"/>
+      <position title="Congressional Advisory Board" organization="International Women's Democracy Center"/>
+      <position title="Board of Trustees Member Ex Officio" organization="Kennedy Center for the Performing Arts"/>
+      <position title="Honorary Board of Advisors" organization="Lead America"/>
+    </positions>
+  </member_profile>
+</response>

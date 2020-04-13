@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Greg Walden (R)" cid="N00007690" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007690&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="43600" pacs="140000" total="183600"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="25050" pacs="155500" total="180550"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="89150" pacs="63757" total="152907"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="134737" pacs="0" total="134737"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="1950" pacs="124750" total="126700"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="16650" pacs="109348" total="125998"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="10150" pacs="98500" total="108650"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="12000" pacs="91000" total="103000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="95953" pacs="5000" total="100953"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="29650" pacs="69000" total="98650"/>
+  </industries>
+</response>

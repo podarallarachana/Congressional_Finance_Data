@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Frank A LoBiondo (R)" cid="N00000851" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00000851&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="10750" pacs="9500" total="20250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2875" pacs="10500" total="13375"/>
+    <sector sector_name="Construction" sectorid="C" indivs="42900" pacs="41000" total="83900"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2250" pacs="78500" total="80750"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="12200" pacs="29000" total="41200"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="61240" pacs="42700" total="103940"/>
+    <sector sector_name="Health" sectorid="H" indivs="25850" pacs="39500" total="65350"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="54850" pacs="9500" total="64350"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="68933" pacs="146000" total="214933"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="88550" pacs="45000" total="133550"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="226650" total="226650"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="29500" pacs="58600" total="88100"/>
+    <sector sector_name="Other" sectorid="W" indivs="25449" pacs="1000" total="26449"/>
+  </sectors>
+</response>

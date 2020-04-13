@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="Enzi, Mike" data_year="2016" member_id="N00006249" net_low="484033" net_high="1586000" positions_held_count="0" asset_count="31" asset_low="484033" asset_high="1586000" transaction_count="24" tx_low="349024" tx_high="1135000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00006249" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Jhancock Multimanager Lifestyle Balanced F" holdings_low="201003" holdings_high="515000" industry="" sector="" subsidiary_of=""/>
+      <asset name="EDWARD JONES Money Market Account" holdings_low="101002" holdings_high="265000" industry="" sector="" subsidiary_of=""/>
+      <asset name="TWCUX - American Century Ultra Inv" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="BIRMINGHAM ALABAMA Bond" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="LARAMIE COUNTY WYOMING HOSP Bond" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="BIRMINGHAM ALABAMA G/O Bond" tx_date="Mar 27 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+    </transactions>
+  </member_profile>
+</response>

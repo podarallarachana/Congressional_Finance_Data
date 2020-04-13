@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bill Posey (R)" cid="N00029662" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029662&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="97392" pacs="0" total="97392"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="21900" pacs="52000" total="73900"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="25700" pacs="27000" total="52700"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="26550" pacs="19500" total="46050"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="2500" pacs="43500" total="46000"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="9500" pacs="36500" total="46000"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="22000" pacs="19000" total="41000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="21000" pacs="16500" total="37500"/>
+    <industry industry_code="A02" industry_name="Tobacco" indivs="22700" pacs="13762" total="36462"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="3100" pacs="33000" total="36100"/>
+  </industries>
+</response>

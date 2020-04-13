@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="James M Inhofe (R)" cid="N00005582" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00005582&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="210100" pacs="268650" total="478750"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="250475" pacs="0" total="250475"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="3000" pacs="215024" total="218024"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="128681" pacs="9500" total="138181"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="5250" pacs="127100" total="132350"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="70625" pacs="60075" total="130700"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="14000" pacs="112000" total="126000"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="48775" pacs="62500" total="111275"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="78435" pacs="27500" total="105935"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="31400" pacs="73250" total="104650"/>
+  </industries>
+</response>

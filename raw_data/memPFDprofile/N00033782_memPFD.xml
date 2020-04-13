@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033782" net_low="2588067" net_high="6322000" positions_held_count="0" asset_count="58" asset_low="2588067" asset_high="6322000" transaction_count="7" tx_low="35007" tx_high="175000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033782" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Berkshire Hathaway" holdings_low="230004" holdings_high="600000" industry="Securities &amp; Investment" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Principal LifeTime 2015 R2" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Health Care Inv Fund" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Apple Inc" holdings_low="250001" holdings_high="500000" industry="Electronics Mfg &amp; Equip" sector="Communic/Electronics" subsidiary_of=""/>
+      <asset name="Fidelity Select Computers Portfolio" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Vanguard Health Care Inv Fund" tx_date="Dec 18 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="DWS Global Small Cap Fund" tx_date="Dec 26 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Janus Enterprise Fund" tx_date="Dec 19 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Vanguard Energy Fund" tx_date="Dec 18 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Baron Small Cap Retail Fund" tx_date="Nov 29 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

@@ -1,0 +1,15 @@
+<response>
+  <industries cand_name="Suzan DelBene (D)" cid="N00030693" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030693&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="92788" pacs="53784" total="146572"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="101999" pacs="16000" total="117999"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="92648" pacs="0" total="92648"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="42820" pacs="21000" total="63820"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="11615" pacs="50500" total="62115"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="17005" pacs="37000" total="54005"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="225" pacs="47500" total="47725"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="2750" pacs="44236" total="46986"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="17700" pacs="28000" total="45700"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="41650" pacs="0" total="41650"/>
+    <industry industry_code="B13" industry_name="Internet" indivs="20150" pacs="21500" total="41650"/>
+  </industries>
+</response>

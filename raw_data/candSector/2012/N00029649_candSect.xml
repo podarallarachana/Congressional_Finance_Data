@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jackie Speier (D)" cid="N00029649" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029649&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="3250" pacs="11000" total="14250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="11400" pacs="14500" total="25900"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5250" pacs="0" total="5250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="800" pacs="4500" total="5300"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="80750" pacs="60500" total="141250"/>
+    <sector sector_name="Health" sectorid="H" indivs="59155" pacs="84750" total="143905"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="44254" pacs="13500" total="57754"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="21500" pacs="15297" total="36797"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="19650" pacs="64963" total="84613"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="114000" total="114000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="11650" pacs="18750" total="30400"/>
+    <sector sector_name="Other" sectorid="W" indivs="118700" pacs="0" total="118700"/>
+  </sectors>
+</response>

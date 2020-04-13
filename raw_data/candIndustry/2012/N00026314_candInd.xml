@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Cathy McMorris Rodgers (R)" cid="N00026314" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026314&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="22920" pacs="135250" total="158170"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="74670" pacs="0" total="74670"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="45950" pacs="19500" total="65450"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="32924" pacs="31500" total="64424"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="20000" pacs="43500" total="63500"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="1500" pacs="59750" total="61250"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="3250" pacs="56500" total="59750"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="47736" pacs="1200" total="48936"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="15140" pacs="31000" total="46140"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="28000" pacs="17500" total="45500"/>
+  </industries>
+</response>

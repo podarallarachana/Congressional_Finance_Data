@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Steve Israel (D)" cid="N00013345" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00013345&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="40750" pacs="11000" total="51750"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="82200" pacs="76250" total="158450"/>
+    <sector sector_name="Construction" sectorid="C" indivs="59000" pacs="28000" total="87000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="10500" pacs="92750" total="103250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="18000" pacs="50250" total="68250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="537957" pacs="240175" total="778132"/>
+    <sector sector_name="Health" sectorid="H" indivs="115650" pacs="112000" total="227650"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="177843" pacs="25473" total="203316"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="15250" pacs="49000" total="64250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="256300" pacs="102550" total="358850"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="260100" total="260100"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="132750" pacs="23953" total="156703"/>
+    <sector sector_name="Other" sectorid="W" indivs="150111" pacs="5000" total="155111"/>
+  </sectors>
+</response>

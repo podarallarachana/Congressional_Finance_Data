@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="Sensenbrenner, Jim" data_year="2016" member_id="N00004291" net_low="0" net_high="0" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00004291" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="JPM Real Estate Fund" tx_date="2013-11-19 00:00:00.000" tx_action="Sold" value_low="66994" value_high="66994"/>
+      <transaction asset_name="PIMCO Unconstrained Bond Fund" tx_date="2013-06-18 00:00:00.000" tx_action="Sold" value_low="53200" value_high="53200"/>
+      <transaction asset_name="Kern County Calif Wtr Agy Impt Dist No 4 Wtr Rev" tx_date="2013-05-01 00:00:00.000" tx_action="Sold" value_low="50000" value_high="50000"/>
+      <transaction asset_name="Orange Cnty Calif Pub Fing Auth Lease Rev Ref Dtd" tx_date="2013-05-01 00:00:00.000" tx_action="Sold" value_low="50000" value_high="50000"/>
+      <transaction asset_name="San Lorenzo  Calif Uni Sch Dist Alameda Cnty Elect" tx_date="2013-08-01 00:00:00.000" tx_action="Sold" value_low="50000" value_high="50000"/>
+    </transactions>
+    <positions>
+      <position title="Trustee" organization="Sensenbrenner Family Trust"/>
+      <position title="Co-Trustee" organization="Separate trusts established for the benefit of Fra"/>
+    </positions>
+  </member_profile>
+</response>

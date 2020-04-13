@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Bob Goodlatte (R)" cid="N00009154" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009154&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="19503" pacs="103700" total="123203"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="75900" pacs="260833" total="336733"/>
+    <sector sector_name="Construction" sectorid="C" indivs="21150" pacs="25500" total="46650"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="15500" total="15500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="13700" pacs="56000" total="69700"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="94400" pacs="174500" total="268900"/>
+    <sector sector_name="Health" sectorid="H" indivs="18850" pacs="78750" total="97600"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="117508" pacs="42500" total="160008"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="12650" pacs="69000" total="81650"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="77139" pacs="109500" total="186639"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="11000" total="11000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="5800" pacs="40050" total="45850"/>
+    <sector sector_name="Other" sectorid="W" indivs="105575" pacs="1000" total="106575"/>
+  </sectors>
+</response>

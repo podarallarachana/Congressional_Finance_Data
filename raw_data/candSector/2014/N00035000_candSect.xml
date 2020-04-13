@@ -1,0 +1,14 @@
+<response>
+  <sectors cand_name="Stacey Plaskett (D)" cid="N00035000" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035000&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1000" pacs="0" total="1000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="5374" pacs="0" total="5374"/>
+    <sector sector_name="Construction" sectorid="C" indivs="4250" pacs="0" total="4250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="47650" pacs="2000" total="49650"/>
+    <sector sector_name="Health" sectorid="H" indivs="7100" pacs="1000" total="8100"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="32450" pacs="5250" total="37700"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="48113" pacs="9679" total="57792"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="0" pacs="37600" total="37600"/>
+    <sector sector_name="Other" sectorid="W" indivs="7850" pacs="0" total="7850"/>
+  </sectors>
+</response>

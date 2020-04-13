@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Henry Cuellar (D)" cid="N00024978" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00024978&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="37100" pacs="127629" total="164729"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="6400" pacs="37000" total="43400"/>
+    <sector sector_name="Construction" sectorid="C" indivs="39650" pacs="59000" total="98650"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1000" pacs="35000" total="36000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="27300" pacs="154202" total="181502"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="74650" pacs="145200" total="219850"/>
+    <sector sector_name="Health" sectorid="H" indivs="44497" pacs="51000" total="95497"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="85933" pacs="22450" total="108383"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="25650" pacs="106617" total="132267"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="95278" pacs="148190" total="243468"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="30500" total="30500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="6599" pacs="34500" total="41099"/>
+    <sector sector_name="Other" sectorid="W" indivs="32825" pacs="5000" total="37825"/>
+  </sectors>
+</response>

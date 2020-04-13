@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Julia Brownley (D)" cid="N00034254" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034254&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="218625" pacs="15000" total="233625"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="190656" pacs="0" total="190656"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="186266" total="186266"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="164180" pacs="2750" total="166930"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="107608" pacs="13000" total="120608"/>
+    <industry industry_code="Q10" industry_name="Misc Issues" indivs="81994" pacs="18500" total="100494"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="91505" total="91505"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="67240" pacs="21200" total="88440"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="20109" pacs="67000" total="87109"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="78900" total="78900"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Raul Labrador (R)" cid="N00031377" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031377&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="38150" pacs="0" total="38150"/>
+    <industry industry_code="A06" industry_name="Livestock" indivs="25550" pacs="5000" total="30550"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="5750" pacs="20350" total="26100"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="12400" pacs="6000" total="18400"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="7850" pacs="9250" total="17100"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="13900" pacs="2000" total="15900"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="0" pacs="15000" total="15000"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="7700" pacs="6000" total="13700"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="500" pacs="12600" total="13100"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="12900" pacs="0" total="12900"/>
+  </industries>
+</response>

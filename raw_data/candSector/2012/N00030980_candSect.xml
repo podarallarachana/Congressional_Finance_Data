@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Kelly Ayotte (R)" cid="N00030980" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030980&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="39400" pacs="60050" total="99450"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="165768" pacs="138501" total="304269"/>
+    <sector sector_name="Construction" sectorid="C" indivs="114638" pacs="42000" total="156638"/>
+    <sector sector_name="Defense" sectorid="D" indivs="9600" pacs="61000" total="70600"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="179208" pacs="151150" total="330358"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="1148283" pacs="323210" total="1471493"/>
+    <sector sector_name="Health" sectorid="H" indivs="169510" pacs="245749" total="415259"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="475895" pacs="33500" total="509395"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="70201" pacs="106500" total="176701"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="452458" pacs="243800" total="696258"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="5000" total="5000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="181692" pacs="341529" total="523221"/>
+    <sector sector_name="Other" sectorid="W" indivs="452004" pacs="2000" total="454004"/>
+  </sectors>
+</response>

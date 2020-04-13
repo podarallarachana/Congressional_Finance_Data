@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00036018" net_low="18857049" net_high="227874986" positions_held_count="0" asset_count="47" asset_low="48207049" asset_high="235005000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00036018" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Don Beyer Motors Inc., 38% Interest" holdings_low="5000001" holdings_high="25000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Pacific Boulevard LLC" holdings_low="5000001" holdings_high="25000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Garden of Eden LLC" holdings_low="5000001" holdings_high="25000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Old Brown LLC" holdings_low="5000001" holdings_high="25000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Quonset Hut LLC" holdings_low="5000001" holdings_high="25000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Board member" organization="American Security Project"/>
+      <position title="Board member" organization="Center for Arms Control &amp; Nonproliferation"/>
+    </positions>
+  </member_profile>
+</response>

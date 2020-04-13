@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Devin Nunes (R)" cid="N00007248" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00007248&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="272496" pacs="152700" total="425196"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="4350" pacs="97635" total="101985"/>
+    <sector sector_name="Construction" sectorid="C" indivs="20500" pacs="35500" total="56000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="64000" total="64500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="17850" pacs="129249" total="147099"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="62600" pacs="352700" total="415300"/>
+    <sector sector_name="Health" sectorid="H" indivs="24300" pacs="254750" total="279050"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="60800" pacs="33875" total="94675"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="6000" pacs="62718" total="68718"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="102650" pacs="181548" total="284198"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="4400" pacs="33184" total="37584"/>
+    <sector sector_name="Other" sectorid="W" indivs="16871" pacs="1000" total="17871"/>
+  </sectors>
+</response>

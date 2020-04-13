@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="Capuano, Michael E" data_year="2016" member_id="N00000267" net_low="1882044" net_high="4406000" positions_held_count="0" asset_count="42" asset_low="1882044" asset_high="4406000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00000267" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="High Street Realty Trust" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Central Street/Somerville, MA" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="CT&amp;M LLC" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Savings Bank Life Insurance" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Schwab S&amp;P 500 Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Schwab S&amp;P 500 Fund" tx_date="Jul 31 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Schwab Health Care Fund" tx_date="Mar 20 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

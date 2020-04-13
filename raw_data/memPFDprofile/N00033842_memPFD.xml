@@ -1,0 +1,14 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033842" net_low="-330986" net_high="384998" positions_held_count="0" asset_count="14" asset_low="169014" asset_high="585000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033842" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Verisk Analytics" holdings_low="100001" holdings_high="250000" industry="Business Services" sector="Misc Business" subsidiary_of=""/>
+      <asset name="Bank of American Fork" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="JP Morgan SmartRetirement 2040 I" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="T Rowe Price New Horizons Fund" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Chase Bank/Savings" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Mayor" organization="City of Saratoga Springs"/>
+    </positions>
+  </member_profile>
+</response>

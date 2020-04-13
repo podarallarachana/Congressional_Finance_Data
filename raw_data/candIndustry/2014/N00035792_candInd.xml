@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="French Hill (R)" cid="N00035792" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035792&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="234589" pacs="0" total="234589"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="212246" pacs="13500" total="225746"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="169146" total="169146"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="64264" pacs="35000" total="99264"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="70850" pacs="15500" total="86350"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="70608" pacs="13000" total="83608"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="54338" pacs="13500" total="67838"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="64822" pacs="3000" total="67822"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="35100" pacs="0" total="35100"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="24300" pacs="10000" total="34300"/>
+  </industries>
+</response>

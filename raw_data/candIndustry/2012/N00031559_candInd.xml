@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jaime Herrera Beutler (R)" cid="N00031559" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031559&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="140888" pacs="0" total="140888"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="60745" pacs="20000" total="80745"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="50153" pacs="18500" total="68653"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="44770" pacs="11000" total="55770"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="53759" total="53759"/>
+    <industry industry_code="A10" industry_name="Forestry &amp; Forest Products" indivs="30854" pacs="18500" total="49354"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="4900" pacs="42500" total="47400"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="31800" pacs="11000" total="42800"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="22535" pacs="16000" total="38535"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="15150" pacs="22500" total="37650"/>
+  </industries>
+</response>

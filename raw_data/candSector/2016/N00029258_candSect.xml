@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Duncan D Hunter (R)" cid="N00029258" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029258&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="250" pacs="31511" total="31761"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="19400" pacs="29500" total="48900"/>
+    <sector sector_name="Construction" sectorid="C" indivs="500" pacs="58000" total="58500"/>
+    <sector sector_name="Defense" sectorid="D" indivs="12250" pacs="190027" total="202277"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="33050" pacs="22000" total="55050"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="4503" pacs="74500" total="79003"/>
+    <sector sector_name="Health" sectorid="H" indivs="1800" pacs="26000" total="27800"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="48500" pacs="21226" total="69726"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="33600" pacs="156250" total="189850"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="31575" pacs="70000" total="101575"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="52500" total="52500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="9250" pacs="28921" total="38171"/>
+    <sector sector_name="Other" sectorid="W" indivs="20000" pacs="15000" total="35000"/>
+  </sectors>
+</response>

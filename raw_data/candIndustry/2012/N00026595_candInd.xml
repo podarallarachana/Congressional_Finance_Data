@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Charles W Boustany Jr (R)" cid="N00026595" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026595&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="186225" pacs="309100" total="495325"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="154200" pacs="141750" total="295950"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="45350" pacs="241700" total="287050"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="61400" pacs="142000" total="203400"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="155784" pacs="4167" total="159951"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="85425" pacs="62720" total="148145"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="40820" pacs="100500" total="141320"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="5000" pacs="127805" total="132805"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="33750" pacs="94500" total="128250"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="102000" total="102000"/>
+  </industries>
+</response>

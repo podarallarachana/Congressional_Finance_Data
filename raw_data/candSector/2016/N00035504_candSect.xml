@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Liz Cheney (R)" cid="N00035504" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00035504&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="28470" pacs="25500" total="53970"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="60773" pacs="12500" total="73273"/>
+    <sector sector_name="Construction" sectorid="C" indivs="48500" pacs="12500" total="61000"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="10000" total="10500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="109566" pacs="55800" total="165366"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="415248" pacs="26500" total="441748"/>
+    <sector sector_name="Health" sectorid="H" indivs="60816" pacs="4500" total="65316"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="84600" pacs="3500" total="88100"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="27100" pacs="15500" total="42600"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="161390" pacs="26000" total="187390"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="77318" pacs="124250" total="201568"/>
+    <sector sector_name="Other" sectorid="W" indivs="352556" pacs="0" total="352556"/>
+  </sectors>
+</response>

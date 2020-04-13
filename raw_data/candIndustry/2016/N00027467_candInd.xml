@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tim Walz (D)" cid="N00027467" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027467&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="144640" pacs="0" total="144640"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="72383" pacs="25750" total="98133"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="250" pacs="58000" total="58250"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="56500" total="56500"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="1100" pacs="51750" total="52850"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="48000" total="48000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="12500" pacs="34650" total="47150"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="7400" pacs="39000" total="46400"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="32379" pacs="8500" total="40879"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="200" pacs="38000" total="38200"/>
+  </industries>
+</response>

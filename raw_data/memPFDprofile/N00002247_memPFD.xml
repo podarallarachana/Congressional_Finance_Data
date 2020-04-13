@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Coble, Howard" data_year="2016" member_id="N00002247" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00002247" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Atmel Corp" tx_date="2013-02-22 00:00:00.000" tx_action="Sold" value_low="13276" value_high="13276"/>
+      <transaction asset_name="Endo Health Solutions" tx_date="2013-11-25 00:00:00.000" tx_action="Sold" value_low="10618" value_high="10618"/>
+      <transaction asset_name="Edwards Lifesciences" tx_date="2013-09-03 00:00:00.000" tx_action="Purchased" value_low="10137" value_high="10137"/>
+      <transaction asset_name="Hillshire Brands Co" tx_date="2013-10-10 00:00:00.000" tx_action="Purchased" value_low="10117" value_high="10117"/>
+      <transaction asset_name="RR Donnelley &amp; Sons" tx_date="2013-02-22 00:00:00.000" tx_action="Purchased" value_low="10056" value_high="10056"/>
+    </transactions>
+    <positions>
+      <position title="Member, Congressional Advisory Council" organization="American Conservative Union"/>
+      <position title="Member, Congressional Advisory Council" organization="American Conservative Union"/>
+      <position title="Member, Congressional Advisory Board" organization="DECA: An Assn of Marketing Students"/>
+      <position title="Member, Congressional Advisory Board" organization="DECA: An Assn of Marketing Students"/>
+      <position title="Member, Congressional Council" organization="Faith &amp; Politics Institute"/>
+    </positions>
+  </member_profile>
+</response>

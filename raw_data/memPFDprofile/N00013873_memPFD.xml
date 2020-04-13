@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="Boozman, John" data_year="2016" member_id="N00013873" net_low="1192076" net_high="4004999" positions_held_count="0" asset_count="76" asset_low="1442076" asset_high="4105000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00013873" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Cotswalds Partners LLC Real Estate" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="iShares MSCI EAFE Index" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="iShares Barclays MBS Bond Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="iShares Tr Russell 2000 Index MFC" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="iShares Tr Gs Corp Bond Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="John Boozman IRA Commercial Real Estate" tx_date="Dec 10 2013" tx_action="Exchanged" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Cotswald lot A &amp; B" tx_date="May 17 2013" tx_action="Exchanged" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Cotswald lot F" tx_date="Apr  4 2013" tx_action="Exchanged" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Cotswald lot E" tx_date="Apr  4 2013" tx_action="Exchanged" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Cotswald lots I &amp; J" tx_date="Apr  4 2013" tx_action="Exchanged" value_low="100001" value_high="250000"/>
+    </transactions>
+    <positions>
+      <position title="Partner" organization="Cotswald Partners"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tony Cardenas (D)" cid="N00033373" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033373&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="37550" pacs="14500" total="52050"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="41500" total="41500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="34500" pacs="5477" total="39977"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="37000" total="37000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="6500" pacs="28500" total="35000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="29840" pacs="0" total="29840"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="28000" pacs="0" total="28000"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="23000" total="23000"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="0" pacs="19500" total="19500"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="14000" pacs="4000" total="18000"/>
+  </industries>
+</response>

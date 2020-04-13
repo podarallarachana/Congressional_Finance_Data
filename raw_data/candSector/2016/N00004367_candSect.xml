@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tammy Baldwin (D)" cid="N00004367" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00004367&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="77545" pacs="48000" total="125545"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="442955" pacs="51000" total="493955"/>
+    <sector sector_name="Construction" sectorid="C" indivs="65228" pacs="15600" total="80828"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5664" pacs="8500" total="14164"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="49647" pacs="70250" total="119897"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="486884" pacs="100500" total="587384"/>
+    <sector sector_name="Health" sectorid="H" indivs="395488" pacs="147761" total="543249"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="869208" pacs="46709" total="915917"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="25598" pacs="37250" total="62848"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="473883" pacs="84000" total="557883"/>
+    <sector sector_name="Labor" sectorid="P" indivs="26047" pacs="424750" total="450797"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1910092" pacs="735435" total="2645527"/>
+    <sector sector_name="Other" sectorid="W" indivs="1882402" pacs="7250" total="1889652"/>
+  </sectors>
+</response>

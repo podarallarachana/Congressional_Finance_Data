@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jeb Hensarling (R)" cid="N00024922" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00024922&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="18700" pacs="19000" total="37700"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="14400" pacs="55000" total="69400"/>
+    <sector sector_name="Construction" sectorid="C" indivs="58250" pacs="22000" total="80250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="500" pacs="30500" total="31000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="43400" pacs="65000" total="108400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="577787" pacs="1052649" total="1630436"/>
+    <sector sector_name="Health" sectorid="H" indivs="45153" pacs="37100" total="82253"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="115799" pacs="58000" total="173799"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="41000" pacs="45000" total="86000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="100750" pacs="100500" total="201250"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="6000" total="6000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="15300" pacs="14109" total="29409"/>
+    <sector sector_name="Other" sectorid="W" indivs="109980" pacs="1000" total="110980"/>
+  </sectors>
+</response>

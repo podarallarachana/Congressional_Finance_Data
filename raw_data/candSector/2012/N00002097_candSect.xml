@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mark Warner (D)" cid="N00002097" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00002097&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="195518" pacs="161084" total="356602"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="804125" pacs="296975" total="1101100"/>
+    <sector sector_name="Construction" sectorid="C" indivs="262551" pacs="114500" total="377051"/>
+    <sector sector_name="Defense" sectorid="D" indivs="158018" pacs="115500" total="273518"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="234045" pacs="155350" total="389395"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="3594501" pacs="639150" total="4233651"/>
+    <sector sector_name="Health" sectorid="H" indivs="505355" pacs="468799" total="974154"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="2253855" pacs="194974" total="2448829"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="166461" pacs="199800" total="366261"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="955128" pacs="302063" total="1257191"/>
+    <sector sector_name="Labor" sectorid="P" indivs="7100" pacs="293300" total="300400"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="321160" pacs="336822" total="657982"/>
+    <sector sector_name="Other" sectorid="W" indivs="1489052" pacs="3500" total="1492552"/>
+  </sectors>
+</response>

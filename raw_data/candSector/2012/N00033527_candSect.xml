@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="David Rouzer (R)" cid="N00033527" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00033527&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="248206" pacs="44750" total="292956"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="7200" pacs="500" total="7700"/>
+    <sector sector_name="Construction" sectorid="C" indivs="19950" pacs="15000" total="34950"/>
+    <sector sector_name="Defense" sectorid="D" indivs="250" pacs="0" total="250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="26900" pacs="17500" total="44400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="68600" pacs="26000" total="94600"/>
+    <sector sector_name="Health" sectorid="H" indivs="45000" pacs="23500" total="68500"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="72634" pacs="16135" total="88769"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="15250" pacs="5000" total="20250"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="71876" pacs="9850" total="81726"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="11700" pacs="208300" total="220000"/>
+    <sector sector_name="Other" sectorid="W" indivs="108955" pacs="3500" total="112455"/>
+  </sectors>
+</response>

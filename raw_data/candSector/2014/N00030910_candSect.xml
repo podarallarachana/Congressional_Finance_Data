@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Mo Brooks (R)" cid="N00030910" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030910&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="5065" pacs="19000" total="24065"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="20250" pacs="13200" total="33450"/>
+    <sector sector_name="Construction" sectorid="C" indivs="14450" pacs="7000" total="21450"/>
+    <sector sector_name="Defense" sectorid="D" indivs="39900" pacs="105600" total="145500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="26500" total="26500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="35600" pacs="26500" total="62100"/>
+    <sector sector_name="Health" sectorid="H" indivs="20250" pacs="31500" total="51750"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="18010" pacs="15000" total="33010"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="3600" pacs="10500" total="14100"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="15470" pacs="17500" total="32970"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="500" pacs="12500" total="13000"/>
+    <sector sector_name="Other" sectorid="W" indivs="34668" pacs="1000" total="35668"/>
+  </sectors>
+</response>

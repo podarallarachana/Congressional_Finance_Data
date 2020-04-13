@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tom O'Halleran (D)" cid="N00037515" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00037515&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="31885" pacs="6000" total="37885"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="19853" pacs="4500" total="24353"/>
+    <sector sector_name="Construction" sectorid="C" indivs="15276" pacs="0" total="15276"/>
+    <sector sector_name="Defense" sectorid="D" indivs="870" pacs="0" total="870"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1150" pacs="10000" total="11150"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="168558" pacs="17000" total="185558"/>
+    <sector sector_name="Health" sectorid="H" indivs="21228" pacs="8000" total="29228"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="99976" pacs="2250" total="102226"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="1052" pacs="0" total="1052"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="75409" pacs="5000" total="80409"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="231000" total="231000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="113429" pacs="229900" total="343329"/>
+    <sector sector_name="Other" sectorid="W" indivs="236645" pacs="0" total="236645"/>
+  </sectors>
+</response>

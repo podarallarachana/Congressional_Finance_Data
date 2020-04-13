@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Jackie Walorski (R)" cid="N00031226" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031226&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="56369" pacs="27000" total="83369"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="17175" pacs="16500" total="33675"/>
+    <sector sector_name="Construction" sectorid="C" indivs="42150" pacs="32750" total="74900"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2500" pacs="6500" total="9000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="14900" pacs="55500" total="70400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="76300" pacs="59500" total="135800"/>
+    <sector sector_name="Health" sectorid="H" indivs="69000" pacs="55000" total="124000"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="24950" pacs="3500" total="28450"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="39000" pacs="16000" total="55000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="167500" pacs="52250" total="219750"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="30050" pacs="254440" total="284490"/>
+    <sector sector_name="Other" sectorid="W" indivs="160006" pacs="0" total="160006"/>
+  </sectors>
+</response>

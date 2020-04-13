@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John A Yarmuth (D)" cid="N00028073" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00028073&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="92470" pacs="0" total="92470"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="72500" total="72500"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="500" pacs="65000" total="65500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="49700" pacs="8250" total="57950"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="50000" total="50000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="18000" pacs="27000" total="45000"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="5750" pacs="31677" total="37427"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="8750" pacs="14500" total="23250"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="4750" pacs="18000" total="22750"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="2500" pacs="20000" total="22500"/>
+  </industries>
+</response>

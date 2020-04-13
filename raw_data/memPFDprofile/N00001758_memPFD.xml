@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="Grassley, Chuck" data_year="2016" member_id="N00001758" net_low="1928073" net_high="5047000" positions_held_count="1" asset_count="58" asset_low="1928073" asset_high="5047000" transaction_count="41" tx_low="83041" tx_high="720000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00001758" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Farm Land/Butler County, IA" holdings_low="700008" holdings_high="1700000" industry="Crop Production &amp; Basic Processing" sector="Agribusiness" subsidiary_of=""/>
+      <asset name="SPTN 500 Index" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Moderate Growth Aged Based 19 &amp; Older Money Market" holdings_low="100002" holdings_high="200000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Lazard Emerging Markets Equity Fund" holdings_low="65002" holdings_high="150000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Black Rock Equity Div I" holdings_low="50001" holdings_high="100000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Neuberger Berman Equity Income Fund" tx_date="Nov 18 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Principal Small-MidCap Dividend Inc Fund" tx_date="Nov 18 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="AQR Managed Futures Strategy Fund" tx_date="May  2 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Columbia Marsico Focused Equities Fund" tx_date="Jul 15 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Brown Advisory Growth Equity Inv Fund" tx_date="Jul 17 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+    </transactions>
+    <positions>
+      <position title="Proprietor" organization="Farm-Butler County Iowa  New Hartford &amp; Cedar Fall"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Tim Walberg (R)" cid="N00026368" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026368&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="35665" pacs="48000" total="83665"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="7450" pacs="52000" total="59450"/>
+    <sector sector_name="Construction" sectorid="C" indivs="25865" pacs="69000" total="94865"/>
+    <sector sector_name="Defense" sectorid="D" indivs="3500" pacs="6000" total="9500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="47925" pacs="99500" total="147425"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="162314" pacs="151200" total="313514"/>
+    <sector sector_name="Health" sectorid="H" indivs="48142" pacs="50600" total="98742"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="53014" pacs="19750" total="72764"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="80900" pacs="77495" total="158395"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="216480" pacs="175050" total="391530"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="2000" total="2000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="54331" pacs="372117" total="426448"/>
+    <sector sector_name="Other" sectorid="W" indivs="151598" pacs="0" total="151598"/>
+  </sectors>
+</response>

@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Latta, Robert E" data_year="2016" member_id="N00012233" net_low="1744044" net_high="4310000" positions_held_count="0" asset_count="32" asset_low="1744044" asset_high="4310000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00012233" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Ohio Public Employees Retirment System" holdings_low="350002" holdings_high="750000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Low Priced Stock Fund" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Puritan Fund" holdings_low="200002" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity Equity Dividend Income Fund formerly Fide" holdings_low="150002" holdings_high="350000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard 500 Index Signal" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Fidelity Low Priced Stock Fund" tx_date="Monthly" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Fidelity Puritan Fund" tx_date="Monthly" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Fidelity Puritan Fund" tx_date="Monthly" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Fidelity Equity Income II Fund" tx_date="Monthly" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="Fidelity Contrafund" tx_date="Monthly" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

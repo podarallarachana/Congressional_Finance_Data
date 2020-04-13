@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Brett Guthrie (R)" cid="N00029675" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029675&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="23500" pacs="74865" total="98365"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="6200" pacs="149000" total="155200"/>
+    <sector sector_name="Construction" sectorid="C" indivs="32949" pacs="53600" total="86549"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="32500" total="32500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5350" pacs="127000" total="132350"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="36850" pacs="152000" total="188850"/>
+    <sector sector_name="Health" sectorid="H" indivs="48607" pacs="436450" total="485057"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="67700" pacs="10000" total="77700"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="10150" pacs="62500" total="72650"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="48650" pacs="142903" total="191553"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="13000" total="13000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="250" pacs="19437" total="19687"/>
+    <sector sector_name="Other" sectorid="W" indivs="62145" pacs="19500" total="81645"/>
+  </sectors>
+</response>

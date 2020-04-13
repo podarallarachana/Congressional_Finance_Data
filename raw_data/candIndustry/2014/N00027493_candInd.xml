@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Michele Bachmann (R)" cid="N00027493" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027493&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="85367" pacs="0" total="85367"/>
+    <industry industry_code="Q10" industry_name="Misc Issues" indivs="12876" pacs="-200" total="12676"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="11900" pacs="0" total="11900"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="9452" pacs="1000" total="10452"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="7800" pacs="0" total="7800"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="7500" total="7500"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="7450" pacs="0" total="7450"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="4251" pacs="0" total="4251"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="3550" pacs="500" total="4050"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="3250" pacs="0" total="3250"/>
+  </industries>
+</response>

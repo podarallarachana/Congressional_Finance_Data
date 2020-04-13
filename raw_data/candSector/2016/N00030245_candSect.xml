@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Bill Cassidy (R)" cid="N00030245" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00030245&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="263025" pacs="111300" total="374325"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="212774" pacs="47750" total="260524"/>
+    <sector sector_name="Construction" sectorid="C" indivs="507825" pacs="50300" total="558125"/>
+    <sector sector_name="Defense" sectorid="D" indivs="4600" pacs="4500" total="9100"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="968420" pacs="208500" total="1176920"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="2064530" pacs="154175" total="2218705"/>
+    <sector sector_name="Health" sectorid="H" indivs="1240190" pacs="638206" total="1878396"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="427473" pacs="30500" total="457973"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="441890" pacs="124250" total="566140"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="997386" pacs="171100" total="1168486"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="10918" total="10918"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="377355" pacs="793299" total="1170654"/>
+    <sector sector_name="Other" sectorid="W" indivs="1300613" pacs="6500" total="1307113"/>
+  </sectors>
+</response>

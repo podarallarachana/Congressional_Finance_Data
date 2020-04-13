@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Chaka Fattah (D)" cid="N00001746" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001746&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="33400" pacs="33000" total="66400"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="43500" total="43500"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="31000" total="31000"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="27500" total="27500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="16500" pacs="10500" total="27000"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="21704" pacs="2000" total="23704"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="9250" pacs="12000" total="21250"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="1250" pacs="15000" total="16250"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="16000" total="16000"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="9750" pacs="5500" total="15250"/>
+  </industries>
+</response>

@@ -1,0 +1,22 @@
+<response>
+  <member_profile name="Franken, Al" data_year="2016" member_id="N00029016" net_low="4300069" net_high="10152999" positions_held_count="2" asset_count="44" asset_low="4400069" asset_high="10203000" transaction_count="72" tx_low="1357072" tx_high="3680000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00029016" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Al Franken Inc" holdings_low="750002" holdings_high="1500000" industry="TV/Movies/Music" sector="Communic/Electronics" subsidiary_of=""/>
+      <asset name="PIMCO Income Fund Institutional Class" holdings_low="400003" holdings_high="850000" industry="" sector="" subsidiary_of=""/>
+      <asset name="DoubleLine Total Return Bond I" holdings_low="400003" holdings_high="850000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Franklin Income Fund Advisor Class" holdings_low="200002" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Lord Abbett Short Duration Income Fund" holdings_low="200003" holdings_high="450000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Franklin Income Fund" tx_date="Jan 14 2013" tx_action="Exchanged" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Franklin Income Fund" tx_date="Jan 14 2013" tx_action="Exchanged" value_low="250001" value_high="500000"/>
+      <transaction asset_name="Invesco Equity &amp; Income Fund" tx_date="Jan 14 2013" tx_action="Exchanged" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Invesco Equity &amp; Income Fund" tx_date="Jan 14 2013" tx_action="Exchanged" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Blackrock Global Allocation Fund" tx_date="Apr 30 2013" tx_action="Exchanged" value_low="100001" value_high="250000"/>
+    </transactions>
+    <positions>
+      <position title="Other (President/Joint Owner/Employee)" organization="Alan Franken Inc"/>
+      <position title="Other (Board Member)" organization="US Holocaust Memorial"/>
+    </positions>
+  </member_profile>
+</response>

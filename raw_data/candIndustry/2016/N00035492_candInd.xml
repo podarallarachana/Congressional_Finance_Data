@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Thom Tillis (R)" cid="N00035492" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035492&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="1300564" pacs="0" total="1300564"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="580259" pacs="22500" total="602759"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="568100" pacs="27000" total="595100"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="395709" pacs="44708" total="440417"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="288698" pacs="95400" total="384098"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="30600" pacs="341175" total="371775"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="131300" pacs="132100" total="263400"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="215144" pacs="13500" total="228644"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="154184" pacs="65450" total="219634"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="149750" pacs="47500" total="197250"/>
+  </industries>
+</response>

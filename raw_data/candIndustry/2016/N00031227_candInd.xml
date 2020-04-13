@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Larry Bucshon (R)" cid="N00031227" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031227&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="35225" pacs="154125" total="189350"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="17600" pacs="96500" total="114100"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="5200" pacs="33499" total="38699"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="20839" pacs="7500" total="28339"/>
+    <industry industry_code="N13" industry_name="Chemical &amp; Related Manufacturing" indivs="18000" pacs="8000" total="26000"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="3000" pacs="22200" total="25200"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="25000" total="25000"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="13600" pacs="8900" total="22500"/>
+    <industry industry_code="B09" industry_name="Telecom Services" indivs="0" pacs="21000" total="21000"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="8900" pacs="11500" total="20400"/>
+  </industries>
+</response>

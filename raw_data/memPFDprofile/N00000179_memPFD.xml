@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="McGovern, James P" data_year="2016" member_id="N00000179" net_low="1134009" net_high="5411000" positions_held_count="0" asset_count="9" asset_low="1134009" asset_high="5411000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00000179" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Basement Rental Unit/Washington, DC" holdings_low="1000001" holdings_high="5000000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="FA Freedom 2025 Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Funds 529 Plan Preservation Portfolio" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Congressional Federal Credit Union Money Market" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="CBS Corp" holdings_low="1001" holdings_high="15000" industry="TV/Movies/Music" sector="Communic/Electronics" subsidiary_of="National Amusements Inc"/>
+    </assets>
+    <transactions>
+      <transaction asset_name="FA Freedom 2025 Fund" tx_date="Bi-weekly" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Board Member" organization="Congressional Hunger Center"/>
+      <position title="Board Member" organization="John Joseph Moakley Foundation"/>
+    </positions>
+  </member_profile>
+</response>

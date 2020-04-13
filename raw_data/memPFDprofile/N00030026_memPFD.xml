@@ -1,0 +1,12 @@
+<response>
+  <member_profile name="Luetkemeyer, Blaine" data_year="2016" member_id="N00030026" net_low="5501006" net_high="26115000" positions_held_count="0" asset_count="1" asset_low="5501006" asset_high="26115000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030026" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="5501006" holdings_high="26115000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Member" organization="2 Brothers Investment LLC"/>
+      <position title="Member" organization="Cedar Ridge Acres LLC"/>
+      <position title="Member" organization="Leftover Land Co"/>
+    </positions>
+  </member_profile>
+</response>

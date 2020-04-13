@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Eric Swalwell (D)" cid="N00033508" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033508&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="92138" pacs="35797" total="127935"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="107050" pacs="10000" total="117050"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="8450" pacs="71500" total="79950"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="43001" pacs="36500" total="79501"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="46925" pacs="29380" total="76305"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="56824" pacs="0" total="56824"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="55000" total="55000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="53500" total="53500"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="24856" pacs="23764" total="48620"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="46000" total="46000"/>
+  </industries>
+</response>

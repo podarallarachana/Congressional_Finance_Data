@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Alfred Lawson Jr (D)" cid="N00030642" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030642&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="53225" pacs="10000" total="63225"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="54500" total="54500"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="2750" pacs="48000" total="50750"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="40500" total="40500"/>
+    <industry industry_code="W04" industry_name="Education" indivs="28750" pacs="0" total="28750"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="26835" pacs="0" total="26835"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="26000" total="26000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="21000" total="21000"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="17979" pacs="0" total="17979"/>
+    <industry industry_code="E11" industry_name="Fisheries &amp; Wildlife" indivs="17650" pacs="0" total="17650"/>
+  </industries>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Bill Huizenga (R)" cid="N00030673" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030673&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="F09" industry_name="Insurance" indivs="4250" pacs="142000" total="146250"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="97200" pacs="11054" total="108254"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="31950" pacs="65000" total="96950"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="28300" pacs="60000" total="88300"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="3750" pacs="83100" total="86850"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="47480" pacs="0" total="47480"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="0" pacs="40911" total="40911"/>
+    <industry industry_code="F06" industry_name="Finance/Credit Companies" indivs="0" pacs="40000" total="40000"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="500" pacs="38200" total="38700"/>
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="21600" pacs="13500" total="35100"/>
+  </industries>
+</response>

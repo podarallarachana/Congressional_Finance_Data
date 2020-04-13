@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Frank A LoBiondo (R)" cid="N00000851" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00000851&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="150500" total="150500"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="126852" total="126852"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="3700" pacs="89000" total="92700"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="67750" total="67750"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="64000" total="64000"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="51500" total="51500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="26700" pacs="16500" total="43200"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="0" pacs="43000" total="43000"/>
+    <industry industry_code="M03" industry_name="Trucking" indivs="10450" pacs="28000" total="38450"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="2850" pacs="35250" total="38100"/>
+  </industries>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Steve Scalise (R)" cid="N00009660" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00009660&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="11000" pacs="26500" total="37500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="8250" pacs="133600" total="141850"/>
+    <sector sector_name="Construction" sectorid="C" indivs="64300" pacs="15500" total="79800"/>
+    <sector sector_name="Defense" sectorid="D" indivs="2500" pacs="3000" total="5500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="66725" pacs="153500" total="220225"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="101100" pacs="57000" total="158100"/>
+    <sector sector_name="Health" sectorid="H" indivs="50550" pacs="131750" total="182300"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="70465" pacs="12500" total="82965"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="67400" pacs="68500" total="135900"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="75311" pacs="68000" total="143311"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="6500" total="6500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="24944" pacs="39455" total="64399"/>
+    <sector sector_name="Other" sectorid="W" indivs="29200" pacs="0" total="29200"/>
+  </sectors>
+</response>

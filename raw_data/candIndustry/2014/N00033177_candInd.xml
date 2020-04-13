@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tim Kaine (D)" cid="N00033177" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033177&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="2077835" pacs="99386" total="2177221"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="1861668" pacs="0" total="1861668"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="789516" pacs="21500" total="811016"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="559394" pacs="5000" total="564394"/>
+    <industry industry_code="W04" industry_name="Education" indivs="526415" pacs="0" total="526415"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="505624" pacs="8900" total="514524"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="380045" pacs="8175" total="388220"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="371887" pacs="3193" total="375080"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="322500" total="322500"/>
+    <industry industry_code="W03" industry_name="Civil Servants/Public Officials" indivs="300716" pacs="0" total="300716"/>
+  </industries>
+</response>

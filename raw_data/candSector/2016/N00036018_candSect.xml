@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Don Beyer (D)" cid="N00036018" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00036018&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="3125" pacs="27500" total="30625"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="62325" pacs="99400" total="161725"/>
+    <sector sector_name="Construction" sectorid="C" indivs="35950" pacs="25500" total="61450"/>
+    <sector sector_name="Defense" sectorid="D" indivs="16450" pacs="116800" total="133250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="11150" pacs="53900" total="65050"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="166225" pacs="149000" total="315225"/>
+    <sector sector_name="Health" sectorid="H" indivs="21151" pacs="87500" total="108651"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="183020" pacs="38200" total="221220"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="68644" pacs="81682" total="150326"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="78578" pacs="78500" total="157078"/>
+    <sector sector_name="Labor" sectorid="P" indivs="300" pacs="72250" total="72550"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="70351" pacs="40418" total="110769"/>
+    <sector sector_name="Other" sectorid="W" indivs="231934" pacs="1500" total="233434"/>
+  </sectors>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jason Chaffetz (R)" cid="N00028958" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00028958&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="N03" industry_name="Retail Sales" indivs="8100" pacs="62500" total="70600"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="5100" pacs="45988" total="51088"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="25600" pacs="20999" total="46599"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="41796" pacs="1000" total="42796"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="13650" pacs="28000" total="41650"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="5250" pacs="34514" total="39764"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="7850" pacs="29000" total="36850"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="23600" pacs="13000" total="36600"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="12850" pacs="17500" total="30350"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="26900" pacs="2000" total="28900"/>
+  </industries>
+</response>

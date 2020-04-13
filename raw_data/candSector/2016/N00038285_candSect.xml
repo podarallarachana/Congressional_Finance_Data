@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Jodey Arrington (R)" cid="N00038285" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00038285&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="134595" pacs="90310" total="224905"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="13350" pacs="15000" total="28350"/>
+    <sector sector_name="Construction" sectorid="C" indivs="30700" pacs="10000" total="40700"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1000" pacs="6000" total="7000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="51650" pacs="41500" total="93150"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="180447" pacs="56000" total="236447"/>
+    <sector sector_name="Health" sectorid="H" indivs="64072" pacs="22500" total="86572"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="71924" pacs="5000" total="76924"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="21650" pacs="26000" total="47650"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="48667" pacs="20500" total="69167"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="3751" pacs="108000" total="111751"/>
+    <sector sector_name="Other" sectorid="W" indivs="173400" pacs="1000" total="174400"/>
+  </sectors>
+</response>

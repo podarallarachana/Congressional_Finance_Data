@@ -1,0 +1,17 @@
+<response>
+  <member_profile name="Graves, Tom" data_year="2016" member_id="N00030788" net_low="331021" net_high="1039999" positions_held_count="0" asset_count="16" asset_low="431021" asset_high="1090000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030788" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="106 Acres Craig Rd" holdings_low="250001" holdings_high="500000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="1280 West Peachtree St" holdings_low="50001" holdings_high="100000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="555-557 Craig Rd" holdings_low="50001" holdings_high="100000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="455 Craig Road" holdings_low="50001" holdings_high="100000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="GA Teacher Retirement System" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Full withdrawal" tx_date="Jun  1 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Member" organization="Tomahawk Ventures"/>
+    </positions>
+  </member_profile>
+</response>

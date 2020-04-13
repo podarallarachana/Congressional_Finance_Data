@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Darren Soto (D)" cid="N00037422" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00037422&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="15965" pacs="34000" total="49965"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="13675" pacs="13000" total="26675"/>
+    <sector sector_name="Construction" sectorid="C" indivs="5933" pacs="4500" total="10433"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5" pacs="0" total="5"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="1000" pacs="7250" total="8250"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="85105" pacs="62000" total="147105"/>
+    <sector sector_name="Health" sectorid="H" indivs="47996" pacs="46000" total="93996"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="157278" pacs="15500" total="172778"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="4000" pacs="11000" total="15000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="30781" pacs="28500" total="59281"/>
+    <sector sector_name="Labor" sectorid="P" indivs="500" pacs="122000" total="122500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="37881" pacs="141235" total="179116"/>
+    <sector sector_name="Other" sectorid="W" indivs="64110" pacs="1500" total="65610"/>
+  </sectors>
+</response>

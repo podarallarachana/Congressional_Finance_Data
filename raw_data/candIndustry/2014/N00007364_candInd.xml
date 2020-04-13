@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Dianne Feinstein (D)" cid="N00007364" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007364&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="436829" pacs="142500" total="579329"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="450058" pacs="0" total="450058"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="262633" pacs="116499" total="379132"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="343057" pacs="26850" total="369907"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="325471" pacs="35000" total="360471"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="315472" pacs="15874" total="331346"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="202800" pacs="91750" total="294550"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="197465" pacs="73400" total="270865"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="201449" pacs="11000" total="212449"/>
+    <industry industry_code="B12" industry_name="Electronics Mfg &amp; Equip" indivs="87250" pacs="109789" total="197039"/>
+  </industries>
+</response>

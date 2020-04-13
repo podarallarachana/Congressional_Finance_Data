@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Daniel Lipinski (D)" cid="N00027239" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027239&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="70500" total="70500"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="480" pacs="58000" total="58480"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="55500" total="55500"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="3850" pacs="51550" total="55400"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="26350" pacs="24600" total="50950"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="18600" pacs="20999" total="39599"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="27700" pacs="9000" total="36700"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="6750" pacs="16500" total="23250"/>
+    <industry industry_code="C05" industry_name="Building Materials &amp; Equipment" indivs="0" pacs="22000" total="22000"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="18500" total="18500"/>
+  </industries>
+</response>

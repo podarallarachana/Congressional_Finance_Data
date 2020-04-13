@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Patrick E Murphy (D)" cid="N00033091" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033091&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="W06" industry_name="Retired" indivs="371830" pacs="0" total="371830"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="233528" pacs="11000" total="244528"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="197448" pacs="5000" total="202448"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="139100" pacs="0" total="139100"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="108100" pacs="0" total="108100"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="89500" pacs="0" total="89500"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="82600" total="82600"/>
+    <industry industry_code="Q02" industry_name="Democratic/Liberal" indivs="67750" pacs="11262" total="79012"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="250" pacs="75500" total="75750"/>
+    <industry industry_code="C03" industry_name="Special Trade Contractors" indivs="62250" pacs="2500" total="64750"/>
+  </industries>
+</response>

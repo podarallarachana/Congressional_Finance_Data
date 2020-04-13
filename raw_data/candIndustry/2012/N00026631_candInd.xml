@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Jeff Fortenberry (R)" cid="N00026631" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00026631&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="42617" pacs="13500" total="56117"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="10451" pacs="27000" total="37451"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="10400" pacs="23500" total="33900"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="6100" pacs="25500" total="31600"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="10850" pacs="18000" total="28850"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="27800" pacs="0" total="27800"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="7750" pacs="15750" total="23500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="17250" pacs="5000" total="22250"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="500" pacs="17000" total="17500"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="7730" pacs="8500" total="16230"/>
+  </industries>
+</response>

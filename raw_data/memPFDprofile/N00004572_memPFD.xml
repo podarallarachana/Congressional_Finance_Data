@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Thune, John" data_year="2016" member_id="N00004572" net_low="164024" net_high="637000" positions_held_count="0" asset_count="23" asset_low="164024" asset_high="637000" transaction_count="12" tx_low="68012" tx_high="320000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00004572" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Janus Balanced T" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="American Funds American Balanced Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Steadfast Income REIT" holdings_low="15001" holdings_high="50000" industry="Real Estate" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+      <asset name="Congressional Federal Credit Union" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Franklin Federal Interm-Term T/F Inc" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Steadfast Income REIT" tx_date="Sep 18 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Scout Mid Cap Fund" tx_date="Oct 18 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="MainStay Marketfield Fund" tx_date="Oct 18 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Hussman Strategic Growth Fund" tx_date="May 15 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Fidelity Tax-Free Money Market Fund" tx_date="Mar  1 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

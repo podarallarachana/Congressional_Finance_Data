@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Daniel Lipinski (D)" cid="N00027239" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00027239&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="0" pacs="7000" total="7000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="2000" pacs="17000" total="19000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="46250" pacs="72000" total="118250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="11000" total="11000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="0" pacs="14500" total="14500"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="9250" pacs="23500" total="32750"/>
+    <sector sector_name="Health" sectorid="H" indivs="0" pacs="12300" total="12300"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="44233" pacs="16500" total="60733"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="10450" pacs="111999" total="122449"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="43000" pacs="31500" total="74500"/>
+    <sector sector_name="Labor" sectorid="P" indivs="800" pacs="167000" total="167800"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="13750" pacs="19500" total="33250"/>
+    <sector sector_name="Other" sectorid="W" indivs="21800" pacs="3500" total="25300"/>
+  </sectors>
+</response>

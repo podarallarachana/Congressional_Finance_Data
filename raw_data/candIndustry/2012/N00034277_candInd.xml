@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Sean Maloney (D)" cid="N00034277" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00034277&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="244616" pacs="14000" total="258616"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="146512" pacs="500" total="147012"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="104683" pacs="5000" total="109683"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="101811" pacs="0" total="101811"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="87297" pacs="0" total="87297"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="66500" total="66500"/>
+    <industry industry_code="Q09" industry_name="Human Rights" indivs="46325" pacs="17244" total="63569"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="750" pacs="56000" total="56750"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="52344" pacs="0" total="52344"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="49100" pacs="1000" total="50100"/>
+  </industries>
+</response>

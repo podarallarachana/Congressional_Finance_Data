@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Donald McEachin (D)" cid="N00039327" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00039327&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="7800" pacs="11500" total="19300"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="11949" pacs="8000" total="19949"/>
+    <sector sector_name="Construction" sectorid="C" indivs="6751" pacs="2500" total="9251"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1000" pacs="11000" total="12000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="13025" pacs="7500" total="20525"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="37410" pacs="23500" total="60910"/>
+    <sector sector_name="Health" sectorid="H" indivs="9549" pacs="7500" total="17049"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="94181" pacs="14000" total="108181"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="4750" pacs="15000" total="19750"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="31145" pacs="21000" total="52145"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="124000" total="124000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="29521" pacs="111073" total="140594"/>
+    <sector sector_name="Other" sectorid="W" indivs="61858" pacs="1000" total="62858"/>
+  </sectors>
+</response>

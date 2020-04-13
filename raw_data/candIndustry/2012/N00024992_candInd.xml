@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tim Murphy (R)" cid="N00024992" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00024992&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="21900" pacs="169500" total="191400"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="27700" pacs="107300" total="135000"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="74933" pacs="29500" total="104433"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="10000" pacs="86200" total="96200"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="48618" pacs="40500" total="89118"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="6500" pacs="75000" total="81500"/>
+    <industry industry_code="C03" industry_name="Special Trade Contractors" indivs="45850" pacs="23000" total="68850"/>
+    <industry industry_code="N13" industry_name="Chemical &amp; Related Manufacturing" indivs="15050" pacs="49500" total="64550"/>
+    <industry industry_code="N14" industry_name="Steel Production" indivs="25050" pacs="38000" total="63050"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="30375" pacs="26000" total="56375"/>
+  </industries>
+</response>

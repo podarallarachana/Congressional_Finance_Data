@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Ron Wyden (D)" cid="N00007724" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007724&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="781249" pacs="172500" total="953749"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="636728" pacs="205676" total="842404"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="285007" pacs="342500" total="627507"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="479796" pacs="103840" total="583636"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="219585" pacs="306100" total="525685"/>
+    <industry industry_code="H02" industry_name="Hospitals/Nursing Homes" indivs="335038" pacs="172500" total="507538"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="114325" pacs="325950" total="440275"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="363797" pacs="10050" total="373847"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="169484" pacs="192450" total="361934"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="47252" pacs="259500" total="306752"/>
+  </industries>
+</response>

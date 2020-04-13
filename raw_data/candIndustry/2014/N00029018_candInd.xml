@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Tom Rooney (R)" cid="N00029018" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029018&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="0" pacs="48500" total="48500"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="12500" pacs="26500" total="39000"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="1750" pacs="30500" total="32250"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="7350" pacs="21000" total="28350"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="1000" pacs="24000" total="25000"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="5000" pacs="19250" total="24250"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="15641" pacs="1500" total="17141"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="2600" pacs="13500" total="16100"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="15230" pacs="0" total="15230"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="11483" pacs="3500" total="14983"/>
+  </industries>
+</response>

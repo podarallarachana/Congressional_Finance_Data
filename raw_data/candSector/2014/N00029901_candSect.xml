@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Mark Begich (D)" cid="N00029901" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00029901&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="50450" pacs="47500" total="97950"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="409648" pacs="261834" total="671482"/>
+    <sector sector_name="Construction" sectorid="C" indivs="89300" pacs="91000" total="180300"/>
+    <sector sector_name="Defense" sectorid="D" indivs="750" pacs="86500" total="87250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="327811" pacs="368600" total="696411"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="743100" pacs="360721" total="1103821"/>
+    <sector sector_name="Health" sectorid="H" indivs="230851" pacs="256150" total="487001"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="1219530" pacs="193343" total="1412873"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="142127" pacs="288750" total="430877"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="529065" pacs="222050" total="751115"/>
+    <sector sector_name="Labor" sectorid="P" indivs="13727" pacs="380000" total="393727"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="619565" pacs="734921" total="1354486"/>
+    <sector sector_name="Other" sectorid="W" indivs="636335" pacs="7500" total="643835"/>
+  </sectors>
+</response>

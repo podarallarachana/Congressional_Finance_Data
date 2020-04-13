@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John McCain (R)" cid="N00006424" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006424&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="1127910" pacs="0" total="1127910"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="542175" pacs="19000" total="561175"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="393195" pacs="37600" total="430795"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="293180" pacs="92501" total="385681"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="227719" pacs="15000" total="242719"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="250" pacs="229200" total="229450"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="145229" pacs="75500" total="220729"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="192875" pacs="12500" total="205375"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="183576" pacs="5733" total="189309"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="73400" pacs="111000" total="184400"/>
+  </industries>
+</response>

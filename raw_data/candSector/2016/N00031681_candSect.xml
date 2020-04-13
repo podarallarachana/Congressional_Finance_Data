@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="David McKinley (R)" cid="N00031681" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031681&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="1500" pacs="7500" total="9000"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="8200" pacs="32500" total="40700"/>
+    <sector sector_name="Construction" sectorid="C" indivs="38700" pacs="47750" total="86450"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1000" pacs="27500" total="28500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="55650" pacs="154500" total="210150"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="23250" pacs="30500" total="53750"/>
+    <sector sector_name="Health" sectorid="H" indivs="18850" pacs="127000" total="145850"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="59000" pacs="8000" total="67000"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="0" pacs="27000" total="27000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="13650" pacs="51000" total="64650"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="235000" total="235000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="15750" pacs="43500" total="59250"/>
+    <sector sector_name="Other" sectorid="W" indivs="21465" pacs="0" total="21465"/>
+  </sectors>
+</response>

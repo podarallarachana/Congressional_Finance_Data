@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Randy Weber (R)" cid="N00033539" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033539&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="132500" total="132500"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="13100" pacs="49500" total="62600"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="50000" pacs="1000" total="51000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="47133" pacs="1500" total="48633"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="40250" total="40250"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="39100" pacs="0" total="39100"/>
+    <industry industry_code="C03" industry_name="Special Trade Contractors" indivs="29450" pacs="9042" total="38492"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="19661" pacs="7000" total="26661"/>
+    <industry industry_code="N13" industry_name="Chemical &amp; Related Manufacturing" indivs="1900" pacs="23500" total="25400"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="5750" pacs="13750" total="19500"/>
+  </industries>
+</response>

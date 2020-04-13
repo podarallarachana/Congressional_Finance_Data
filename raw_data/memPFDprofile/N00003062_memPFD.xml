@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="Sessions, Jeff" data_year="2016" member_id="N00003062" net_low="2188056" net_high="9444998" positions_held_count="1" asset_count="47" asset_low="2938056" asset_high="9795000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00003062" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Timberland/Choctaw County, AL" holdings_low="1000001" holdings_high="5000000" industry="Forestry &amp; Forest Products" sector="Agribusiness" subsidiary_of=""/>
+      <asset name="Wilcox Co, GA" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard PRIMECAP Core" holdings_low="200002" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Prime Money Market Fund" holdings_low="151003" holdings_high="365000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard International Growth Adm" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Vanguard Money Market Reserves Fund" tx_date="Jun  3 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Vanguard Money Market Reserves Fund" tx_date="Jul  5 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="T Rowe Price Prime Reserve Fund" tx_date="Sep 23 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Vanguard Money Market Reserves Fund" tx_date="Oct  3 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="BlackRock MuniAssets Fund Inc" tx_date="Apr  8 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+    </transactions>
+    <positions>
+      <position title="Other (Member of Board of Overseers)" organization="Samford University"/>
+    </positions>
+  </member_profile>
+</response>

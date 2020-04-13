@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Mary L Landrieu (D)" cid="N00005395" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00005395&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1299683" pacs="257259" total="1556942"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="326540" pacs="285100" total="611640"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="510749" pacs="34766" total="545515"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="446021" pacs="46800" total="492821"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="410994" pacs="0" total="410994"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="1350" pacs="404900" total="406250"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="280283" pacs="78000" total="358283"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="185440" pacs="132248" total="317688"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="233740" pacs="82236" total="315976"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="86600" pacs="172744" total="259344"/>
+  </industries>
+</response>

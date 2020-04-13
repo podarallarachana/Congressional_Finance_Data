@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Schrader, Kurt" data_year="2016" member_id="N00030071" net_low="5851268" net_high="16369997" positions_held_count="2" asset_count="197" asset_low="6451268" asset_high="16620000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030071" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="1519052" holdings_high="3710000" industry="" sector="" subsidiary_of=""/>
+      <asset name="OW Large Cap Strategies Fund" holdings_low="1000002" holdings_high="2000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Canby Oregon Residence Farm" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="OW Smart Mid Cap Fund" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Pfizer Inc" holdings_low="200002" holdings_high="500000" industry="Pharmaceuticals/Health Products" sector="Health" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="OW Global Opportunities Fund" tx_date="2013-09-26 00:00:00.000" tx_action="Sold" value_low="90300" value_high="90300"/>
+      <transaction asset_name="OW Large Cap Strategies Fund" tx_date="2013-09-26 00:00:00.000" tx_action="Purchased" value_low="90300" value_high="90300"/>
+      <transaction asset_name="OW Global Opportunities Fund" tx_date="2013-03-19 00:00:00.000" tx_action="Sold" value_low="64100" value_high="64100"/>
+      <transaction asset_name="OW Large Cap Strategies Fund" tx_date="2013-03-19 00:00:00.000" tx_action="Purchased" value_low="64100" value_high="64100"/>
+      <transaction asset_name="OW Global Opportunities Fund" tx_date="2013-02-01 00:00:00.000" tx_action="Sold" value_low="42200" value_high="42200"/>
+    </transactions>
+  </member_profile>
+</response>

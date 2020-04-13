@@ -1,0 +1,17 @@
+<response>
+  <member_profile name="Lewis, John" data_year="2016" member_id="N00002577" net_low="1005" net_high="19000" positions_held_count="0" asset_count="2" asset_low="1005" asset_high="19000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00002577" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Fidelity Investments IRA" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Bank of America" holdings_low="4" holdings_high="4000" industry="Commercial Banks" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Bank of America" tx_date="Mar 13 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Bank of America" tx_date="Mar 13 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Bank of America" tx_date="Mar 13 2013" tx_action="Sold" value_low="1" value_high="1000"/>
+      <transaction asset_name="Bank of America" tx_date="Mar 13 2014" tx_action="Sold" value_low="1" value_high="1000"/>
+    </transactions>
+    <positions>
+      <position title="Board Member" organization="Stennis Center for Public Service"/>
+    </positions>
+  </member_profile>
+</response>

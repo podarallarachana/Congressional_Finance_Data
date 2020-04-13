@@ -1,0 +1,22 @@
+<response>
+  <member_profile name="Matsui, Doris" data_year="2016" member_id="N00027459" net_low="703019" net_high="1746000" positions_held_count="0" asset_count="19" asset_low="703019" asset_high="1746000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00027459" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Deutsche Bank Ins Deposit Program" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Nuveen Ltd Term Muni Bond Fund" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Large-Cap Index" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard European Stock Index" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Vanguard Intermediate Term Tax Exempt Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Vanguard Limited Term Muni Bond Fund" tx_date="Mar 18 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Vanguard Intermediate Term Tax Exempt Fd" tx_date="Mar 18 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Vanguard Limited Term Muni Bond Fund" tx_date="Mar 20 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Vanguard Inflation Protected Securities" tx_date="Mar 18 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Vanguard Large Cap Index Signal Fund" tx_date="Jan 30 2013" tx_action="Sold" value_low="1001" value_high="15000"/>
+    </transactions>
+    <positions>
+      <position title="Board Member (not compensated)" organization="National Symphony Orchestra"/>
+      <position title="Board Member (not compensated)" organization="Smithsonian National Museum of American History"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Matt Gaetz (R)" cid="N00039503" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00039503&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F10" industry_name="Real Estate" indivs="63500" pacs="12318" total="75818"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="54263" pacs="0" total="54263"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="51000" total="51000"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="33750" pacs="16000" total="49750"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="37000" pacs="7500" total="44500"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="20400" pacs="8000" total="28400"/>
+    <industry industry_code="N01" industry_name="Food &amp; Beverage" indivs="24106" pacs="1000" total="25106"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="23050" pacs="2000" total="25050"/>
+    <industry industry_code="N09" industry_name="Marijuana" indivs="21600" pacs="0" total="21600"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="17250" pacs="1000" total="18250"/>
+  </industries>
+</response>

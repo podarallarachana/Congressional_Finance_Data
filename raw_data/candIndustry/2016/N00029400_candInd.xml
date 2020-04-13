@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Michelle Lujan Grisham (D)" cid="N00029400" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029400&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="180227" pacs="17750" total="197977"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="33785" pacs="122400" total="156185"/>
+    <industry industry_code="N07" industry_name="Casinos/Gambling" indivs="99900" pacs="2500" total="102400"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="86935" pacs="0" total="86935"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="74500" total="74500"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="12360" pacs="61500" total="73860"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="41100" pacs="0" total="41100"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="38500" total="38500"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="9450" pacs="25000" total="34450"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="32500" total="32500"/>
+  </industries>
+</response>

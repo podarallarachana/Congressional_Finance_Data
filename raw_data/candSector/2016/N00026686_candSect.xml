@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Al Green (D)" cid="N00026686" cycle="2016" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00026686&amp;cycle=2016" last_updated="11/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="6100" pacs="2000" total="8100"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="5882" pacs="7000" total="12882"/>
+    <sector sector_name="Construction" sectorid="C" indivs="40050" pacs="4200" total="44250"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="17300" pacs="8500" total="25800"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="96607" pacs="28000" total="124607"/>
+    <sector sector_name="Health" sectorid="H" indivs="38450" pacs="2000" total="40450"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="88436" pacs="13100" total="101536"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="6700" pacs="7000" total="13700"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="24000" pacs="6000" total="30000"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="125500" total="125500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="1200" pacs="10500" total="11700"/>
+    <sector sector_name="Other" sectorid="W" indivs="37492" pacs="0" total="37492"/>
+  </sectors>
+</response>

@@ -1,0 +1,21 @@
+<response>
+  <member_profile name="Inhofe, James M" data_year="2016" member_id="N00005582" net_low="4568041" net_high="12846000" positions_held_count="0" asset_count="40" asset_low="4568041" asset_high="12846000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00005582" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="GMKI LLC Real Estate Office Building" holdings_low="1500002" holdings_high="6000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="IM3RD LLC" holdings_low="500001" holdings_high="1000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="The Padre Co" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Stillwater National Bank-Tulsa" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Central Bank of Oklahoma" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Vodafone Group" tx_date="2013-02-22 00:00:00.000" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Cisco Systems" tx_date="2013-03-27 00:00:00.000" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Potash Corp of Saskatchewan" tx_date="2013-07-29 00:00:00.000" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Brookfield Asset Management Fund" tx_date="2013-09-05 00:00:00.000" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="McDonald's Corp" tx_date="2013-12-10 00:00:00.000" tx_action="Purchased" value_low="50001" value_high="100000"/>
+    </transactions>
+    <positions>
+      <position title="Member" organization="The Padre Co"/>
+    </positions>
+  </member_profile>
+</response>

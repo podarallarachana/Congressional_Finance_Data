@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Albio Sires (D)" cid="N00027523" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00027523&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="50100" total="50100"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="46500" total="46500"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="26250" pacs="6500" total="32750"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="22800" pacs="9000" total="31800"/>
+    <industry industry_code="W04" industry_name="Education" indivs="28300" pacs="0" total="28300"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="26000" total="26000"/>
+    <industry industry_code="M04" industry_name="Railroads" indivs="0" pacs="25500" total="25500"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="24500" total="24500"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="18550" pacs="3000" total="21550"/>
+    <industry industry_code="B08" industry_name="Telephone Utilities" indivs="0" pacs="17000" total="17000"/>
+  </industries>
+</response>

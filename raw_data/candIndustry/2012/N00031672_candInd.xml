@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Blake Farenthold (R)" cid="N00031672" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031672&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="42252" pacs="57500" total="99752"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="77435" total="77435"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="35316" pacs="16500" total="51816"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="44083" pacs="7500" total="51583"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="49458" pacs="0" total="49458"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="250" pacs="45133" total="45383"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="40725" pacs="0" total="40725"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="23100" pacs="15000" total="38100"/>
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="7350" pacs="28100" total="35450"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="29375" pacs="1000" total="30375"/>
+  </industries>
+</response>

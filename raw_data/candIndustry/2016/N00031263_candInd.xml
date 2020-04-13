@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Scott W Taylor (R)" cid="N00031263" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00031263&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="W06" industry_name="Retired" indivs="77470" pacs="0" total="77470"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="66700" total="66700"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="51950" pacs="6000" total="57950"/>
+    <industry industry_code="M02" industry_name="Automotive" indivs="12850" pacs="16000" total="28850"/>
+    <industry industry_code="Q01" industry_name="Republican/Conservative" indivs="4220" pacs="20000" total="24220"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="17250" pacs="4000" total="21250"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="11150" pacs="9500" total="20650"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="18350" pacs="0" total="18350"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="6000" pacs="10500" total="16500"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="9500" pacs="7000" total="16500"/>
+  </industries>
+</response>

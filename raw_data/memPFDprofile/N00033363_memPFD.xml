@@ -1,0 +1,11 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033363" net_low="168027" net_high="753000" positions_held_count="0" asset_count="28" asset_low="168027" asset_high="753000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033363" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Bank of America/Checking" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Northern Trust/Checking" holdings_low="16002" holdings_high="65000" industry="" sector="" subsidiary_of=""/>
+      <asset name="MFB Northern Funds Global Tactical Asset Allocatio" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Centennial IRA - CD" holdings_low="15001" holdings_high="50000" industry="" sector="" subsidiary_of=""/>
+      <asset name="MFC Flexshares Trust Quality Dividend Index Fund" holdings_low="3003" holdings_high="45000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+  </member_profile>
+</response>

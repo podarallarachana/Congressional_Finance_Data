@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="John A Barrasso (R)" cid="N00006236" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00006236&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="531643" pacs="333450" total="865093"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="208816" pacs="337900" total="546716"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="455228" total="455228"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="60350" pacs="222089" total="282439"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="206310" pacs="71571" total="277881"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="269773" pacs="6625" total="276398"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="15050" pacs="261000" total="276050"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="131781" pacs="99000" total="230781"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="38750" pacs="173875" total="212625"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="169434" pacs="0" total="169434"/>
+  </industries>
+</response>

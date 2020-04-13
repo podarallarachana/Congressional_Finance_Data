@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Lois J Frankel (D)" cid="N00002893" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00002893&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="20550" pacs="15000" total="35550"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="14650" pacs="20000" total="34650"/>
+    <sector sector_name="Construction" sectorid="C" indivs="10550" pacs="7000" total="17550"/>
+    <sector sector_name="Defense" sectorid="D" indivs="5100" pacs="4000" total="9100"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="5350" pacs="2250" total="7600"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="135400" pacs="23000" total="158400"/>
+    <sector sector_name="Health" sectorid="H" indivs="17300" pacs="21000" total="38300"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="101423" pacs="21000" total="122423"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="3000" pacs="55370" total="58370"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="92500" pacs="31713" total="124213"/>
+    <sector sector_name="Labor" sectorid="P" indivs="2000" pacs="184500" total="186500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="22550" pacs="15500" total="38050"/>
+    <sector sector_name="Other" sectorid="W" indivs="143100" pacs="1500" total="144600"/>
+  </sectors>
+</response>

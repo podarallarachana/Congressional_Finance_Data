@@ -1,0 +1,16 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033101" net_low="" net_high="" positions_held_count="0" asset_count="0" asset_low="0" asset_high="0" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033101" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <transactions>
+      <transaction asset_name="Europacific Growth Fund" tx_date="May  8 2013" tx_action="Exchanged" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Wells Fargo Intrinsic Value Fund" tx_date="Jun  5 2013" tx_action="Exchanged" value_low="100001" value_high="250000"/>
+      <transaction asset_name="SPDR S&amp;P 500 ETF" tx_date="Oct  8 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+      <transaction asset_name="SPDR S&amp;P 500 ETF" tx_date="Nov  7 2013" tx_action="Sold" value_low="100001" value_high="250000"/>
+      <transaction asset_name="Vanguard Index Fds Vanguard Total Stk Mk" tx_date="Nov  7 2013" tx_action="Purchased" value_low="100001" value_high="250000"/>
+    </transactions>
+    <positions>
+      <position title="VP, Director" organization="Brandon Dann Rotstein Memorial Foundation"/>
+      <position title="Managing Member" organization="Lead-Out Third Solutions Investment Partnership"/>
+      <position title="Board of Directors" organization="Susan G Komen for the Cure Foundation"/>
+    </positions>
+  </member_profile>
+</response>

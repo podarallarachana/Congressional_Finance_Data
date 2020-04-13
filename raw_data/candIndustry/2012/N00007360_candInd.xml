@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Nancy Pelosi (D)" cid="N00007360" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00007360&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="17500" pacs="183500" total="201000"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="122850" pacs="33000" total="155850"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="93167" pacs="20500" total="113667"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="74550" pacs="35000" total="109550"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="95225" pacs="0" total="95225"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="88000" total="88000"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="60050" pacs="10500" total="70550"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="60600" pacs="0" total="60600"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="56000" total="56000"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="55500" total="55500"/>
+  </industries>
+</response>

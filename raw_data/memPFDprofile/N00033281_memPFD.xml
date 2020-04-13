@@ -1,0 +1,19 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00033281" net_low="-897993" net_high="-216001" positions_held_count="0" asset_count="7" asset_low="102007" asset_high="284000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00033281" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="MassMutual Financial Group" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="USAA Nasdaq 100 Index" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="iShares Dow Jones US ETF" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="USAA Money Market" holdings_low="1" holdings_high="1000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Gold &amp; Precious Metals Fund" holdings_low="1" holdings_high="1000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="3331 Valley Dr/Alexandria, VA" tx_date="" tx_action="Sold" value_low="100001" value_high="250000"/>
+    </transactions>
+    <positions>
+      <position title="VP" organization="Healthy Hawaii Coalition"/>
+      <position title="VP" organization="Healthy Hawaii Coalition"/>
+      <position title="VP" organization="Healthy Hawaii Coalition"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Larson, John B" data_year="2016" member_id="N00000575" net_low="-62954" net_high="513999" positions_held_count="0" asset_count="46" asset_low="37046" asset_high="564000" transaction_count="24" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00000575" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Adobe Systems" holdings_low="1001" holdings_high="15000" industry="Electronics Mfg &amp; Equip" sector="Communic/Electronics" subsidiary_of=""/>
+      <asset name="Bank of America - IRA Fixed Term" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Bank of America/Checking" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="General Electric" holdings_low="1001" holdings_high="15000" industry="Misc Manufacturing &amp; Distributing" sector="Misc Business" subsidiary_of=""/>
+      <asset name="JPMorgan Chase &amp; Co" holdings_low="1001" holdings_high="15000" industry="Commercial Banks" sector="Finance/Insur/RealEst" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="M&amp;T Bank" tx_date="Oct  4 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="M&amp;T Bank" tx_date="Jan 28 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="LVMH Moet Hennessy" tx_date="May  3 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="HSBC Holdings" tx_date="Oct 17 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+      <transaction asset_name="HCP Inc" tx_date="Aug 16 2013" tx_action="Purchased" value_low="1" value_high="1000"/>
+    </transactions>
+  </member_profile>
+</response>

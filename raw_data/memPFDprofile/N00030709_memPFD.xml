@@ -1,0 +1,15 @@
+<response>
+  <member_profile name="" data_year="2016" member_id="N00030709" net_low="103004" net_high="295000" positions_held_count="0" asset_count="4" asset_low="103004" asset_high="295000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00030709" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Contra Costa County Employee Retirement Assn" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Contra Costa County Deferred Compensation Plan" holdings_low="1001" holdings_high="15000" industry="Unknown" sector="Unknown" subsidiary_of=""/>
+      <asset name="Contra Costa Federal Credit Union" holdings_low="1001" holdings_high="15000" industry="" sector="" subsidiary_of=""/>
+      <asset name="USB" holdings_low="1001" holdings_high="15000" industry="Electronics Mfg &amp; Equip" sector="Communic/Electronics" subsidiary_of=""/>
+    </assets>
+    <positions>
+      <position title="Proprietor" organization="DBL Corp"/>
+      <position title="President" organization="Hat in the Ring Inc"/>
+      <position title="Trustee" organization="Norman Hobday Trust"/>
+    </positions>
+  </member_profile>
+</response>

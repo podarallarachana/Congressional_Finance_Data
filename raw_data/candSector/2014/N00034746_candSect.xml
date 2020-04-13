@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Ron DeSantis (R)" cid="N00034746" cycle="2014" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00034746&amp;cycle=2014" last_updated="02/27/2017">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="5600" pacs="23625" total="29225"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="6000" pacs="82000" total="88000"/>
+    <sector sector_name="Construction" sectorid="C" indivs="32650" pacs="16000" total="48650"/>
+    <sector sector_name="Defense" sectorid="D" indivs="9050" pacs="33600" total="42650"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="9500" pacs="34900" total="44400"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="134650" pacs="96640" total="231290"/>
+    <sector sector_name="Health" sectorid="H" indivs="50250" pacs="20000" total="70250"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="52772" pacs="8250" total="61022"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="8700" pacs="25000" total="33700"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="75673" pacs="60150" total="135823"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="1000" total="1000"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="18050" pacs="52675" total="70725"/>
+    <sector sector_name="Other" sectorid="W" indivs="97575" pacs="2000" total="99575"/>
+  </sectors>
+</response>

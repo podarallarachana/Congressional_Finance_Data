@@ -1,0 +1,16 @@
+<response>
+  <member_profile name="Goodlatte, Bob" data_year="2016" member_id="N00009154" net_low="2122046" net_high="4905000" positions_held_count="0" asset_count="16" asset_low="2122046" asset_high="4905000" transaction_count="2" tx_low="1" tx_high="1000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00009154" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="" holdings_low="1580030" holdings_high="3625000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Seligman Communications 401K" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Davis New York Venture Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Janus Fund" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Black Rock Global IRA" holdings_low="50001" holdings_high="100000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Black Rock Large Cap Value Investment" tx_date="Jan 31 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+      <transaction asset_name="RGC Resources" tx_date="monthly" tx_action="Purchased" value_low="1001" value_high="15000"/>
+      <transaction asset_name="Harrisonburg, VA Indl Dev Auth Hosp Revenue Amb" tx_date="Sep 23 2013" tx_action="Purchased" value_low="1001" value_high="15000"/>
+    </transactions>
+  </member_profile>
+</response>

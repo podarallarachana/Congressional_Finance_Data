@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Saxby Chambliss (R)" cid="N00002685" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00002685&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="A01" industry_name="Crop Production &amp; Basic Processing" indivs="63650" pacs="61341" total="124991"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="114875" pacs="0" total="114875"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="39250" pacs="57000" total="96250"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="60700" pacs="29500" total="90200"/>
+    <industry industry_code="A07" industry_name="Agricultural Services/Products" indivs="28050" pacs="47770" total="75820"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="44810" pacs="28500" total="73310"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="66043" pacs="2500" total="68543"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="43970" pacs="10000" total="53970"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="43003" pacs="5000" total="48003"/>
+    <industry industry_code="H03" industry_name="Health Services/HMOs" indivs="26500" pacs="19500" total="46000"/>
+  </industries>
+</response>

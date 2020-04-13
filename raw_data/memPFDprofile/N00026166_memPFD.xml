@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Foxx, Virginia" data_year="2016" member_id="N00026166" net_low="2206044" net_high="5066000" positions_held_count="0" asset_count="41" asset_low="2206044" asset_high="5066000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00026166" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Schwab One Checking Account" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Athene Deferred Comp Annuity" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="DISCOVER BANK - CD" holdings_low="150003" holdings_high="300000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Branch Banking &amp; Trust" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+      <asset name="NOTE RECEIVABLE - VAUGHN FAMILY" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Altria Group" tx_date="Nov 21 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Canoe EIT Income Fund Units" tx_date="Mar 14 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Mortgage Note Receivable - Kenzie" tx_date="Oct  1 2013" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="CYS Investments Inc" tx_date="Apr  2 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Land/920 Keen Rd Frostproof/Polk, FL" tx_date="Mar 15 2013" tx_action="Purchased" value_low="15001" value_high="50000"/>
+    </transactions>
+  </member_profile>
+</response>

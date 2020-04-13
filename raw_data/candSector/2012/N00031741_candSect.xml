@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Todd Rokita (R)" cid="N00031741" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031741&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="16250" pacs="29000" total="45250"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="16500" pacs="25000" total="41500"/>
+    <sector sector_name="Construction" sectorid="C" indivs="63662" pacs="34000" total="97662"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="11000" total="11000"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="18250" pacs="35500" total="53750"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="108579" pacs="76000" total="184579"/>
+    <sector sector_name="Health" sectorid="H" indivs="64614" pacs="84000" total="148614"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="92824" pacs="11500" total="104324"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="45300" pacs="55500" total="100800"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="78150" pacs="82884" total="161034"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="24800" pacs="44272" total="69072"/>
+    <sector sector_name="Other" sectorid="W" indivs="48544" pacs="2500" total="51044"/>
+  </sectors>
+</response>

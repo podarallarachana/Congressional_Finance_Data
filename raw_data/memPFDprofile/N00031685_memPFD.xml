@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Blumenthal, Richard" data_year="2016" member_id="N00031685" net_low="70952229" net_high="103377044" positions_held_count="0" asset_count="185" asset_low="70952229" asset_high="103377044" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031685" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Kraft Heinz Co" holdings_low="2100003" holdings_high="6250001" industry="Food Processing &amp; Sales" sector="Agribusiness" subsidiary_of=""/>
+      <asset name="Malkin Capital Fund LP" holdings_low="5250006" holdings_high="5500005" industry="" sector="" subsidiary_of=""/>
+      <asset name="Blue Ridge LP" holdings_low="4500005" holdings_high="5000004" industry="" sector="" subsidiary_of=""/>
+      <asset name="Empire State Realty OP LP" holdings_low="4000004" holdings_high="4000004" industry="" sector="" subsidiary_of=""/>
+      <asset name="Consonance Capital Investors" holdings_low="3250004" holdings_high="3500003" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Consonance Private Equity" tx_date="Jul 31 2013" tx_action="Purchased" value_low="1000001" value_high="1000001"/>
+      <transaction asset_name="Claire 1998 Trust/ RCB Investment Partners" tx_date="Jun 25 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="ESO Special Opportunities Fund II FCP SIF" tx_date="Oct  4 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="Revolution Ventures II LP" tx_date="Oct 25 2013" tx_action="Purchased" value_low="500001" value_high="1000000"/>
+      <transaction asset_name="RCB Investment Partners LLC" tx_date="Aug  1 2013" tx_action="Exchanged" value_low="250001" value_high="500000"/>
+    </transactions>
+  </member_profile>
+</response>

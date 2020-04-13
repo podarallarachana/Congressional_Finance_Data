@@ -1,0 +1,25 @@
+<response>
+  <member_profile name="Flores, Bill" data_year="2016" member_id="N00031545" net_low="5962671" net_high="16231655" positions_held_count="3" asset_count="5" asset_low="7827671" asset_high="17141659" transaction_count="12" tx_low="1130007" tx_high="2350000" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00031545" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Fidelity Joint Account" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Fidelity IRA" holdings_low="1000001" holdings_high="5000000" industry="" sector="" subsidiary_of=""/>
+      <asset name="" holdings_low="4541893" holdings_high="4541893" industry="" sector="" subsidiary_of=""/>
+      <asset name="" holdings_low="1117010" holdings_high="2431000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Doubleline Total Return Bond Fund" holdings_low="168766" holdings_high="168766" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Fidelity IRA" tx_date="Dec 31 2013" tx_action="Sold" value_low="25000001" value_high="50000000"/>
+      <transaction asset_name="Fidelity Joint Account" tx_date="Dec 31 2013" tx_action="Sold" value_low="1000001" value_high="5000000"/>
+      <transaction asset_name="Thrift Savings Plan" tx_date="Dec 31 2013" tx_action="Purchased" value_low="50001" value_high="100000"/>
+      <transaction asset_name="Sanders Opportunity Fund" tx_date="Feb  5 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+      <transaction asset_name="Thrift Savings Plan" tx_date="Dec 31 2013" tx_action="Sold" value_low="15001" value_high="50000"/>
+    </transactions>
+    <positions>
+      <position title="Trustee" organization="Houston Baptist University"/>
+      <position title="Trustee" organization="Houston Baptist University"/>
+      <position title="Officer" organization="JW Flores Family I LP"/>
+      <position title="Officer" organization="JW Flores Family I LP"/>
+      <position title="Director" organization="Private Enterprise Research Center"/>
+    </positions>
+  </member_profile>
+</response>

@@ -1,0 +1,17 @@
+<response>
+  <sectors cand_name="Jeff Denham (R)" cid="N00031593" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031593&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="479295" pacs="173558" total="652853"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="8012" pacs="45500" total="53512"/>
+    <sector sector_name="Construction" sectorid="C" indivs="70686" pacs="39075" total="109761"/>
+    <sector sector_name="Defense" sectorid="D" indivs="1250" pacs="6000" total="7250"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="27150" pacs="87333" total="114483"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="143588" pacs="145800" total="289388"/>
+    <sector sector_name="Health" sectorid="H" indivs="46600" pacs="95211" total="141811"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="85283" pacs="27783" total="113066"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="52942" pacs="119999" total="172941"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="224959" pacs="115750" total="340709"/>
+    <sector sector_name="Labor" sectorid="P" indivs="0" pacs="5500" total="5500"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="34000" pacs="313810" total="347810"/>
+    <sector sector_name="Other" sectorid="W" indivs="51124" pacs="3500" total="54624"/>
+  </sectors>
+</response>

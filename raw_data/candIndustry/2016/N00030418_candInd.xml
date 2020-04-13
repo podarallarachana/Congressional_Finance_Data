@@ -1,0 +1,16 @@
+<response>
+  <industries cand_name="Gregorio Sablan (I)" cid="N00030418" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00030418&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="4400" pacs="0" total="4400"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="3200" pacs="0" total="3200"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="2500" pacs="0" total="2500"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="2400" pacs="0" total="2400"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="2000" total="2000"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="1700" pacs="0" total="1700"/>
+    <industry industry_code="N12" industry_name="Misc Business" indivs="900" pacs="0" total="900"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="600" pacs="0" total="600"/>
+    <industry industry_code="M05" industry_name="Sea Transport" indivs="0" pacs="500" total="500"/>
+    <industry industry_code="W04" industry_name="Education" indivs="400" pacs="0" total="400"/>
+    <industry industry_code="F11" industry_name="Accountants" indivs="400" pacs="0" total="400"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="400" pacs="0" total="400"/>
+  </industries>
+</response>

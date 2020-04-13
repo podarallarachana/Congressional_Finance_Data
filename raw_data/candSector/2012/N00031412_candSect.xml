@@ -1,0 +1,16 @@
+<response>
+  <sectors cand_name="Mick Mulvaney (R)" cid="N00031412" cycle="2012" origin="Center for Responsive Politics" source="http://www.opensecrets.org/member-of-congress/industries?cid=N00031412&amp;cycle=2012" last_updated="03/25/2013">
+    <sector sector_name="Agribusiness" sectorid="A" indivs="8500" pacs="21000" total="29500"/>
+    <sector sector_name="Communic/Electronics" sectorid="B" indivs="5500" pacs="15400" total="20900"/>
+    <sector sector_name="Construction" sectorid="C" indivs="31275" pacs="31000" total="62275"/>
+    <sector sector_name="Defense" sectorid="D" indivs="0" pacs="6500" total="6500"/>
+    <sector sector_name="Energy/Nat Resource" sectorid="E" indivs="3550" pacs="41000" total="44550"/>
+    <sector sector_name="Finance/Insur/RealEst" sectorid="F" indivs="60582" pacs="65260" total="125842"/>
+    <sector sector_name="Health" sectorid="H" indivs="30600" pacs="42500" total="73100"/>
+    <sector sector_name="Lawyers &amp; Lobbyists" sectorid="K" indivs="19000" pacs="5500" total="24500"/>
+    <sector sector_name="Transportation" sectorid="M" indivs="3500" pacs="34500" total="38000"/>
+    <sector sector_name="Misc Business" sectorid="N" indivs="32775" pacs="82499" total="115274"/>
+    <sector sector_name="Ideology/Single-Issue" sectorid="Q" indivs="5500" pacs="51440" total="56940"/>
+    <sector sector_name="Other" sectorid="W" indivs="53190" pacs="0" total="53190"/>
+  </sectors>
+</response>

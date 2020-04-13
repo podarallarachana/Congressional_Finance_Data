@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Barbara A Mikulski (D)" cid="N00001945" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00001945&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="2250" pacs="103811" total="106061"/>
+    <industry industry_code="D02" industry_name="Defense Electronics" indivs="61600" pacs="36500" total="98100"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="-850" pacs="79250" total="78400"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="71086" pacs="6626" total="77712"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="12850" pacs="41500" total="54350"/>
+    <industry industry_code="D01" industry_name="Defense Aerospace" indivs="18950" pacs="34500" total="53450"/>
+    <industry industry_code="D03" industry_name="Misc Defense" indivs="8700" pacs="35000" total="43700"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="13500" pacs="23500" total="37000"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="0" pacs="30000" total="30000"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="27500" total="27500"/>
+  </industries>
+</response>

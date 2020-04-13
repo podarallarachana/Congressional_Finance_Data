@@ -1,0 +1,18 @@
+<response>
+  <member_profile name="Simpson, Mike" data_year="2016" member_id="N00006263" net_low="606039" net_high="2726997" positions_held_count="0" asset_count="36" asset_low="1256039" asset_high="3042000" transaction_count="0" tx_low="0" tx_high="0" source="https://www.opensecrets.org/personal-finances/net-worth?cid=N00006263" origin="Center for Responsive Politics" update_timestamp="10/31/18">
+    <assets>
+      <asset name="Farm Ground" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Da Davidson Co" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Euro Pacific Capital IRa Bond account" holdings_low="250001" holdings_high="500000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Westmark Credit Union IRA" holdings_low="100002" holdings_high="251000" industry="" sector="" subsidiary_of=""/>
+      <asset name="Real Estate Contract" holdings_low="100001" holdings_high="250000" industry="" sector="" subsidiary_of=""/>
+    </assets>
+    <transactions>
+      <transaction asset_name="Simpson Properties" tx_date="2013-10-01 00:00:00.000" tx_action="Sold" value_low="213500" value_high="213500"/>
+      <transaction asset_name="Simpson Properties" tx_date="2013-10-01 00:00:00.000" tx_action="Sold" value_low="50001" value_high="100000"/>
+      <transaction asset_name="International Fin Corp" tx_date="2013-09-16 00:00:00.000" tx_action="Sold" value_low="32797" value_high="32797"/>
+      <transaction asset_name="Callon Pete Co" tx_date="2013-05-30 00:00:00.000" tx_action="Purchased" value_low="22427" value_high="22427"/>
+      <transaction asset_name="Prime Fund Daily Money Market" tx_date="2013-05-30 00:00:00.000" tx_action="Sold" value_low="22427" value_high="22427"/>
+    </transactions>
+  </member_profile>
+</response>

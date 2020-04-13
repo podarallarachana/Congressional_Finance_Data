@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Heidi Heitkamp (D)" cid="N00033782" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00033782&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="598185" pacs="100661" total="698846"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="358918" total="358918"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="148999" pacs="137000" total="285999"/>
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="83679" pacs="177200" total="260879"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="30171" pacs="195688" total="225859"/>
+    <industry industry_code="K02" industry_name="Lobbyists" indivs="214761" pacs="5000" total="219761"/>
+    <industry industry_code="Q08" industry_name="Women's Issues" indivs="165994" pacs="8500" total="174494"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="155381" pacs="0" total="155381"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="24800" pacs="110000" total="134800"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="28150" pacs="94000" total="122150"/>
+  </industries>
+</response>

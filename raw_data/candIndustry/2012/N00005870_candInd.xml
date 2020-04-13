@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Gene Green (D)" cid="N00005870" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00005870&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="E01" industry_name="Oil &amp; Gas" indivs="1500" pacs="95200" total="96700"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="6200" pacs="89500" total="95700"/>
+    <industry industry_code="N13" industry_name="Chemical &amp; Related Manufacturing" indivs="3100" pacs="58000" total="61100"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="61000" total="61000"/>
+    <industry industry_code="E08" industry_name="Electric Utilities" indivs="6000" pacs="54800" total="60800"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="22000" pacs="34000" total="56000"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="10700" pacs="44000" total="54700"/>
+    <industry industry_code="P02" industry_name="Industrial Unions" indivs="0" pacs="51000" total="51000"/>
+    <industry industry_code="P03" industry_name="Transportation Unions" indivs="1400" pacs="38500" total="39900"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="4750" pacs="25500" total="30250"/>
+  </industries>
+</response>

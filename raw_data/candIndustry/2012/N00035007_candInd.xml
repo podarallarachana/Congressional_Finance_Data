@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="David P Joyce (R)" cid="N00035007" cycle="2012" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035007&amp;cycle=2012" last_updated="03/25/2013">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="76000" total="76000"/>
+    <industry industry_code="N15" industry_name="Misc Manufacturing &amp; Distributing" indivs="57850" pacs="5000" total="62850"/>
+    <industry industry_code="E04" industry_name="Mining" indivs="29314" pacs="9000" total="38314"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="37350" pacs="0" total="37350"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="31200" pacs="6100" total="37300"/>
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="28900" pacs="5500" total="34400"/>
+    <industry industry_code="P01" industry_name="Building Trade Unions" indivs="0" pacs="33000" total="33000"/>
+    <industry industry_code="C03" industry_name="Special Trade Contractors" indivs="25450" pacs="5000" total="30450"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="16250" pacs="3500" total="19750"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="8750" pacs="9500" total="18250"/>
+  </industries>
+</response>

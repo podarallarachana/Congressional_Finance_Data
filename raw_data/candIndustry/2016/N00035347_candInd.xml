@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Barry Loudermilk (R)" cid="N00035347" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035347&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="0" pacs="75600" total="75600"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="14700" pacs="31500" total="46200"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="2275" pacs="42500" total="44775"/>
+    <industry industry_code="F03" industry_name="Commercial Banks" indivs="10200" pacs="29500" total="39700"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="25450" pacs="11000" total="36450"/>
+    <industry industry_code="M01" industry_name="Air Transport" indivs="8795" pacs="18000" total="26795"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="24975" pacs="0" total="24975"/>
+    <industry industry_code="N02" industry_name="Beer, Wine &amp; Liquor" indivs="12800" pacs="12000" total="24800"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="250" pacs="22500" total="22750"/>
+    <industry industry_code="C04" industry_name="Construction Services" indivs="7550" pacs="12500" total="20050"/>
+  </industries>
+</response>

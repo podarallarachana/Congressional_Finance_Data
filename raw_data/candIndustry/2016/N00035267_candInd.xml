@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Cory Booker (D)" cid="N00035267" cycle="2016" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00035267&amp;cycle=2016" last_updated="11/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="2327325" pacs="186000" total="2513325"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="2281577" pacs="61200" total="2342777"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="1183160" pacs="29000" total="1212160"/>
+    <industry industry_code="B02" industry_name="TV/Movies/Music" indivs="725870" pacs="32000" total="757870"/>
+    <industry industry_code="F13" industry_name="Misc Finance" indivs="513925" pacs="15000" total="528925"/>
+    <industry industry_code="N05" industry_name="Business Services" indivs="478871" pacs="10500" total="489371"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="397599" pacs="36527" total="434126"/>
+    <industry industry_code="H04" industry_name="Pharmaceuticals/Health Products" indivs="174941" pacs="218500" total="393441"/>
+    <industry industry_code="F09" industry_name="Insurance" indivs="254550" pacs="124000" total="378550"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="376988" pacs="0" total="376988"/>
+  </industries>
+</response>

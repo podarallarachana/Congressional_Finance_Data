@@ -1,0 +1,14 @@
+<response>
+  <industries cand_name="Joe Garcia (D)" cid="N00029908" cycle="2014" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/industries?cid=N00029908&amp;cycle=2014" last_updated="02/27/2017">
+    <industry industry_code="K01" industry_name="Lawyers/Law Firms" indivs="381460" pacs="43345" total="424805"/>
+    <industry industry_code="Q03" industry_name="Leadership PACs" indivs="15600" pacs="195792" total="211392"/>
+    <industry industry_code="W06" industry_name="Retired" indivs="193649" pacs="0" total="193649"/>
+    <industry industry_code="F10" industry_name="Real Estate" indivs="172063" pacs="12000" total="184063"/>
+    <industry industry_code="F07" industry_name="Securities &amp; Investment" indivs="117000" pacs="7000" total="124000"/>
+    <industry industry_code="Q16" industry_name="Candidate Committees" indivs="0" pacs="95000" total="95000"/>
+    <industry industry_code="Q05" industry_name="Pro-Israel" indivs="70638" pacs="9665" total="80303"/>
+    <industry industry_code="H01" industry_name="Health Professionals" indivs="60875" pacs="11500" total="72375"/>
+    <industry industry_code="P04" industry_name="Public Sector Unions" indivs="0" pacs="71000" total="71000"/>
+    <industry industry_code="C01" industry_name="General Contractors" indivs="68544" pacs="0" total="68544"/>
+  </industries>
+</response>
