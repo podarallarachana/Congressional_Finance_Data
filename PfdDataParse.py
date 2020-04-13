@@ -121,7 +121,7 @@ for file in fileLocs:
                 for transaction in transactions.iter('transaction'):
                     assetName = transaction.get('asset_name')
                     txDate = transaction.get('tx_date')
-                    txAction = transaction.get('tx_actions')
+                    txAction = transaction.get('tx_action')
                     valueLow = transaction.get('value_low')
                     valueHigh = transaction.get('value_high')
                     transactionRow = [bioguideId, crpId, name, dataYear, assetName, txDate, txAction, valueLow, valueHigh]
@@ -130,7 +130,7 @@ for file in fileLocs:
                 transaction = transactions.find('transaction')
                 assetName = transaction.get('asset_name')
                 txDate = transaction.get('tx_date')
-                txAction = transaction.get('tx_actions')
+                txAction = transaction.get('tx_action')
                 valueLow = transaction.get('value_low')
                 valueHigh = transaction.get('value_high')
                 transactionRow = [bioguideId, crpId, name, dataYear, assetName, txDate, txAction, valueLow, valueHigh]
